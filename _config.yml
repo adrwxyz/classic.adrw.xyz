@@ -7,22 +7,23 @@ gems:
 # Site settings
 title: "Andrew Paradi"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   Growth Focused Front End Developer
 
 email: me@andrewparadi.com
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/ap_logov3.4.png"
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/launchpad-c.jpg"
 
 name: 'Andrew Paradi'
 author: 'Andrew Paradi'
-author_image: "/assets/images/author.jpg"
+author_image: "/assets/images/andrew2015.jpg"
 
 paginate:	10
 
 url: "https://andrewparadi.github.io" # the base hostname & protocol for your site
 baseurl: ""
+permalink: /:categories/:title/
 #used to display twitter cards
 twitter_handle: '@andrew_paradi'
 
@@ -31,26 +32,20 @@ twitter_handle: '@andrew_paradi'
 
 # social icons and sharing options
 social:
-  - icon:	twitter
-    url:	https://twitter.com/andrew_paradi
-    desc: Follow me on twitter
-    share_url: http://twitter.com/share
-    share_title: ?text=
-    share_link: "&amp;url="
 
-#  - icon:	facebook
-#    url:	https://facebook.com/???
-#    desc: Connect with me facebook
-#    share_url: https://www.facebook.com/sharer.php
-#    share_title: ?t=
-#    share_link: "&amp;u="
+  - icon:	inbox
+    url:	mailto:me@andrewparadi.com
+    desc:	Email me@andrewparadi.com
+    share_url:
+    share_title:
+    share_link:
 
-#   - icon:	github
-#     url:	https://github.com/andrewparadi
-#     desc:	Fork me on github
-#     share_url:
-#     share_title:
-#     share_link:
+  - icon:	linkedin
+    url:	https://www.linkedin.com/in/andrewparadi
+    desc:	Connect with me on LinkedIn
+    share_url:
+    share_title:
+    share_link:
     
   - icon:	github
     url:	https://github.com/andrewparadi
@@ -58,6 +53,53 @@ social:
     share_url:
     share_title:
     share_link:
+    
+#     resume
+  - icon:	graduation-cap
+    url:	/assets/files/AndrewParadiResume.pdf
+    desc:	Resume as of Dec 2015
+    share_url: 
+    share_title:
+    share_link:
+
+  - icon:	twitter
+    url:	https://twitter.com/andrew_paradi
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+    
+  - icon:	instagram
+    url:	https://instagram.com/andrewnotes
+    desc:	Follow on instagram
+    share_url: 
+    share_title:
+    share_link:
+    
+  - icon:	youtube
+    url:	https://youtube.com/c/andrewparadi
+    desc:	Watch my videos on Youtube
+    share_url: 
+    share_title:
+    share_link:
+    
+    #     PGP Key
+  - icon:	lock
+    url:	/assets/files/AndrewParadiPGP.zip
+    desc:	PGP Fingerprint and Public Key
+    share_url: 
+    share_title:
+    share_link:
+    
+
+#  - icon:	facebook
+#    url:	https://facebook.com/???
+#    desc: Connect with me facebook
+#    share_url: https://www.facebook.com/sharer.php
+#    share_title: ?t=
+#    share_link: "&amp;u="
+    
+
 
 #  - icon:	google-plus
 #    url:	https://google.com/???
@@ -65,3 +107,34 @@ social:
 #    share_url:
 #    share_title:
 #    share_link:
+
+
+
+
+
+
+# Defaults for layouts
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      categories: "blog"
+      author: "Andrew Paradi"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+      author: "Andrew Paradi"
+  -
+    scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+      categories: "projects"
+      author: "Andrew Paradi"
