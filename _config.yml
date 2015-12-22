@@ -23,6 +23,7 @@ paginate:	10
 
 url: "https://andrewparadi.github.io" # the base hostname & protocol for your site
 baseurl: ""
+permalink: /:categories/:title/
 #used to display twitter cards
 twitter_handle: '@andrew_paradi'
 
