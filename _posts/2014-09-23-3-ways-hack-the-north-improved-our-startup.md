@@ -4,7 +4,7 @@ date:   2014-09-23 14:34:25
 categories: 
 tags: startups
 image: /assets/article_images/2014-09-23-3-ways-hack-the-north-improved-our-startup/HTN-Photo-c.jpg
-excerpt: From September 19th to the 21st, University of Waterloo's Engineering 5 building was over run by a native species of the region: hackers...
+excerpt: From September 19th to the 21st, University of Waterloo's Engineering 5 building was over run by a native species of the region&#58; hackers...
 ---
 
 From September 19th to the 21st, University of Waterloo's Engineering 5 building was over run by a native species of the region: hackers...
@@ -49,7 +49,7 @@ I'm a strong believer that you become the people you surround yourself with. Tha
 ##3. Personal Hacks
 Hack the North didn't just bring together awesome hackers, it also provided some amazing opportunities for personal development. Throughout the hackathon were technical seminars with experts covering everything from iOS and Android app development 101 to talks from Google, Microsoft, and Bloomberg on broad development strategy. There were so many sessions that if you went to all of them you would have had no time to hack!
 
-We wanted to leave enough time for hacking so we decided to only go to the keynote presentations. After seeing both, we have even more respect for the organizers of Hack the North for putting together the best speakers and panels I've seen in years. Friday night kicked off with a riveting discussion between investor Jason Calacanis and billionaire UW alumnus, former Facebook employee, founder of S23P, Chamath Palihapitiya. The length of his name foretold how big his thoughts were on startups and their role in society. He certainly forced me to think even further outside the box than I was used to <!---and Andrew goes into more detail about it in his next post in this series (coming soon)--->.
+We wanted to leave enough time for hacking so we decided to only go to the keynote presentations. After seeing both, we have even more respect for the organizers of Hack the North for putting together the best speakers and panels I've seen in years. Friday night kicked off with a riveting discussion between investor Jason Calacanis and billionaire UW alumnus, former Facebook employee, founder of S23P, Chamath Palihapitiya. The length of his name foretold how big his thoughts were on startups and their role in society. He certainly forced me to think even further outside the box than I was used to.
 
 <blockquote>Chamath Palihapitiya: the length of his name foretold how big his thoughts were on startups and their role on society.</blockquote>
 
@@ -66,4 +66,4 @@ We had no idea when we arrived at Hack the North that the weekend would improve 
 3. Chamath and the UW + YCom Alumni panel inspired us to dream bigger of who we could become in just a few short years.
 4. Our team won the Bloomberg API Prize!
 
-This article is the first in our <a href="http://andrewparadi.com/category/hack-the-north/">Hack the North</a> series. Continue your reading with Part 2: <a href="http://andrewparadi.com/2014/09/launchpad-meets-hack-north-3-hypotheses-tested-hacking/">Launchpad Meets Hack the North: 3 Hypotheses We Tested While Hacking</a>.
+This article is the first in our Hack the North series. Continue your reading with Part 2: <a href="http://andrewparadi.com/blog/launchpad-meets-hack-north-3-hypotheses-tested-hacking/">Launchpad Meets Hack the North: 3 Hypotheses We Tested While Hacking</a>.

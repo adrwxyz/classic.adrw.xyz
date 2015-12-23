@@ -6,109 +6,83 @@
 </description>
     <link>https://andrewparadi.github.io/</link>
     <atom:link href="https://andrewparadi.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 22 Dec 2015 11:02:00 -0500</pubDate>
-    <lastBuildDate>Tue, 22 Dec 2015 11:02:00 -0500</lastBuildDate>
+    <pubDate>Wed, 23 Dec 2015 16:58:34 -0500</pubDate>
+    <lastBuildDate>Wed, 23 Dec 2015 16:58:34 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
-        <title>Mediator Features</title>
-        <description>&lt;h1&gt;Mediator Formats and CSS features&lt;/h1&gt;
+        <title>3 Ways Hack the North Improved our Startup</title>
+        <description>&lt;p&gt;From September 19th to the 21st, University of Waterloo&amp;#39;s Engineering 5 building was over run by a native species of the region: hackers...&lt;/p&gt;
 
-&lt;p&gt;Examples for different formats and css features&lt;/p&gt;
+&lt;p&gt;Hack the North at UW gave 1,000 top hackers the opportunity to build something awesome in just 36 hours. Sponsored by top tech companies (Apple, Microsoft, Google, Facebook, Bloomberg, Uber &lt;a href=&quot;http://hackthenorth.com&quot; target=&quot;_blank&quot;&gt;...&lt;/a&gt;), &lt;a href=&quot;http://www.ycombinator.com/&quot; target=&quot;_blank&quot;&gt;Y Combinator&lt;/a&gt;, and with opportunities to use the newest technologies from Oculus Rifts to Thalmic Lab&amp;#39;s Myo, Canada had never seen a hackathon like this.&lt;/p&gt;
 
-&lt;h1&gt;Header Formats&lt;/h1&gt;
+&lt;p&gt;As co-founder of Teknically and currently deep in Webplio development, it would seem counter intuitive to drop what we were doing to build something at Hack the North. When I began to realize the sheer scope of Hack the North back in August, I saw a unique opportunity for Teknically to grow in new ways as a startup.&lt;/p&gt;
 
-&lt;h1&gt;Header1&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Here are the three biggest ways that Hack the North has helped our startup.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h2&gt;Header2&lt;/h2&gt;
+&lt;h2&gt;1. Fresh Air&lt;/h2&gt;
 
-&lt;h1&gt;Blockquotes&lt;/h1&gt;
+&lt;p&gt;Hack the North was a breath of fresh air for our team. Webplio, over the past 10 months, has been ever evolving as we worked with more customers to better understand their needs. Our hack, Stock Slate, had a narrower scope and was a smaller application. We could move from an idea to a working prototype in the weekend. As each hour went by, we hit different milestones and at times needed to pivot and cut down on iterations. We applied a lot of the principles we knew from working at startups. To us, this was the startup life condensed down to 36 hours!&lt;/p&gt;
 
-&lt;blockquote&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;&lt;iframe src=&quot;//www.youtube-nocookie.com/embed/juY4bwJXMVE?rel=0&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;annotated&gt;Stock Slate Demo: Built on the MEAN stack and leveraging Bloomberg Open API, Stock Slate provides real time stock investment insights&lt;/annotated&gt;&lt;/p&gt;
 
-&lt;h1&gt;Lists&lt;/h1&gt;
+&lt;p&gt;&amp;nbsp;
+&lt;blockquote&gt;With a new idea, new people, and new technologies, we were truly free to build something awesome!&lt;/blockquote&gt;&lt;/p&gt;
 
-&lt;h2&gt;orderd lists&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;one&lt;/li&gt;
-&lt;li&gt;two&lt;/li&gt;
-&lt;li&gt;three&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2&gt;unorderd lists&lt;/h2&gt;
-
+&lt;p&gt;When we contemplated entering Hack the North we were a bit worried whether we&amp;#39;d find other hackers qualified in the stack we wanted to develop on. What were we thinking?! After some serendipitous posting on the Hack the North Facebook group we assembled our dream team with some of the most perfectly complementary skills imaginable:
 &lt;ul&gt;
-&lt;li&gt;Apple&lt;/li&gt;
-&lt;li&gt;Banana&lt;/li&gt;
-&lt;li&gt;Plum&lt;/li&gt;
-&lt;/ul&gt;
+    &lt;li&gt;Yutong Luo: Backend who has worked at banks and with many APIs&lt;/li&gt;
+    &lt;li&gt;Brandon Chow: Initial idea conception, design, front end&lt;/li&gt;
+    &lt;li&gt;Andrew Paradi: Finance lead and algorithms expert&lt;/li&gt;
+    &lt;li&gt;Jason Kurian: A MEAN ninja&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
 
-&lt;h1&gt;Links&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;http://instagram.com/p/tOuf1WG8dI/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://photos-g.ak.instagram.com/hphotos-ak-xfp1/1742199_290274417829046_1818926910_n.jpg&quot; alt=&quot;Stock Slate Team&quot;/&gt;&lt;/a&gt;&lt;annotated&gt;Hack the North Dream Team: Yutong Luo, Brandon Chow, Andrew Paradi, Jason Kurian (left to right)&lt;/annotated&gt;&lt;/p&gt;
 
-&lt;p&gt;This is an &lt;a href=&quot;http://example.com/&quot; title=&quot;With a Title&quot;&gt;example link&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Thanks to our shared interest in learning new technologies and matching skills, our team was just filled with &lt;a href=&quot;http://youtu.be/VFqbGbU8f8o&quot; target=&quot;_blank&quot;&gt;synergy&lt;/a&gt;. We also had the skills to tackle new technologies. From the MEAN stack to the Bloomberg Open API it was a lot of fun working with new technologies to build out Stock Slate as a fluid one page web app. We even ended up winning the Bloomberg API Prize for best use of their API (each of us will be get a &lt;a href=&quot;http://ardrone2.parrot.com/&quot; target=&quot;_blank&quot;&gt;Parrot AR Elite Drone&lt;/a&gt; in the mail soon)!&lt;/p&gt;
 
-&lt;h1&gt;Combinations&lt;/h1&gt;
+&lt;h2&gt;2. Competition You Can See, Hear, and Smell&lt;/h2&gt;
 
-&lt;blockquote&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus&lt;/p&gt;
+&lt;p&gt;We work out of the Google for Entrepreneurs space at Communitech and are surrounded by other startups and technology companies building grand visions of the future. The difference with Hack the North is that the visions are just that much grander! There&amp;#39;s no need to worry about commercialization strategies or business plans. There&amp;#39;s only the singular focus on whether your hack works and how awesome it is.&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Apple&lt;/li&gt;
-&lt;li&gt;Banana&lt;/li&gt;
-&lt;li&gt;Plum&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Everyone at the event is there in good spirit to have a good time and show what awesome things they can build. This style of competition opens the floodgates to simply indescribably innovative hacks such as my personal favourites: &lt;a href=&quot;http://hackthenorth.challengepost.com/submissions/27029-open-pokemon&quot; target=&quot;_blank&quot;&gt;Open Pokemon&lt;/a&gt; and the &lt;a href=&quot;http://hackthenorth.challengepost.com/submissions/27086-silicon-man&quot; target=&quot;_blank&quot;&gt;Silicon Man&lt;/a&gt;.&lt;/p&gt;
+
+&lt;video src=&quot;http://videos-b-11.ak.instagram.com/hphotos-ak-xaf1/10713849_1509221115984991_1899933270_n.mp4&quot; type=&quot;video/mp4&quot; controls&gt;&lt;/video&gt;
+
+&lt;p&gt;&lt;annotated&gt;Silicon Man: Why pay for an Oculus Rift and a Thalmic Labs Myo when you could strap an iPhone to your face and create a custom glove interface?!&lt;/annotated&gt;&lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;m a strong believer that you become the people you surround yourself with. That&amp;#39;s why I didn&amp;#39;t want to leave Hack the North when it was done. We were surrounded by wickedly smart, hard working, friendly hackers from around the world not motivated by monetary gain (they didn&amp;#39;t announce the prizes before hand, everybody applied for the love of hacking). It was an amazing group to be part of and we certainly left inspired by each other to keep building awesome stuff.&lt;/p&gt;
+
+&lt;h2&gt;3. Personal Hacks&lt;/h2&gt;
+
+&lt;p&gt;Hack the North didn&amp;#39;t just bring together awesome hackers, it also provided some amazing opportunities for personal development. Throughout the hackathon were technical seminars with experts covering everything from iOS and Android app development 101 to talks from Google, Microsoft, and Bloomberg on broad development strategy. There were so many sessions that if you went to all of them you would have had no time to hack!&lt;/p&gt;
+
+&lt;p&gt;We wanted to leave enough time for hacking so we decided to only go to the keynote presentations. After seeing both, we have even more respect for the organizers of Hack the North for putting together the best speakers and panels I&amp;#39;ve seen in years. Friday night kicked off with a riveting discussion between investor Jason Calacanis and billionaire UW alumnus, former Facebook employee, founder of S23P, Chamath Palihapitiya. The length of his name foretold how big his thoughts were on startups and their role in society. He certainly forced me to think even further outside the box than I was used to &amp;lt;!---and Andrew goes into more detail about it in his next post in this series (coming soon)---&amp;gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;Chamath Palihapitiya: the length of his name foretold how big his thoughts were on startups and their role on society.&lt;/blockquote&gt;
+
+&lt;p&gt;Saturday afternoon&amp;#39;s headline act was Y Combinator&amp;#39;s new President Sam Altman. He was interviewed by University of Waterloo&amp;#39;s Dean of Engineering Dr. Pearl Sullivan but we found the panel discussion that followed much more applicable to startup life. Moderated by Sam, the panel consisted of UW&amp;#39;s most successful YCom alumni with founders and CEOs of Pebble, Thalmic Labs, Vidyard, and A Thinking Ape all sharing valuable insights on what it&amp;#39;s really like to build a startup.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://instagram.com/p/tLJ1t1G8b6/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://photos-b.ak.instagram.com/hphotos-ak-xaf1/10693659_1466888876932369_1764327461_n.jpg&quot; alt=&quot;UW + YCom Panel&quot;/&gt;&lt;/a&gt;&lt;annotated&gt;UW + YC: Sam Altman moderates a panel of alumni from both University of Waterloo and Y Combinator: Eric Migicovsky (Founder, Pebble), Eric Diep (Founder, A Thinking Ape), Wilkins Chung (A Thinking Ape), Michael Litt (CEO, Vidyard), Stephen Lake (CEO, Thalmic Labs)&lt;/annotated&gt;&lt;/p&gt;
+
+&lt;p&gt;Both speakers and the panel confirmed both that Waterloo is an awesome place to build a startup, but there&amp;#39;s nothing that can come close to the access to capital and mentorship that you get in Silicon Valley. Even though all of the UW YCom founders have since moved their companies back to Waterloo (or Vancouver for A Thinking Ape), each founder talked about how they still spend time regularly in the valley to maintain their networks and receive corporate guidance. For our startup, these two talks pushed us to set more concrete goals of how we will somehow make our way to the valley in coming years.&lt;/p&gt;
+
+&lt;h2&gt;tl;dr&lt;/h2&gt;
+
+&lt;p&gt;We had no idea when we arrived at Hack the North that the weekend would improve our startup, but it did!
+1. We thrived on the fresh air of working with a new idea, new people, and new technologies.
+2. Our fellow hackers pushed us to keep innovating past the limits of our imagination.
+3. Chamath and the UW + YCom Alumni panel inspired us to dream bigger of who we could become in just a few short years.
+4. Our team won the Bloomberg API Prize!&lt;/p&gt;
+
+&lt;p&gt;This article is the first in our Hack the North series. Continue your reading with Part 2: &lt;a href=&quot;http://andrewparadi.com/blog/launchpad-meets-hack-north-3-hypotheses-tested-hacking/&quot;&gt;Launchpad Meets Hack the North: 3 Hypotheses We Tested While Hacking&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 30 Nov 2014 09:34:25 -0500</pubDate>
-        <link>https://andrewparadi.github.io/mediator/feature/mediator_features/</link>
-        <guid isPermaLink="true">https://andrewparadi.github.io/mediator/feature/mediator_features/</guid>
+        <pubDate>Tue, 23 Sep 2014 10:34:25 -0400</pubDate>
+        <link>https://andrewparadi.github.io/3-ways-hack-the-north-improved-our-startup/</link>
+        <guid isPermaLink="true">https://andrewparadi.github.io/3-ways-hack-the-north-improved-our-startup/</guid>
         
-        <category>featured</category>
+        <category>startups</category>
         
-        
-        <category>mediator</category>
-        
-        <category>feature</category>
-        
-      </item>
-    
-      <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve --watch&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;footer&lt;/span&gt; &lt;span class=&quot;kr&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;site-footer&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;
- &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;kr&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;subscribe&amp;quot;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;href&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;/feed.xml&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;span&lt;/span&gt; &lt;span class=&quot;kr&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;tooltip&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;kr&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;fa fa-rss&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;/i&amp;gt; Subscribe!&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;div&lt;/span&gt; &lt;span class=&quot;kr&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;inner&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;a&lt;/span&gt;
-   &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;section&lt;/span&gt; &lt;span class=&quot;kr&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;copyright&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;All&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;content&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;copyright&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;href&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;mailto:me@andrewparadi.com&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Andrew&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Paradi&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;/a&amp;gt; &amp;amp;copy; 2015 &amp;amp;bull; All rights reserved.&amp;lt;/section&amp;gt;&lt;/span&gt;
-   &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;section&lt;/span&gt; &lt;span class=&quot;kr&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;poweredby&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Made&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;with&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;href&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;http://jekyllrb.com&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Jekyll&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;/a&amp;gt;&amp;lt;/section&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;/div&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;/footer&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-</description>
-        <pubDate>Fri, 29 Aug 2014 10:34:25 -0400</pubDate>
-        <link>https://andrewparadi.github.io/jekyll/update/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">https://andrewparadi.github.io/jekyll/update/welcome-to-jekyll/</guid>
-        
-        <category>featured</category>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
         
       </item>
     
