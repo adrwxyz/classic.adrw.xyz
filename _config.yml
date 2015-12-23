@@ -17,7 +17,7 @@ cover: "/assets/images/launchpad-c.jpg"
 
 name: 'Andrew Paradi'
 author: 'Andrew Paradi'
-author_image: "/assets/images/author.jpg"
+author_image: "/assets/images/andrew2015.jpg"
 
 paginate:	10
 
@@ -32,6 +32,13 @@ twitter_handle: '@andrew_paradi'
 
 # social icons and sharing options
 social:
+
+  - icon:	inbox
+    url:	mailto:me@andrewparadi.com
+    desc:	Email me@andrewparadi.com
+    share_url:
+    share_title:
+    share_link:
 
   - icon:	linkedin
     url:	https://www.linkedin.com/in/andrewparadi
