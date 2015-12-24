@@ -6,8 +6,8 @@
 </description>
     <link>https://andrewparadi.github.io/</link>
     <atom:link href="https://andrewparadi.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 23 Dec 2015 23:06:15 -0500</pubDate>
-    <lastBuildDate>Wed, 23 Dec 2015 23:06:15 -0500</lastBuildDate>
+    <pubDate>Thu, 24 Dec 2015 00:58:30 -0500</pubDate>
+    <lastBuildDate>Thu, 24 Dec 2015 00:58:30 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -76,6 +76,110 @@
       </item>
     
       <item>
+        <title>Launchpad Meets Hack the North: 3 Hypotheses We Tested While Hacking</title>
+        <description>&lt;blockquote&gt;
+&lt;p&gt;Looking for Hack the North Part 1? Check out &lt;a href=&quot;http://andrewparadi.com/2014/09/3-ways-hack-the-north-improved-our-startup/&quot;&gt;3 Ways Hack the North Improved our Startup&lt;/a&gt;!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;As part of the Laurier Launchpad since October 2013, we quickly learned the &amp;quot;Lean Startup&amp;quot; methodology developed by Steve Blank, a legendary Silicon Valley serial entrepreneur and Stanford professor.  Distilled to one sentence, it is making decisions in your startup, not based on your intuition, but based on what your real results are with your product, market, and customers. Customer interviews, minimum viable products (MVP), and split testing marketing material are just a few of the many techniques used to test initial assumptions about your market, customers, or product. &lt;/p&gt;
+
+&lt;p&gt;Throughout our development of Webplio, we have been successful at practically applying this methodology to our business (we have won over $27,000 at national and international competitions for our use of the lean startup process and business model canvas: &lt;a href=&quot;https://youtu.be/OB7m2iMaiA0&quot; target=&quot;_blank&quot;&gt;IBMC&lt;/a&gt;, &lt;a href=&quot;https://youtu.be/EhbbMZyOLsc&quot; target=&quot;_blank&quot;&gt;CBMC&lt;/a&gt;). As Hack the North approached we saw the opportunity to test three new assumptions we had for our product, market, and customers:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Product&lt;/strong&gt;: we could more easily build a fluid, efficient web app by leveraging the &lt;a href=&quot;http://youtu.be/VFqbGbU8f8o&quot; target=&quot;_blank&quot;&gt;synergy&lt;/a&gt; of the &lt;a href=&quot;http://mean.io/#!/&quot; target=&quot;_blank&quot;&gt;MEAN&lt;/a&gt; stack&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Market&lt;/strong&gt;: Our Webplio &amp;quot;Scores&amp;quot; are not limited to just website analytics but could be applied to a financial data and provide significant value&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Customers&lt;/strong&gt;: people respond better to a simple straight forward demo video (a la &lt;a href=&quot;http://youtu.be/7QmCUDHpNzE&quot; target=&quot;_blank&quot;&gt;Dropbox&lt;/a&gt;)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2&gt;Product&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://webplio.com&quot; target=&quot;_blank&quot;&gt;Webplio&lt;/a&gt; presents business owners with easy to understand website performance information and insights. It&amp;#39;s currently coded in PHP using the Symfony2 framework but we haven&amp;#39;t had time yet to build in any asynchronous technologies like AJAX. These types of web technologies allow for no page reloads, all data would change fluidly and dynamically. Within any browser and on any device, Webplio would be as fluid, fun, and approachable as an iPad app. The only question we still had was how we should implement this powerful functionality (there are a lot of options!).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/article_images/2014-09-30-launchpad-meets-hack-north-3-hypotheses-tested-hacking/bob-webplio-hero.jpg&quot; alt=&quot;Webplio&amp;#39;s vivid graphs, summary scores, and algorithmically determined insights work together to help owners make sense of their website analytics data.&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;With many different ways to implement this fluid user experience, we wanted to test our top pick within a real project. Instead of just reading spec sheets, we could see how it interacts with our existing development styles and team. Based on Brandon&amp;#39;s extensive research, we decided we would test the entire MEAN stack with our Hack the North team to get a better feel for the stack synergy.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/article_images/2014-09-30-launchpad-meets-hack-north-3-hypotheses-tested-hacking/stock-slate-demo-retail-c.jpg&quot; alt=&quot;Stock Slate: a fluid, real-time stocks web application built on the powerful MEAN stack.&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Stock Slate confirmed our hypothesis. Using the MEAN stack as the backbone for our real-time stocks application, we could easily test the most important capabilities of the framework. &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Could it process lots of data in real-time? Yes.&lt;/p&gt;
+
+&lt;p&gt;Could it easily plug into different APIs to grab the data? Yup.&lt;/p&gt;
+
+&lt;p&gt;Was the end user experience as fluid as an iPad app? You bet.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Hack the North provided a perfect opportunity to test if the MEAN stack would be the best way to bring powerful fluid functionality to Webplio users. Over the coming months we&amp;#39;ll be bringing some of the best aspects of the MEAN stack to Webplio. We can&amp;#39;t wait for it to feel more like an iPad app, and less like just another online dashboard.&lt;/p&gt;
+
+&lt;h2&gt;Market&lt;/h2&gt;
+
+&lt;p&gt;One of the primary value propositions for Webplio are Webplio Scores. For example, instead of using 5 different metrics to evaluate effectiveness, Webplio users only need their Webplio Score which summarizes overall performance into a single number. Webplio Scores have been used to evaluate effectiveness of referral traffic, landing pages, and even server performance but had never been used outside of website analytics&lt;strong&gt;...until Hack the North.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/article_images/2014-09-30-launchpad-meets-hack-north-3-hypotheses-tested-hacking/Webplio-Dashboard-v3-Referrals.png&quot; alt=&quot;In this table from the Webplio Dashboard, Webplio Scores simplify analysis of referral traffic. Instead of looking at up to 5 different metrics, users only need to look at a single Webplio Score to quickly understand where their best referral traffic is coming from.&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Our primary test with Stock Slate was to see if our approach with scores would be applicable to different industries and data sets. We had to address both the technical feasibility of a score addressing close to 10 metrics and additionally ensure that it was a valuable tool for user, not just another number in a table. We worked late into the final hours of Hack the North refining both of these aspects.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/article_images/2014-09-30-launchpad-meets-hack-north-3-hypotheses-tested-hacking/stock-slate-demo-retail-c.jpg&quot; alt=&quot;In Stock Slate, Investor Scores simplify stock analysis to a single score of a stock&amp;#39;s value. This example show&amp;#39;s Peter Lynch&amp;#39;s algorithm being applied to some top retail stocks. It&amp;#39;s easily clear that investing in Family Dollar Inc. would be a better choice than Sears Holdings Corp.*1&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;When we showed peers, judges, and sponsors they all had the same reaction: &lt;strong&gt;disbelief&lt;/strong&gt;. &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;You automated fundamental stock analysis?! That&amp;#39;s genius. I&amp;#39;d use this.&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;&amp;quot;Wow! Warren Buffett likes my picks! This is so simple.&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;With Stock Slate, investing was now approachable to a whole new segment of the population. You could now make informed decisions without being a wall street banker or having a financial mathematics degree! It was very rewarding to see our vision of Stock Slate manifested in just 36 hours. We also were able to confirm our initial hypothesis that Webplio Score algorithms could successfully be applied to new industries and data sets. &lt;strong&gt;Mission Accomplished.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2&gt;Customers&lt;/h2&gt;
+
+&lt;p&gt;For our initial promotional videos for Webplio, we didn&amp;#39;t yet have a working dashboard that we could demo live, so we compensated. Moving graphics and 3D effects helped give the illusion of a working product but it didn&amp;#39;t resonate with our potential customers. For Stock Slate, we knew we would have a working demo so we could try a new approach.&lt;/p&gt;
+
+&lt;p&gt;We looked at other successful videos from startups and found that the first Dropbox demo video was unbelievably successful. CEO Drew Houston recalled the impact of the video, “It drove hundreds of thousands of people to the website. Our beta waiting list went from 5,000 people to 75,000 people literally overnight. It totally blew us away.”*2  When we dissected Drew Houston&amp;#39;s initial Dropbox demo it&amp;#39;s clear that they nailed the basics. &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Scripted conversation, not a pitch. Video screencapture demo. Simple articulation of value prop. Easter eggs.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;iframe width=&quot;960&quot; height=&quot;540&quot; src=&quot;//www.youtube-nocookie.com/embed/7QmCUDHpNzE?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;figcitation&gt;Narrated by CEO Drew Houston, Dropbox&#39;s first demo video was posted Sept 15, 2008 and almost overnight boosted Dropbox&#39;s beta list from 5,000 to 75,000 users.&lt;/figcitation&gt;
+
+With Stock Slate we focused on the basics. Identify the problem. Demo how somebody would regularly use it. Show the power of the unique value proposition. When you don&#39;t know your product, market or customers well enough, these basic tasks can require unnecessary explanation. With a 100 second time limit from Hack the North, we were forced to quickly distill Stock Slate to it&#39;s most basic value proposition and articulate that concisely.
+
+&lt;iframe width=&quot;960&quot; height=&quot;540&quot; src=&quot;//www.youtube-nocookie.com/embed/juY4bwJXMVE?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;figcitation&gt;When we initially posted the Stock Slate video to YouTube, the view count quickly hit 301+. Google does this when it needs more time to verify views for highly viewed videos.&lt;/figcitation&gt;&lt;/p&gt;
+
+&lt;p&gt;The Stock Slate demo video was our first video to hit the magic 301+ on YouTube. Within 60 minutes of posting it on &lt;a href=&quot;http://www.reddit.com/r/investing/comments/2h8ha7/created_this_in_36_hours_looking_for_feedback/&quot; target=&quot;_blank&quot;&gt;/r/investing&lt;/a&gt; we already had 9 people comment asking where they can sign up and start using it. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;This was a video that resonated with people. This was a video that inspired action. This was a video that would drive sales.&lt;/strong&gt; Thanks to this powerful confirmation of our final hypothesis, we will be releasing a new Webplio demo video next week that gets back to the basics.&lt;/p&gt;
+
+&lt;h2&gt;tl;dr&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Whether you know the &amp;quot;Lean Startup&amp;quot; process or not, start believing that &lt;strong&gt;everything you do is a hypothesis&lt;/strong&gt;. If it goes well, great! Figure out how to keep doing it better. If not, change your next decision to readjust your heading based on what went wrong.&lt;/li&gt;
+&lt;li&gt;In a startup, &lt;strong&gt;test all possible aspects of your product, market, and customers&lt;/strong&gt;. You&amp;#39;ll never regret having more data at your fingertips when making decisions about a new product feature, expanding to a new market, or better targeting your advertising to a specific customer segment.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Opportunities to test your hypotheses are everywhere!&lt;/strong&gt; Take off your blinders! A/B test your marketing. Incorporate usage statistics into your product. Interview more customers to get their honest long form opinion. If you want to succeed as a startup, you need to know your product, market, and customers better than anybody else.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Footnotes&lt;/strong&gt;
+*1 - Stock Slate does not provide financial advice in any form but is simply a data analysis tool for providing real time fundamental analysis. All investment decisions should be considered independently and approved by a professional advisor.&lt;/p&gt;
+
+&lt;p&gt;*2 - Drew Houston quote via &lt;a href=&quot;http://techcrunch.com/2011/10/19/dropbox-minimal-viable-product/&quot; target=&quot;_blank&quot;&gt;Tech Crunch&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 30 Sep 2014 08:34:25 -0400</pubDate>
+        <link>https://andrewparadi.github.io/blog/launchpad-meets-hack-north-3-hypotheses-tested-hacking/</link>
+        <guid isPermaLink="true">https://andrewparadi.github.io/blog/launchpad-meets-hack-north-3-hypotheses-tested-hacking/</guid>
+        
+        <category>startups</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
         <title>3 Ways Hack the North Improved our Startup</title>
         <description>&lt;p&gt;&lt;strong&gt;From September 19th to the 21st, University of Waterloo&amp;#39;s Engineering 5 building was over run by a native species of the region: hackers...&lt;/strong&gt;&lt;/p&gt;
 
@@ -105,9 +209,9 @@
     &lt;li&gt;Jason Kurian: A MEAN ninja&lt;/li&gt;
 &lt;/ul&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://instagram.com/p/tOuf1WG8dI/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://photos-g.ak.instagram.com/hphotos-ak-xfp1/1742199_290274417829046_1818926910_n.jpg&quot; alt=&quot;Stock Slate Team: Yutong Luo, Brandon Chow, Andrew Paradi, Jason Kurian&quot;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://instagram.com/p/tOuf1WG8dI/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://photos-g.ak.instagram.com/hphotos-ak-xfp1/1742199_290274417829046_1818926910_n.jpg&quot; alt=&quot;Stock Slate Team: Yutong Luo, Brandon Chow, Andrew Paradi, Jason Kurian&quot;/&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Thanks to our shared interest in learning new technologies and matching skills, our team was just filled with &lt;a href=&quot;http://youtu.be/VFqbGbU8f8o&quot; target=&quot;_blank&quot;&gt;synergy&lt;/a&gt;. We also had the skills to tackle new technologies. From the MEAN stack to the Bloomberg Open API it was a lot of fun working with new technologies to build out Stock Slate as a fluid one page web app. We even ended up winning the Bloomberg API Prize for best use of their API (each of us will be get a &lt;a href=&quot;http://ardrone2.parrot.com/&quot; target=&quot;_blank&quot;&gt;Parrot AR Elite Drone&lt;/a&gt; in the mail soon)!&lt;/p&gt;
+&lt;p&gt;Thanks to our shared interest in learning new technologies and matching skills, our team was just filled with &lt;a href=&quot;https://youtu.be/VFqbGbU8f8o&quot; target=&quot;_blank&quot;&gt;synergy&lt;/a&gt;. We also had the skills to tackle new technologies. From the MEAN stack to the Bloomberg Open API it was a lot of fun working with new technologies to build out Stock Slate as a fluid one page web app. We even ended up winning the Bloomberg API Prize for best use of their API (each of us will be get a &lt;a href=&quot;http://ardrone2.parrot.com/&quot; target=&quot;_blank&quot;&gt;Parrot AR Elite Drone&lt;/a&gt; in the mail soon)!&lt;/p&gt;
 
 &lt;h2&gt;2. Competition You Can See, Hear, and Smell&lt;/h2&gt;
 
@@ -133,7 +237,7 @@
 
 &lt;p&gt;Saturday afternoon&amp;#39;s headline act was Y Combinator&amp;#39;s new President Sam Altman. He was interviewed by University of Waterloo&amp;#39;s Dean of Engineering Dr. Pearl Sullivan but we found the panel discussion that followed much more applicable to startup life. Moderated by Sam, the panel consisted of UW&amp;#39;s most successful YCom alumni with founders and CEOs of Pebble, Thalmic Labs, Vidyard, and A Thinking Ape all sharing valuable insights on what it&amp;#39;s really like to build a startup.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://instagram.com/p/tLJ1t1G8b6/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://photos-b.ak.instagram.com/hphotos-ak-xaf1/10693659_1466888876932369_1764327461_n.jpg&quot; alt=&quot;UW + YC: Sam Altman moderates a panel of alumni from both University of Waterloo and Y Combinator: Eric Migicovsky (Founder, Pebble), Eric Diep (Founder, A Thinking Ape), Wilkins Chung (A Thinking Ape), Michael Litt (CEO, Vidyard), Stephen Lake (CEO, Thalmic Labs)&quot;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://instagram.com/p/tLJ1t1G8b6/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://photos-b.ak.instagram.com/hphotos-ak-xaf1/10693659_1466888876932369_1764327461_n.jpg&quot; alt=&quot;UW + YC: Sam Altman moderates a panel of alumni from both University of Waterloo and Y Combinator: Eric Migicovsky (Founder, Pebble), Eric Diep (Founder, A Thinking Ape), Wilkins Chung (A Thinking Ape), Michael Litt (CEO, Vidyard), Stephen Lake (CEO, Thalmic Labs)&quot;/&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Both speakers and the panel confirmed both that Waterloo is an awesome place to build a startup, but there&amp;#39;s nothing that can come close to the access to capital and mentorship that you get in Silicon Valley. Even though all of the UW YCom founders have since moved their companies back to Waterloo (or Vancouver for A Thinking Ape), each founder talked about how they still spend time regularly in the valley to maintain their networks and receive corporate guidance. For our startup, these two talks pushed us to set more concrete goals of how we will somehow make our way to the valley in coming years.&lt;/p&gt;
 
@@ -151,7 +255,7 @@
 &lt;p&gt;This article is the first in our Hack the North series. Continue your reading with Part 2: &lt;a href=&quot;http://andrewparadi.com/blog/launchpad-meets-hack-north-3-hypotheses-tested-hacking/&quot;&gt;Launchpad Meets Hack the North: 3 Hypotheses We Tested While Hacking&lt;/a&gt;.&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/article_images/2014-09-23-3-ways-hack-the-north-improved-our-startup/HTN-press.png&quot; alt=&quot;Update May 2015: We&amp;#39;ve been featured on Hack the North&amp;#39;s Press &amp;lt;a href=&amp;quot;http://hackthenorth.com/press&amp;quot; target=_blank&amp;quot;&amp;gt;page&amp;lt;/a&amp;gt;!&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/article_images/2014-09-23-3-ways-hack-the-north-improved-our-startup/HTN-press.png&quot; alt=&quot;###Update May 2015: We&amp;#39;ve been featured on Hack the North&amp;#39;s Press &amp;lt;a href=&amp;quot;http://hackthenorth.com/press&amp;quot; target=_blank&amp;quot;&amp;gt;page&amp;lt;/a&amp;gt;!&quot;&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
         <pubDate>Tue, 23 Sep 2014 10:34:25 -0400</pubDate>
