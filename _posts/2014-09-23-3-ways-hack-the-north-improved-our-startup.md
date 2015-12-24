@@ -10,6 +10,8 @@ excerpt: From September 19th to the 21st, University of Waterloo's Engineering 5
 
 >Update 1: We've been featured on Hack the North's Press [page][htnpress]! - May 2015
 
+>![Hack the North Press Page](/assets/article_images/2014-09-23-3-ways-hack-the-north-improved-our-startup/HTN-Photo-c.jpg)
+
 Hack the North at UW gave 1,000 top hackers the opportunity to build something awesome in just 36 hours. Sponsored by top tech companies (Apple, Microsoft, Google, Facebook, Bloomberg, Uber <a href="http://hackthenorth.com" target="_blank">...</a>), <a href="http://www.ycombinator.com/" target="_blank">Y Combinator</a>, and with opportunities to use the newest technologies from Oculus Rifts to Thalmic Lab's Myo, Canada had never seen a hackathon like this.
 
 As co-founder of Teknically and currently deep in Webplio development, it would seem counter intuitive to drop what we were doing to build something at Hack the North. When I began to realize the sheer scope of Hack the North back in August, I saw a unique opportunity for Teknically to grow in new ways as a startup.
