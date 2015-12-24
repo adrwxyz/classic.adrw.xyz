@@ -93,3 +93,5 @@ Now that we are working full time, we can push Teknically to Mach 2. Next week, 
 September 24th was our last day as full time Laurier students. Now as full time entrepreneurs, we can't wait to see what will happen in this second year of <a href="http://teknically.com" target="_blank">Teknically</a>. 
 
 <strong><a href="http://youtu.be/_DnKNClu2XM?t=1m45s" target="_blank">No ragrets</a>, let the post-post-secondary adventure begin.</strong>
+
+And it did...in [part 2](/blog/the-dream-fades/).
