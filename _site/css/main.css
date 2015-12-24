@@ -508,20 +508,19 @@ body {
   .post .post-content a {
     color: #333;
     text-decoration: underline; }
-  .post .post-content annotated {
-    font-weight: 600;
-    font-size: 16px;
-    line-height: 20px;
-    padding-bottom: 30px;
-    hyphens: auto; }
+    .post .post-content a figcaption {
+      text-decoration: none; }
   .post .post-content img {
     max-width: 100%;
     margin: 0 auto; }
+  .post .post-content video {
+    width: 100% !important;
+    height: auto !important; }
   .post .post-content figure {
     margin: 0;
     padding: 0 0 30px; }
   .post .post-content figcaption {
-    font-weight: 400;
+    font-weight: 800;
     font-style: italic;
     font-size: 16px;
     line-height: 1.3;
