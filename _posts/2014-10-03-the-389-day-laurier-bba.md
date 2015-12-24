@@ -2,14 +2,14 @@
 title:  "Teknically Part 1: The 389 Day Laurier BBA"
 date:   2014-10-03 23:58:45
 tags: startups
-image: /assets/article_images/2014-09-30-launchpad-meets-hack-north-3-hypotheses-tested-hacking/stock-slate-demo-retail-c.jpg
+image: /assets/article_images/2014-10-03-the-389-day-laurier-bba/cofounders-launchpad-desk.jpg
 excerpt: My first year as a BBA student at Wilfrid Laurier University was unlike anything imaginable. I started a business, travelled the world, and now I'm free.
 seo-title: The Most Exciting First Year at Laurier
 ---
 
-Today I declined my co-op offer. Last week, I deferred all my classes. My time as a full time BBA student at Wilfrid Laurier University is over after 389 days.
+**Today I declined my co-op offer. Last week, I deferred all my classes. My time as a full time BBA student at Wilfrid Laurier University is over after 389 days.**
 
-!(/assets/article_images/2014-10-03-the-389-day-laurier-bba/Decline-Co-op.png)
+![](/assets/article_images/2014-10-03-the-389-day-laurier-bba/Decline-Co-op.png)
 
 You may be wondering, why would anybody throw their university degree away, <a href="http://www.newrepublic.com/article/118747/ivy-league-schools-are-overrated-send-your-kids-elsewhere" target="_blank">the best proven opportunity for long term success</a>? Why would anybody reject the chance be in the co-op program and <a href="http://youtu.be/oGxBx8RzzrM?t=49s" target="_blank">ease on down the yellow brick road</a> to a great corporate job? <strong>How did your parents let you throw your life away?!?</strong>
 
@@ -84,7 +84,7 @@ Too many family, friends, and mentors to name have unknowingly fostered these sk
 ##The Path Ahead
 
 
-!(/assets/article_images/2014-09-30-launchpad-meets-hack-north-3-hypotheses-tested-hacking/Webplio-Dashboard-v3-Referrals.png)
+![](/assets/article_images/2014-09-30-launchpad-meets-hack-north-3-hypotheses-tested-hacking/Webplio-Dashboard-v3-Referrals.png)
 
 Now that we are working full time, we can push Teknically to Mach 2. Next week, <a href="http://webplio.com" target="_blank">Webplio</a> launches exclusively to our initial 30 customers. In the coming weeks, we'll begin to open access to select people signed up on the <a href="http://webplio.com" target="_blank">Webplio</a> Wait List. We've begun hiring 2-3 additional full time developers to help us bring some truly unbelievable features and functionality to <a href="http://webplio.com" target="_blank">Webplio</a> in the coming months. We're also very excited for the continued opportunities that will come from our tenancy in Google for Entrepreneurs.
 
