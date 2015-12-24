@@ -2,7 +2,7 @@
 title:  "Launchpad Meets Hack the North: 3 Hypotheses We Tested While Hacking"
 date:   2014-09-30 12:34:25
 tags: startups
-image: /assets/article_images/2014-09-23-3-ways-hack-the-north-improved-our-startup/stock-slate-demo-retail-c.jpg
+image: /assets/article_images/2014-09-30-launchpad-meets-hack-north-3-hypotheses-tested-hacking/stock-slate-demo-retail-c.jpg
 excerpt: Ever wondered how to apply the Lean Startup methodology to a hackathon? The Webplio team used Hack the North to test their top three hypotheses.
 seo-title: Launchpad Meets Hack the North&#58; Our 3 Startup Hypotheses
 ---
@@ -29,9 +29,9 @@ With many different ways to implement this fluid user experience, we wanted to t
 Stock Slate confirmed our hypothesis. Using the MEAN stack as the backbone for our real-time stocks application, we could easily test the most important capabilities of the framework. 
 
 >Could it process lots of data in real-time? Yes.
-
+>
 >Could it easily plug into different APIs to grab the data? Yup.
-
+>
 >Was the end user experience as fluid as an iPad app? You bet.
 
 Hack the North provided a perfect opportunity to test if the MEAN stack would be the best way to bring powerful fluid functionality to Webplio users. Over the coming months we'll be bringing some of the best aspects of the MEAN stack to Webplio. We can't wait for it to feel more like an iPad app, and less like just another online dashboard.
@@ -53,7 +53,7 @@ When we showed peers, judges, and sponsors they all had the same reaction: **dis
 
 
 >"You automated fundamental stock analysis?! That's genius. I'd use this."
-
+>
 >"Wow! Warren Buffett likes my picks! This is so simple."
 
 
@@ -73,12 +73,12 @@ We looked at other successful videos from startups and found that the first Drop
 
 >Scripted conversation, not a pitch. Video screencapture demo. Simple articulation of value prop. Easter eggs.
 
-<iframe width="960" height="540" src="//www.youtube-nocookie.com/embed/7QmCUDHpNzE?rel=0" frameborder="0" allowfullscreen></iframe><figcitation>Narrated by CEO Drew Houston, Dropbox's first demo video was posted Sept 15, 2008 and almost overnight boosted Dropbox's beta list from 5,000 to 75,000 users.</figcitation>
+<iframe width="960" height="540" src="//www.youtube-nocookie.com/embed/7QmCUDHpNzE?rel=0" frameborder="0" allowfullscreen></iframe><figcaption>Narrated by CEO Drew Houston, Dropbox's first demo video was posted Sept 15, 2008 and almost overnight boosted Dropbox's beta list from 5,000 to 75,000 users.</figcaption>
 
 With Stock Slate we focused on the basics. Identify the problem. Demo how somebody would regularly use it. Show the power of the unique value proposition. When you don't know your product, market or customers well enough, these basic tasks can require unnecessary explanation. With a 100 second time limit from Hack the North, we were forced to quickly distill Stock Slate to it's most basic value proposition and articulate that concisely.
 
 <iframe width="960" height="540" src="//www.youtube-nocookie.com/embed/juY4bwJXMVE?rel=0" frameborder="0" allowfullscreen></iframe>
-<figcitation>When we initially posted the Stock Slate video to YouTube, the view count quickly hit 301+. Google does this when it needs more time to verify views for highly viewed videos.</figcitation>
+<figcaption>When we initially posted the Stock Slate video to YouTube, the view count quickly hit 301+. Google does this when it needs more time to verify views for highly viewed videos.</figcaption>
 
 The Stock Slate demo video was our first video to hit the magic 301+ on YouTube. Within 60 minutes of posting it on <a href="http://www.reddit.com/r/investing/comments/2h8ha7/created_this_in_36_hours_looking_for_feedback/" target="_blank">/r/investing</a> we already had 9 people comment asking where they can sign up and start using it. 
 
@@ -91,6 +91,6 @@ The Stock Slate demo video was our first video to hit the magic 301+ on YouTube.
 
 
 <strong>Footnotes</strong>
-*1 - Stock Slate does not provide financial advice in any form but is simply a data analysis tool for providing real time fundamental analysis. All investment decisions should be considered independently and approved by a professional advisor.
+- *1 - Stock Slate does not provide financial advice in any form but is simply a data analysis tool for providing real time fundamental analysis. All investment decisions should be considered independently and approved by a professional advisor.
 
-*2 - Drew Houston quote via <a href="http://techcrunch.com/2011/10/19/dropbox-minimal-viable-product/" target="_blank">Tech Crunch</a>
+- *2 - Drew Houston quote via <a href="http://techcrunch.com/2011/10/19/dropbox-minimal-viable-product/" target="_blank">Tech Crunch</a>
