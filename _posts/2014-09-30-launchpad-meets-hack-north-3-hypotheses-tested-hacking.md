@@ -73,7 +73,9 @@ We looked at other successful videos from startups and found that the first Drop
 
 >Scripted conversation, not a pitch. Video screencapture demo. Simple articulation of value prop. Easter eggs.
 
-<iframe width="960" height="540" src="//www.youtube-nocookie.com/embed/7QmCUDHpNzE?rel=0" frameborder="0" allowfullscreen></iframe><figcaption>Narrated by CEO Drew Houston, Dropbox's first demo video was posted Sept 15, 2008 and almost overnight boosted Dropbox's beta list from 5,000 to 75,000 users.</figcaption>
+<iframe width="960" height="540" src="//www.youtube-nocookie.com/embed/7QmCUDHpNzE?rel=0" frameborder="0" allowfullscreen></iframe>
+<figcaption>Narrated by CEO Drew Houston, Dropbox's first demo video was posted Sept 15, 2008 and almost overnight boosted Dropbox's beta list from 5,000 to 75,000 users.</figcaption>
+
 
 With Stock Slate we focused on the basics. Identify the problem. Demo how somebody would regularly use it. Show the power of the unique value proposition. When you don't know your product, market or customers well enough, these basic tasks can require unnecessary explanation. With a 100 second time limit from Hack the North, we were forced to quickly distill Stock Slate to it's most basic value proposition and articulate that concisely.
 
