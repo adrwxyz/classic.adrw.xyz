@@ -6,7 +6,9 @@ image: /assets/article_images/2014-09-23-3-ways-hack-the-north-improved-our-star
 excerpt: From September 19th to the 21st, University of Waterloo's Engineering 5 building was over run by a native species of the region&#58; hackers...
 ---
 
-From September 19th to the 21st, University of Waterloo's Engineering 5 building was over run by a native species of the region: hackers...
+**From September 19th to the 21st, University of Waterloo's Engineering 5 building was over run by a native species of the region: hackers...**
+
+>Update 1: We've been featured on Hack the North's Press [page][htnpress]! - May 2015
 
 Hack the North at UW gave 1,000 top hackers the opportunity to build something awesome in just 36 hours. Sponsored by top tech companies (Apple, Microsoft, Google, Facebook, Bloomberg, Uber <a href="http://hackthenorth.com" target="_blank">...</a>), <a href="http://www.ycombinator.com/" target="_blank">Y Combinator</a>, and with opportunities to use the newest technologies from Oculus Rifts to Thalmic Lab's Myo, Canada had never seen a hackathon like this.
 
@@ -20,7 +22,7 @@ Hack the North was a breath of fresh air for our team. Webplio, over the past 10
 <iframe src="//www.youtube-nocookie.com/embed/juY4bwJXMVE?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe><annotated>Stock Slate Demo: Built on the MEAN stack and leveraging Bloomberg Open API, Stock Slate provides real time stock investment insights</annotated>
 
 &nbsp;
-<blockquote>With a new idea, new people, and new technologies, we were truly free to build something awesome!</blockquote>
+>With a new idea, new people, and new technologies, we were free to build something awesome!
 
 When we contemplated entering Hack the North we were a bit worried whether we'd find other hackers qualified in the stack we wanted to develop on. What were we thinking?! After some serendipitous posting on the Hack the North Facebook group we assembled our dream team with some of the most perfectly complementary skills imaginable:
 <ul>
@@ -50,7 +52,7 @@ Hack the North didn't just bring together awesome hackers, it also provided some
 
 We wanted to leave enough time for hacking so we decided to only go to the keynote presentations. After seeing both, we have even more respect for the organizers of Hack the North for putting together the best speakers and panels I've seen in years. Friday night kicked off with a riveting discussion between investor Jason Calacanis and billionaire UW alumnus, former Facebook employee, founder of S23P, Chamath Palihapitiya. The length of his name foretold how big his thoughts were on startups and their role in society. He certainly forced me to think even further outside the box than I was used to.
 
-<blockquote>Chamath Palihapitiya: the length of his name foretold how big his thoughts were on startups and their role on society.</blockquote>
+>Chamath Palihapitiya: the length of his name foretold how big his thoughts were on startups and their role on society.
 
 Saturday afternoon's headline act was Y Combinator's new President Sam Altman. He was interviewed by University of Waterloo's Dean of Engineering Dr. Pearl Sullivan but we found the panel discussion that followed much more applicable to startup life. Moderated by Sam, the panel consisted of UW's most successful YCom alumni with founders and CEOs of Pebble, Thalmic Labs, Vidyard, and A Thinking Ape all sharing valuable insights on what it's really like to build a startup.
 
@@ -66,3 +68,5 @@ We had no idea when we arrived at Hack the North that the weekend would improve 
 4. Our team won the Bloomberg API Prize!
 
 This article is the first in our Hack the North series. Continue your reading with Part 2: <a href="http://andrewparadi.com/blog/launchpad-meets-hack-north-3-hypotheses-tested-hacking/">Launchpad Meets Hack the North: 3 Hypotheses We Tested While Hacking</a>.
+
+[htnpress][http://hackthenorth.com/press]
