@@ -8,8 +8,6 @@ excerpt: From September 19th to the 21st, University of Waterloo's Engineering 5
 
 **From September 19th to the 21st, University of Waterloo's Engineering 5 building was over run by a native species of the region: hackers...**
 
->![Update May 2015: We've been featured on Hack the North's Press <a href="http://hackthenorth.com/press" target=_blank">page</a>!](/assets/article_images/2014-09-23-3-ways-hack-the-north-improved-our-startup/HTN-press.png)
-
 Hack the North at UW gave 1,000 top hackers the opportunity to build something awesome in just 36 hours. Sponsored by top tech companies (Apple, Microsoft, Google, Facebook, Bloomberg, Uber <a href="http://hackthenorth.com" target="_blank">...</a>), <a href="http://www.ycombinator.com/" target="_blank">Y Combinator</a>, and with opportunities to use the newest technologies from Oculus Rifts to Thalmic Lab's Myo, Canada had never seen a hackathon like this.
 
 As co-founder of Teknically and currently deep in Webplio development, it would seem counter intuitive to drop what we were doing to build something at Hack the North. When I began to realize the sheer scope of Hack the North back in August, I saw a unique opportunity for Teknically to grow in new ways as a startup.
@@ -62,9 +60,12 @@ Both speakers and the panel confirmed both that Waterloo is an awesome place to 
 
 ##tl;dr
 We had no idea when we arrived at Hack the North that the weekend would improve our startup, but it did!
+
 1. We thrived on the fresh air of working with a new idea, new people, and new technologies.
 2. Our fellow hackers pushed us to keep innovating past the limits of our imagination.
 3. Chamath and the UW + YCom Alumni panel inspired us to dream bigger of who we could become in just a few short years.
 4. Our team won the Bloomberg API Prize!
 
 This article is the first in our Hack the North series. Continue your reading with Part 2: <a href="http://andrewparadi.com/blog/launchpad-meets-hack-north-3-hypotheses-tested-hacking/">Launchpad Meets Hack the North: 3 Hypotheses We Tested While Hacking</a>.
+
+>![Update May 2015: We've been featured on Hack the North's Press <a href="http://hackthenorth.com/press" target=_blank">page</a>!](/assets/article_images/2014-09-23-3-ways-hack-the-north-improved-our-startup/HTN-press.png)

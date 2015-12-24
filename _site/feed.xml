@@ -6,8 +6,8 @@
 </description>
     <link>https://andrewparadi.github.io/</link>
     <atom:link href="https://andrewparadi.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 23 Dec 2015 17:54:45 -0500</pubDate>
-    <lastBuildDate>Wed, 23 Dec 2015 17:54:45 -0500</lastBuildDate>
+    <pubDate>Wed, 23 Dec 2015 23:06:15 -0500</pubDate>
+    <lastBuildDate>Wed, 23 Dec 2015 23:06:15 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -77,7 +77,7 @@
     
       <item>
         <title>3 Ways Hack the North Improved our Startup</title>
-        <description>&lt;p&gt;From September 19th to the 21st, University of Waterloo&amp;#39;s Engineering 5 building was over run by a native species of the region: hackers...&lt;/p&gt;
+        <description>&lt;p&gt;&lt;strong&gt;From September 19th to the 21st, University of Waterloo&amp;#39;s Engineering 5 building was over run by a native species of the region: hackers...&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Hack the North at UW gave 1,000 top hackers the opportunity to build something awesome in just 36 hours. Sponsored by top tech companies (Apple, Microsoft, Google, Facebook, Bloomberg, Uber &lt;a href=&quot;http://hackthenorth.com&quot; target=&quot;_blank&quot;&gt;...&lt;/a&gt;), &lt;a href=&quot;http://www.ycombinator.com/&quot; target=&quot;_blank&quot;&gt;Y Combinator&lt;/a&gt;, and with opportunities to use the newest technologies from Oculus Rifts to Thalmic Lab&amp;#39;s Myo, Canada had never seen a hackathon like this.&lt;/p&gt;
 
@@ -89,10 +89,13 @@
 
 &lt;p&gt;Hack the North was a breath of fresh air for our team. Webplio, over the past 10 months, has been ever evolving as we worked with more customers to better understand their needs. Our hack, Stock Slate, had a narrower scope and was a smaller application. We could move from an idea to a working prototype in the weekend. As each hour went by, we hit different milestones and at times needed to pivot and cut down on iterations. We applied a lot of the principles we knew from working at startups. To us, this was the startup life condensed down to 36 hours!&lt;/p&gt;
 
-&lt;p&gt;&lt;iframe src=&quot;//www.youtube-nocookie.com/embed/juY4bwJXMVE?rel=0&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;annotated&gt;Stock Slate Demo: Built on the MEAN stack and leveraging Bloomberg Open API, Stock Slate provides real time stock investment insights&lt;/annotated&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;//www.youtube-nocookie.com/embed/juY4bwJXMVE?rel=0&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;figcaption&gt;Stock Slate Demo: Built on the MEAN stack and leveraging Bloomberg Open API, Stock Slate provides real time stock investment insights&lt;/figcaption&gt;&lt;/p&gt;
 
-&lt;p&gt;&amp;nbsp;
-&lt;blockquote&gt;With a new idea, new people, and new technologies, we were truly free to build something awesome!&lt;/blockquote&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;With a new idea, new people, and new technologies, we were free to build something awesome!&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;When we contemplated entering Hack the North we were a bit worried whether we&amp;#39;d find other hackers qualified in the stack we wanted to develop on. What were we thinking?! After some serendipitous posting on the Hack the North Facebook group we assembled our dream team with some of the most perfectly complementary skills imaginable:
 &lt;ul&gt;
@@ -102,7 +105,7 @@
     &lt;li&gt;Jason Kurian: A MEAN ninja&lt;/li&gt;
 &lt;/ul&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://instagram.com/p/tOuf1WG8dI/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://photos-g.ak.instagram.com/hphotos-ak-xfp1/1742199_290274417829046_1818926910_n.jpg&quot; alt=&quot;Stock Slate Team&quot;/&gt;&lt;/a&gt;&lt;annotated&gt;Hack the North Dream Team: Yutong Luo, Brandon Chow, Andrew Paradi, Jason Kurian (left to right)&lt;/annotated&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://instagram.com/p/tOuf1WG8dI/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://photos-g.ak.instagram.com/hphotos-ak-xfp1/1742199_290274417829046_1818926910_n.jpg&quot; alt=&quot;Stock Slate Team: Yutong Luo, Brandon Chow, Andrew Paradi, Jason Kurian&quot;/&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Thanks to our shared interest in learning new technologies and matching skills, our team was just filled with &lt;a href=&quot;http://youtu.be/VFqbGbU8f8o&quot; target=&quot;_blank&quot;&gt;synergy&lt;/a&gt;. We also had the skills to tackle new technologies. From the MEAN stack to the Bloomberg Open API it was a lot of fun working with new technologies to build out Stock Slate as a fluid one page web app. We even ended up winning the Bloomberg API Prize for best use of their API (each of us will be get a &lt;a href=&quot;http://ardrone2.parrot.com/&quot; target=&quot;_blank&quot;&gt;Parrot AR Elite Drone&lt;/a&gt; in the mail soon)!&lt;/p&gt;
 
@@ -114,7 +117,7 @@
 
 &lt;video src=&quot;http://videos-b-11.ak.instagram.com/hphotos-ak-xaf1/10713849_1509221115984991_1899933270_n.mp4&quot; type=&quot;video/mp4&quot; controls&gt;&lt;/video&gt;
 
-&lt;p&gt;&lt;annotated&gt;Silicon Man: Why pay for an Oculus Rift and a Thalmic Labs Myo when you could strap an iPhone to your face and create a custom glove interface?!&lt;/annotated&gt;&lt;/p&gt;
+&lt;figcaption&gt;Silicon Man: Why pay for an Oculus Rift and a Thalmic Labs Myo when you could strap an iPhone to your face and create a custom glove interface?!&lt;/figcaption&gt;
 
 &lt;p&gt;I&amp;#39;m a strong believer that you become the people you surround yourself with. That&amp;#39;s why I didn&amp;#39;t want to leave Hack the North when it was done. We were surrounded by wickedly smart, hard working, friendly hackers from around the world not motivated by monetary gain (they didn&amp;#39;t announce the prizes before hand, everybody applied for the love of hacking). It was an amazing group to be part of and we certainly left inspired by each other to keep building awesome stuff.&lt;/p&gt;
 
@@ -124,23 +127,32 @@
 
 &lt;p&gt;We wanted to leave enough time for hacking so we decided to only go to the keynote presentations. After seeing both, we have even more respect for the organizers of Hack the North for putting together the best speakers and panels I&amp;#39;ve seen in years. Friday night kicked off with a riveting discussion between investor Jason Calacanis and billionaire UW alumnus, former Facebook employee, founder of S23P, Chamath Palihapitiya. The length of his name foretold how big his thoughts were on startups and their role in society. He certainly forced me to think even further outside the box than I was used to.&lt;/p&gt;
 
-&lt;blockquote&gt;Chamath Palihapitiya: the length of his name foretold how big his thoughts were on startups and their role on society.&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Chamath Palihapitiya: the length of his name foretold how big his thoughts were on startups and their role on society.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;Saturday afternoon&amp;#39;s headline act was Y Combinator&amp;#39;s new President Sam Altman. He was interviewed by University of Waterloo&amp;#39;s Dean of Engineering Dr. Pearl Sullivan but we found the panel discussion that followed much more applicable to startup life. Moderated by Sam, the panel consisted of UW&amp;#39;s most successful YCom alumni with founders and CEOs of Pebble, Thalmic Labs, Vidyard, and A Thinking Ape all sharing valuable insights on what it&amp;#39;s really like to build a startup.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://instagram.com/p/tLJ1t1G8b6/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://photos-b.ak.instagram.com/hphotos-ak-xaf1/10693659_1466888876932369_1764327461_n.jpg&quot; alt=&quot;UW + YCom Panel&quot;/&gt;&lt;/a&gt;&lt;annotated&gt;UW + YC: Sam Altman moderates a panel of alumni from both University of Waterloo and Y Combinator: Eric Migicovsky (Founder, Pebble), Eric Diep (Founder, A Thinking Ape), Wilkins Chung (A Thinking Ape), Michael Litt (CEO, Vidyard), Stephen Lake (CEO, Thalmic Labs)&lt;/annotated&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://instagram.com/p/tLJ1t1G8b6/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://photos-b.ak.instagram.com/hphotos-ak-xaf1/10693659_1466888876932369_1764327461_n.jpg&quot; alt=&quot;UW + YC: Sam Altman moderates a panel of alumni from both University of Waterloo and Y Combinator: Eric Migicovsky (Founder, Pebble), Eric Diep (Founder, A Thinking Ape), Wilkins Chung (A Thinking Ape), Michael Litt (CEO, Vidyard), Stephen Lake (CEO, Thalmic Labs)&quot;/&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Both speakers and the panel confirmed both that Waterloo is an awesome place to build a startup, but there&amp;#39;s nothing that can come close to the access to capital and mentorship that you get in Silicon Valley. Even though all of the UW YCom founders have since moved their companies back to Waterloo (or Vancouver for A Thinking Ape), each founder talked about how they still spend time regularly in the valley to maintain their networks and receive corporate guidance. For our startup, these two talks pushed us to set more concrete goals of how we will somehow make our way to the valley in coming years.&lt;/p&gt;
 
 &lt;h2&gt;tl;dr&lt;/h2&gt;
 
-&lt;p&gt;We had no idea when we arrived at Hack the North that the weekend would improve our startup, but it did!
-1. We thrived on the fresh air of working with a new idea, new people, and new technologies.
-2. Our fellow hackers pushed us to keep innovating past the limits of our imagination.
-3. Chamath and the UW + YCom Alumni panel inspired us to dream bigger of who we could become in just a few short years.
-4. Our team won the Bloomberg API Prize!&lt;/p&gt;
+&lt;p&gt;We had no idea when we arrived at Hack the North that the weekend would improve our startup, but it did!&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;We thrived on the fresh air of working with a new idea, new people, and new technologies.&lt;/li&gt;
+&lt;li&gt;Our fellow hackers pushed us to keep innovating past the limits of our imagination.&lt;/li&gt;
+&lt;li&gt;Chamath and the UW + YCom Alumni panel inspired us to dream bigger of who we could become in just a few short years.&lt;/li&gt;
+&lt;li&gt;Our team won the Bloomberg API Prize!&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;p&gt;This article is the first in our Hack the North series. Continue your reading with Part 2: &lt;a href=&quot;http://andrewparadi.com/blog/launchpad-meets-hack-north-3-hypotheses-tested-hacking/&quot;&gt;Launchpad Meets Hack the North: 3 Hypotheses We Tested While Hacking&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/article_images/2014-09-23-3-ways-hack-the-north-improved-our-startup/HTN-press.png&quot; alt=&quot;Update May 2015: We&amp;#39;ve been featured on Hack the North&amp;#39;s Press &amp;lt;a href=&amp;quot;http://hackthenorth.com/press&amp;quot; target=_blank&amp;quot;&amp;gt;page&amp;lt;/a&amp;gt;!&quot;&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
         <pubDate>Tue, 23 Sep 2014 10:34:25 -0400</pubDate>
         <link>https://andrewparadi.github.io/blog/3-ways-hack-the-north-improved-our-startup/</link>
