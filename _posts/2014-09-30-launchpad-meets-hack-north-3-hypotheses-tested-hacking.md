@@ -29,9 +29,9 @@ With many different ways to implement this fluid user experience, we wanted to t
 Stock Slate confirmed our hypothesis. Using the MEAN stack as the backbone for our real-time stocks application, we could easily test the most important capabilities of the framework. 
 
 >Could it process lots of data in real-time? Yes.
->
+>  
 >Could it easily plug into different APIs to grab the data? Yup.
->
+>  
 >Was the end user experience as fluid as an iPad app? You bet.
 
 Hack the North provided a perfect opportunity to test if the MEAN stack would be the best way to bring powerful fluid functionality to Webplio users. Over the coming months we'll be bringing some of the best aspects of the MEAN stack to Webplio. We can't wait for it to feel more like an iPad app, and less like just another online dashboard.
@@ -53,7 +53,7 @@ When we showed peers, judges, and sponsors they all had the same reaction: **dis
 
 
 >"You automated fundamental stock analysis?! That's genius. I'd use this."
->
+>  
 >"Wow! Warren Buffett likes my picks! This is so simple."
 
 
