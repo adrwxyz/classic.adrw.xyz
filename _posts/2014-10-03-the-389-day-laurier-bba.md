@@ -60,7 +60,7 @@ These aspects alone were a big deal for us. The past two weeks have expanded wha
 
 To fully take advantage of the resources and partnership available as part of Google for Entrepreneurs, we would need to work <strong>quickly</strong>. To effectively leverage our grant money to exponentially grow Teknically, we would need to stay <strong>focused</strong>. 
 
-<strong>We remembered what it was like to work full time in the summer... We were remarkably focused, productive and made amazing progress...</strong>
+We remembered what it was like to work full time in the summer... We were remarkably focused, productive and made amazing progress...
 
 
 

@@ -69,4 +69,4 @@ We had no idea when we arrived at Hack the North that the weekend would improve 
 
 This article is the first in our Hack the North series. Continue your reading with Part 2: <a href="http://andrewparadi.com/blog/launchpad-meets-hack-north-3-hypotheses-tested-hacking/">Launchpad Meets Hack the North: 3 Hypotheses We Tested While Hacking</a>.
 
->![###Update May 2015: We've been featured on Hack the North's Press <a href="http://hackthenorth.com/press" target=_blank">page</a>!](/assets/article_images/2014-09-23-3-ways-hack-the-north-improved-our-startup/HTN-press-c.jpg)
+>![Update May 2015: We've been featured on Hack the North's Press <a href="http://hackthenorth.com/press" target=_blank">page</a>!](/assets/article_images/2014-09-23-3-ways-hack-the-north-improved-our-startup/HTN-press-c.jpg)
