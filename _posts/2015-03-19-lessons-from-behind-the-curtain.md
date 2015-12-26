@@ -1,6 +1,6 @@
 ---
 title:  "Five Lessons from Behind the Curtain"
-date:   2014-09-30 12:34:25
+date:   2015-03-19 16:09:25
 tags: startups
 image: /assets/article_images/2015-03-19-lessons-from-behind-the-curtain/chicago.jpg
 excerpt: At our final Laurier Launchpad update presentation we summarized the five biggest lessons we had learned founding our startup, Teknically.
