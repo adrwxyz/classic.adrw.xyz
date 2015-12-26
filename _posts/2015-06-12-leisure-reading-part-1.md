@@ -32,6 +32,7 @@ P.S. As with most things, the sequel isn't as good as the original but the Rosie
 
 <h2>The Autobiography of Malcolm X - Malcolm X & Alex Haley</h2>
 ![](/assets/article_images/2015-06-12-leisure-reading-part-1/Autobiography-Of-Malcolm-X-The.jpg)
+
 Malcolm X grew up like many African American males. He went through the foster system, spent his youth in the ghetto, hustled drugs in Harlem, and ended up in jail. Yet these undistinguishable formative years are what make the rest of his life so profound. He overcome religious cults to become a widely known and respected civil rights and community leader in Harlem. His powerful, passionate speeches live on in recordings and videos today long past his assassination in February 1965.
 
 One sentiment shared repeatedly throughout the book was his belief that the desegregationist civil rights protestors like Martin Luther King Jr. weren't going to affect lasting change, but could simply tackle surface issues. Repeal of Jim Crow laws, integrated busses, integrated schools, the Civil Rights Act of 1964... <a href="http://www.theatlantic.com/features/archive/2014/05/the-case-for-reparations/361631/" target="_blank">it was all just lipstick on a pig</a>. Fundamental complex race problems couldn't be dealt with simply with integration and legislation. As we continue to see the racially charged police abuses in Ferguson & Baltimore, and the silent discriminating economic issues around education funding, health care access, and poverty rates, I have begun to understand that "radical" Malcolm may not have been so radical after all. <a href="https://youtu.be/fby2koTK4lY" target="_blank">We shall overcome</a>, but we certainly have not yet.
@@ -52,12 +53,14 @@ Though I'm many years away from ever exchanging rings, Tim's book speaks wisdom 
 
 <h2>The Hard Thing About Hard Things - Ben Horowitz</h2>
 ![](/assets/article_images/2015-06-12-leisure-reading-part-1/hard-things-ben-horowitz.jpg)
+
 <strong>Hand down, this is the most practical management book I've ever read.</strong> Written with the brevity of <a href="http://www.paulgraham.com/articles.html" target="_blank">Paul Graham</a> but interspersed with rap lyrics, Ben Horowitz (startup founder, CEO, and famous VC) dishes on how to effectively manage a startup. I valued the lessons and perspective he had from over a decade building a startup, IPO-ing during the Dotcom crash of 2000, and building Opsware into a massive IT software business that was acquired by  HP for $1.6 billion in 2006. 
 
 Reflecting on Teknically, certain aspects were always easy to identify as potential causes of our failure. After reading Hard Things, it is so much easier to pinpoint what specifically went wrong and what I will do differently in a new startup. <strong>This book is simply the most practical, must read for any startup founder.</strong> It succeeds Zero to One as my must-read recommendation for anybody in startups right now.
 
 <h2>Losing the Signal - Jacquie McNish & Sean Silcoff</h2>
 ![](/assets/article_images/2015-06-12-leisure-reading-part-1/losin_the_signal_mcnish.jpg)
+
 I bought Losing the Signal on Kobo days after it came out and <strong>was finished reading it within 10 days.</strong> It's the riveting account of Mike Lazaridis, Jim Balsille, RIM's hard fought rise to dominance in the smartphone industry they invented, and their precipitous fall we have all witnessed in the past 6 years. There are two reasons why I found this book so difficult to put down. 
 
 First, reading of how RIM was built right here in Waterloo where I work, live, and study was like reading my own family history. So much of the Kitchener Waterloo tech scene has been impacted by RIM and built by former RIM employees. So many different businesses and locations mentioned in the book I recognized or had been to myself, it became so easy and surreal to visualize these thrilling events that happened so close to where I live. <strong>Understanding the story of RIM is fundamental in many ways to understanding the story of the Kitchener Waterloo tech scene.</strong>
@@ -69,10 +72,9 @@ In the Epilogue, Jim Balsille grew increasingly frustrated as he recalled his fi
 Pride and ignorant optimism let RIM's management believe that new smart phones and QNX powered Blackberry 10 would save them. To know the clear promise of Jim's BBM software & services strategy and yet see how viciously it was pushed aside is, for me, the most profound indication of RIM management's misunderstanding of the new world ushered in by the iPhone. <strong>A market where apps are more important than battery life, design matters more than productivity, and cloud services are better consumer lock in than a perfect hardware keyboard.</strong>
 
 <h2>Next Reads</h2>
-![](/assets/article_images/2015-06-12-leisure-reading-part-1/elon-musk-ashlee-vance.jpg)
 With 12 books done in 6 months, I'm on track for a book every two weeks. Right now I'm working on:
-- <strong>Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future - Ashlee Vance</strong>
-- <strong>The Hobbit - J. R. R. Tolkien</strong>
+- <strong>Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future by Ashlee Vance</strong>
+- <strong>The Hobbit by J. R. R. Tolkien</strong>
 
 No matter how busy you feel you are, it's always the right time to start investing in yourself by reading. I never set out to reach a certain number but Im glad that I stuck with reading for fun this year. The dividends continue to pay out in my life and I hope the same for you.
 
