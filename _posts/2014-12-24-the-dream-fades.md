@@ -3,7 +3,7 @@ title:  "Teknically Part 2: The Dream Fades"
 date:   2014-12-24 13:00:00
 tags: startups
 image: /assets/article_images/2015-03-19-lessons-from-behind-the-curtain/chicago.jpg
-excerpt: To Y Combinator and back again, our biggest lessons at Teknically Inc. building Webplio: a Google Analytics dashboard that anybody could use.
+excerpt: To Y Combinator and back again, our biggest lessons at Teknically Inc. building Webplio&#58; a Google Analytics dashboard that anybody could use.
 seo-title: Teknically Part 2&#58; The Dream Fades
 ---
 

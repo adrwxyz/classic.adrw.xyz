@@ -3,7 +3,7 @@ title:  "Innovation in the 6"
 date:   2015-04-29 23:47:45
 tags: startups
 image: /assets/article_images/2015-04-29-innovation-in-the-6/discovery2015.jpg
-excerpt: OCE Discover 2015: Thousands of entrepreneurs, researchers, policy makers, & community organizations together to celebrate and foster innovation in Ontario.
+excerpt: OCE Discover 2015&#58; Thousands of entrepreneurs, researchers, policy makers, & community organizations together to celebrate and foster innovation in Ontario.
 seo-title: Innovation in the 6
 ---
 
