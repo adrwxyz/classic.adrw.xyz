@@ -7,7 +7,7 @@ excerpt: Understanding Videostream users better through email support let me wri
 seo-title: Videostream&#58; How Growth Starts with Great Customer Support
 ---
 
-As a Growth Intern at <a href="http://getvideostream.com/" target="_blank">Videostream</a>, I used my customer support job to hack growth on all fronts. After answering thousands of customer emails, I could write sales copy that resonated. Website downloads went up by 32%, weekly active users grew 12%, and revenue even went up! Find out how you can do it too.
+**As a Growth Intern at <a href="http://getvideostream.com/" target="_blank">Videostream</a>, I used my customer support job to hack growth on all fronts. After answering thousands of customer emails, I could write sales copy that resonated. Website downloads went up by 32%, weekly active users grew 12%, and revenue even went up! Find out how you can do it too.**
 
 <h2>Update Oct 22: Approval from legend <a href="https://twitter.com/copyhackers" target="_blank">Joanna</a> at <a href="https://copyhackers.com/" target="_blank">Copyhackers</a>!</h2>
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">nice work! *really* great study on optimizing for growth in a short period of time <a href="https://t.co/BZPdRb2Pbj">https://t.co/BZPdRb2Pbj</a></p>&mdash; Joanna Wiebe (@copyhackers) <a href="https://twitter.com/copyhackers/status/657363804162949121">October 23, 2015</a></blockquote>
