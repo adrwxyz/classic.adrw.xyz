@@ -9,7 +9,7 @@ seo-title: Teknically Part 2&#58; The Dream Fades
 
 Two eggs over easy, hash browns, double bacon, ham, sausage, french toast. It's hard to tell which was the final straw but by the end of lunch on December 2nd, Teknically was finished. We were going back to university. Our startup journey had reached the end.
 
-Well I suppose this deserves a bit more explanation. Let's go back to where we last left off: "<a href="http://andrewparadi.com/blog/the-389-day-laurier-bba/">...let the post-post-secondary adventure begin.</a>"
+Well I suppose this deserves a bit more explanation. Let's go back to where we last left off: "<a href="/blog/the-389-day-laurier-bba/">...let the post-post-secondary adventure begin.</a>"
 
 As seemed to be the pattern with our startup journey so far, life without classes didn't slow down, it only got faster. Within days of signing final deferral paperwork, we had decided to apply for Y Combinator and I already had plans to go to California!
 

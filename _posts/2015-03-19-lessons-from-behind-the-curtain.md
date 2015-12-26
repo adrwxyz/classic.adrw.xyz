@@ -13,7 +13,7 @@ This third instalment of the Teknically series transitions from telling our stor
 
 
 <h2>Pulling Back the Curtain</h2>
-In parts <a href="http://andrewparadi.com/blog/the-389-day-laurier-bba/">1</a> and <a href="http://andrewparadi.com/blog/the-dream-fades/">2</a> of this series, I've told how over 13 months we've been immersed in many aspects of the Kitchener-Waterloo Tech Scene. From Laurier Launchpad to winning national business competitions, Google for Entrepreneurs to managing co-op students and employees, pitching small business owners to interviewing at Y Combinator.
+In parts <a href="/blog/the-389-day-laurier-bba/">1</a> and <a href="/blog/the-dream-fades/">2</a> of this series, I've told how over 13 months we've been immersed in many aspects of the Kitchener-Waterloo Tech Scene. From Laurier Launchpad to winning national business competitions, Google for Entrepreneurs to managing co-op students and employees, pitching small business owners to interviewing at Y Combinator.
 
 >We've been immersed in the "Startup Experience" like few our age.
 
@@ -99,4 +99,4 @@ I still have <a href="http://youtu.be/_DnKNClu2XM?t=1m45s" target="_blank">no ra
 
 I'm still learning so I hope you don't take the above as fact. Take these thoughts, wrestle with them, and determine what you want to believe. Don't take anything you're told for granted. Make your own thoughts. Craft your own destiny.
 
-My next post goes into how founding Teknically poured gasoline on my personal development, <a href="http://andrewparadi.com/blog/7-personal-lessons-from-founding-a-startup/" target="_blank">check it out here</a>!
+My next post goes into how founding Teknically poured gasoline on my personal development, <a href="/blog/7-personal-lessons-from-founding-a-startup/" target="_blank">check it out here</a>!
