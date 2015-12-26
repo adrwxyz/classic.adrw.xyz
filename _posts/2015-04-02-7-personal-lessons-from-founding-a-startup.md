@@ -11,7 +11,6 @@ When people use analogies of your co-founder being like a wife, a startup as you
 
 <h2>0: Startup Laurier Chat</h2>
 <iframe width="853" height="480" src="https://www.youtube-nocookie.com/embed/9d5snONjSCk?rel=0" frameborder="0" allowfullscreen></iframe>
-&nbsp;
 I covered these 7 tips in a talk I did at <a href="https://www.facebook.com/startuplaurier" target="_blank">Startup Laurier</a> in January. Unfortunately the camera cut out midway through so I've tried to cover below the main points from the talk. Also here are the startup books & resources I mentioned in the talk:
 - <a href="http://www.paulgraham.com/articles.html" target="_blank">"The Essays"</a> - Paul Graham
 - <a href="http://www.amazon.com/exec/obidos/ASIN/0470929820/domofa-20" target="_blank">Venture Deals</a> - Brad Feld
@@ -65,7 +64,7 @@ If you want to be serious about becoming a great leader, be serious about leadin
 I have two distinct memories of becoming overwhelmed by failure in the course of our startup. Both revealed an immovable reliance I had put on success to justify my understanding of who I was as a person. 
 
 <h3>i) Laurier Entrepreneurship Competition</h3>
-![](/assets/article_images/2015-04-02-7-personal-lessons-from-founding-a-startup/LEC.png)
+![](/assets/article_images/2015-04-02-7-personal-lessons-from-founding-a-startup/LEC.jpg)
 
 In February 2014 we competed in the Laurier Entrepreneurship Competition and blew away the crowd with a very polished presentation. Compared to others who presented in terms of their idea and presentation I was sure without much of any doubt that we would win.
 
@@ -108,4 +107,4 @@ As university students in the West, we already are among the top <a href="http:/
 It's easy to ignore the facts, to just stay busy with clubs, class, and parties. <strong>Most people don't get the opportunity to live an easy life. The few of us that do, have the responsibility to not settle for it.</strong>
 
 <h2>Upcoming</h2>
-Thanks for reading! Please comment, subscribe below, or <a href="https://twitter.com/andrew_paradi" target="_blank">follow</a> if you're feeling good vibes. Always looking for feedback! Next post I go through 6 ways you can BBQ a squirrel...
+Thanks for reading! Please comment, subscribe below, or <a href="https://twitter.com/andrew_paradi" target="_blank">follow</a> if you're feeling good vibes. Always looking for feedback! [Next post](/blog/innovation-in-the-6/) I go through 6 ways you can BBQ a squirrel...
