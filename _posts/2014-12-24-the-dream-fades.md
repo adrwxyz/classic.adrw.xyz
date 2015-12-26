@@ -7,7 +7,7 @@ excerpt: To Y Combinator and back again, our biggest lessons at Teknically Inc. 
 seo-title: Teknically Part 2&#58; The Dream Fades
 ---
 
-Two eggs over easy, hash browns, double bacon, ham, sausage, french toast. It's hard to tell which was the final straw but by the end of lunch on December 2nd, Teknically was finished. We were going back to university. Our startup journey had reached the end.
+**Two eggs over easy, hash browns, double bacon, ham, sausage, french toast. It's hard to tell which was the final straw but by the end of lunch on December 2nd, Teknically was finished. We were going back to university. Our startup journey had reached the end.**
 
 Well I suppose this deserves a bit more explanation. Let's go back to where we last left off: "<a href="/blog/the-389-day-laurier-bba/">...let the post-post-secondary adventure begin.</a>"
 

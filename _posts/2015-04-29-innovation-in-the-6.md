@@ -7,7 +7,7 @@ excerpt: OCE Discover 2015&#58; Thousands of entrepreneurs, researchers, policy 
 seo-title: Innovation in the 6
 ---
 
-Thousands of entrepreneurs, researchers, policy makers, and community organizations coming together to celebrate and foster innovation in Ontario. On April 27th, I went to OCE Discovery 2015 in Toronto.
+**Thousands of entrepreneurs, researchers, policy makers, and community organizations coming together to celebrate and foster innovation in Ontario. On April 27th, I went to OCE Discovery 2015 in Toronto.**
 
 <h2>Founder's Forum with a Dragon</h2>
 In August 2014, Teknically (see part <a href="/blog/the-389-day-laurier-bba/">1</a>, <a href="/blog/the-dream-fades/">2</a>) was approved for $30,000 in Ontario Centres of Excellence (OCE) SmartStart funding. The funding allowed us to work full time developing Webplio for small business owners in Ontario and around the world in Fall 2014.

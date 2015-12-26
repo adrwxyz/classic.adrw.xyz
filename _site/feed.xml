@@ -6,13 +6,90 @@
 </description>
     <link>https://andrewparadi.github.io/</link>
     <atom:link href="https://andrewparadi.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 25 Dec 2015 23:15:05 -0500</pubDate>
-    <lastBuildDate>Fri, 25 Dec 2015 23:15:05 -0500</lastBuildDate>
+    <pubDate>Sat, 26 Dec 2015 01:01:03 -0500</pubDate>
+    <lastBuildDate>Sat, 26 Dec 2015 01:01:03 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>Fred &amp; Ted: Uber&#39;s Disruption is Delusional</title>
-        <description></description>
+        <description>&lt;p&gt;Three key insights on Uber, when to drop out, and valuations from Communitech&amp;#39;s fireside chat with renowned VC Fred &amp;amp; CEO Ted.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Woah who&amp;#39;s Fred &amp;amp; Ted?!&lt;/strong&gt; Fred Wilson is a very well known Venture Capitalist and Co-Founder of &lt;a href=&quot;https://www.usv.com/&quot; target=&quot;_blank&quot;&gt;Union Square Ventures&lt;/a&gt; (funded Twitter, Tumblr, Etsy, Kik...). Ted Livingston is Founder/CEO of &lt;a href=&quot;http://www.kik.com/&quot; target=&quot;_blank&quot;&gt;Kik&lt;/a&gt;, currently the messaging app of choice for over 200 million people. As an early investor in Kik, Fred &amp;amp; Ted have built a strong working relationship and it was remarkable to have both of them sit down to share their perspective with a chat moderated by &lt;a href=&quot;http://velocity.uwaterloo.ca/&quot; target=&quot;_blank&quot;&gt;Velocity&lt;/a&gt; Director Mike Kirkup. Three parts of the chat stood out for me.&lt;/p&gt;
+
+&lt;h2&gt;Disruption is Delusional&lt;/h2&gt;
+
+&lt;p&gt;Anybody reading the news over the past two years has seen the controversies as a result of two companies disrupting the transportation and accommodation sectors respectively: &lt;strong&gt;Uber &amp;amp; Airbnb. &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/article_images/2015-05-11-fred-ted/airbnb-nyc-poster.jpg&quot; alt=&quot;Defaced Airbnb Poster in New York City, July 2014.  Photo: &amp;lt;a href=&amp;#39;http://d.fastcompany.net/multisite_files/fastcompany/poster/2014/07/3033191-poster-p-1-airbnb-ads-guerilla-vigilante.jpg&amp;#39; target=&amp;#39;_blank&amp;#39;&amp;gt;FastCompany&amp;lt;/a&amp;gt;&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;From most recently a &lt;a href=&quot;http://www.theglobeandmail.com/news/alberta/calgary-home-in-ruins-after-airbnb-nightmare/article24182387/&quot; target=&quot;_blank&quot;&gt;&amp;quot;drug-induced orgy&amp;quot; at an Airbnb in Calgary&lt;/a&gt; to an &lt;a href=&quot;http://valleywag.gawker.com/uber-calls-womans-20-mile-nightmare-abduction-an-ineff-1645819700&quot; target=&quot;_blank&quot;&gt;Uber driver kidnapping a woman&lt;/a&gt;, entire sites have sprung up devoted to frightening tales including &lt;a href=&quot;http://www.airbnbhell.com/airbnb-guest-stories/&quot; target=&quot;_blank&quot;&gt;airbnbHell&lt;/a&gt; and &lt;a href&quot;http://www.ubertrocity.com/top-10-uber-horror-stories/&quot; target=&quot;_blank&quot;&gt;UberTrocity&lt;/a&gt;. These companies have tried to combat horror stories with self-justifying &lt;a href=&quot;http://pando.com/2012/10/24/travis-shrugged/?utm_content=buffera9b1c&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer&quot; target=&quot;_blank&quot;&gt;Ayn Rand philosophies&lt;/a&gt; instilled into employees and &lt;a href=&quot;http://www.theverge.com/2014/7/14/5896785/hey-new-york-airbnb-wants-to-get-you-in-bed&quot; target=&quot;_blank&quot;&gt; persuasive marketing campaigns&lt;/a&gt; to the public.&lt;/p&gt;
+
+&lt;p&gt;When asked about his thoughts on these companies, Fred didn&amp;#39;t let them off the hook:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;There are things that Airbnb has facilitated that aren&amp;#39;t good things.  I&amp;#39;m not an investor in them so I can admit it. [...] I think the same thing is true for some ride sharing services. [...] We ought to admit it&amp;#39;s not a good thing. We ought to start to have a conversation with people about how we can put the proper controls in place so that these services are used in ways that are helpful, and are not used in ways that are harmful.&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;And yet despite the horrific situations that users have found themselves in, the &lt;a href=&quot;http://upstart.bizjournals.com/entrepreneurs/hot-shots/2014/11/05/travis-kalanicks-take-no-prisoners-startup.html?page=all&quot; target=&quot;_blank&quot;&gt;companies&lt;/a&gt; &lt;a href=&quot;http://www.bloomberg.com/bw/articles/2014-02-20/uber-leads-taxi-industry-disruption-amid-fight-for-riders-drivers&quot; target=&quot;_blank&quot;&gt;claim&lt;/a&gt; that this is simply the price of &lt;em&gt;disruption&lt;/em&gt;. I have used both services and they indeed are radically better than their &amp;quot;old economy&amp;quot; equivalents. It can become easy to justify the horrific experiences of some users as simply an unfortunate &lt;em&gt;cost of doing business&lt;/em&gt; in the shared economy. Yet, Fred wasn&amp;#39;t silent on the valley culture of &lt;em&gt;disruption&lt;/em&gt; worship:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;I don&amp;#39;t like when people in my business or in the startup sector are blindly like &amp;#39;We&amp;#39;re disruptors!&amp;#39; &amp;#39;Screw those people, we&amp;#39;re making the world better!&amp;#39; and &amp;#39;Get off our back&amp;#39;. It&amp;#39;s not really true. There&amp;#39;s always some harm when you build something new and it does, I think, make sense to have a conversation about what the rules of the game should be to make sure that things are safe and things are done properly.&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Fred&amp;#39;s remarks struck a chord with me in his balanced approach to the need for &lt;strong&gt;reasonable yet protective&lt;/strong&gt; regulation in the new sharing economy.&lt;/p&gt;
+
+&lt;h2&gt;Don&#39;t Choose to Drop Out, Wait for the Startup to Force You&lt;/h2&gt;
+
+&lt;p&gt;A question that was brought up by Velocity Director Mike Kirkup and that echoes frequently in the minds of student entrepreneurs is &lt;strong&gt;&amp;quot;how do I know if I should drop out?&amp;quot;&lt;/strong&gt;. We asked ourselves this a lot prior to pulling the plug and &lt;a href=&quot;http://andrewparadi.com/2014/10/the-389-day-laurier-bba/&quot;&gt;deferring classes&lt;/a&gt; in Fall 2014.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/article_images/2015-05-11-fred-ted/ted-livingston-kik-phone.jpg&quot; alt=&quot;Ted with early Kik apps after raising his Series A in 2011. Photo: &amp;lt;a href=&amp;#39;http://betakit.com/39411/&amp;#39; target=&amp;#39;_blank&amp;#39;&amp;gt;BetaKit&amp;lt;/a&amp;gt;&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Unlike many entrepreneurs (myself included) who sometimes seem like they&amp;#39;re looking for a reason to drop out, Ted stayed in school as long as he could. &lt;strong&gt;He didn&amp;#39;t drop out of University of Waterloo until Kik was raising a $1 million seed funding round.&lt;/strong&gt; At that point, his investors wouldn&amp;#39;t sign unless he dropped out to work full time. &lt;/p&gt;
+
+&lt;p&gt;He and Mike chimed in about the world leading talent pool at University of Waterloo and opportunities to do startups without giving up the safety net of university. All three on stage reiterated that you shouldn&amp;#39;t start a startup to simply start a startup, wait for the right idea and work at other startups until then.&lt;/p&gt;
+
+&lt;p&gt;Having gone through many of these realizations over &lt;a href=&quot;/blog/lessons-from-behind-the-curtain/&quot;&gt;my journey with Teknically&lt;/a&gt;, I couldn&amp;#39;t agree more with the panel:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;Don&amp;#39;t drop out until you absolutely have to. &lt;/li&gt;
+&lt;li&gt;Don&amp;#39;t start a startup just to start a startup.&lt;/li&gt;
+&lt;li&gt;Don&amp;#39;t take for granted the safety net of being a university student, make the most of it!&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;h2&gt;Let the Valuation Choose You&lt;/h2&gt;
+
+&lt;p&gt;In the last few minutes of the talk, Fred was asked about how to choose an initial valuation for fundraising rounds. He proceeded to dish out one of the simplest mathematical methods I&amp;#39;ve heard. (If the following section seems a bit confusing, try this &lt;a href=&quot;https://youtu.be/EHzvmyMJEK4&quot; target=&quot;_blank&quot;&gt;How to Start a Startup lecture&lt;/a&gt;, if it seems too simple check out the book &lt;a href=&quot;http://www.amazon.com/exec/obidos/ASIN/0470929820/domofa-20&quot; target=&quot;_blank&quot;&gt;Venture Deals&lt;/a&gt; by Brad Feld)&lt;/p&gt;
+
+&lt;p&gt;Most entrepreneurs initially want to optimize for a high valuation when raising money. This mentality stems from the desire to give less of their company away for the same amount of money. Fred reiterated that this is optimizing for the wrong thing. Instead of simply of choosing a big valuation and trying to justify it, he suggested to focus on three more important areas to easily determine a reasonable valuation.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;How much do you want to give away?&lt;/strong&gt; Each round plan to give 10-20% of the company away, but don&amp;#39;t go too much over 20% or later rounds will become very difficult.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;How much do you need?&lt;/strong&gt; At least 12 months of runway. More than 18 may make the round difficult to raise and harder for next one.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Choose the right investors.&lt;/strong&gt; At the end of the day who your investors are matter more than valuation, you&amp;#39;ll be married to them most likely for the lifespan of the company.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Calculate your valuation simply: &lt;br/&gt;Valuation = 12-18 month burn / 10-20% equity&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3&gt;Example A&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Raising (burn)&lt;/strong&gt; $20,000 x 12 months = $240,000 &lt;strong&gt;for (equity)&lt;/strong&gt; 10-20%.
+&lt;strong&gt;Valuation&lt;/strong&gt; = $240,000 / 0.2 to $240,000/0.1 = $1.2 million to $2.4 million&lt;/p&gt;
+
+&lt;h3&gt;Example B&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Raising&lt;/strong&gt; $50,000 x 18 months = $900,000 &lt;strong&gt;for&lt;/strong&gt; 15%
+&lt;strong&gt;Valuation&lt;/strong&gt; = $900,000 / 0.15 = $6 million&lt;/p&gt;
+
+&lt;p&gt;Fred&amp;#39;s simple math makes choosing a ballpark valuation almost too easy. We now have no excuse for getting sucked into an valuation inflation spiral (I&amp;#39;m looking at you &lt;a href=&quot;https://youtu.be/a9ToqUSfkv8&quot; target=&quot;_blank&quot;&gt;Silicon Valley&lt;/a&gt; Season 2 Episode 1)!&lt;/p&gt;
+
+&lt;h2&gt;Last Words&lt;/h2&gt;
+
+&lt;p&gt;Fireside Chats = Free learning from legends (usually worth the hype, don&amp;#39;t let doubts stop you from showing up!)&lt;/p&gt;
+</description>
         <pubDate>Mon, 11 May 2015 14:34:25 -0400</pubDate>
         <link>https://andrewparadi.github.io/blog/fred-ted/</link>
         <guid isPermaLink="true">https://andrewparadi.github.io/blog/fred-ted/</guid>
@@ -169,7 +246,7 @@ club president, or even startup founder. True leadership extends for 360º.&lt;/
 
 &lt;h3&gt;i) Laurier Entrepreneurship Competition&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/article_images/2015-04-02-7-personal-lessons-from-founding-a-startup/LEC.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/article_images/2015-04-02-7-personal-lessons-from-founding-a-startup/LEC-c.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;In February 2014 we competed in the Laurier Entrepreneurship Competition and blew away the crowd with a very polished presentation. Compared to others who presented in terms of their idea and presentation I was sure without much of any doubt that we would win.&lt;/p&gt;
 
@@ -188,7 +265,7 @@ The best don&amp;#39;t always win. Just accept it.&lt;/p&gt;
 
 &lt;h3&gt;ii) Y Combinator&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/article_images/2015-04-02-7-personal-lessons-from-founding-a-startup/SFstation.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/article_images/2015-04-02-7-personal-lessons-from-founding-a-startup/SFstation-c.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;In November 2014, we interviewed unsuccessfully at Y Combinator in Mountain View, California. My reaction then was different. I began to think back over everything we had accomplished; competitions won, mentors impressed, co-op students hired, innovative software designs, overflowing waitlists of customers. Had it all been false positives, had it all been for nothing? &lt;/p&gt;
 
@@ -200,7 +277,7 @@ The best don&amp;#39;t always win. Just accept it.&lt;/p&gt;
 
 &lt;h2&gt;Faith&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/article_images/2015-04-02-7-personal-lessons-from-founding-a-startup/field-cross.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/article_images/2015-04-02-7-personal-lessons-from-founding-a-startup/field-cross-c.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;I wouldn&amp;#39;t be honest with you if I didn&amp;#39;t bring this up. Any founder will admit to the anxiety that can sink in late at night or right before an important presentation, the stress that can seem to compound with each day, the doubts of whether this is all going to be worth it.&lt;/p&gt;
 

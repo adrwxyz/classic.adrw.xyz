@@ -1,0 +1,79 @@
+---
+title:  "My Favourite 6 Books Since January"
+date:   2015-06-12 01:34:25
+tags: life
+image: /assets/article_images/2015-06-12-leisure-reading-part-1/bills-glass-c.jpg
+excerpt: 6 books I'd recommend that I've read since January 2015. Books covering civil rights, business, startups, and a romcom of a professor with Aspergers.
+seo-title: My Favourite 6 Books Since January
+---
+
+I purchased my Kobo Aura on Boxing Day 2014 and decided I would be more diligent in my leisure reading this year. 6 months in, these are the 6 books that I would most recommend. 
+
+
+<h2>David & Goliath - Malcolm Gladwell</h2>
+![](/assets/article_images/2015-06-12-leisure-reading-part-1/Gladwell_David-and-Goliath.jpg)
+Gladwell's books have always intrigued me since I read about 10,000 hours to success in <strong>Outliers</strong> in grade 9. <strong>David & Goliath</strong> obliterates some of the most closely held beliefs about how diminishing returns really play out in society. As seems to be Malcolm's style, each chapter digs deep into a single story as it relate's to the book's overarching theme. It certainly gave me a lot to think about across countless areas including:
+- Are smaller class sizes always the best investment to improve education?
+- Is it better long term to study at prestigious or less competitive university?
+- Could the children of the very rich be as disadvantaged as the children of the very poor?
+
+<script id="infogram_0_how_society_really_works" src="//e.infogr.am/js/embed.js?tdf" type="text/javascript"></script><div style="width:100%;border-top:1px solid #acacac;padding-top:3px;font-family:Arial;font-size:10px;text-align:center;"><a target="_blank" href="https://infogr.am/how_society_really_works" style="color:#acacac;text-decoration:none;">How Society Really Works</a> | <a style="color:#acacac;text-decoration:none;" href="https://infogr.am" target="_blank">Create infographics</a></div>
+
+I approach many policy issues more skeptically now. More money and resources will not always make things better when many aspects of society play out as Laffer curves and not traditional logarithmic diminishing returns.
+
+<h2>The Rosie Project - Graeme C. Simsion</h2>
+![](/assets/article_images/2015-06-12-leisure-reading-part-1/The-Rosie-Project.jpg)
+While I was reading this book, it was all I could talk about. Maybe I'm just a sucker for a classic love story but I agree with Bill Gates (<a href="http://www.gatesnotes.com/About-Bill-Gates/6-Books-I-Would-Recommend-Summer-Reading" target="_blank">1</a>, <a href="http://www.gatesnotes.com/Books/The-Rosie-Effect" taget="_blank">2</a>) that this book is different. The book tells the tale of a biology professor with undiagnosed Aspergers syndrome that sets out on a journey to find the perfect wife by getting women to fill out a survey. Simsion did an unbelievable job writing the perfect internal thoughts of a near purely logical mind (and I found myself laughing as I admitted to myself that I shared many thought processes with a supposedly undiagnosed Aspergers professor). I very rarely read fiction but the The Rosie Project made me want to again.
+
+P.S. As with most things, the sequel isn't as good as the original but the Rosie Effect is still worth the read. 
+
+<h3>Related books I enjoyed:</h3>
+- <strong><a href="http://craphound.com/littlebrother/download/" target="_blank">Little Brother - Cory Doctorow (Free download!)</a>:</strong> It was just as exciting to read now as it was when I first read it in grade 9. For anybody who's been reading about Edward Snowden and the disintegrating state of privacy in society, this fiction set in the near future seems closer to reality with each passing year. Looking forward to an encryption key swap with all of you soon!
+
+<h2>The Autobiography of Malcolm X - Malcolm X & Alex Haley</h2>
+![](/assets/article_images/2015-06-12-leisure-reading-part-1/Autobiography-Of-Malcolm-X-The.jpg)
+Malcolm X grew up like many African American males. He went through the foster system, spent his youth in the ghetto, hustled drugs in Harlem, and ended up in jail. Yet these undistinguishable formative years are what make the rest of his life so profound. He overcome religious cults to become a widely known and respected civil rights and community leader in Harlem. His powerful, passionate speeches live on in recordings and videos today long past his assassination in February 1965.
+
+One sentiment shared repeatedly throughout the book was his belief that the desegregationist civil rights protestors like Martin Luther King Jr. weren't going to affect lasting change, but could simply tackle surface issues. Repeal of Jim Crow laws, integrated busses, integrated schools, the Civil Rights Act of 1964... <a href="http://www.theatlantic.com/features/archive/2014/05/the-case-for-reparations/361631/" target="_blank">it was all just lipstick on a pig</a>. Fundamental complex race problems couldn't be dealt with simply with integration and legislation. As we continue to see the racially charged police abuses in Ferguson & Baltimore, and the silent discriminating economic issues around education funding, health care access, and poverty rates, I have begun to understand that "radical" Malcolm may not have been so radical after all. <a href="https://youtu.be/fby2koTK4lY" target="_blank">We shall overcome</a>, but we certainly have not yet.
+
+<h3>Related books I enjoyed:</h3>
+- <strong>Unbroken - Laura Hillenbrand:</strong> Gave me much better insight into the Pacific Theatre of World War II and Louie's determination was genuinely inspiring. As with most things, this book was better than the 2014 movie directed by Angelina Jolie.
+
+<h2>The Meaning of Marriage - Tim Keller</h2>
+![](/assets/article_images/2015-06-12-leisure-reading-part-1/meaning-marriage-tim-keller.jpg)
+Though I'm many years away from ever exchanging rings, Tim's book speaks wisdom to single, unmarried, and married couples. I found his strong use of data from research studies paired with Biblical references a better approach than most relationship books that just pull from the author's personal experience and secular anecdotes. My favourite two pieces of data paraphrased were:
+- The vast majority of the 45% divorce rate are those who marry before 18, are high school drop outs, or have a a baby together before marrying. <strong>If you don't fall into those categories, your chances of a successful marriage are very high.</strong> (<a href="http://www.hookingupsmart.com/2012/06/13/relationshipstrategies/your-chances-of-divorce-may-be-much-lower-than-you-think/" target="_blank">3</a>)
+- Over 60% of marriages are described as 'very happy', over 66% of unhappy marriages will become happy within five years if the people stay married and don't get divorced.(<a href="http://americanvalues.org/catalog/pdfs/does_divorce_make_people_happy.pdf" target="_blank">4</a>). <strong>Perseverance pays off even more often than I thought.</strong>
+
+<h3>Related books I enjoyed:</h3>
+- <strong>Things I Wish I'd Known Before We Got Married - Gary Chapman:</strong> Gary covers the 5 Love Languages, dealing with in-laws, and other practical issues that often come up in the first couple years. Short but worthwhile read.
+- <strong>The Prodigal God - Tim Keller:</strong> Tim examines how the classic parable in Luke 15:11-32 is such a powerful expose of how powerful God's love is and how contrary to societal expectations it is even today.
+- <strong><a href="https://itunes.apple.com/us/podcast/timothy-keller-podcast/id352660924?mt=2" target="_blank">Tim Keller Podcast - Tim Keller</a>:</strong> This has been my go to podcast while I've been working out. Tim masterfully weaves philosophical and Biblical ideas together into thought provoking talks. The most convicting ones I've listened to so far have been "Your Plans: God's Plans", "Praying our Fears", and "Praying our Tears".
+
+<h2>The Hard Thing About Hard Things - Ben Horowitz</h2>
+![](/assets/article_images/2015-06-12-leisure-reading-part-1/hard-things-ben-horowitz.jpg)
+<strong>Hand down, this is the most practical management book I've ever read.</strong> Written with the brevity of <a href="http://www.paulgraham.com/articles.html" target="_blank">Paul Graham</a> but interspersed with rap lyrics, Ben Horowitz (startup founder, CEO, and famous VC) dishes on how to effectively manage a startup. I valued the lessons and perspective he had from over a decade building a startup, IPO-ing during the Dotcom crash of 2000, and building Opsware into a massive IT software business that was acquired by  HP for $1.6 billion in 2006. 
+
+Reflecting on Teknically, certain aspects were always easy to identify as potential causes of our failure. After reading Hard Things, it is so much easier to pinpoint what specifically went wrong and what I will do differently in a new startup. <strong>This book is simply the most practical, must read for any startup founder.</strong> It succeeds Zero to One as my must-read recommendation for anybody in startups right now.
+
+<h2>Losing the Signal - Jacquie McNish & Sean Silcoff</h2>
+![](/assets/article_images/2015-06-12-leisure-reading-part-1/losin_the_signal_mcnish.jpg)
+I bought Losing the Signal on Kobo days after it came out and <strong>was finished reading it within 10 days.</strong> It's the riveting account of Mike Lazaridis, Jim Balsille, RIM's hard fought rise to dominance in the smartphone industry they invented, and their precipitous fall we have all witnessed in the past 6 years. There are two reasons why I found this book so difficult to put down. 
+
+First, reading of how RIM was built right here in Waterloo where I work, live, and study was like reading my own family history. So much of the Kitchener Waterloo tech scene has been impacted by RIM and built by former RIM employees. So many different businesses and locations mentioned in the book I recognized or had been to myself, it became so easy and surreal to visualize these thrilling events that happened so close to where I live. <strong>Understanding the story of RIM is fundamental in many ways to understanding the story of the Kitchener Waterloo tech scene.</strong>
+
+Second, <strong>Losing the Signal</strong> provided the inside story of what went wrong. Having just read <strong>The Hard Thing About Hard Things</strong>, I more precisely could identify the management debt that grew so large that even if the iPhone hadn't disrupted the smartphone industry, RIM still would not have been in good shape. Leo Tolstoy writes <em>"Happy families are all alike; every unhappy family is unhappy in its own way."</em> I think the same is true for startup success. Every unsuccessful startup is unsuccessful in its own way. There were certain aspects of RIM's downward spiral that I immediately recognized because at Teknically we had unsuccessfully dealt with the same issue. Yet many others were unique to RIM. In both cases it can be depressing to dwell on what could have been.
+
+In the Epilogue, Jim Balsille grew increasingly frustrated as he recalled his final years at RIM where he had pushed for a focus on software & services (specifically cross platform BBM). His plan was dismissed by Mike Lazaridis, the board, and was later shuttered by RIM's next CEO, Thorsten Heins. After Jim resigned, he watched Facebook acquire WhatsApp for $22 billion, Kik and weChat continue to explode, and the messaging, software & services market prove to be more promising than almost every hardware company other than Apple and Samsung. 
+
+Pride and ignorant optimism let RIM's management believe that new smart phones and QNX powered Blackberry 10 would save them. To know the clear promise of Jim's BBM software & services strategy and yet see how viciously it was pushed aside is, for me, the most profound indication of RIM management's misunderstanding of the new world ushered in by the iPhone. <strong>A market where apps are more important than battery life, design matters more than productivity, and cloud services are better consumer lock in than a perfect hardware keyboard.</strong>
+
+<h2>Next Reads</h2>
+![](/assets/article_images/2015-06-12-leisure-reading-part-1/elon-musk-ashlee-vance.jpg)
+With 12 books done in 6 months, I'm on track for a book every two weeks. Right now I'm working on:
+- <strong>Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future - Ashlee Vance</strong>
+- <strong>The Hobbit - J. R. R. Tolkien</strong>
+
+No matter how busy you feel you are, it's always the right time to start investing in yourself by reading. I never set out to reach a certain number but Im glad that I stuck with reading for fun this year. The dividends continue to pay out in my life and I hope the same for you.
+
+>Next in Series: [Best Books since June](/blog/leisure-reading-part-2)
