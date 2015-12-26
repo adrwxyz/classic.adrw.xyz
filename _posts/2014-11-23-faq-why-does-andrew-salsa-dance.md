@@ -7,7 +7,7 @@ excerpt: In November 2013 I had never danced before. One year later I'm dancing 
 seo-title: FAQ&#58; Why Does Andrew Salsa Dance?
 ---
 
-In November 2013 I had never danced before. One year later I'm dancing in a choreographed performance for the club's end of term party. Crack a Coca-Cola and I'll tell you the story of how I became a "Salsero" (or you can just skip to the <a href="http://youtu.be/RVdGBEsZFws" target="_blank">video</a>).
+**In November 2013 I had never danced before. One year later I'm dancing in a choreographed performance for the club's end of term party. Crack a Coca-Cola and I'll tell you the story of how I became a "Salsero" (or you can just skip to the <a href="http://youtu.be/RVdGBEsZFws" target="_blank">video</a>).**
 
 "Learn to Dance" was on my bucket list when I started at Wilfrid Laurier University in September 2013. After my business lab I would often walk through the concourse and see the big circle of students dancing to salsa music.
 

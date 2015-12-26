@@ -7,7 +7,7 @@ excerpt: At our final Laurier Launchpad update presentation we summarized the fi
 seo-title: Five Lessons from Behind the Curtain
 ---
 
-When your world stops spinning, the lights fade, and the silence surrounds you, you can finally think. These past 13 weeks have been the beginning of my next chapter, the regaining of consciousness, & the recovery from 13 months founding a startup.
+**When your world stops spinning, the lights fade, and the silence surrounds you, you can finally think. These past 13 weeks have been the beginning of my next chapter, the regaining of consciousness, & the recovery from 13 months founding a startup.**
 
 This third instalment of the Teknically series transitions from telling our story to sharing the key lessons we learned. Part 3 examines what we learned professionally. Part 4 (coming next week), digs into how founding a startup poured gasoline on my personal development.
 
