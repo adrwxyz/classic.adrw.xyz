@@ -33,11 +33,9 @@ The Videostream team had reached a consensus: the website was long due for a mak
 ![Original Videostream Website](/assets/article_images/2015-09-06-videostream-how-growth-starts-with-great-customer-support/vs-old-c.jpg)
 
 I started brainstorming what I the ideal new website would be like. 
-<ul>
-	<li>It would be easier to understand what was Videostream.</li>
-	<li>Hero images would showcase how Videostream worked with laptops, TVs, iPhones and Android devices.</li>
-	<li>Descriptions would quickly address frequently emailed questions like: "will Videostream play my videos?"</li>
-</ul>
+- It would be easier to understand what was Videostream.
+- Hero images would showcase how Videostream worked with laptops, TVs, iPhones and Android devices.
+- Descriptions would quickly address frequently emailed questions like: "will Videostream play my videos?"
 
 I first focused on the "above the fold" content, or what a visitor would see before they scrolled. As I bounced between different drafts for the subtitle, I realized that using a word substitution animation would allow us to subtly show just how many files we supported. With a simple Javascript animation, "The easiest way to stream ____ from your computer..." would animate the blank to say: videos, MP4s, MKVs, AVIs, MP3s... switching every 4 seconds. This instantly addressed above the fold the question: "will Videostream play my videos?"
 
@@ -75,7 +73,6 @@ Next project...increasing revenue!
 My internship was almost done. I had answered a lot of email and developed a new split test beating website. The team now was curious to see what I could do with their primary revenue funnel: the Premium flow.
 
 ![Old Premium Flow: Features & Plans.](/assets/article_images/2015-09-06-videostream-how-growth-starts-with-great-customer-support/premo1-c.jpg)
-
 ![Old Premium Flow: Payment Confirmation.](/assets/article_images/2015-09-06-videostream-how-growth-starts-with-great-customer-support/premo2-c.jpg)
 
 The current upgrade process was a bit convoluted. Most interactions such as changing a plan or choosing a payment required a separate page and a number of clicks. From customer emails, I knew that even with the features descriptions front and centre, most still had no idea what they would be getting with Premium.
@@ -89,7 +86,6 @@ My priorities with the new Premium flow ended up being very similar to what I se
 I did a lot of research from e-commerce checkout white papers to successful upgrade flows in other apps. I built the premium flow from scratch with HTML/CSS/Sass, Stripe API, PayPal integration, and Javascript. I'm so thankful to the team for all they taught me about coding for a Chrome App.
 
 ![New Premium Flow: Plans, Payment Selection, & Features.](/assets/article_images/2015-09-06-videostream-how-growth-starts-with-great-customer-support/premflow1-c.jpg)
-
 ![New Premium Flow: Payment Confirmation.](/assets/article_images/2015-09-06-videostream-how-growth-starts-with-great-customer-support/premflow2-c.jpg)
 
 The Premium flow was almost in production as I finished my internship at Videostream. The benefits of Videostream were now easy to understand. Upgrading was fast and seamless and could be done in fewer clicks. 

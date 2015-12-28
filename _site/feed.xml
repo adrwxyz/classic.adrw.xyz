@@ -6,13 +6,272 @@
 </description>
     <link>https://andrewparadi.github.io/</link>
     <atom:link href="https://andrewparadi.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 26 Dec 2015 01:01:03 -0500</pubDate>
-    <lastBuildDate>Sat, 26 Dec 2015 01:01:03 -0500</lastBuildDate>
+    <pubDate>Sun, 27 Dec 2015 23:46:53 -0500</pubDate>
+    <lastBuildDate>Sun, 27 Dec 2015 23:46:53 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
+        <title>How Startups Fail Even with Cash and Growth</title>
+        <description>&lt;p&gt;&lt;strong&gt;Everybody in startups should be reading Paul Graham&amp;#39;s essays. He just hit it out of the park again. Go read &lt;a href=&quot;http://paulgraham.com/aord.html&quot; target=&quot;_blank&quot;&gt;&amp;quot;Default Alive or Default Dead?&amp;quot;&lt;/a&gt; and then come back.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;ve co-founded a startup (&lt;a href=&quot;/blog/the-389-day-laurier-bba/&quot;&gt;1&lt;/a&gt;, &lt;a href=&quot;/blog/the-dream-fades/&quot;&gt;2&lt;/a&gt;), worked as a growth intern at another (&lt;a href=&quot;/blog/videostream-how-growth-starts-with-great-customer-support/&quot;&gt;3&lt;/a&gt;), and met with hundreds of founders over the past two years. These classic 3 steps to success more often than not were the foundation for too many startups:
+- Funding will finally let us hire, scale, grow, develop, succeed...
+- Growth will get us funding
+- Collect $100k - $100 million from VCs, Rinse, Repeat&lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;m as guilty as any to have held this view. After reflecting on Teknically and working with other startups since, my eyes have been opened.&lt;/p&gt;
+
+&lt;p&gt;Paul Graham puts it so well in his latest post:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Here&amp;#39;s a common way startups die. They make something moderately appealing and have decent initial growth. They raise their first round fairly easily because the founders seem smart and the idea sounds plausible. But because the product is only moderately appealing, growth is ok but not great. The founders convince themselves that hiring a bunch of people is the way to boost growth. Their investors agree. But (because the product is only moderately appealing) the growth never comes. Now they&amp;#39;re rapidly running out of runway. They hope further investment will save them. But because they have high expenses and slow growth, they&amp;#39;re now unappealing to investors. They&amp;#39;re unable to raise more, and the company dies.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I&amp;#39;m just speechless how clearly this explains the systematic failure inherent in the most common founder perspective on startup success.&lt;/p&gt;
+
+&lt;p&gt;Founders are baited by initial VC money to optimize for quick launch and fast growth. This all to the peril of building a product and business model that will last.&lt;/p&gt;
+
+&lt;p&gt;It&amp;#39;s easy to dismiss this and believe that your startup and perspective is different. Yet, too many founders are blind leading the blind. &lt;/p&gt;
+
+&lt;p&gt;Many startup cultures don&amp;#39;t encourage any employees to voice concerns or ask questions. Founders spin anything to reinforce their viewpoint that success will come with the next founding round or growth spurt.&lt;/p&gt;
+
+&lt;p&gt;I wish more founders would step back and realize if they&amp;#39;re default dead or default alive. I didn&amp;#39;t do this myself in Teknically and regret the ultimate cost of our &amp;quot;it&amp;#39;s going great&amp;quot; culture. &lt;/p&gt;
+
+&lt;p&gt;Looking back, we were default dead. We just didn&amp;#39;t realize it until we had died.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 16 Oct 2015 12:34:25 -0400</pubDate>
+        <link>https://andrewparadi.github.io/blog/how-startups-fail-even-with-cash-and-growth/</link>
+        <guid isPermaLink="true">https://andrewparadi.github.io/blog/how-startups-fail-even-with-cash-and-growth/</guid>
+        
+        <category>startups</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Videostream: How Growth Starts with Great Customer Support</title>
+        <description>&lt;p&gt;&lt;strong&gt;As a Growth Intern at &lt;a href=&quot;http://getvideostream.com/&quot; target=&quot;_blank&quot;&gt;Videostream&lt;/a&gt;, I used my customer support job to hack growth on all fronts. After answering thousands of customer emails, I could write sales copy that resonated. Website downloads went up by 32%, weekly active users grew 12%, and revenue even went up! Find out how you can do it too.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2&gt;Update Oct 22: Approval from legend &lt;a href=&quot;https://twitter.com/copyhackers&quot; target=&quot;_blank&quot;&gt;Joanna&lt;/a&gt; at &lt;a href=&quot;https://copyhackers.com/&quot; target=&quot;_blank&quot;&gt;Copyhackers&lt;/a&gt;!&lt;/h2&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;nice work! *really* great study on optimizing for growth in a short period of time &lt;a href=&quot;https://t.co/BZPdRb2Pbj&quot;&gt;https://t.co/BZPdRb2Pbj&lt;/a&gt;&lt;/p&gt;&amp;mdash; Joanna Wiebe (@copyhackers) &lt;a href=&quot;https://twitter.com/copyhackers/status/657363804162949121&quot;&gt;October 23, 2015&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;h2&gt;Customer Support Lead for 1.2 million user base&lt;/h2&gt;
+
+&lt;p&gt;As customer support lead for Videostream&amp;#39;s 1.2 million user base, I answered a lot of email every day. I was the first point of contact anytime a Videostream user had an issue, feature request, or even just wanted to share how much they loved our app.&lt;/p&gt;
+
+&lt;p&gt;At times it was overwhelming, occasionally humbling, and on a lucky day, I&amp;#39;d receive a genuinely hilarious email and try to craft my wittiest reply. For most emails though, I started to recognize patterns in both support and testimonials. For faster responses, I wrote almost 90 canned responses to cover countless problems and permutations.&lt;/p&gt;
+
+&lt;blockquote&gt;Over 4 months, I ended up resolving 2,148 tickets for our customers and with my canned responses, I resolved them faster than ever.&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/article_images/2015-09-06-videostream-how-growth-starts-with-great-customer-support/nice-message.jpg&quot; alt=&quot;Videostream Support Email #781: One of the better emails I found waiting for me in Freshdesk one morning.&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Through reading positive feedback I started to understand why customers loved Videostream so much. As I wrote sales copy, I could reference customer testimonials and highlight the features that they were most excited about. Many loved the funny tips screens that had jokes and referenced that our team was just 6 guys in Canada. This confirmed that the Videostream personality that resonated with users should be part of all future sales copy.&lt;/p&gt;
+
+&lt;p&gt;I couldn&amp;#39;t have written as effective sales copy if I hadn&amp;#39;t spent the time to understand our customers: their frustrations, their joys, and their dreams for Videostream.&lt;/p&gt;
+
+&lt;h2&gt;Building a Split Test Winning Website&lt;/h2&gt;
+
+&lt;p&gt;The Videostream team had reached a consensus: the website was long due for a makeover and I would lead development on a full redesign.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/article_images/2015-09-06-videostream-how-growth-starts-with-great-customer-support/vs-old-c.jpg&quot; alt=&quot;Original Videostream Website&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;I started brainstorming what I the ideal new website would be like. 
+- It would be easier to understand what was Videostream.
+- Hero images would showcase how Videostream worked with laptops, TVs, iPhones and Android devices.
+- Descriptions would quickly address frequently emailed questions like: &amp;quot;will Videostream play my videos?&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;I first focused on the &amp;quot;above the fold&amp;quot; content, or what a visitor would see before they scrolled. As I bounced between different drafts for the subtitle, I realized that using a word substitution animation would allow us to subtly show just how many files we supported. With a simple Javascript animation, &amp;quot;The easiest way to stream ____ from your computer...&amp;quot; would animate the blank to say: videos, MP4s, MKVs, AVIs, MP3s... switching every 4 seconds. This instantly addressed above the fold the question: &amp;quot;will Videostream play my videos?&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;To stay consistent with the app&amp;#39;s existing design style, I found a great Material Design HTML/CSS/JS framework to build on (&lt;a href=&quot;http://www.materialup.com/posts/mdlp-material-design-landing-page&quot; target=&quot;_blank&quot;&gt;1&lt;/a&gt;). I got to work on customizations and generating the Hero image assets in Photoshop. &lt;/p&gt;
+
+&lt;p&gt;Leveraging my knowledge from leading sites like &lt;a href=&quot;https://copyhackers.com/&quot; target=&quot;_blank&quot;&gt;Copyhackers&lt;/a&gt;, &lt;a href=&quot;https://moz.com/blog&quot; target=&quot;_blank&quot;&gt;Moz&lt;/a&gt;, &amp;amp; &lt;a href=&quot;https://blog.kissmetrics.com/&quot; target=&quot;_blank&quot;&gt;Kissmetrics&lt;/a&gt;, I focused all visitors towards a single Call to Action (CTA) above the fold: the &amp;quot;Get Streaming&amp;quot; download button.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/article_images/2015-09-06-videostream-how-growth-starts-with-great-customer-support/vs-home-c.png&quot; alt=&quot;New Site Hero: The view above the fold any visitor to GetVideostream.com will see. Notice the singular focus on quickly describing what is Videostream, and pushing visitors to download.&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;As I continued writing sales copy, I focused on consistency with the Videostream personality customers already loved. For Features and FAQs, I leveraged all I had read in customer emails what they loved most about Videostream, and questions that kept coming up. I also maintained consistency repeating certain phrases in headings and text to better target certain keywords we wanted to take in Google rankings.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/article_images/2015-09-06-videostream-how-growth-starts-with-great-customer-support/vs-features-c.jpg&quot; alt=&quot;New Features Section: Using customer testimonials, I could accurately prioritize which features people loved the most and which benefit resonated best.&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;After a few quick weeks of development, my new website was ready to go head to head with the old site. With consistently high web traffic, we could make a statistically significant call on which site was the winner in under a week. &lt;strong&gt;Pretty soon we could see a trend. The new website was seriously rocking the numbers.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;65% of visitors to the new website downloaded Videostream, up from 54% on the old website.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;On the new website, I put CTA download buttons after every section. Now we would know which content led people to download. Though most people downloaded just from the Hero section above the fold, close to 20% of downloads were coming from Features, Testimonials, and FAQ sections. Those downloads would have never happened on the old website which relied on a single CTA and a lot less content.&lt;/p&gt;
+
+&lt;p&gt;After beating the old site in spilt tests, the new site was pushed to 100% of traffic. We were excited for the spike in downloads that would come for a higher conversion rate but were surprised what we saw when we logged into Google Analytics the following week.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/article_images/2015-09-06-videostream-how-growth-starts-with-great-customer-support/weekly-active-users2.jpg&quot; alt=&quot;Videostream App Usage Data: Weekly active users with the old website, and the 12% jump from the new website.&quot;&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;We were shocked when weekly active users shot up 12%&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Within a week of the new website launching, weekly active users in the app shot up 12%. They&amp;#39;ve since stayed high and been one of the biggest single growth jumps we had this summer!&lt;/p&gt;
+
+&lt;p&gt;It turns out many people were going to the main website to launch Videostream which meant that our huge boost came not only from new downloads, but from bringing existing users back more effectively.&lt;/p&gt;
+
+&lt;p&gt;My vision for a conversion focused website had worked! Download conversions were up on many metrics up to 32% and weekly active users had received a 12% boost.&lt;/p&gt;
+
+&lt;p&gt;Next project...increasing revenue!&lt;/p&gt;
+
+&lt;h2&gt;A Premium Flow Focused on Revenue&lt;/h2&gt;
+
+&lt;p&gt;My internship was almost done. I had answered a lot of email and developed a new split test beating website. The team now was curious to see what I could do with their primary revenue funnel: the Premium flow.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/article_images/2015-09-06-videostream-how-growth-starts-with-great-customer-support/premo1-c.jpg&quot; alt=&quot;Old Premium Flow: Features &amp;amp; Plans.&quot;&gt;
+&lt;img src=&quot;/assets/article_images/2015-09-06-videostream-how-growth-starts-with-great-customer-support/premo2-c.jpg&quot; alt=&quot;Old Premium Flow: Payment Confirmation.&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;The current upgrade process was a bit convoluted. Most interactions such as changing a plan or choosing a payment required a separate page and a number of clicks. From customer emails, I knew that even with the features descriptions front and centre, most still had no idea what they would be getting with Premium.&lt;/p&gt;
+
+&lt;p&gt;My priorities with the new Premium flow ended up being very similar to what I settled on for the website previously:
+1. Write sales copy based on customer feedback with the much loved Videostream personality
+2. Follow Material Design guidelines
+3. Make Premium benefits easier to understand
+4. Let people buy Premium in fewer clicks&lt;/p&gt;
+
+&lt;p&gt;I did a lot of research from e-commerce checkout white papers to successful upgrade flows in other apps. I built the premium flow from scratch with HTML/CSS/Sass, Stripe API, PayPal integration, and Javascript. I&amp;#39;m so thankful to the team for all they taught me about coding for a Chrome App.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/article_images/2015-09-06-videostream-how-growth-starts-with-great-customer-support/premflow1-c.jpg&quot; alt=&quot;New Premium Flow: Plans, Payment Selection, &amp;amp; Features.&quot;&gt;
+&lt;img src=&quot;/assets/article_images/2015-09-06-videostream-how-growth-starts-with-great-customer-support/premflow2-c.jpg&quot; alt=&quot;New Premium Flow: Payment Confirmation.&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;The Premium flow was almost in production as I finished my internship at Videostream. The benefits of Videostream were now easy to understand. Upgrading was fast and seamless and could be done in fewer clicks. &lt;/p&gt;
+
+&lt;p&gt;The new Premium flow is in split tests now where it is rumoured to be winning and generating more revenue for Videostream.&lt;/p&gt;
+
+&lt;h2&gt;Growth? Check, check, and check&lt;/h2&gt;
+
+&lt;p&gt;At Videostream, I leveraged my primary task of email support to better understand our customers and spur growth in different parts of our funnel. The new website increased download conversions by up to 32% on most metrics. We improved user retention with weekly active users growing by 12%. Revenue is now going up thanks to a more effective Premium flow.&lt;/p&gt;
+
+&lt;p&gt;Personally, I grew a lot. The experience of owning a project, working closely with founders, collaborating with a crazy good technical team, and supporting thousands of customers was priceless. I learned so much. &lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;m thankful to Matt, Jason, Graham, Joe, Phillip, Sean, &amp;amp; Rahul for all of the support, guidance, and unique opportunities I received this summer. It&amp;#39;s certainly one I won&amp;#39;t soon forget.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;P.S. I&amp;#39;m looking to do an internship next summer too! If you think I&amp;#39;d be a good fit on your team, check out my &lt;a href=&quot;http://andrewparadi.com/wp-content/uploads/2015/10/Resume-Sept-2015-v4.6.1b.pdf&quot; target=&quot;_blank&quot;&gt;resume&lt;/a&gt; and send me an email at &lt;a href=&quot;mailto:me@andrewparadi.com&quot;&gt;me@andrewparadi.com&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 06 Sep 2015 18:50:25 -0400</pubDate>
+        <link>https://andrewparadi.github.io/blog/videostream-how-growth-starts-with-great-customer-support/</link>
+        <guid isPermaLink="true">https://andrewparadi.github.io/blog/videostream-how-growth-starts-with-great-customer-support/</guid>
+        
+        <category>startups</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>My Favourite 6 Books Since January</title>
+        <description>&lt;p&gt;I purchased my Kobo Aura on Boxing Day 2014 and decided I would be more diligent in my leisure reading this year. 6 months in, these are the 6 books that I would most recommend. &lt;/p&gt;
+
+&lt;h2&gt;David &amp; Goliath - Malcolm Gladwell&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/article_images/2015-06-12-leisure-reading-part-1/Gladwell_David-and-Goliath.jpg&quot; alt=&quot;&quot;&gt;
+Gladwell&amp;#39;s books have always intrigued me since I read about 10,000 hours to success in &lt;strong&gt;Outliers&lt;/strong&gt; in grade 9. &lt;strong&gt;David &amp;amp; Goliath&lt;/strong&gt; obliterates some of the most closely held beliefs about how diminishing returns really play out in society. As seems to be Malcolm&amp;#39;s style, each chapter digs deep into a single story as it relate&amp;#39;s to the book&amp;#39;s overarching theme. It certainly gave me a lot to think about across countless areas including:
+- Are smaller class sizes always the best investment to improve education?
+- Is it better long term to study at prestigious or less competitive university?
+- Could the children of the very rich be as disadvantaged as the children of the very poor?&lt;/p&gt;
+
+&lt;p&gt;&lt;script id=&quot;infogram_0_how_society_really_works&quot; src=&quot;//e.infogr.am/js/embed.js?tdf&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;&lt;div style=&quot;width:100%;border-top:1px solid #acacac;padding-top:3px;font-family:Arial;font-size:10px;text-align:center;&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://infogr.am/how_society_really_works&quot; style=&quot;color:#acacac;text-decoration:none;&quot;&gt;How Society Really Works&lt;/a&gt; | &lt;a style=&quot;color:#acacac;text-decoration:none;&quot; href=&quot;https://infogr.am&quot; target=&quot;_blank&quot;&gt;Create infographics&lt;/a&gt;&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;I approach many policy issues more skeptically now. More money and resources will not always make things better when many aspects of society play out as Laffer curves and not traditional logarithmic diminishing returns.&lt;/p&gt;
+
+&lt;h2&gt;The Rosie Project - Graeme C. Simsion&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/article_images/2015-06-12-leisure-reading-part-1/The-Rosie-Project.jpg&quot; alt=&quot;&quot;&gt;
+While I was reading this book, it was all I could talk about. Maybe I&amp;#39;m just a sucker for a classic love story but I agree with Bill Gates (&lt;a href=&quot;http://www.gatesnotes.com/About-Bill-Gates/6-Books-I-Would-Recommend-Summer-Reading&quot; target=&quot;_blank&quot;&gt;1&lt;/a&gt;, &lt;a href=&quot;http://www.gatesnotes.com/Books/The-Rosie-Effect&quot; taget=&quot;_blank&quot;&gt;2&lt;/a&gt;) that this book is different. The book tells the tale of a biology professor with undiagnosed Aspergers syndrome that sets out on a journey to find the perfect wife by getting women to fill out a survey. Simsion did an unbelievable job writing the perfect internal thoughts of a near purely logical mind (and I found myself laughing as I admitted to myself that I shared many thought processes with a supposedly undiagnosed Aspergers professor). I very rarely read fiction but the The Rosie Project made me want to again.&lt;/p&gt;
+
+&lt;p&gt;P.S. As with most things, the sequel isn&amp;#39;t as good as the original but the Rosie Effect is still worth the read. &lt;/p&gt;
+
+&lt;h3&gt;Related books I enjoyed:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://craphound.com/littlebrother/download/&quot; target=&quot;_blank&quot;&gt;Little Brother - Cory Doctorow (Free download!)&lt;/a&gt;:&lt;/strong&gt; It was just as exciting to read now as it was when I first read it in grade 9. For anybody who&amp;#39;s been reading about Edward Snowden and the disintegrating state of privacy in society, this fiction set in the near future seems closer to reality with each passing year. Looking forward to an encryption key swap with all of you soon!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;The Autobiography of Malcolm X - Malcolm X &amp; Alex Haley&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/article_images/2015-06-12-leisure-reading-part-1/Autobiography-Of-Malcolm-X-The.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Malcolm X grew up like many African American males. He went through the foster system, spent his youth in the ghetto, hustled drugs in Harlem, and ended up in jail. Yet these undistinguishable formative years are what make the rest of his life so profound. He overcome religious cults to become a widely known and respected civil rights and community leader in Harlem. His powerful, passionate speeches live on in recordings and videos today long past his assassination in February 1965.&lt;/p&gt;
+
+&lt;p&gt;One sentiment shared repeatedly throughout the book was his belief that the desegregationist civil rights protestors like Martin Luther King Jr. weren&amp;#39;t going to affect lasting change, but could simply tackle surface issues. Repeal of Jim Crow laws, integrated busses, integrated schools, the Civil Rights Act of 1964... &lt;a href=&quot;http://www.theatlantic.com/features/archive/2014/05/the-case-for-reparations/361631/&quot; target=&quot;_blank&quot;&gt;it was all just lipstick on a pig&lt;/a&gt;. Fundamental complex race problems couldn&amp;#39;t be dealt with simply with integration and legislation. As we continue to see the racially charged police abuses in Ferguson &amp;amp; Baltimore, and the silent discriminating economic issues around education funding, health care access, and poverty rates, I have begun to understand that &amp;quot;radical&amp;quot; Malcolm may not have been so radical after all. &lt;a href=&quot;https://youtu.be/fby2koTK4lY&quot; target=&quot;_blank&quot;&gt;We shall overcome&lt;/a&gt;, but we certainly have not yet.&lt;/p&gt;
+
+&lt;h3&gt;Related books I enjoyed:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Unbroken - Laura Hillenbrand:&lt;/strong&gt; Gave me much better insight into the Pacific Theatre of World War II and Louie&amp;#39;s determination was genuinely inspiring. As with most things, this book was better than the 2014 movie directed by Angelina Jolie.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;The Meaning of Marriage - Tim Keller&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/article_images/2015-06-12-leisure-reading-part-1/meaning-marriage-tim-keller.jpg&quot; alt=&quot;&quot;&gt;
+Though I&amp;#39;m many years away from ever exchanging rings, Tim&amp;#39;s book speaks wisdom to single, unmarried, and married couples. I found his strong use of data from research studies paired with Biblical references a better approach than most relationship books that just pull from the author&amp;#39;s personal experience and secular anecdotes. My favourite two pieces of data paraphrased were:
+- The vast majority of the 45% divorce rate are those who marry before 18, are high school drop outs, or have a a baby together before marrying. &lt;strong&gt;If you don&amp;#39;t fall into those categories, your chances of a successful marriage are very high.&lt;/strong&gt; (&lt;a href=&quot;http://www.hookingupsmart.com/2012/06/13/relationshipstrategies/your-chances-of-divorce-may-be-much-lower-than-you-think/&quot; target=&quot;_blank&quot;&gt;3&lt;/a&gt;)
+- Over 60% of marriages are described as &amp;#39;very happy&amp;#39;, over 66% of unhappy marriages will become happy within five years if the people stay married and don&amp;#39;t get divorced.(&lt;a href=&quot;http://americanvalues.org/catalog/pdfs/does_divorce_make_people_happy.pdf&quot; target=&quot;_blank&quot;&gt;4&lt;/a&gt;). &lt;strong&gt;Perseverance pays off even more often than I thought.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3&gt;Related books I enjoyed:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Things I Wish I&amp;#39;d Known Before We Got Married - Gary Chapman:&lt;/strong&gt; Gary covers the 5 Love Languages, dealing with in-laws, and other practical issues that often come up in the first couple years. Short but worthwhile read.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Prodigal God - Tim Keller:&lt;/strong&gt; Tim examines how the classic parable in Luke 15:11-32 is such a powerful expose of how powerful God&amp;#39;s love is and how contrary to societal expectations it is even today.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://itunes.apple.com/us/podcast/timothy-keller-podcast/id352660924?mt=2&quot; target=&quot;_blank&quot;&gt;Tim Keller Podcast - Tim Keller&lt;/a&gt;:&lt;/strong&gt; This has been my go to podcast while I&amp;#39;ve been working out. Tim masterfully weaves philosophical and Biblical ideas together into thought provoking talks. The most convicting ones I&amp;#39;ve listened to so far have been &amp;quot;Your Plans: God&amp;#39;s Plans&amp;quot;, &amp;quot;Praying our Fears&amp;quot;, and &amp;quot;Praying our Tears&amp;quot;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;The Hard Thing About Hard Things - Ben Horowitz&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/article_images/2015-06-12-leisure-reading-part-1/hard-things-ben-horowitz.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hand down, this is the most practical management book I&amp;#39;ve ever read.&lt;/strong&gt; Written with the brevity of &lt;a href=&quot;http://www.paulgraham.com/articles.html&quot; target=&quot;_blank&quot;&gt;Paul Graham&lt;/a&gt; but interspersed with rap lyrics, Ben Horowitz (startup founder, CEO, and famous VC) dishes on how to effectively manage a startup. I valued the lessons and perspective he had from over a decade building a startup, IPO-ing during the Dotcom crash of 2000, and building Opsware into a massive IT software business that was acquired by  HP for $1.6 billion in 2006. &lt;/p&gt;
+
+&lt;p&gt;Reflecting on Teknically, certain aspects were always easy to identify as potential causes of our failure. After reading Hard Things, it is so much easier to pinpoint what specifically went wrong and what I will do differently in a new startup. &lt;strong&gt;This book is simply the most practical, must read for any startup founder.&lt;/strong&gt; It succeeds Zero to One as my must-read recommendation for anybody in startups right now.&lt;/p&gt;
+
+&lt;h2&gt;Losing the Signal - Jacquie McNish &amp; Sean Silcoff&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/article_images/2015-06-12-leisure-reading-part-1/losin_the_signal_mcnish.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;I bought Losing the Signal on Kobo days after it came out and &lt;strong&gt;was finished reading it within 10 days.&lt;/strong&gt; It&amp;#39;s the riveting account of Mike Lazaridis, Jim Balsille, RIM&amp;#39;s hard fought rise to dominance in the smartphone industry they invented, and their precipitous fall we have all witnessed in the past 6 years. There are two reasons why I found this book so difficult to put down. &lt;/p&gt;
+
+&lt;p&gt;First, reading of how RIM was built right here in Waterloo where I work, live, and study was like reading my own family history. So much of the Kitchener Waterloo tech scene has been impacted by RIM and built by former RIM employees. So many different businesses and locations mentioned in the book I recognized or had been to myself, it became so easy and surreal to visualize these thrilling events that happened so close to where I live. &lt;strong&gt;Understanding the story of RIM is fundamental in many ways to understanding the story of the Kitchener Waterloo tech scene.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Second, &lt;strong&gt;Losing the Signal&lt;/strong&gt; provided the inside story of what went wrong. Having just read &lt;strong&gt;The Hard Thing About Hard Things&lt;/strong&gt;, I more precisely could identify the management debt that grew so large that even if the iPhone hadn&amp;#39;t disrupted the smartphone industry, RIM still would not have been in good shape. Leo Tolstoy writes &lt;em&gt;&amp;quot;Happy families are all alike; every unhappy family is unhappy in its own way.&amp;quot;&lt;/em&gt; I think the same is true for startup success. Every unsuccessful startup is unsuccessful in its own way. There were certain aspects of RIM&amp;#39;s downward spiral that I immediately recognized because at Teknically we had unsuccessfully dealt with the same issue. Yet many others were unique to RIM. In both cases it can be depressing to dwell on what could have been.&lt;/p&gt;
+
+&lt;p&gt;In the Epilogue, Jim Balsille grew increasingly frustrated as he recalled his final years at RIM where he had pushed for a focus on software &amp;amp; services (specifically cross platform BBM). His plan was dismissed by Mike Lazaridis, the board, and was later shuttered by RIM&amp;#39;s next CEO, Thorsten Heins. After Jim resigned, he watched Facebook acquire WhatsApp for $22 billion, Kik and weChat continue to explode, and the messaging, software &amp;amp; services market prove to be more promising than almost every hardware company other than Apple and Samsung. &lt;/p&gt;
+
+&lt;p&gt;Pride and ignorant optimism let RIM&amp;#39;s management believe that new smart phones and QNX powered Blackberry 10 would save them. To know the clear promise of Jim&amp;#39;s BBM software &amp;amp; services strategy and yet see how viciously it was pushed aside is, for me, the most profound indication of RIM management&amp;#39;s misunderstanding of the new world ushered in by the iPhone. &lt;strong&gt;A market where apps are more important than battery life, design matters more than productivity, and cloud services are better consumer lock in than a perfect hardware keyboard.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2&gt;Next Reads&lt;/h2&gt;
+
+&lt;p&gt;With 12 books done in 6 months, I&amp;#39;m on track for a book every two weeks. Right now I&amp;#39;m working on:
+- &lt;strong&gt;Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future by Ashlee Vance&lt;/strong&gt;
+- &lt;strong&gt;The Hobbit by J. R. R. Tolkien&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;No matter how busy you feel you are, it&amp;#39;s always the right time to start investing in yourself by reading. I never set out to reach a certain number but Im glad that I stuck with reading for fun this year. The dividends continue to pay out in my life and I hope the same for you.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Next in Series: &lt;a href=&quot;/blog/leisure-reading-part-2&quot;&gt;Best Books since June&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Thu, 11 Jun 2015 21:34:25 -0400</pubDate>
+        <link>https://andrewparadi.github.io/blog/leisure-reading-part-1/</link>
+        <guid isPermaLink="true">https://andrewparadi.github.io/blog/leisure-reading-part-1/</guid>
+        
+        <category>life</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
         <title>Fred &amp; Ted: Uber&#39;s Disruption is Delusional</title>
-        <description>&lt;p&gt;Three key insights on Uber, when to drop out, and valuations from Communitech&amp;#39;s fireside chat with renowned VC Fred &amp;amp; CEO Ted.&lt;/p&gt;
+        <description>&lt;p&gt;&lt;strong&gt;Three key insights on Uber, when to drop out, and valuations from Communitech&amp;#39;s fireside chat with renowned VC Fred &amp;amp; CEO Ted.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Woah who&amp;#39;s Fred &amp;amp; Ted?!&lt;/strong&gt; Fred Wilson is a very well known Venture Capitalist and Co-Founder of &lt;a href=&quot;https://www.usv.com/&quot; target=&quot;_blank&quot;&gt;Union Square Ventures&lt;/a&gt; (funded Twitter, Tumblr, Etsy, Kik...). Ted Livingston is Founder/CEO of &lt;a href=&quot;http://www.kik.com/&quot; target=&quot;_blank&quot;&gt;Kik&lt;/a&gt;, currently the messaging app of choice for over 200 million people. As an early investor in Kik, Fred &amp;amp; Ted have built a strong working relationship and it was remarkable to have both of them sit down to share their perspective with a chat moderated by &lt;a href=&quot;http://velocity.uwaterloo.ca/&quot; target=&quot;_blank&quot;&gt;Velocity&lt;/a&gt; Director Mike Kirkup. Three parts of the chat stood out for me.&lt;/p&gt;
 
@@ -103,7 +362,7 @@
     
       <item>
         <title>Innovation in the 6</title>
-        <description>&lt;p&gt;Thousands of entrepreneurs, researchers, policy makers, and community organizations coming together to celebrate and foster innovation in Ontario. On April 27th, I went to OCE Discovery 2015 in Toronto.&lt;/p&gt;
+        <description>&lt;p&gt;&lt;strong&gt;Thousands of entrepreneurs, researchers, policy makers, and community organizations coming together to celebrate and foster innovation in Ontario. On April 27th, I went to OCE Discovery 2015 in Toronto.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h2&gt;Founder&#39;s Forum with a Dragon&lt;/h2&gt;
 
@@ -312,7 +571,7 @@ The best don&amp;#39;t always win. Just accept it.&lt;/p&gt;
     
       <item>
         <title>Five Lessons from Behind the Curtain</title>
-        <description>&lt;p&gt;When your world stops spinning, the lights fade, and the silence surrounds you, you can finally think. These past 13 weeks have been the beginning of my next chapter, the regaining of consciousness, &amp;amp; the recovery from 13 months founding a startup.&lt;/p&gt;
+        <description>&lt;p&gt;&lt;strong&gt;When your world stops spinning, the lights fade, and the silence surrounds you, you can finally think. These past 13 weeks have been the beginning of my next chapter, the regaining of consciousness, &amp;amp; the recovery from 13 months founding a startup.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;This third instalment of the Teknically series transitions from telling our story to sharing the key lessons we learned. Part 3 examines what we learned professionally. Part 4 (coming next week), digs into how founding a startup poured gasoline on my personal development.&lt;/p&gt;
 
@@ -435,7 +694,7 @@ We know now how profound it is.&lt;/p&gt;
     
       <item>
         <title>Teknically Part 2: The Dream Fades</title>
-        <description>&lt;p&gt;Two eggs over easy, hash browns, double bacon, ham, sausage, french toast. It&amp;#39;s hard to tell which was the final straw but by the end of lunch on December 2nd, Teknically was finished. We were going back to university. Our startup journey had reached the end.&lt;/p&gt;
+        <description>&lt;p&gt;&lt;strong&gt;Two eggs over easy, hash browns, double bacon, ham, sausage, french toast. It&amp;#39;s hard to tell which was the final straw but by the end of lunch on December 2nd, Teknically was finished. We were going back to university. Our startup journey had reached the end.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Well I suppose this deserves a bit more explanation. Let&amp;#39;s go back to where we last left off: &amp;quot;&lt;a href=&quot;/blog/the-389-day-laurier-bba/&quot;&gt;...let the post-post-secondary adventure begin.&lt;/a&gt;&amp;quot;&lt;/p&gt;
 
@@ -643,7 +902,7 @@ We know now how profound it is.&lt;/p&gt;
     
       <item>
         <title>FAQ: Why Does Andrew Salsa Dance?</title>
-        <description>&lt;p&gt;In November 2013 I had never danced before. One year later I&amp;#39;m dancing in a choreographed performance for the club&amp;#39;s end of term party. Crack a Coca-Cola and I&amp;#39;ll tell you the story of how I became a &amp;quot;Salsero&amp;quot; (or you can just skip to the &lt;a href=&quot;http://youtu.be/RVdGBEsZFws&quot; target=&quot;_blank&quot;&gt;video&lt;/a&gt;).&lt;/p&gt;
+        <description>&lt;p&gt;&lt;strong&gt;In November 2013 I had never danced before. One year later I&amp;#39;m dancing in a choreographed performance for the club&amp;#39;s end of term party. Crack a Coca-Cola and I&amp;#39;ll tell you the story of how I became a &amp;quot;Salsero&amp;quot; (or you can just skip to the &lt;a href=&quot;http://youtu.be/RVdGBEsZFws&quot; target=&quot;_blank&quot;&gt;video&lt;/a&gt;).&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&amp;quot;Learn to Dance&amp;quot; was on my bucket list when I started at Wilfrid Laurier University in September 2013. After my business lab I would often walk through the concourse and see the big circle of students dancing to salsa music.&lt;/p&gt;
 
@@ -694,303 +953,6 @@ We know now how profound it is.&lt;/p&gt;
         <guid isPermaLink="true">https://andrewparadi.github.io/blog/faq-why-does-andrew-salsa-dance/</guid>
         
         <category>life</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Teknically Part 1: The 389 Day Laurier BBA</title>
-        <description>&lt;p&gt;&lt;strong&gt;Today I declined my co-op offer. Last week, I deferred all my classes. My time as a full time BBA student at Wilfrid Laurier University is over after 389 days.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/article_images/2014-10-03-the-389-day-laurier-bba/Decline-Co-op.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;You may be wondering, why would anybody throw their university degree away, &lt;a href=&quot;http://www.newrepublic.com/article/118747/ivy-league-schools-are-overrated-send-your-kids-elsewhere&quot; target=&quot;_blank&quot;&gt;the best proven opportunity for long term success&lt;/a&gt;? Why would anybody reject the chance be in the co-op program and &lt;a href=&quot;http://youtu.be/oGxBx8RzzrM?t=49s&quot; target=&quot;_blank&quot;&gt;ease on down the yellow brick road&lt;/a&gt; to a great corporate job? &lt;strong&gt;How did your parents let you throw your life away?!?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Since I haven&amp;#39;t had a chance to explain personally to many of you my reasons for deferring classes for a year, this post will hopefully answer the above questions. First, let&amp;#39;s roll the clock back and give a bit of context to our journey so far.&lt;/p&gt;
-
-&lt;h2&gt;A Brief History of Teknically&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/article_images/2014-10-03-the-389-day-laurier-bba/cofounders-kids-v3.jpg&quot; alt=&quot;Teknically Co-Founders Brandon Chow and Andrew Paradi circa November 2001&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;My co-founder Brandon Chow and I first met in grade one and were good friends through grade school. We ended up going to different high schools but both ended up starting our own businesses. With Andrew Paradi Enterprises, I did freelance video production and web design. In grade 10, Brandon founded Provision Host, a niche server company that grew so large that in August 2013 it was acquired by an American company looking to expand into Canada.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://instagram.com/p/jBEWp3G8Vt/?modal=true&quot;&gt;
-&lt;img src=&quot;https://scontent-ord1-1.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/1597850_202788776592325_1804959790_n.jpg&quot; alt=&quot;Our first experience at Communitech was during Startup Weekend KW. For 54 hours, teams worked on a startup idea and pitched at the end of the weekend. Communitech is Kitchener Waterloo&amp;#39;s top technology center with programs for startups of all stages. It&amp;#39;s located at the Lang Tannery which is also home to University of Waterloo&amp;#39;s Velocity Garage, the Laurier Launchpad, and Google head offices among others.&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;After 4 years of little contact, we ran into each other during Clubs Day as first year Laurier students in September 2013. After an exhilarating Startup Weekend KW working together at Communitech, I was hooked on the local startup scene. Brandon came to me the following week with an idea he had been working on and asked I if I was interested in joining. I joined &lt;a href=&quot;http://teknically.com&quot; target=&quot;_blank&quot;&gt;Teknically&lt;/a&gt; as co-founder and we hit the ground building &lt;a href=&quot;http://webplio.com&quot; target=&quot;_blank&quot;&gt;Webplio&lt;/a&gt;, an online dashboard for business owners to easily understand their website performance.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://instagram.com/p/jNR0WyG8Q9/?modal=true&quot;&gt;
-&lt;img src=&quot;https://scontent-ord1-1.cdninstagram.com/hphotos-xpt1/t51.2885-15/e15/1599377_351877598287771_1712167658_n.jpg&quot; alt=&quot;In the dead of winter, we sold 10 Webplio Snapshot Reports at $99 each in -30˚C weather. That&amp;#39;s cold calling.&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;We soon had joined the Laurier Launchpad, sketched initial Webplio logos on used napkins, and interviewed over 200 potential customers in -30˚C blizzard conditions. In January 2014 we launched our first MVP (minimum viable product), the Webplio Snapshot Report. Instead of going straight to building the online Webplio dashboard, we used the report to test our hypothesis that businesses would pay for easy to understand website performance information. In the dead of winter we went out and sold 10 reports at $99 each. Within 21 days we had set a new (and still unbroken) Laurier Launchpad record for fastest concept to sales.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://instagram.com/p/lk6PPAG8eu/?modal=true&quot;&gt;
-&lt;img src=&quot;https://scontent-ord1-1.cdninstagram.com/hphotos-xft1/t51.2885-15/e15/11373614_461456450692376_21313322_n.jpg&quot; alt=&quot;We were 1st place winners at CBMC in Halifax beating top MBA and PhD teams from around Canada for the $25,000 grand prize.&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;In March, we competed against top MBA and PhD startup teams from across Canada at Dalhousie University for the Canada Business Model Canvas competition. For our innovative use of the canvas to tell our startup story, we won 1st place and $25,000. In May, we competed at the International Business Model Competition at Brigham Young University in Provo, Utah. Against the best MBA and PhD startups from Harvard, Stanford, and other top international universities, we finished top 40 out of 2,500 competitors. Thanks to our strong performance at these competitions, we were featured in the &lt;a href=&quot;http://www.theglobeandmail.com/report-on-business/careers/business-education/saskatchewan-schools-reduce-roadblocks-for-aboriginal-business-students/article17597347/&quot; target=&quot;_blank&quot;&gt;Globe &amp;amp; Mail&lt;/a&gt;, &lt;a href=&quot;http://www.techvibes.com/blog/canadas-business-model-competition-2014-03-17&quot; target=&quot;_blank&quot;&gt;TechVibes&lt;/a&gt;, and other &lt;a href=&quot;http://teknically.com/press&quot; target=&quot;_blank&quot;&gt;publications&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://instagram.com/p/nhIoqXm8bl/?modal=true&quot;&gt;
-&lt;img src=&quot;https://scontent-ord1-1.cdninstagram.com/hphotos-xtp1/t51.2885-15/e15/1516398_627368947351437_1539864691_n.jpg&quot; alt=&quot;At the international level, we competed against top teams from Harvard, Stanford and other top international universities and finished top 40 out of 2,500 competitors.&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;In May we also hired three brilliant University of Waterloo engineering co-op students to work on Webplio Dashboard development until August. Our collective hard work moved Webplio from an idea to a working product in just 4 months. With the help of a fellow Laurier BBA friend in Mississauga, we also grew our initial waitlist to 30 diverse small business owners ready to test and pay for Webplio when it launched.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://instagram.com/p/rItLgzG8WR/?modal=true&quot;&gt;
-&lt;img src=&quot;https://scontent-ord1-1.cdninstagram.com/hphotos-prn/t51.2885-15/e15/10593532_599420783512835_837079455_n.jpg&quot; alt=&quot;One of our bi-weekly sushi nights with our three University of Waterloo engineering co-op employees.&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2&gt;The Turning Point&lt;/h2&gt;
-
-&lt;p&gt;In the past 6 weeks, a lot at Teknically has changed. At the end of August we were accepted as one of five companies in Canada&amp;#39;s only &lt;a href=&quot;https://www.googleforentrepreneurs.com/&quot; target=&quot;_blank&quot;&gt;Google for Entrepreneurs&lt;/a&gt; program based out of Communitech. We were thrilled with the new office space (complete with Google ping pong table and astroturf) and ability to directly contact Google employees with specific questions on different products or APIs we were using. We even got to pitch Webplio to Google employees and management in the Google Waterloo office.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://instagram.com/p/sidapiG8Z8/?modal=true&quot;&gt;
-&lt;img src=&quot;https://scontent-ord1-1.cdninstagram.com/hphotos-xap1/t51.2885-15/e15/10683863_787043318013713_2093999175_n.jpg&quot; alt=&quot;Brandon and Andrew pitch to Google employees and management for the kickoff of their Google for Entrepreneurs tenancy batch.&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;These aspects alone were a big deal for us. The past two weeks have expanded what opportunities we think are possible. We recently received $100,000 in Google Cloud Computing credits. We also connected with top executives of Google Canada who actively want to partner with us to bring Webplio to more business owners. Unrelated to Google, our application for the Ontario Center of Excellence SmartStart $35,000 grant was approved so we&amp;#39;ll have funds to allow for expansion this fall.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;$100,000 in free servers? Google wanting to partner with us? $35,000 grant? We were at a fork in the trail.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;To fully take advantage of the resources and partnership available as part of Google for Entrepreneurs, we would need to work &lt;strong&gt;quickly&lt;/strong&gt;. To effectively leverage our grant money to exponentially grow Teknically, we would need to stay &lt;strong&gt;focused&lt;/strong&gt;. &lt;/p&gt;
-
-&lt;p&gt;We remembered what it was like to work full time in the summer... We were remarkably focused, productive and made amazing progress...&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;To truly manifest our vision for Webplio, there was no doubt we would need to work full time. &lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Within 48 hours of coming to this final conclusion, we had deferred our program, dropped all of our classes, and were now working full time on Teknically. &lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/article_images/2014-10-03-the-389-day-laurier-bba/cofounders-launchpad-desk.jpg&quot; alt=&quot;Full Time Entrepreneurs: Brandon and Andrew working on Webplio in the Laurier Launchpad space.&quot;&gt;&lt;/p&gt;
-
-&lt;h2&gt;Success Thanks to Many&lt;/h2&gt;
-
-&lt;p&gt;Though many entrepreneurship stories attribute all success to the individual&amp;#39;s hard work, there are always people and experiences that prepared them so they could take advantage of their opportunties and be successful. I am still thankful when I recall the family, friends, and mentors who helped me become who I am today.&lt;/p&gt;
-
-&lt;p&gt;I learned servant leadership from my Grandpa after long summer days working with my hands on different projects. I learned attention to detail from my Mom, pushing me not to accept anything less than my best. From my sister, I&amp;#39;ve learned perseverance. From my Dad, a logical approach to decision making and how to push myself to be a better entrepreneur.&lt;/p&gt;
-
-&lt;p&gt;From St. Andrew&amp;#39;s Presbyterian Streetsville and Camp Mini-Yo-We, a strengthened and unwavering faith. From my high school math teacher Mr. Spencer, university level financial mathematics skills. From my high school English teacher Mr. Blake, deliberate mindfulness and the ability to write clearly and persuasively. From my Graydon and Laurier friends, the value of a community that pushes each other to be better. From Laurier Launchpad, how to systematically test your assumptions about your product, customers, and market. &lt;/p&gt;
-
-&lt;p&gt;Too many family, friends, and mentors to name have unknowingly fostered these skills and helped along each step of my journey. Thankfully my parents, sister, and extended family both understand and fully support my decision to defer classes and focus full time on Teknically. To God and all of you, I am truly grateful.&lt;/p&gt;
-
-&lt;h2&gt;The Path Ahead&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/article_images/2014-09-30-launchpad-meets-hack-north-3-hypotheses-tested-hacking/Webplio-Dashboard-v3-Referrals.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;Now that we are working full time, we can push Teknically to Mach 2. Next week, &lt;a href=&quot;http://webplio.com&quot; target=&quot;_blank&quot;&gt;Webplio&lt;/a&gt; launches exclusively to our initial 30 customers. In the coming weeks, we&amp;#39;ll begin to open access to select people signed up on the &lt;a href=&quot;http://webplio.com&quot; target=&quot;_blank&quot;&gt;Webplio&lt;/a&gt; Wait List. We&amp;#39;ve begun hiring 2-3 additional full time developers to help us bring some truly unbelievable features and functionality to &lt;a href=&quot;http://webplio.com&quot; target=&quot;_blank&quot;&gt;Webplio&lt;/a&gt; in the coming months. We&amp;#39;re also very excited for the continued opportunities that will come from our tenancy in Google for Entrepreneurs.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/article_images/2014-10-03-the-389-day-laurier-bba/cofounders-ping-pong.jpg&quot; alt=&quot;Teknically founders Brandon and Andrew in their new Google for Entrepreneurs space at Communitech.&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;September 24th was our last day as full time Laurier students. Now as full time entrepreneurs, we can&amp;#39;t wait to see what will happen in this second year of &lt;a href=&quot;http://teknically.com&quot; target=&quot;_blank&quot;&gt;Teknically&lt;/a&gt;. &lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://youtu.be/_DnKNClu2XM?t=1m45s&quot; target=&quot;_blank&quot;&gt;No ragrets&lt;/a&gt;, let the post-post-secondary adventure begin.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;And it did...in &lt;a href=&quot;/blog/the-dream-fades/&quot;&gt;part 2&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 03 Oct 2014 19:58:45 -0400</pubDate>
-        <link>https://andrewparadi.github.io/blog/the-389-day-laurier-bba/</link>
-        <guid isPermaLink="true">https://andrewparadi.github.io/blog/the-389-day-laurier-bba/</guid>
-        
-        <category>startups</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Launchpad Meets Hack the North: 3 Hypotheses We Tested While Hacking</title>
-        <description>&lt;blockquote&gt;
-&lt;p&gt;Looking for Hack the North Part 1? Check out &lt;a href=&quot;http://andrewparadi.com/2014/09/3-ways-hack-the-north-improved-our-startup/&quot;&gt;3 Ways Hack the North Improved our Startup&lt;/a&gt;!&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;As part of the Laurier Launchpad since October 2013, we quickly learned the &amp;quot;Lean Startup&amp;quot; methodology developed by Steve Blank, a legendary Silicon Valley serial entrepreneur and Stanford professor.  Distilled to one sentence, it is making decisions in your startup, not based on your intuition, but based on what your real results are with your product, market, and customers. Customer interviews, minimum viable products (MVP), and split testing marketing material are just a few of the many techniques used to test initial assumptions about your market, customers, or product. &lt;/p&gt;
-
-&lt;p&gt;Throughout our development of Webplio, we have been successful at practically applying this methodology to our business (we have won over $27,000 at national and international competitions for our use of the lean startup process and business model canvas: &lt;a href=&quot;https://youtu.be/OB7m2iMaiA0&quot; target=&quot;_blank&quot;&gt;IBMC&lt;/a&gt;, &lt;a href=&quot;https://youtu.be/EhbbMZyOLsc&quot; target=&quot;_blank&quot;&gt;CBMC&lt;/a&gt;). As Hack the North approached we saw the opportunity to test three new assumptions we had for our product, market, and customers:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Product&lt;/strong&gt;: we could more easily build a fluid, efficient web app by leveraging the &lt;a href=&quot;http://youtu.be/VFqbGbU8f8o&quot; target=&quot;_blank&quot;&gt;synergy&lt;/a&gt; of the &lt;a href=&quot;http://mean.io/#!/&quot; target=&quot;_blank&quot;&gt;MEAN&lt;/a&gt; stack&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Market&lt;/strong&gt;: Our Webplio &amp;quot;Scores&amp;quot; are not limited to just website analytics but could be applied to a financial data and provide significant value&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Customers&lt;/strong&gt;: people respond better to a simple straight forward demo video (a la &lt;a href=&quot;http://youtu.be/7QmCUDHpNzE&quot; target=&quot;_blank&quot;&gt;Dropbox&lt;/a&gt;)&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2&gt;Product&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://webplio.com&quot; target=&quot;_blank&quot;&gt;Webplio&lt;/a&gt; presents business owners with easy to understand website performance information and insights. It&amp;#39;s currently coded in PHP using the Symfony2 framework but we haven&amp;#39;t had time yet to build in any asynchronous technologies like AJAX. These types of web technologies allow for no page reloads, all data would change fluidly and dynamically. Within any browser and on any device, Webplio would be as fluid, fun, and approachable as an iPad app. The only question we still had was how we should implement this powerful functionality (there are a lot of options!).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/article_images/2014-09-30-launchpad-meets-hack-north-3-hypotheses-tested-hacking/bob-webplio-hero.jpg&quot; alt=&quot;Webplio&amp;#39;s vivid graphs, summary scores, and algorithmically determined insights work together to help owners make sense of their website analytics data.&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;With many different ways to implement this fluid user experience, we wanted to test our top pick within a real project. Instead of just reading spec sheets, we could see how it interacts with our existing development styles and team. Based on Brandon&amp;#39;s extensive research, we decided we would test the entire MEAN stack with our Hack the North team to get a better feel for the stack synergy.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/article_images/2014-09-30-launchpad-meets-hack-north-3-hypotheses-tested-hacking/stock-slate-demo-retail-c.jpg&quot; alt=&quot;Stock Slate: a fluid, real-time stocks web application built on the powerful MEAN stack.&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;Stock Slate confirmed our hypothesis. Using the MEAN stack as the backbone for our real-time stocks application, we could easily test the most important capabilities of the framework. &lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Could it process lots of data in real-time? Yes.&lt;/p&gt;
-
-&lt;p&gt;Could it easily plug into different APIs to grab the data? Yup.&lt;/p&gt;
-
-&lt;p&gt;Was the end user experience as fluid as an iPad app? You bet.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Hack the North provided a perfect opportunity to test if the MEAN stack would be the best way to bring powerful fluid functionality to Webplio users. Over the coming months we&amp;#39;ll be bringing some of the best aspects of the MEAN stack to Webplio. We can&amp;#39;t wait for it to feel more like an iPad app, and less like just another online dashboard.&lt;/p&gt;
-
-&lt;h2&gt;Market&lt;/h2&gt;
-
-&lt;p&gt;One of the primary value propositions for Webplio are Webplio Scores. For example, instead of using 5 different metrics to evaluate effectiveness, Webplio users only need their Webplio Score which summarizes overall performance into a single number. Webplio Scores have been used to evaluate effectiveness of referral traffic, landing pages, and even server performance but had never been used outside of website analytics&lt;strong&gt;...until Hack the North.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/article_images/2014-09-30-launchpad-meets-hack-north-3-hypotheses-tested-hacking/Webplio-Dashboard-v3-Referrals.png&quot; alt=&quot;In this table from the Webplio Dashboard, Webplio Scores simplify analysis of referral traffic. Instead of looking at up to 5 different metrics, users only need to look at a single Webplio Score to quickly understand where their best referral traffic is coming from.&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;Our primary test with Stock Slate was to see if our approach with scores would be applicable to different industries and data sets. We had to address both the technical feasibility of a score addressing close to 10 metrics and additionally ensure that it was a valuable tool for user, not just another number in a table. We worked late into the final hours of Hack the North refining both of these aspects.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/article_images/2014-09-30-launchpad-meets-hack-north-3-hypotheses-tested-hacking/stock-slate-demo-retail-c.jpg&quot; alt=&quot;In Stock Slate, Investor Scores simplify stock analysis to a single score of a stock&amp;#39;s value. This example show&amp;#39;s Peter Lynch&amp;#39;s algorithm being applied to some top retail stocks. It&amp;#39;s easily clear that investing in Family Dollar Inc. would be a better choice than Sears Holdings Corp.*1&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;When we showed peers, judges, and sponsors they all had the same reaction: &lt;strong&gt;disbelief&lt;/strong&gt;. &lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&amp;quot;You automated fundamental stock analysis?! That&amp;#39;s genius. I&amp;#39;d use this.&amp;quot;&lt;/p&gt;
-
-&lt;p&gt;&amp;quot;Wow! Warren Buffett likes my picks! This is so simple.&amp;quot;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;With Stock Slate, investing was now approachable to a whole new segment of the population. You could now make informed decisions without being a wall street banker or having a financial mathematics degree! It was very rewarding to see our vision of Stock Slate manifested in just 36 hours. We also were able to confirm our initial hypothesis that Webplio Score algorithms could successfully be applied to new industries and data sets. &lt;strong&gt;Mission Accomplished.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2&gt;Customers&lt;/h2&gt;
-
-&lt;p&gt;For our initial promotional videos for Webplio, we didn&amp;#39;t yet have a working dashboard that we could demo live, so we compensated. Moving graphics and 3D effects helped give the illusion of a working product but it didn&amp;#39;t resonate with our potential customers. For Stock Slate, we knew we would have a working demo so we could try a new approach.&lt;/p&gt;
-
-&lt;p&gt;We looked at other successful videos from startups and found that the first Dropbox demo video was unbelievably successful. CEO Drew Houston recalled the impact of the video, “It drove hundreds of thousands of people to the website. Our beta waiting list went from 5,000 people to 75,000 people literally overnight. It totally blew us away.”*2  When we dissected Drew Houston&amp;#39;s initial Dropbox demo it&amp;#39;s clear that they nailed the basics. &lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Scripted conversation, not a pitch. Video screencapture demo. Simple articulation of value prop. Easter eggs.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;iframe width=&quot;960&quot; height=&quot;540&quot; src=&quot;//www.youtube-nocookie.com/embed/7QmCUDHpNzE?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;figcaption&gt;Narrated by CEO Drew Houston, Dropbox&#39;s first demo video was posted Sept 15, 2008 and almost overnight boosted Dropbox&#39;s beta list from 5,000 to 75,000 users.&lt;/figcaption&gt;
-
-&lt;p&gt;With Stock Slate we focused on the basics. Identify the problem. Demo how somebody would regularly use it. Show the power of the unique value proposition. When you don&amp;#39;t know your product, market or customers well enough, these basic tasks can require unnecessary explanation. With a 100 second time limit from Hack the North, we were forced to quickly distill Stock Slate to it&amp;#39;s most basic value proposition and articulate that concisely.&lt;/p&gt;
-
-&lt;iframe width=&quot;960&quot; height=&quot;540&quot; src=&quot;//www.youtube-nocookie.com/embed/juY4bwJXMVE?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;figcaption&gt;When we initially posted the Stock Slate video to YouTube, the view count quickly hit 301+. Google does this when it needs more time to verify views for highly viewed videos.&lt;/figcaption&gt;
-
-&lt;p&gt;The Stock Slate demo video was our first video to hit the magic 301+ on YouTube. Within 60 minutes of posting it on &lt;a href=&quot;http://www.reddit.com/r/investing/comments/2h8ha7/created_this_in_36_hours_looking_for_feedback/&quot; target=&quot;_blank&quot;&gt;/r/investing&lt;/a&gt; we already had 9 people comment asking where they can sign up and start using it. &lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;This was a video that resonated with people. This was a video that inspired action. This was a video that would drive sales.&lt;/strong&gt; Thanks to this powerful confirmation of our final hypothesis, we will be releasing a new Webplio demo video next week that gets back to the basics.&lt;/p&gt;
-
-&lt;h2&gt;tl;dr&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Whether you know the &amp;quot;Lean Startup&amp;quot; process or not, start believing that &lt;strong&gt;everything you do is a hypothesis&lt;/strong&gt;. If it goes well, great! Figure out how to keep doing it better. If not, change your next decision to readjust your heading based on what went wrong.&lt;/li&gt;
-&lt;li&gt;In a startup, &lt;strong&gt;test all possible aspects of your product, market, and customers&lt;/strong&gt;. You&amp;#39;ll never regret having more data at your fingertips when making decisions about a new product feature, expanding to a new market, or better targeting your advertising to a specific customer segment.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Opportunities to test your hypotheses are everywhere!&lt;/strong&gt; Take off your blinders! A/B test your marketing. Incorporate usage statistics into your product. Interview more customers to get their honest long form opinion. If you want to succeed as a startup, you need to know your product, market, and customers better than anybody else.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;strong&gt;Footnotes&lt;/strong&gt;
-- *1 - Stock Slate does not provide financial advice in any form but is simply a data analysis tool for providing real time fundamental analysis. All investment decisions should be considered independently and approved by a professional advisor.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;*2 - Drew Houston quote via &lt;a href=&quot;http://techcrunch.com/2011/10/19/dropbox-minimal-viable-product/&quot; target=&quot;_blank&quot;&gt;Tech Crunch&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 30 Sep 2014 08:34:25 -0400</pubDate>
-        <link>https://andrewparadi.github.io/blog/launchpad-meets-hack-north-3-hypotheses-tested-hacking/</link>
-        <guid isPermaLink="true">https://andrewparadi.github.io/blog/launchpad-meets-hack-north-3-hypotheses-tested-hacking/</guid>
-        
-        <category>startups</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>3 Ways Hack the North Improved our Startup</title>
-        <description>&lt;p&gt;&lt;strong&gt;From September 19th to the 21st, University of Waterloo&amp;#39;s Engineering 5 building was over run by a native species of the region: hackers...&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Hack the North at UW gave 1,000 top hackers the opportunity to build something awesome in just 36 hours. Sponsored by top tech companies (Apple, Microsoft, Google, Facebook, Bloomberg, Uber &lt;a href=&quot;http://hackthenorth.com&quot; target=&quot;_blank&quot;&gt;...&lt;/a&gt;), &lt;a href=&quot;http://www.ycombinator.com/&quot; target=&quot;_blank&quot;&gt;Y Combinator&lt;/a&gt;, and with opportunities to use the newest technologies from Oculus Rifts to Thalmic Lab&amp;#39;s Myo, Canada had never seen a hackathon like this.&lt;/p&gt;
-
-&lt;p&gt;As co-founder of Teknically and currently deep in Webplio development, it would seem counter intuitive to drop what we were doing to build something at Hack the North. When I began to realize the sheer scope of Hack the North back in August, I saw a unique opportunity for Teknically to grow in new ways as a startup.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Here are the three biggest ways that Hack the North has helped our startup.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2&gt;1. Fresh Air&lt;/h2&gt;
-
-&lt;p&gt;Hack the North was a breath of fresh air for our team. Webplio, over the past 10 months, has been ever evolving as we worked with more customers to better understand their needs. Our hack, Stock Slate, had a narrower scope and was a smaller application. We could move from an idea to a working prototype in the weekend. As each hour went by, we hit different milestones and at times needed to pivot and cut down on iterations. We applied a lot of the principles we knew from working at startups. To us, this was the startup life condensed down to 36 hours!&lt;/p&gt;
-
-&lt;p&gt;&lt;iframe src=&quot;//www.youtube-nocookie.com/embed/juY4bwJXMVE?rel=0&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;figcaption&gt;Stock Slate Demo: Built on the MEAN stack and leveraging Bloomberg Open API, Stock Slate provides real time stock investment insights&lt;/figcaption&gt;&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;With a new idea, new people, and new technologies, we were free to build something awesome!&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;When we contemplated entering Hack the North we were a bit worried whether we&amp;#39;d find other hackers qualified in the stack we wanted to develop on. What were we thinking?! After some serendipitous posting on the Hack the North Facebook group we assembled our dream team with some of the most perfectly complementary skills imaginable:
-&lt;ul&gt;
-    &lt;li&gt;Yutong Luo: Backend who has worked at banks and with many APIs&lt;/li&gt;
-    &lt;li&gt;Brandon Chow: Initial idea conception, design, front end&lt;/li&gt;
-    &lt;li&gt;Andrew Paradi: Finance lead and algorithms expert&lt;/li&gt;
-    &lt;li&gt;Jason Kurian: A MEAN ninja&lt;/li&gt;
-&lt;/ul&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://instagram.com/p/tOuf1WG8dI/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://photos-g.ak.instagram.com/hphotos-ak-xfp1/1742199_290274417829046_1818926910_n.jpg&quot; alt=&quot;Stock Slate Team: Yutong Luo, Brandon Chow, Andrew Paradi, Jason Kurian&quot;/&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Thanks to our shared interest in learning new technologies and matching skills, our team was just filled with &lt;a href=&quot;https://youtu.be/VFqbGbU8f8o&quot; target=&quot;_blank&quot;&gt;synergy&lt;/a&gt;. We also had the skills to tackle new technologies. From the MEAN stack to the Bloomberg Open API it was a lot of fun working with new technologies to build out Stock Slate as a fluid one page web app. We even ended up winning the Bloomberg API Prize for best use of their API (each of us will be get a &lt;a href=&quot;http://ardrone2.parrot.com/&quot; target=&quot;_blank&quot;&gt;Parrot AR Elite Drone&lt;/a&gt; in the mail soon)!&lt;/p&gt;
-
-&lt;h2&gt;2. Competition You Can See, Hear, and Smell&lt;/h2&gt;
-
-&lt;p&gt;We work out of the Google for Entrepreneurs space at Communitech and are surrounded by other startups and technology companies building grand visions of the future. The difference with Hack the North is that the visions are just that much grander! There&amp;#39;s no need to worry about commercialization strategies or business plans. There&amp;#39;s only the singular focus on whether your hack works and how awesome it is.&lt;/p&gt;
-
-&lt;p&gt;Everyone at the event is there in good spirit to have a good time and show what awesome things they can build. This style of competition opens the floodgates to simply indescribably innovative hacks such as my personal favourites: &lt;a href=&quot;http://hackthenorth.challengepost.com/submissions/27029-open-pokemon&quot; target=&quot;_blank&quot;&gt;Open Pokemon&lt;/a&gt; and the &lt;a href=&quot;http://hackthenorth.challengepost.com/submissions/27086-silicon-man&quot; target=&quot;_blank&quot;&gt;Silicon Man&lt;/a&gt;.&lt;/p&gt;
-
-&lt;video src=&quot;http://videos-b-11.ak.instagram.com/hphotos-ak-xaf1/10713849_1509221115984991_1899933270_n.mp4&quot; type=&quot;video/mp4&quot; controls&gt;&lt;/video&gt;
-
-&lt;figcaption&gt;Silicon Man: Why pay for an Oculus Rift and a Thalmic Labs Myo when you could strap an iPhone to your face and create a custom glove interface?!&lt;/figcaption&gt;
-
-&lt;p&gt;I&amp;#39;m a strong believer that you become the people you surround yourself with. That&amp;#39;s why I didn&amp;#39;t want to leave Hack the North when it was done. We were surrounded by wickedly smart, hard working, friendly hackers from around the world not motivated by monetary gain (they didn&amp;#39;t announce the prizes before hand, everybody applied for the love of hacking). It was an amazing group to be part of and we certainly left inspired by each other to keep building awesome stuff.&lt;/p&gt;
-
-&lt;h2&gt;3. Personal Hacks&lt;/h2&gt;
-
-&lt;p&gt;Hack the North didn&amp;#39;t just bring together awesome hackers, it also provided some amazing opportunities for personal development. Throughout the hackathon were technical seminars with experts covering everything from iOS and Android app development 101 to talks from Google, Microsoft, and Bloomberg on broad development strategy. There were so many sessions that if you went to all of them you would have had no time to hack!&lt;/p&gt;
-
-&lt;p&gt;We wanted to leave enough time for hacking so we decided to only go to the keynote presentations. After seeing both, we have even more respect for the organizers of Hack the North for putting together the best speakers and panels I&amp;#39;ve seen in years. Friday night kicked off with a riveting discussion between investor Jason Calacanis and billionaire UW alumnus, former Facebook employee, founder of S23P, Chamath Palihapitiya. The length of his name foretold how big his thoughts were on startups and their role in society. He certainly forced me to think even further outside the box than I was used to.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Chamath Palihapitiya: the length of his name foretold how big his thoughts were on startups and their role on society.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Saturday afternoon&amp;#39;s headline act was Y Combinator&amp;#39;s new President Sam Altman. He was interviewed by University of Waterloo&amp;#39;s Dean of Engineering Dr. Pearl Sullivan but we found the panel discussion that followed much more applicable to startup life. Moderated by Sam, the panel consisted of UW&amp;#39;s most successful YCom alumni with founders and CEOs of Pebble, Thalmic Labs, Vidyard, and A Thinking Ape all sharing valuable insights on what it&amp;#39;s really like to build a startup.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://instagram.com/p/tLJ1t1G8b6/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://photos-b.ak.instagram.com/hphotos-ak-xaf1/10693659_1466888876932369_1764327461_n.jpg&quot; alt=&quot;UW + YC: Sam Altman moderates a panel of alumni from both University of Waterloo and Y Combinator: Eric Migicovsky (Founder, Pebble), Eric Diep (Founder, A Thinking Ape), Wilkins Chung (A Thinking Ape), Michael Litt (CEO, Vidyard), Stephen Lake (CEO, Thalmic Labs)&quot;/&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Both speakers and the panel confirmed both that Waterloo is an awesome place to build a startup, but there&amp;#39;s nothing that can come close to the access to capital and mentorship that you get in Silicon Valley. Even though all of the UW YCom founders have since moved their companies back to Waterloo (or Vancouver for A Thinking Ape), each founder talked about how they still spend time regularly in the valley to maintain their networks and receive corporate guidance. For our startup, these two talks pushed us to set more concrete goals of how we will somehow make our way to the valley in coming years.&lt;/p&gt;
-
-&lt;h2&gt;tl;dr&lt;/h2&gt;
-
-&lt;p&gt;We had no idea when we arrived at Hack the North that the weekend would improve our startup, but it did!&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;We thrived on the fresh air of working with a new idea, new people, and new technologies.&lt;/li&gt;
-&lt;li&gt;Our fellow hackers pushed us to keep innovating past the limits of our imagination.&lt;/li&gt;
-&lt;li&gt;Chamath and the UW + YCom Alumni panel inspired us to dream bigger of who we could become in just a few short years.&lt;/li&gt;
-&lt;li&gt;Our team won the Bloomberg API Prize!&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;This article is the first in our Hack the North series. Continue your reading with Part 2: &lt;a href=&quot;http://andrewparadi.com/blog/launchpad-meets-hack-north-3-hypotheses-tested-hacking/&quot;&gt;Launchpad Meets Hack the North: 3 Hypotheses We Tested While Hacking&lt;/a&gt;.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/article_images/2014-09-23-3-ways-hack-the-north-improved-our-startup/HTN-press-c.jpg&quot; alt=&quot;Update May 2015: We&amp;#39;ve been featured on Hack the North&amp;#39;s Press &amp;lt;a href=&amp;quot;http://hackthenorth.com/press&amp;quot; target=_blank&amp;quot;&amp;gt;page&amp;lt;/a&amp;gt;!&quot;&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-        <pubDate>Tue, 23 Sep 2014 10:34:25 -0400</pubDate>
-        <link>https://andrewparadi.github.io/blog/3-ways-hack-the-north-improved-our-startup/</link>
-        <guid isPermaLink="true">https://andrewparadi.github.io/blog/3-ways-hack-the-north-improved-our-startup/</guid>
-        
-        <category>startups</category>
         
         
         <category>blog</category>
