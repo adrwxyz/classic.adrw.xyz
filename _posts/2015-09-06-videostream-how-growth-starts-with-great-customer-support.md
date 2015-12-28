@@ -88,9 +88,9 @@ My priorities with the new Premium flow ended up being very similar to what I se
 
 I did a lot of research from e-commerce checkout white papers to successful upgrade flows in other apps. I built the premium flow from scratch with HTML/CSS/Sass, Stripe API, PayPal integration, and Javascript. I'm so thankful to the team for all they taught me about coding for a Chrome App.
 
-![New Premium Flow: Plans, Payment Selection, & Features.](/assets/article_images/2015-09-06-videostream-how-growth-starts-with-great-customer-support/premflow1.jpg)
+![New Premium Flow: Plans, Payment Selection, & Features.](/assets/article_images/2015-09-06-videostream-how-growth-starts-with-great-customer-support/premflow1-c.jpg)
 
-![New Premium Flow: Payment Confirmation.](/assets/article_images/2015-09-06-videostream-how-growth-starts-with-great-customer-support/premflow2.jpg)
+![New Premium Flow: Payment Confirmation.](/assets/article_images/2015-09-06-videostream-how-growth-starts-with-great-customer-support/premflow2-c.jpg)
 
 The Premium flow was almost in production as I finished my internship at Videostream. The benefits of Videostream were now easy to understand. Upgrading was fast and seamless and could be done in fewer clicks. 
 
