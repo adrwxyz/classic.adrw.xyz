@@ -1,5 +1,5 @@
 ---
-title:  "Teknically & Webplio"
+title:  "Teknically Webplio"
 date:   2014-12-24 01:34:25
 tags:
 - startups
