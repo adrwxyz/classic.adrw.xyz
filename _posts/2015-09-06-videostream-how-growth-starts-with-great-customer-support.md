@@ -33,6 +33,7 @@ The Videostream team had reached a consensus: the website was long due for a mak
 ![Original Videostream Website](/assets/article_images/2015-09-06-videostream-how-growth-starts-with-great-customer-support/vs-old-c.jpg)
 
 I started brainstorming what I the ideal new website would be like. 
+
 - It would be easier to understand what was Videostream.
 - Hero images would showcase how Videostream worked with laptops, TVs, iPhones and Android devices.
 - Descriptions would quickly address frequently emailed questions like: "will Videostream play my videos?"
@@ -78,6 +79,7 @@ My internship was almost done. I had answered a lot of email and developed a new
 The current upgrade process was a bit convoluted. Most interactions such as changing a plan or choosing a payment required a separate page and a number of clicks. From customer emails, I knew that even with the features descriptions front and centre, most still had no idea what they would be getting with Premium.
 
 My priorities with the new Premium flow ended up being very similar to what I settled on for the website previously:
+
 1. Write sales copy based on customer feedback with the much loved Videostream personality
 2. Follow Material Design guidelines
 3. Make Premium benefits easier to understand
