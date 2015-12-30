@@ -15,7 +15,7 @@ tags:
 - support
 image: /assets/article_images/2014-09-30-launchpad-meets-hack-north-3-hypotheses-tested-hacking/stock-slate-demo-retail-c.jpg
 excerpt: In 4 months, Andrew resolved 2,148 support tickets, coded a new website that boosted weekly actives & downloads, and optimized for revenue.
-seo-title: Videostream&#58; How I grew active users & revenue in 4 months
+seo-title: Videostream - How I grew active users & revenue in 4 months
 ---
 
 As Summer '15 Growth Intern, I got to work on three awesome projects.
