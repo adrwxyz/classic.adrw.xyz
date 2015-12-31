@@ -6,9 +6,10 @@ tags:
 - HTML5
 - PHP
 - sales-copy
-- training
 - wordpress
-image: /assets/article_images/2014-09-30-launchpad-meets-hack-north-3-hypotheses-tested-hacking/stock-slate-demo-retail-c.jpg
+- training
+- sysadmin
+image: /assets/article_images/2015-08-09-franks-jewellers/franks.jpg
 excerpt: Frank's Jewellers has been a trusted store in Uptown Waterloo since 1919. When they needed a new website, Andrew delivered with responsive, modern design.
 seo-title: Frank's Jewellers - New website bolsters historic store
 ---
