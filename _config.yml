@@ -132,8 +132,8 @@ defaults:
       author: "Andrew Paradi"
   -
     scope:
-      path: ""
-      type: "projects"
+      path: "projects"
+      type: "pages"
     values:
       layout: "project"
       categories: "project"
