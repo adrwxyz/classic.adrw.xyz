@@ -11,8 +11,8 @@ tags:
 - wordpress
 - PHP
 - CSS3
-image: /assets/article_images/2014-09-30-launchpad-meets-hack-north-3-hypotheses-tested-hacking/stock-slate-demo-retail-c.jpg
-excerpt: Ever wondered how to apply the Lean Startup methodology to a hackathon? The Webplio team used Hack the North to test their top three hypotheses.
+image: /assets/article_images/2014-02-26-sam-campaign/SamDisplayPicture.png
+excerpt: The race was tight but a clever marketing strategy pushed Sam Lambert over the top to win in 2014. Learn about the winning strategy Andrew helped develop.
 seo-title: Bowtie - How We Won a Presidential Campaign
 ---
 
@@ -29,11 +29,8 @@ I was actively involved in marketing strategy meetings, developed his campaign w
 
 <iframe width="853" height="480" src="https://www.youtube-nocookie.com/embed/hfbE7sVbz8k?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-&nbsp;
 Sam was elected by under 300 votes in one of the tightest elections in years. In talking to voters and those involved, many attributed the win to our bow tie strategy which pushed for both higher impressions on students and pushing the campaign to be one on character, not politics.
-&nbsp;
 
-<img src="http://andrewparadi.com/wp-content/uploads/2014/02/SiteScreenShot1-1024x809.png" alt="SiteScreenShot1" width="800" class="aligncenter size-large wp-image-2075" />
+![](/assets/article_images/2014-02-26-sam-campaign/sam-site-c3.png)
 
 * = Wilfrid Laurier University Students' Union
-

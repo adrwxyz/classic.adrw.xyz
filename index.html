@@ -30,6 +30,30 @@ layout: default
 
 <main class="content" role="main">
 
+	{% if site.categories.projects %}
+    <h5 class="index-headline featured"><span>Projects</span></h5>
+
+    <div class="container featured">
+      {% for page in site.categories.projects %}
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
+          <div class="article-item">
+            <header class="post-header">
+              <h2 class="post-title" itemprop="name"><a href="{{ page.url }}" itemprop="url">{{ page.title }}</a></h2>
+            </header>
+            <section class="post-excerpt" itemprop="description">
+              <p>{% if page.description %}{{ page.description }}{% else %}{{ page.content | strip_html | truncatewords: 50 }}{% endif %}</p>
+            </section>
+            <div class="post-meta">
+              <time datetime="{{ page.date | date_to_long_string }}">{{ page.date | date_to_long_string }}</time>
+  <!--            <span class="page-tags-set">on {{#foreach tags}}<span class="page-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}}</span>-->
+            </div>
+          </div>
+        </article>
+      {% endfor %}
+    </div>
+    
+    {% endif %}
+
     {% if site.tags.featured %}
     <h5 class="index-headline featured"><span>Featured</span></h5>
 

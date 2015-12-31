@@ -2,10 +2,12 @@
 title:  "Meet the Link"
 date:   2014-10-27 16:09:25
 tags:
-- award
-- lead
 - video-production
-image: /assets/article_images/2014-09-30-launchpad-meets-hack-north-3-hypotheses-tested-hacking/stock-slate-demo-retail-c.jpg
+- photoshop
+- illustrator
+- design
+- award
+image: /assets/article_images/2013-10-27-meet-the-link/thelink.jpg
 excerpt: As marketing specialist for Laurier's The Link business club, I got diverse experience in digital marketing and was awarded Executive of the Year award.
 seo-title: The Link - Marketing Specialist Wins Executive of the Year
 ---

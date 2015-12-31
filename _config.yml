@@ -125,15 +125,8 @@ defaults:
       author: "Andrew Paradi"
   -
     scope:
-      path: ""
+      path: "projects"
       type: "pages"
-    values:
-      layout: "page"
-      author: "Andrew Paradi"
-  -
-    scope:
-      path: ""
-      type: "projects"
     values:
       layout: "project"
       categories: "project"

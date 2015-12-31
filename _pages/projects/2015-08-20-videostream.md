@@ -2,18 +2,18 @@
 title:  "Videostream"
 date:   2015-08-20 19:34:25
 tags:
-- CSS3
-- google-oauth
-- HTML5
-- javascript
-- marketing
 - material-design
-- paypal
-- sales-copy
+- design
+- javascript
+- HTML5
+- CSS3
 - sass
-- stripe
-- support
-image: /assets/article_images/2014-09-30-launchpad-meets-hack-north-3-hypotheses-tested-hacking/stock-slate-demo-retail-c.jpg
+- sales-copy
+- paypal-api
+- stripe-api
+- customer-support
+- api
+image: /assets/article_images/2015-09-06-videostream-how-growth-starts-with-great-customer-support/vs-home-c.png
 excerpt: In 4 months, Andrew resolved 2,148 support tickets, coded a new website that boosted weekly actives & downloads, and optimized for revenue.
 seo-title: Videostream - How I grew active users & revenue in 4 months
 ---
