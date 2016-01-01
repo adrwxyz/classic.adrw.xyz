@@ -123,11 +123,3 @@ defaults:
       layout: "post"
       categories: "blog"
       author: "Andrew Paradi"
-  -
-    scope:
-      path: "projects"
-      type: "pages"
-    values:
-      layout: "project"
-      categories: "project"
-      author: "Andrew Paradi"

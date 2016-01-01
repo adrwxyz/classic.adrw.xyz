@@ -30,28 +30,29 @@ layout: default
 
 <main class="content" role="main">
 
-	{% if site.categories.projects %}
+	{% if site.categories.project %}
     <h5 class="index-headline featured"><span>Projects</span></h5>
 
     <div class="container featured">
-      {% for page in site.categories.projects %}
+      {% for post in site.categories.project %}
         <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
           <div class="article-item">
             <header class="post-header">
-              <h2 class="post-title" itemprop="name"><a href="{{ page.url }}" itemprop="url">{{ page.title }}</a></h2>
+              <h2 class="post-title" itemprop="name"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
             </header>
             <section class="post-excerpt" itemprop="description">
-              <p>{% if page.description %}{{ page.description }}{% else %}{{ page.content | strip_html | truncatewords: 50 }}{% endif %}</p>
+              <p>{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | truncatewords: 50 }}{% endif %}</p>
             </section>
             <div class="post-meta">
-              <time datetime="{{ page.date | date_to_long_string }}">{{ page.date | date_to_long_string }}</time>
-  <!--            <span class="page-tags-set">on {{#foreach tags}}<span class="page-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}}</span>-->
+              <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
+  <!--            <span class="post-tags-set">on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}}</span>-->
             </div>
           </div>
         </article>
       {% endfor %}
     </div>
-    
+
+    <h5 class="index-headline normal"><span>Regular</span></h5>
     {% endif %}
 
     {% if site.tags.featured %}
