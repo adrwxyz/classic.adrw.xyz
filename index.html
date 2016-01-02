@@ -16,10 +16,11 @@ layout: default
     <h2 class="blog-description">{{ site.description }}</h2>
     <div class="custom-links">
 	  <a href="{{site.url}}">Home</a>
-	  &nbsp;&nbsp;·&nbsp;&nbsp;
+	  &nbsp;·&nbsp;
 	  <a href="/blog.html">Blog</a>
-      &nbsp;&nbsp;·&nbsp;&nbsp;
+      &nbsp;·&nbsp;
       <a href="/about/">About</a>
+      &nbsp;·&nbsp;
       {% for social in site.social %}
         {% if social.url %}
             <a class="icon-{{ social.icon }}" href="{{ social.url }}" {% if social.desc %} title="{{ social.desc }}"{% endif %}" target="_blank">
