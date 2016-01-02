@@ -24,7 +24,7 @@ paginate:
 
 url: "https://andrewparadi.com" # the base hostname & protocol for your site
 baseurl: ""
-enforce_ssl: andrewparadi.com
+enforce_ssl:
 permalink: /:categories/:title/
 #used to display twitter cards
 twitter_handle: '@andrew_paradi'
