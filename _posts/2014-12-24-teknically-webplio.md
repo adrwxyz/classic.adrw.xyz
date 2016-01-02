@@ -18,7 +18,7 @@ tags:
 - wordpress
 - api
 image: /assets/article_images/2014-12-24-teknically-webplio/webplio-imac.png
-excerpt: Brandon Chow & Andrew Paradi interviewed at Y Combinator, were part of Google for Entrepreneurs, developed Webplio: machine learning for Google Analytics.
+excerpt: Brandon Chow &amp; Andrew Paradi interviewed at Y Combinator, were part of Google for Entrepreneurs, developed Webplio&#58; machine learning for Google Analytics.
 seo-title: Teknically &amp; Webplio - the future of Google Analytics
 ---
 
