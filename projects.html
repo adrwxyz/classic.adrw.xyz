@@ -25,7 +25,7 @@ layout: default
       {% endfor %}
       <a href="/about/">About</a>
       &nbsp;&nbsp;·&nbsp;&nbsp;
-      <a href="/projects/">Projects</a>
+      <a href="/projects.html">Projects</a>
     </div>
 </header>
 
@@ -37,7 +37,7 @@ layout: default
         <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
           <div class="article-item">
             <header class="post-header">
-              <h2 class="post-title" itemprop="name"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
+              <h2 class="post-title" itemprop="name"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h2><p>{{ post.tags}}</p>
             </header>
             <section class="post-excerpt" itemprop="description">
               <p>{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | truncatewords: 50 }}{% endif %}</p>
