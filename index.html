@@ -58,7 +58,7 @@ layout: default
     {% endif %}
 
     <div class="cf frame">
-      {% for post in paginator.posts %}
+      {% for post in paginator.posts.categories.blog %}
         <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
           <div class="article-item">
             <header class="post-header">
