@@ -53,7 +53,7 @@ Harper escaped to Calgary where he transitioned from Trudeau Liberal to Reform c
 
 The unique politics of Western Canada were interesting as were the behind the scenes narratives through the rest of the book of many of the headlines and scandals I had read about during Harper's ten years in power. What was most fascinating about John Ibbitson's book though, was the single realization that clarifies so many of the peculiarities of Harper's behaviour and leadership style.
 
-Stephen Harper will take orders from no one.
+>Stephen Harper will take orders from no one.
 
 *Stephen Harper* is the book one would write if given this thesis statement as an essay prompt. Harper's life is consistently used to point back as proof to this thesis and the proof is compelling. 
 
@@ -61,7 +61,50 @@ Stephen Harper will take orders from no one.
 - Why would he consistently buck the traditional "House of Cards" ladder-climbing loyalty that dominated the logic of his political peers, and quit or alienate himself from nearly every position he ever held? 
 - Why would he break every PR rule by publicly attacking Canadian Supreme Court Justices? 
 - Why would he ignore and try to bury non-partisan government officials and their reports?
-- ...etc
+- Why, why, why...
 
-Given this personality flaw that would have crippled most people to recurrent career failure and eventual humility, Harper's journey is remarkable. Instead of admitting defeat and gaining humility, Harper found a job where he would never have to take orders.
+Given this personality flaw that would have crippled most people to recurrent career failure and eventual humility, Harper's journey is remarkable. Charting a different path, Harper found a job where he would never have to take orders. And for almost 10 years, he never did.
 
+Beyond just seeing behind the curtain of Canadian government, Ibbitson's *Stephen Harper* shares an understanding of how Stephen Harper, the man, thought and made decisions. His legacy is a complex one and I'm glad I read this book to see another side to the man who was our 22nd Prime Minister.
+
+##Homeland - Cory Doctorow
+![](/assets/article_images/2015-12-31-leisure-reading-part-2/homeland_cory_doctorow.jpg)
+This is the sequel to Doctorow's award winning *Little Brother* which I read [earlier this year](/blog/leisure-reading-part-1/). Unlike most sequels, Homeland lived up to expectations.
+
+It's another thrilling ride through the near future that is increasingly descriptive of the present we live in today. [Edward Snowden. The NSA. PRISM. Encryption wars. Mass data collection.](https://theintercept.com/) [Cars being hacked](http://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/).
+
+Technology is no longer a tool for the people. It's a tool for controlling the people.
+
+Thankfully the future isn't entirely here yet. PGP email encryption. ChatSecure. Duck Duck Go. TOR. There are many tools available that can keep your emails private from ad targeting, your chats with friends private from subpoenas to Facebook or Kik, and remove your searches from Google's records.
+
+It takes minutes to install these tools. But we need the network effect of our friends and family using these tools too to make our future one where privacy and freedom still exist. A future where we don't need to fear prying eyes from corporations or governments.
+
+You may hear people say that we don't need these tools if we don't have anything to hide. Do you enjoy walking outside naked? Or recording conversations with loved ones and having them aired on CNN? 
+
+Privacy has been an essential part of the human experience. Hoping that it continues to be doesn't make anybody a terrorist or conspirator.
+
+##Being Mortal&#58; Medicine and What Matters in the End - Atul Gawande
+![](/assets/article_images/2015-12-31-leisure-reading-part-2/being-mortal-atul-gawande-c.jpg)
+
+>"Nothing is certain except death and taxes" - Benjamin Franklin
+
+And leading up to death, is aging. In the Western world, aging often culminates in stay in a nursing home with progressively greater levels of care from assisted living to complete hospital style nursing. The elderly are treated more like patients than people, have their independence stripped from them, and lose a sense of purpose for their life. 
+
+Atul Gawande addresses the important question, "is there a better way?" with the perspective that only a surgeon can bring. 
+
+He works through the history of elderly care in the Western world, and how it works very differently everywhere else. While Western families move their elderly into nursing homes, most elderly in the rest of the world move in with their children's families.
+
+Multiple generations live under one roof. Grandchildren keep grandparents entertained and active. Grandparents pass wisdom on in day to day life, not just in hour long visits while they lay in a hospital bed. Nursing care happens in the family home where elderly can remain in a place they know with people they love.
+
+Having volunteered in a nursing home since May, I found myself starting to question how I wanted to grow old. 
+
+*Being Mortal* helped me realize that the vast majority of doctors don't know when to say "enough is enough". At some point, more medical treatment isn't worth it when the extra weeks of life you might get aren't a life worth living.
+
+I'm only 20, but long before I have to make these decisions for myself, I'll watch how my parents help my grandparents through these stages of life. Years after that, I'll help my parents do the same. And one day I hope my kids will be there to help me.
+
+##Other Readings
+I also finished reading *The Hobbit* by J.R.R. Tolkien and *You and Me Forever* by Francis and Lisa Chan. Francis is one of my favourite authors of all time and his book on building a marriage with perspective of eternity is excellent. 
+
+After recommendations from family and friends over multiple years, I'm finally reading *Good to Great* by Jim Collins. Just a couple chapters in and I'm already starting to see why this book can change how you think about building an high performing organization that lasts.
+
+I may not be a Level 5 leader yet, but I sure hope to be someday. Until then, I'll keep reading. I hope you will to.
