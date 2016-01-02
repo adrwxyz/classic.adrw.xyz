@@ -3,11 +3,11 @@ title:  "My Favourite 6 Books Since June"
 date:   2015-12-31 01:34:25
 tags: life
 image: /assets/article_images/2015-12-31-leisure-reading-part-2/sandbanks-books.jpg
-excerpt: 6 books I'd recommend that I've read since June 2015. Books covering a real life Tony Stark, classic business case studies, marriage, and a book of little people in a far away land.
+excerpt: 6 books I'd recommend that I've read since June 2015. Books covering a real life Tony Stark, the Prime Minister of Canada, death, marriage, and a book about little people in a far away land.
 seo-title: My Favourite 6 Books Since June
 ---
 
-**Welcome my new (much faster) blog! I'll have a post out soon about what's new but it's New Year's Eve! Before 2015 is finished, I'd like to share some of my favourite books I've finished since June! ([looking for favs before June?](/blog/leisure-reading-part-1/))**
+**Welcome my new (much faster) blog! I'll have a post out soon about what's new but it's New Year's Eve! Before 2015 is finished, I'd like to share some of my favourite books I've finished since June 2015! ([looking for favs before June?](/blog/leisure-reading-part-1/))**
 
 ##Elon Musk - Ashlee Vance
 ![](/assets/article_images/2015-12-31-leisure-reading-part-2/elon-musk-ashlee-vance.jpg)
