@@ -3,6 +3,7 @@ markdown: redcarpet
 highlighter: pygments
 gems:
   - jemoji
+  - pygments
   
 # Site settings
 title: "Andrew Paradi"
@@ -19,10 +20,11 @@ name: 'Andrew Paradi'
 author: 'Andrew Paradi'
 author_image: "/assets/images/andrew2015.jpg"
 
-paginate:	10
+paginate:
 
 url: "https://andrewparadi.com" # the base hostname & protocol for your site
-baseurl: ""
+baseurl: "https://andrewparadi.com"
+enforce_ssl: andrewparadi.com
 permalink: /:categories/:title/
 #used to display twitter cards
 twitter_handle: '@andrew_paradi'
