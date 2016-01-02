@@ -62,9 +62,11 @@ I finally felt that I understood better some of the unique attitudes of Canadian
 - Why would he ignore and try to bury non-partisan government officials and their reports?
 - Why, why, why...
 
-Given this personality flaw that would have crippled most people to recurrent career failure and eventual humility, Harper's journey is remarkable. Charting a different path, Harper found a job where he would never have to take orders. And for almost 10 years, he never did.
+Given this personality flaw that would have crippled most people to recurrent career failure and eventual humility, Harper's journey is remarkable. 
 
-Beyond just seeing behind the curtain of Canadian government, Ibbitson's *Stephen Harper* shares an understanding of how Stephen Harper, the man, thought and made decisions. His legacy is a complex one and I'm glad I read this book to see another side to the man who was our 22nd Prime Minister.
+>Charting a different path, Harper found a job where he would never have to take orders. And for almost 10 years, he never did.
+
+Beyond just seeing behind the curtain of Canadian government, John Ibbitson's *Stephen Harper* shares an understanding of how Stephen Harper, the man, thought and made decisions. His legacy is a complex one and I'm glad I read this book to see another side to the man who was our 22nd Prime Minister.
 
 ##Homeland - Cory Doctorow
 ![](/assets/article_images/2015-12-31-leisure-reading-part-2/homeland_cory_doctorow.jpg)
@@ -72,15 +74,19 @@ This is the sequel to Doctorow's award winning *Little Brother* which I read [ea
 
 It's another thrilling ride through the near future that is increasingly descriptive of the present we live in today. [Edward Snowden. The NSA. PRISM. Encryption wars. Mass data collection.](https://theintercept.com/) [Cars being hacked](http://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/).
 
-Technology is no longer a tool for the people. It's a tool for controlling the people.
+>Technology is no longer a tool for the people. It's a tool for controlling the people.
 
-Thankfully the future isn't entirely here yet. PGP email encryption. ChatSecure. Duck Duck Go. TOR. There are many tools available that can keep your emails private from ad targeting, your chats with friends private from subpoenas to Facebook or Kik, and remove your searches from Google's records.
+Thankfully the future isn't entirely here yet. [PGP email encryption.](https://gnupg.org/download/index.html) [ChatSecure.](https://chatsecure.org/) [DuckDuckGo.](https://duckduckgo.com/tour) [TOR.](https://www.torproject.org/) There are many tools available that can keep your emails private from ad targeting, your chats with friends private from subpoenas to Facebook or Kik, and remove your searches from Google's records.
 
-It takes minutes to install these tools. But we need the network effect of our friends and family using these tools too to make our future one where privacy and freedom still exist. A future where we don't need to fear prying eyes from corporations or governments.
+It takes minutes to install these tools. But they are useless unless our friends and family use these tools too.
 
-You may hear people say that we don't need these tools if we don't have anything to hide. Do you enjoy walking outside naked? Or recording conversations with loved ones and having them aired on CNN? 
+Please give them a try, send me your PGP fingerprints! Help your family and friends understand why privacy and encryption is important. 
 
-Privacy has been an essential part of the human experience. Hoping that it continues to be doesn't make anybody a terrorist or conspirator.
+>Help make our future one where privacy and freedom still exist. A future where we don't need to fear prying eyes from corporations or governments.
+
+You may hear people say that we don't need these tools if we don't have anything to hide. Do you enjoy walking outside naked? Or having private conversations with loved ones read aloud on CNN? Me neither.
+
+>Privacy has been an essential part of the human experience. Hoping that it continues to be doesn't make anybody a terrorist.
 
 ##Being Mortal&#58; Medicine and What Matters in the End - Atul Gawande
 ![](/assets/article_images/2015-12-31-leisure-reading-part-2/being-mortal-atul-gawande-c.jpg)
@@ -89,17 +95,17 @@ Privacy has been an essential part of the human experience. Hoping that it conti
 
 And leading up to death, is aging. In the Western world, aging often culminates in stay in a nursing home with progressively greater levels of care from assisted living to complete hospital style nursing. The elderly are treated more like patients than people, have their independence stripped from them, and lose a sense of purpose for their life. 
 
-Atul Gawande addresses the important question, "is there a better way?" with the perspective that only a surgeon can bring. 
+>Atul Gawande addresses the important question, "is there a better way?" with the perspective that only a surgeon can bring. 
 
 He works through the history of elderly care in the Western world, and how it works very differently everywhere else. While Western families move their elderly into nursing homes, most elderly in the rest of the world move in with their children's families.
 
 Multiple generations live under one roof. Grandchildren keep grandparents entertained and active. Grandparents pass wisdom on in day to day life, not just in hour long visits while they lay in a hospital bed. Nursing care happens in the family home where elderly can remain in a place they know with people they love.
 
-Having volunteered in a nursing home since May, I found myself starting to question how I wanted to grow old. 
+>Having volunteered in a nursing home since May, I found myself starting to hope that I never ended up here myself. I'd much rather spend my last months at home.
 
 *Being Mortal* helped me realize that the vast majority of doctors don't know when to say "enough is enough". At some point, more medical treatment isn't worth it when the extra weeks of life you might get aren't a life worth living.
 
-I'm only 20, but long before I have to make these decisions for myself, I'll watch how my parents help my grandparents through these stages of life. Years after that, I'll help my parents do the same. And one day I hope my kids will be there to help me.
+I'm only 20, but long before I have to make these decisions for myself, I'll watch how my parents help my grandparents through these stages of life. Years after that, I'll help my parents do the same. And one day I hope my kids will be there for me.
 
 ##Other Readings
 I also finished reading *The Hobbit* by J.R.R. Tolkien and *You and Me Forever* by Francis and Lisa Chan. Francis is one of my favourite authors of all time and his book on building a marriage with perspective of eternity is excellent. 
