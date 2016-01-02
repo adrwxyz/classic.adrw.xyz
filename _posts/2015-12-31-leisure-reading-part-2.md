@@ -1,7 +1,7 @@
 ---
 title:  "My Favourite 6 Books Since June"
 date:   2015-12-31 01:34:25
-tags: life featured
+tags: life
 image: /assets/article_images/2015-12-31-leisure-reading-part-2/sandbanks-books.jpg
 excerpt: 6 books I'd recommend that I've read since June 2015. Books covering a real life Tony Stark, classic business case studies, marriage, and a book of little people in a far away land.
 seo-title: My Favourite 6 Books Since June
