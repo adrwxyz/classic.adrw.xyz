@@ -1,6 +1,8 @@
 ---
 title:  "Sam Lambert for President"
 date:   2014-02-26 02:24:25
+categories: project
+layout: "project"
 tags:
 - campaign
 - marketing

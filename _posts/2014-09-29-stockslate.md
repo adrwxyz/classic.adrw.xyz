@@ -1,6 +1,8 @@
 ---
 title:  "Stock Slate"
 date:   2014-09-29 02:14:25
+categories: project
+layout: "project"
 tags:
 - bloomberg
 - hacking

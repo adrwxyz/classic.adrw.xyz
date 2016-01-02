@@ -1,6 +1,8 @@
 ---
 title:  "Teknically Webplio"
 date:   2014-12-24 01:34:25
+categories: project
+layout: "project"
 tags:
 - y-combinator
 - machine-learning

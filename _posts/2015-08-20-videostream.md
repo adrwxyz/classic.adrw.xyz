@@ -1,6 +1,8 @@
 ---
 title:  "Videostream"
 date:   2015-08-20 19:34:25
+categories: project
+layout: "project"
 tags:
 - material-design
 - design
