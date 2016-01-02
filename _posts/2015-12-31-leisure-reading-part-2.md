@@ -3,16 +3,18 @@ title:  "My Favourite 6 Books Since June"
 date:   2015-12-31 01:34:25
 tags: life
 image: /assets/article_images/2015-12-31-leisure-reading-part-2/sandbanks-books.jpg
-excerpt: 6 books I'd recommend that I've read since June 2015. Books covering a real life Tony Stark, classic business case studies, marriage, and a book of little people in a far away land.
+excerpt: 6 books I'd recommend that I've read since June 2015. Books covering a real life Tony Stark, the Prime Minister of Canada, death, marriage, and a book about little people in a far away land.
 seo-title: My Favourite 6 Books Since June
 ---
 
-**Welcome my new (much faster) blog! I'll have a post out soon about what's new but it's New Year's Eve! Before 2015 is finished, I'd like to share some of my favourite books I've finished since June! ([looking for favs before June?](/blog/leisure-reading-part-1/))**
+**Welcome my new (much faster) blog! I'll have a post out soon about what's new but it's New Year's Eve! Before 2015 is finished, I'd like to share some of my favourite books I've finished since June 2015!**
+
+>Looking for favs before June? [Check out this post.](/blog/leisure-reading-part-1/)
 
 ##Elon Musk - Ashlee Vance
 ![](/assets/article_images/2015-12-31-leisure-reading-part-2/elon-musk-ashlee-vance.jpg)
 
-This book was on my [currently reading list back in June]((/blog/leisure-reading-part-1/). Two weeks after the post went up, I was finished. Everyone knows that Elon Musk is known for Tesla cars and SpaceX rockets but few know what he's like as a person.
+This book was on my [currently reading list back in June](/blog/leisure-reading-part-1/). Two weeks after the post went up, I was finished. Everyone knows that Elon Musk is known for Tesla cars and SpaceX rockets but few know what he's like as a person.
 
 Even after reading the book, I can't say that I understand him as a person. Elon Musk is exceptionally complex. He is clearly intelligent. He has unbreakable determination, willing to bet his life savings on his companies at the peak of global economic chaos in December 2008. He is a passionate father of five sons yet still very [calculating](http://www.marieclaire.com/sex-love/advice/a5380/millionaire-starter-wife/) in how much time and emotion he allocates to family.
 
@@ -20,11 +22,15 @@ In interviews with co-founders, family, and employees, it became clear that labe
 
 ![Test driving a Tesla Model S P85 in California. October 2014.](https://scontent-ord1-1.cdninstagram.com/hphotos-frc/t51.2885-15/e15/10731621_742514089151424_1105265047_n.jpg)
 
-Elon Musk is unique. Of all his accomplishments, his broad perspective on the importance of clean energy economics is like a breath of fresh air in the green industry that primarily uses moral arguments to push their agenda. Similar to [Bill Gates](http://www.ted.com/talks/bill_gates), Musk believes that until solar or nuclear energy is cheaper than coal, there will be no mass migration away from fossil fuels.
+Elon Musk is unique. Of all his accomplishments, his realistic perspective on clean energy economics is like a breath of fresh air in the "green" industry that primarily uses moral arguments to push their agenda. 
+
+>Similar to [Bill Gates](http://www.ted.com/talks/bill_gates), Musk believes that until solar or nuclear energy is cheaper than coal, there will be no mass migration away from fossil fuels.
 
 While Gates funds a diverse set of clean energy initiatives, Musk focuses on optimizing all aspects of the solar economics equation. Solar City has drastically improved per unit costs and user experience for solar panel installation. Tesla's new [Powerwall](https://www.teslamotors.com/powerwall) makes it possible to store energy and live entirely off the grid. And of course, Tesla cars are completely emission free (and jaw-droppingly fun to drive).
 
-I eagerly look forward to the day I can live off the grid in a small solar powered house with a Tesla in the driveway. This book gives a deeper look into the man who will make this future a reality for us all.
+>I eagerly look forward to the day I can live off the grid in a small solar powered house with a Tesla in the driveway. 
+
+This book gives a deeper look into the man who will make this future a reality for us all.
 
 ##Emotional Intelligence 2.0 - Travis Bradberry &amp; Jean Greaves
 ![](/assets/article_images/2015-12-31-leisure-reading-part-2/Emotional_Intelligence_2.0-c.jpg)
@@ -70,7 +76,9 @@ Beyond just seeing behind the curtain of Canadian government, John Ibbitson's *S
 
 ##Homeland - Cory Doctorow
 ![](/assets/article_images/2015-12-31-leisure-reading-part-2/homeland_cory_doctorow.jpg)
-This is the sequel to Doctorow's award winning *Little Brother* which I read [earlier this year](/blog/leisure-reading-part-1/). Unlike most sequels, Homeland lived up to expectations.
+**This is the sequel to Doctorow's award winning *Little Brother* which I read [earlier this year](/blog/leisure-reading-part-1/). Unlike most sequels, Homeland lived up to expectations.**
+
+>[Download Craphound for free on Cory Doctorow's site!](http://craphound.com/category/homeland/)
 
 It's another thrilling ride through the near future that is increasingly descriptive of the present we live in today. [Edward Snowden. The NSA. PRISM. Encryption wars. Mass data collection.](https://theintercept.com/) [Cars being hacked](http://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/).
 
@@ -101,14 +109,12 @@ He works through the history of elderly care in the Western world, and how it wo
 
 Multiple generations live under one roof. Grandchildren keep grandparents entertained and active. Grandparents pass wisdom on in day to day life, not just in hour long visits while they lay in a hospital bed. Nursing care happens in the family home where elderly can remain in a place they know with people they love.
 
->Having volunteered in a nursing home since May, I found myself starting to hope that I never ended up here myself. I'd much rather spend my last months at home.
+>Nursing homes are designed for medical care, for the families, for society. But rarely are they designed with their elderly in mind.
 
 *Being Mortal* helped me realize that the vast majority of doctors don't know when to say "enough is enough". At some point, more medical treatment isn't worth it when the extra weeks of life you might get aren't a life worth living.
 
-I'm only 20, but long before I have to make these decisions for myself, I'll watch how my parents help my grandparents through these stages of life. Years after that, I'll help my parents do the same. And one day I hope my kids will be there for me.
-
 ##Other Readings
-I also finished reading *The Hobbit* by J.R.R. Tolkien and *You and Me Forever* by Francis and Lisa Chan. Francis is one of my favourite authors of all time and his book on building a marriage with perspective of eternity is excellent. 
+I also finished reading *The Hobbit* by J.R.R. Tolkien and [*You and Me Forever*](http://www.youandmeforever.org/) by Francis and Lisa. Francis is one of my favourite authors of all time and his book on building a marriage with perspective of eternity is excellent. 
 
 After recommendations from family and friends over multiple years, I'm finally reading *Good to Great* by Jim Collins. Just a couple chapters in and I'm already starting to see why this book can change how you think about building an high performing organization that lasts.
 
