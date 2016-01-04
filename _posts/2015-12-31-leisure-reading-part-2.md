@@ -78,8 +78,6 @@ Beyond just seeing behind the curtain of Canadian government, John Ibbitson's *S
 ![](/assets/article_images/2015-12-31-leisure-reading-part-2/homeland_cory_doctorow.jpg)
 **This is the sequel to Doctorow's award winning *Little Brother* which I read [earlier this year](/blog/leisure-reading-part-1/). Unlike most sequels, Homeland lived up to expectations.**
 
->[Download Craphound for free on Cory Doctorow's site!](http://craphound.com/category/homeland/)
-
 It's another thrilling ride through the near future that is increasingly descriptive of the present we live in today. [Edward Snowden. The NSA. PRISM. Encryption wars. Mass data collection.](https://theintercept.com/) [Cars being hacked](http://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/).
 
 >Technology is no longer a tool for the people. It's a tool for controlling the people.
@@ -95,6 +93,8 @@ Please give them a try, send me your PGP fingerprints! Help your family and frie
 You may hear people say that we don't need these tools if we don't have anything to hide. Do you enjoy walking outside naked? Or having private conversations with loved ones read aloud on CNN? Me neither.
 
 >Privacy has been an essential part of the human experience. Hoping that it continues to be doesn't make anybody a terrorist.
+
+*[Download Homeland for free on Cory Doctorow's site](http://craphound.com/category/homeland/)*
 
 ##Being Mortal&#58; Medicine and What Matters in the End - Atul Gawande
 ![](/assets/article_images/2015-12-31-leisure-reading-part-2/being-mortal-atul-gawande-c.jpg)
@@ -114,8 +114,8 @@ Multiple generations live under one roof. Grandchildren keep grandparents entert
 *Being Mortal* helped me realize that the vast majority of doctors don't know when to say "enough is enough". At some point, more medical treatment isn't worth it when the extra weeks of life you might get aren't a life worth living.
 
 ##Other Readings
-I also finished reading *The Hobbit* by J.R.R. Tolkien and [*You and Me Forever*](http://www.youandmeforever.org/) by Francis and Lisa. Francis is one of my favourite authors of all time and his book on building a marriage with perspective of eternity is excellent. 
+I also finished reading *The Hobbit* by J.R.R. Tolkien and [*You and Me Forever*](http://www.youandmeforever.org/) by Francis and Lisa. Francis is one of my favourite authors and his book on building a marriage with perspective of eternity is excellent. Francis and Lisa are donating all proceeds to their project in in East Africa to free sex slaves, empower women, and build lasting communities.
 
 After recommendations from family and friends over multiple years, I'm finally reading *Good to Great* by Jim Collins. Just a couple chapters in and I'm already starting to see why this book can change how you think about building an high performing organization that lasts.
 
-I may not be a Level 5 leader yet, but I sure hope to be someday. Until then, I'll keep reading. I hope you will to.
+**I may not be a Level 5 leader yet, but I sure hope to be someday. Until then, I'll keep reading. I hope you will to.**

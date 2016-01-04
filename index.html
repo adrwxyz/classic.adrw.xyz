@@ -14,22 +14,13 @@ layout: default
     {% endif %}
     <h1 class="blog-title">{{ site.title }}</h1>
     <h2 class="blog-description">{{ site.description }}</h2>
-    <div class="custom-links">
-	  <a href="{{site.url}}">Home</a>
-	  &nbsp;·&nbsp;
-	  <a href="/blog.html">Blog</a>
-      &nbsp;·&nbsp;
-      <a href="/about/">About</a>
-      &nbsp;·&nbsp;
-      {% for social in site.social %}
-        {% if social.url %}
-            <a class="icon-{{ social.icon }}" href="{{ social.url }}" {% if social.desc %} title="{{ social.desc }}"{% endif %}" target="_blank">
-              <i class="fa fa-{{ social.icon }}"></i>
-            </a>
-            &nbsp;&nbsp;·&nbsp;&nbsp;
-        {% endif %}
-      {% endfor %}
-    </div>
+    <section class="custom-links">
+      {% include social.html %}
+    </section>
+    <div class="toggle-menu">
+      <a href="{{site.url}}" class="selected">Projects</a>
+      <a href="/blog/">Blog</a>
+	  </div>
 </header>
 
 
@@ -47,7 +38,8 @@ layout: default
             </section>
             <div class="post-meta">
               <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
-             <span class="post-tags-set">on {{foreach tags}}<span class="post-tag-{{slug}}">{{if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}}</span>
+              <span class="post-tags-set">&nbsp;|&nbsp; {% for tag in post.tags %}<span class="post-tag-{{slug}}">{{ tag }}&nbsp;&nbsp;</span>{% endfor %}</span>
+<!--              <span class="post-tags-set">on {{foreach tags}}<span class="post-tag-{{slug}}">{{if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}}</span> -->
             </div>
           </div>
         </article>

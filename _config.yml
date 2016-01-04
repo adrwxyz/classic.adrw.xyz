@@ -19,8 +19,9 @@ cover: "/assets/images/launchpad-c.jpg"
 name: 'Andrew Paradi'
 author: 'Andrew Paradi'
 author_image: "/assets/images/andrew2015.jpg"
+bio: "I study computer science at University of Waterloo, enjoy writing on my blog, producing videos, and playing piano."
 
-paginate:
+paginate: null
 
 url: "//andrewparadi.com" # the base hostname & protocol for your site
 baseurl: ""

@@ -68,7 +68,7 @@ It turns out many people were going to the main website to launch Videostream wh
 
 My vision for a conversion focused website had worked! Download conversions were up on many metrics up to 32% and weekly active users had received a 12% boost.
 
-Next project...increasing revenue!
+**Next project...increasing revenue!**
 
 <h2>A Premium Flow Focused on Revenue</h2>
 My internship was almost done. I had answered a lot of email and developed a new split test beating website. The team now was curious to see what I could do with their primary revenue funnel: the Premium flow.
@@ -101,4 +101,4 @@ Personally, I grew a lot. The experience of owning a project, working closely wi
 
 I'm thankful to Matt, Jason, Graham, Joe, Phillip, Sean, & Rahul for all of the support, guidance, and unique opportunities I received this summer. It's certainly one I won't soon forget.
 
-<strong>P.S. I'm looking to do an internship next summer too! If you think I'd be a good fit on your team, check out my <a href="http://andrewparadi.com/wp-content/uploads/2015/10/Resume-Sept-2015-v4.6.1b.pdf" target="_blank">resume</a> and send me an email at <a href="mailto:me@andrewparadi.com">me@andrewparadi.com</a>.</strong>
+<strong>P.S. I'm looking to do an internship next summer too! If you think I'd be a good fit on your team, check out my <a href="/assets/files/AndrewParadiResume.pdf" target="_blank">resume</a> and send me an email at <a href="mailto:me@andrewparadi.com">me@andrewparadi.com</a>.</strong>

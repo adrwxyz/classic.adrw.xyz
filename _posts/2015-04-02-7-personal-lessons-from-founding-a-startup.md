@@ -7,11 +7,14 @@ excerpt: 7 personal lessons I learned from founding a startup at 18, developing 
 seo-title: 7 Personal Lessons from Founding a Startup
 ---
 
-When people use analogies of your co-founder being like a wife, a startup as your baby, and employees as family, it shouldn't be a surprise to find a startup has a massive effect on your personal life. I founded Teknically three months after I turned 18, so I already was growing at a fast pace becoming an independent adult. Being a founder put me in unique circumstances to force me to grow faster than I would have before. I am the man I am today because of Teknically, here are 7 personal lessons it helped me learn.
+**When people use analogies of your co-founder being like a wife, a startup as your baby, and employees as family, it shouldn't be a surprise to find a startup has a massive effect on your personal life.**
+
+I founded Teknically three months after I turned 18, so I already was growing at a fast pace becoming an independent adult. Being a founder put me in unique circumstances to force me to grow faster than I would have before. I am the man I am today because of Teknically, here are 7 personal lessons it helped me learn.
 
 <h2>0: Startup Laurier Chat</h2>
 <iframe width="853" height="480" src="https://www.youtube-nocookie.com/embed/9d5snONjSCk?rel=0" frameborder="0" allowfullscreen></iframe>
 I covered these 7 tips in a talk I did at <a href="https://www.facebook.com/startuplaurier" target="_blank">Startup Laurier</a> in January. Unfortunately the camera cut out midway through so I've tried to cover below the main points from the talk. Also here are the startup books & resources I mentioned in the talk:
+
 - <a href="http://www.paulgraham.com/articles.html" target="_blank">"The Essays"</a> - Paul Graham
 - <a href="http://www.amazon.com/exec/obidos/ASIN/0470929820/domofa-20" target="_blank">Venture Deals</a> - Brad Feld
 - <a href="http://zerotoonebook.com/" target="_blank">Zero to One</a> - Peter Thiel
