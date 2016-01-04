@@ -14,7 +14,7 @@ seo-title: My Favourite 6 Books Since June
 ##Elon Musk - Ashlee Vance
 ![](/assets/article_images/2015-12-31-leisure-reading-part-2/elon-musk-ashlee-vance.jpg)
 
-This book was on my [currently reading list back in June]((/blog/leisure-reading-part-1/). Two weeks after the post went up, I was finished. Everyone knows that Elon Musk is known for Tesla cars and SpaceX rockets but few know what he's like as a person.
+This book was on my [currently reading list back in June](/blog/leisure-reading-part-1/). Two weeks after the post went up, I was finished. Everyone knows that Elon Musk is known for Tesla cars and SpaceX rockets but few know what he's like as a person.
 
 Even after reading the book, I can't say that I understand him as a person. Elon Musk is exceptionally complex. He is clearly intelligent. He has unbreakable determination, willing to bet his life savings on his companies at the peak of global economic chaos in December 2008. He is a passionate father of five sons yet still very [calculating](http://www.marieclaire.com/sex-love/advice/a5380/millionaire-starter-wife/) in how much time and emotion he allocates to family.
 
@@ -76,7 +76,9 @@ Beyond just seeing behind the curtain of Canadian government, John Ibbitson's *S
 
 ##Homeland - Cory Doctorow
 ![](/assets/article_images/2015-12-31-leisure-reading-part-2/homeland_cory_doctorow.jpg)
-This is the sequel to Doctorow's award winning *Little Brother* which I read [earlier this year](/blog/leisure-reading-part-1/). Unlike most sequels, Homeland lived up to expectations.
+**This is the sequel to Doctorow's award winning *Little Brother* which I read [earlier this year](/blog/leisure-reading-part-1/). Unlike most sequels, Homeland lived up to expectations.**
+
+>[Download Craphound for free on Cory Doctorow's site!](http://craphound.com/category/homeland/)
 
 It's another thrilling ride through the near future that is increasingly descriptive of the present we live in today. [Edward Snowden. The NSA. PRISM. Encryption wars. Mass data collection.](https://theintercept.com/) [Cars being hacked](http://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/).
 
@@ -107,14 +109,12 @@ He works through the history of elderly care in the Western world, and how it wo
 
 Multiple generations live under one roof. Grandchildren keep grandparents entertained and active. Grandparents pass wisdom on in day to day life, not just in hour long visits while they lay in a hospital bed. Nursing care happens in the family home where elderly can remain in a place they know with people they love.
 
->Having volunteered in a nursing home since May, I found myself starting to hope that I never ended up here myself. I'd much rather spend my last months at home.
+>Nursing homes are designed for medical care, for the families, for society. But rarely are they designed with their elderly in mind.
 
 *Being Mortal* helped me realize that the vast majority of doctors don't know when to say "enough is enough". At some point, more medical treatment isn't worth it when the extra weeks of life you might get aren't a life worth living.
 
-I'm only 20, but long before I have to make these decisions for myself, I'll watch how my parents help my grandparents through these stages of life. Years after that, I'll help my parents do the same. And one day I hope my kids will be there for me.
-
 ##Other Readings
-I also finished reading *The Hobbit* by J.R.R. Tolkien and *You and Me Forever* by Francis and Lisa Chan. Francis is one of my favourite authors of all time and his book on building a marriage with perspective of eternity is excellent. 
+I also finished reading *The Hobbit* by J.R.R. Tolkien and [*You and Me Forever*](http://www.youandmeforever.org/) by Francis and Lisa. Francis is one of my favourite authors of all time and his book on building a marriage with perspective of eternity is excellent. 
 
 After recommendations from family and friends over multiple years, I'm finally reading *Good to Great* by Jim Collins. Just a couple chapters in and I'm already starting to see why this book can change how you think about building an high performing organization that lasts.
 
