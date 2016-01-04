@@ -9,7 +9,7 @@ seo-title: Five Lessons from Behind the Curtain
 
 **When your world stops spinning, the lights fade, and the silence surrounds you, you can finally think. These past 13 weeks have been the beginning of my next chapter, the regaining of consciousness, & the recovery from 13 months founding a startup.**
 
-This third instalment of the Teknically series transitions from telling our story to sharing the key lessons we learned. Part 3 examines what we learned professionally. Part 4 (coming next week), digs into how founding a startup poured gasoline on my personal development.
+This third instalment of the Teknically series ([1](http://andrewparadi.com/blog/the-389-day-laurier-bba/), [2](http://andrewparadi.com/blog/the-dream-fades/), [3](http://andrewparadi.com/blog/lessons-from-behind-the-curtain/), [4](http://andrewparadi.com/blog/7-personal-lessons-from-founding-a-startup/)) transitions from telling our story to sharing the key lessons we learned. Part 3 examines what we learned professionally. [Part 4](http://andrewparadi.com/blog/7-personal-lessons-from-founding-a-startup/), digs into how founding a startup poured gasoline on my personal development.
 
 
 <h2>Pulling Back the Curtain</h2>
@@ -99,4 +99,4 @@ I still have <a href="http://youtu.be/_DnKNClu2XM?t=1m45s" target="_blank">no ra
 
 I'm still learning so I hope you don't take the above as fact. Take these thoughts, wrestle with them, and determine what you want to believe. Don't take anything you're told for granted. Make your own thoughts. Craft your own destiny.
 
-My next post goes into how founding Teknically poured gasoline on my personal development, <a href="/blog/7-personal-lessons-from-founding-a-startup/" target="_blank">check it out here</a>!
+My next post goes into how founding Teknically poured gasoline on my personal development, <a href="/blog/7-personal-lessons-from-founding-a-startup/">check it out here</a>!

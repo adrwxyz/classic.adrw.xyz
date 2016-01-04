@@ -38,6 +38,7 @@ In a breakout session at Discovery, I learned about <a href="https://www.bosidna
 <iframe width="853" height="480" src="https://www.youtube-nocookie.com/embed/fsU9N6A18sY?rel=0" frameborder="0" allowfullscreen></iframe><figcaption>Entrepreneurial DNA" annotation="BOSI Creator, Joe Abraham, speaking at TedxBend. Alt link: <a href="https://youtu.be/fsU9N6A18sY">https://youtu.be/fsU9N6A18sY</a></figcaption>
 
 According to BOSI, the four types of entrepreneurs are (by % of total entrepreneurs):
+
 - <strong>15%	Builder</strong>: High scale & sustainable, mostly $5+ million businesses, controlling. Decision Lens: infrastructure. Biggest struggle: relationships. <strong>Given example: Donald Trump.</strong>
 - <strong>30% Opportunist</strong>: Right place = ground floor, willing to get on any rocket, optimistic, multiple personal revenue streams. Decision lens: financial freedom. Biggest struggle: focus. <strong>Given example: Richard Branson.</strong>
 - <strong>42% Specialist</strong>: Expert, single industry. Decision lens: reputation. Biggest struggle: lead generation. <strong>Given example: Bill Gates.</strong>

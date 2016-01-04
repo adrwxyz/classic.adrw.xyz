@@ -13,6 +13,7 @@ I purchased my Kobo Aura on Boxing Day 2014 and decided I would be more diligent
 <h2>David & Goliath - Malcolm Gladwell</h2>
 ![](/assets/article_images/2015-06-12-leisure-reading-part-1/Gladwell_David-and-Goliath.jpg)
 Gladwell's books have always intrigued me since I read about 10,000 hours to success in <strong>Outliers</strong> in grade 9. <strong>David & Goliath</strong> obliterates some of the most closely held beliefs about how diminishing returns really play out in society. As seems to be Malcolm's style, each chapter digs deep into a single story as it relate's to the book's overarching theme. It certainly gave me a lot to think about across countless areas including:
+
 - Are smaller class sizes always the best investment to improve education?
 - Is it better long term to study at prestigious or less competitive university?
 - Could the children of the very rich be as disadvantaged as the children of the very poor?
@@ -28,7 +29,7 @@ While I was reading this book, it was all I could talk about. Maybe I'm just a s
 P.S. As with most things, the sequel isn't as good as the original but the Rosie Effect is still worth the read. 
 
 <h3>Related books I enjoyed:</h3>
-- <strong><a href="http://craphound.com/littlebrother/download/" target="_blank">Little Brother - Cory Doctorow (Free download!)</a>:</strong> It was just as exciting to read now as it was when I first read it in grade 9. For anybody who's been reading about Edward Snowden and the disintegrating state of privacy in society, this fiction set in the near future seems closer to reality with each passing year. Looking forward to an encryption key swap with all of you soon!
+- <strong>Little Brother - Cory Doctorow (<a href="http://craphound.com/littlebrother/download/" target="_blank">Free download</a>):</strong> It was just as exciting to read now as it was when I first read it in grade 9. For anybody who's been reading about Edward Snowden and the disintegrating state of privacy in society, this fiction set in the near future seems closer to reality with each passing year. Looking forward to an encryption key swap with all of you soon!
 
 <h2>The Autobiography of Malcolm X - Malcolm X & Alex Haley</h2>
 ![](/assets/article_images/2015-06-12-leisure-reading-part-1/Autobiography-Of-Malcolm-X-The.jpg)
@@ -43,6 +44,7 @@ One sentiment shared repeatedly throughout the book was his belief that the dese
 <h2>The Meaning of Marriage - Tim Keller</h2>
 ![](/assets/article_images/2015-06-12-leisure-reading-part-1/meaning-marriage-tim-keller.jpg)
 Though I'm many years away from ever exchanging rings, Tim's book speaks wisdom to single, unmarried, and married couples. I found his strong use of data from research studies paired with Biblical references a better approach than most relationship books that just pull from the author's personal experience and secular anecdotes. My favourite two pieces of data paraphrased were:
+
 - The vast majority of the 45% divorce rate are those who marry before 18, are high school drop outs, or have a a baby together before marrying. <strong>If you don't fall into those categories, your chances of a successful marriage are very high.</strong> (<a href="http://www.hookingupsmart.com/2012/06/13/relationshipstrategies/your-chances-of-divorce-may-be-much-lower-than-you-think/" target="_blank">3</a>)
 - Over 60% of marriages are described as 'very happy', over 66% of unhappy marriages will become happy within five years if the people stay married and don't get divorced.(<a href="http://americanvalues.org/catalog/pdfs/does_divorce_make_people_happy.pdf" target="_blank">4</a>). <strong>Perseverance pays off even more often than I thought.</strong>
 
@@ -73,6 +75,7 @@ Pride and ignorant optimism let RIM's management believe that new smart phones a
 
 <h2>Next Reads</h2>
 With 12 books done in 6 months, I'm on track for a book every two weeks. Right now I'm working on:
+
 - <strong>Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future by Ashlee Vance</strong>
 - <strong>The Hobbit by J. R. R. Tolkien</strong>
 

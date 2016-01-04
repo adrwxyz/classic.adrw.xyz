@@ -18,7 +18,7 @@ I'm as guilty as any to have held this view. After reflecting on Teknically and 
 
 Paul Graham puts it so well in his latest post:
 
->Here's a common way startups die. They make something moderately appealing and have decent initial growth. They raise their first round fairly easily because the founders seem smart and the idea sounds plausible. But because the product is only moderately appealing, growth is ok but not great. The founders convince themselves that hiring a bunch of people is the way to boost growth. Their investors agree. But (because the product is only moderately appealing) the growth never comes. Now they're rapidly running out of runway. They hope further investment will save them. But because they have high expenses and slow growth, they're now unappealing to investors. They're unable to raise more, and the company dies.
+>"Here's a common way startups die. They make something moderately appealing and have decent initial growth. They raise their first round fairly easily because the founders seem smart and the idea sounds plausible. But because the product is only moderately appealing, growth is ok but not great. The founders convince themselves that hiring a bunch of people is the way to boost growth. Their investors agree. But (because the product is only moderately appealing) the growth never comes. Now they're rapidly running out of runway. They hope further investment will save them. But because they have high expenses and slow growth, they're now unappealing to investors. They're unable to raise more, and the company dies."
 
 I'm just speechless how clearly this explains the systematic failure inherent in the most common founder perspective on startup success.
 
@@ -30,4 +30,4 @@ Many startup cultures don't encourage any employees to voice concerns or ask que
 
 I wish more founders would step back and realize if they're default dead or default alive. I didn't do this myself in Teknically and regret the ultimate cost of our "it's going great" culture. 
 
-Looking back, we were default dead. We just didn't realize it until we had died.
+**Looking back, we were default dead. We just didn't realize it until we had died.**
