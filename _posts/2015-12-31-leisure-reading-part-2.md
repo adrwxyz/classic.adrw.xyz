@@ -7,7 +7,9 @@ excerpt: 6 books I'd recommend that I've read since June 2015. Books covering a 
 seo-title: My Favourite 6 Books Since June
 ---
 
-**Welcome my new (much faster) blog! I'll have a post out soon about what's new but it's New Year's Eve! Before 2015 is finished, I'd like to share some of my favourite books I've finished since June 2015! ([looking for favs before June?](/blog/leisure-reading-part-1/))**
+**Welcome my new (much faster) blog! I'll have a post out soon about what's new but it's New Year's Eve! Before 2015 is finished, I'd like to share some of my favourite books I've finished since June 2015!**
+
+>Looking for favs before June? [Check out this post.](/blog/leisure-reading-part-1/)
 
 ##Elon Musk - Ashlee Vance
 ![](/assets/article_images/2015-12-31-leisure-reading-part-2/elon-musk-ashlee-vance.jpg)
@@ -20,11 +22,15 @@ In interviews with co-founders, family, and employees, it became clear that labe
 
 ![Test driving a Tesla Model S P85 in California. October 2014.](https://scontent-ord1-1.cdninstagram.com/hphotos-frc/t51.2885-15/e15/10731621_742514089151424_1105265047_n.jpg)
 
-Elon Musk is unique. Of all his accomplishments, his broad perspective on the importance of clean energy economics is like a breath of fresh air in the green industry that primarily uses moral arguments to push their agenda. Similar to [Bill Gates](http://www.ted.com/talks/bill_gates), Musk believes that until solar or nuclear energy is cheaper than coal, there will be no mass migration away from fossil fuels.
+Elon Musk is unique. Of all his accomplishments, his realistic perspective on clean energy economics is like a breath of fresh air in the "green" industry that primarily uses moral arguments to push their agenda. 
+
+>Similar to [Bill Gates](http://www.ted.com/talks/bill_gates), Musk believes that until solar or nuclear energy is cheaper than coal, there will be no mass migration away from fossil fuels.
 
 While Gates funds a diverse set of clean energy initiatives, Musk focuses on optimizing all aspects of the solar economics equation. Solar City has drastically improved per unit costs and user experience for solar panel installation. Tesla's new [Powerwall](https://www.teslamotors.com/powerwall) makes it possible to store energy and live entirely off the grid. And of course, Tesla cars are completely emission free (and jaw-droppingly fun to drive).
 
-I eagerly look forward to the day I can live off the grid in a small solar powered house with a Tesla in the driveway. This book gives a deeper look into the man who will make this future a reality for us all.
+>I eagerly look forward to the day I can live off the grid in a small solar powered house with a Tesla in the driveway. 
+
+This book gives a deeper look into the man who will make this future a reality for us all.
 
 ##Emotional Intelligence 2.0 - Travis Bradberry &amp; Jean Greaves
 ![](/assets/article_images/2015-12-31-leisure-reading-part-2/Emotional_Intelligence_2.0-c.jpg)
