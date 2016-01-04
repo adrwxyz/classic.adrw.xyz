@@ -4,21 +4,25 @@
     <title>Andrew Paradi</title>
     <description>Growth Focused Front End Developer
 </description>
-    <link>https://andrewparadi.github.io/</link>
-    <atom:link href="https://andrewparadi.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 02 Jan 2016 01:55:45 -0500</pubDate>
-    <lastBuildDate>Sat, 02 Jan 2016 01:55:45 -0500</lastBuildDate>
+    <link>//andrewparadi.com/</link>
+    <atom:link href="//andrewparadi.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 04 Jan 2016 09:48:14 -0500</pubDate>
+    <lastBuildDate>Mon, 04 Jan 2016 09:48:14 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>My Favourite 6 Books Since June</title>
-        <description>&lt;p&gt;&lt;strong&gt;Welcome my new (much faster) blog! I&amp;#39;ll have a post out soon about what&amp;#39;s new but it&amp;#39;s New Year&amp;#39;s Eve! Before 2015 is finished, I&amp;#39;d like to share some of my favourite books I&amp;#39;ve finished since June! (&lt;a href=&quot;/blog/leisure-reading-part-1/&quot;&gt;looking for favs before June?&lt;/a&gt;)&lt;/strong&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;strong&gt;Welcome my new (much faster) blog! I&amp;#39;ll have a post out soon about what&amp;#39;s new but it&amp;#39;s New Year&amp;#39;s Eve! Before 2015 is finished, I&amp;#39;d like to share some of my favourite books I&amp;#39;ve finished since June 2015!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Looking for favs before June? &lt;a href=&quot;/blog/leisure-reading-part-1/&quot;&gt;Check out this post.&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;h2&gt;Elon Musk - Ashlee Vance&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/article_images/2015-12-31-leisure-reading-part-2/elon-musk-ashlee-vance.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;This book was on my [currently reading list back in June]((/blog/leisure-reading-part-1/). Two weeks after the post went up, I was finished. Everyone knows that Elon Musk is known for Tesla cars and SpaceX rockets but few know what he&amp;#39;s like as a person.&lt;/p&gt;
+&lt;p&gt;This book was on my &lt;a href=&quot;/blog/leisure-reading-part-1/&quot;&gt;currently reading list back in June&lt;/a&gt;. Two weeks after the post went up, I was finished. Everyone knows that Elon Musk is known for Tesla cars and SpaceX rockets but few know what he&amp;#39;s like as a person.&lt;/p&gt;
 
 &lt;p&gt;Even after reading the book, I can&amp;#39;t say that I understand him as a person. Elon Musk is exceptionally complex. He is clearly intelligent. He has unbreakable determination, willing to bet his life savings on his companies at the peak of global economic chaos in December 2008. He is a passionate father of five sons yet still very &lt;a href=&quot;http://www.marieclaire.com/sex-love/advice/a5380/millionaire-starter-wife/&quot;&gt;calculating&lt;/a&gt; in how much time and emotion he allocates to family.&lt;/p&gt;
 
@@ -26,11 +30,19 @@
 
 &lt;p&gt;&lt;img src=&quot;https://scontent-ord1-1.cdninstagram.com/hphotos-frc/t51.2885-15/e15/10731621_742514089151424_1105265047_n.jpg&quot; alt=&quot;Test driving a Tesla Model S P85 in California. October 2014.&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;Elon Musk is unique. Of all his accomplishments, his broad perspective on the importance of clean energy economics is like a breath of fresh air in the green industry that primarily uses moral arguments to push their agenda. Similar to &lt;a href=&quot;http://www.ted.com/talks/bill_gates&quot;&gt;Bill Gates&lt;/a&gt;, Musk believes that until solar or nuclear energy is cheaper than coal, there will be no mass migration away from fossil fuels.&lt;/p&gt;
+&lt;p&gt;Elon Musk is unique. Of all his accomplishments, his realistic perspective on clean energy economics is like a breath of fresh air in the &amp;quot;green&amp;quot; industry that primarily uses moral arguments to push their agenda. &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Similar to &lt;a href=&quot;http://www.ted.com/talks/bill_gates&quot;&gt;Bill Gates&lt;/a&gt;, Musk believes that until solar or nuclear energy is cheaper than coal, there will be no mass migration away from fossil fuels.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;While Gates funds a diverse set of clean energy initiatives, Musk focuses on optimizing all aspects of the solar economics equation. Solar City has drastically improved per unit costs and user experience for solar panel installation. Tesla&amp;#39;s new &lt;a href=&quot;https://www.teslamotors.com/powerwall&quot;&gt;Powerwall&lt;/a&gt; makes it possible to store energy and live entirely off the grid. And of course, Tesla cars are completely emission free (and jaw-droppingly fun to drive).&lt;/p&gt;
 
-&lt;p&gt;I eagerly look forward to the day I can live off the grid in a small solar powered house with a Tesla in the driveway. This book gives a deeper look into the man who will make this future a reality for us all.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I eagerly look forward to the day I can live off the grid in a small solar powered house with a Tesla in the driveway. &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This book gives a deeper look into the man who will make this future a reality for us all.&lt;/p&gt;
 
 &lt;h2&gt;Emotional Intelligence 2.0 - Travis Bradberry &amp;amp; Jean Greaves&lt;/h2&gt;
 
@@ -87,7 +99,11 @@
 &lt;h2&gt;Homeland - Cory Doctorow&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/article_images/2015-12-31-leisure-reading-part-2/homeland_cory_doctorow.jpg&quot; alt=&quot;&quot;&gt;
-This is the sequel to Doctorow&amp;#39;s award winning &lt;em&gt;Little Brother&lt;/em&gt; which I read &lt;a href=&quot;/blog/leisure-reading-part-1/&quot;&gt;earlier this year&lt;/a&gt;. Unlike most sequels, Homeland lived up to expectations.&lt;/p&gt;
+&lt;strong&gt;This is the sequel to Doctorow&amp;#39;s award winning &lt;em&gt;Little Brother&lt;/em&gt; which I read &lt;a href=&quot;/blog/leisure-reading-part-1/&quot;&gt;earlier this year&lt;/a&gt;. Unlike most sequels, Homeland lived up to expectations.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;http://craphound.com/category/homeland/&quot;&gt;Download Craphound for free on Cory Doctorow&amp;#39;s site!&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;It&amp;#39;s another thrilling ride through the near future that is increasingly descriptive of the present we live in today. &lt;a href=&quot;https://theintercept.com/&quot;&gt;Edward Snowden. The NSA. PRISM. Encryption wars. Mass data collection.&lt;/a&gt; &lt;a href=&quot;http://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/&quot;&gt;Cars being hacked&lt;/a&gt;.&lt;/p&gt;
 
@@ -130,24 +146,22 @@ This is the sequel to Doctorow&amp;#39;s award winning &lt;em&gt;Little Brother&
 &lt;p&gt;Multiple generations live under one roof. Grandchildren keep grandparents entertained and active. Grandparents pass wisdom on in day to day life, not just in hour long visits while they lay in a hospital bed. Nursing care happens in the family home where elderly can remain in a place they know with people they love.&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;Having volunteered in a nursing home since May, I found myself starting to hope that I never ended up here myself. I&amp;#39;d much rather spend my last months at home.&lt;/p&gt;
+&lt;p&gt;Nursing homes are designed for medical care, for the families, for society. But rarely are they designed with their elderly in mind.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;em&gt;Being Mortal&lt;/em&gt; helped me realize that the vast majority of doctors don&amp;#39;t know when to say &amp;quot;enough is enough&amp;quot;. At some point, more medical treatment isn&amp;#39;t worth it when the extra weeks of life you might get aren&amp;#39;t a life worth living.&lt;/p&gt;
 
-&lt;p&gt;I&amp;#39;m only 20, but long before I have to make these decisions for myself, I&amp;#39;ll watch how my parents help my grandparents through these stages of life. Years after that, I&amp;#39;ll help my parents do the same. And one day I hope my kids will be there for me.&lt;/p&gt;
-
 &lt;h2&gt;Other Readings&lt;/h2&gt;
 
-&lt;p&gt;I also finished reading &lt;em&gt;The Hobbit&lt;/em&gt; by J.R.R. Tolkien and &lt;em&gt;You and Me Forever&lt;/em&gt; by Francis and Lisa Chan. Francis is one of my favourite authors of all time and his book on building a marriage with perspective of eternity is excellent. &lt;/p&gt;
+&lt;p&gt;I also finished reading &lt;em&gt;The Hobbit&lt;/em&gt; by J.R.R. Tolkien and &lt;a href=&quot;http://www.youandmeforever.org/&quot;&gt;&lt;em&gt;You and Me Forever&lt;/em&gt;&lt;/a&gt; by Francis and Lisa. Francis is one of my favourite authors of all time and his book on building a marriage with perspective of eternity is excellent. &lt;/p&gt;
 
 &lt;p&gt;After recommendations from family and friends over multiple years, I&amp;#39;m finally reading &lt;em&gt;Good to Great&lt;/em&gt; by Jim Collins. Just a couple chapters in and I&amp;#39;m already starting to see why this book can change how you think about building an high performing organization that lasts.&lt;/p&gt;
 
 &lt;p&gt;I may not be a Level 5 leader yet, but I sure hope to be someday. Until then, I&amp;#39;ll keep reading. I hope you will to.&lt;/p&gt;
 </description>
         <pubDate>Wed, 30 Dec 2015 20:34:25 -0500</pubDate>
-        <link>https://andrewparadi.github.io/blog/leisure-reading-part-2/</link>
-        <guid isPermaLink="true">https://andrewparadi.github.io/blog/leisure-reading-part-2/</guid>
+        <link>//andrewparadi.com/blog/leisure-reading-part-2/</link>
+        <guid isPermaLink="true">//andrewparadi.com/blog/leisure-reading-part-2/</guid>
         
         <category>life</category>
         
@@ -186,8 +200,8 @@ This is the sequel to Doctorow&amp;#39;s award winning &lt;em&gt;Little Brother&
 &lt;p&gt;Looking back, we were default dead. We just didn&amp;#39;t realize it until we had died.&lt;/p&gt;
 </description>
         <pubDate>Fri, 16 Oct 2015 12:34:25 -0400</pubDate>
-        <link>https://andrewparadi.github.io/blog/how-startups-fail-even-with-cash-and-growth/</link>
-        <guid isPermaLink="true">https://andrewparadi.github.io/blog/how-startups-fail-even-with-cash-and-growth/</guid>
+        <link>//andrewparadi.com/blog/how-startups-fail-even-with-cash-and-growth/</link>
+        <guid isPermaLink="true">//andrewparadi.com/blog/how-startups-fail-even-with-cash-and-growth/</guid>
         
         <category>startups</category>
         
@@ -209,8 +223,8 @@ This is the sequel to Doctorow&amp;#39;s award winning &lt;em&gt;Little Brother&
 &lt;iframe width=&quot;853&quot; height=&quot;480&quot; src=&quot;https://www.youtube-nocookie.com/embed/a3-RnvmDsZ8?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Sun, 20 Sep 2015 13:34:25 -0400</pubDate>
-        <link>https://andrewparadi.github.io/project/losocco/</link>
-        <guid isPermaLink="true">https://andrewparadi.github.io/project/losocco/</guid>
+        <link>//andrewparadi.com/project/losocco/</link>
+        <guid isPermaLink="true">//andrewparadi.com/project/losocco/</guid>
         
         <category>design</category>
         
@@ -351,8 +365,8 @@ This is the sequel to Doctorow&amp;#39;s award winning &lt;em&gt;Little Brother&
 &lt;p&gt;&lt;strong&gt;P.S. I&amp;#39;m looking to do an internship next summer too! If you think I&amp;#39;d be a good fit on your team, check out my &lt;a href=&quot;http://andrewparadi.com/wp-content/uploads/2015/10/Resume-Sept-2015-v4.6.1b.pdf&quot; target=&quot;_blank&quot;&gt;resume&lt;/a&gt; and send me an email at &lt;a href=&quot;mailto:me@andrewparadi.com&quot;&gt;me@andrewparadi.com&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 06 Sep 2015 18:50:25 -0400</pubDate>
-        <link>https://andrewparadi.github.io/blog/videostream-how-growth-starts-with-great-customer-support/</link>
-        <guid isPermaLink="true">https://andrewparadi.github.io/blog/videostream-how-growth-starts-with-great-customer-support/</guid>
+        <link>//andrewparadi.com/blog/videostream-how-growth-starts-with-great-customer-support/</link>
+        <guid isPermaLink="true">//andrewparadi.com/blog/videostream-how-growth-starts-with-great-customer-support/</guid>
         
         <category>startups</category>
         
@@ -374,8 +388,8 @@ This is the sequel to Doctorow&amp;#39;s award winning &lt;em&gt;Little Brother&
 &lt;p&gt;Read more about how I helped Videostream grow and see before and after screenshots in &lt;a href=&quot;/blog/videostream-how-growth-started-with-great-customer-support/&quot;&gt;this post&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Thu, 20 Aug 2015 15:34:25 -0400</pubDate>
-        <link>https://andrewparadi.github.io/project/videostream/</link>
-        <guid isPermaLink="true">https://andrewparadi.github.io/project/videostream/</guid>
+        <link>//andrewparadi.com/project/videostream/</link>
+        <guid isPermaLink="true">//andrewparadi.com/project/videostream/</guid>
         
         <category>material-design</category>
         
@@ -417,8 +431,8 @@ This is the sequel to Doctorow&amp;#39;s award winning &lt;em&gt;Little Brother&
 &lt;p&gt;As young couples continue to trust Bob with their engagement rings, more of them will be learning about Bob through their new website. Check it out at &lt;a href=&quot;http://franksjewellers.ca/&quot; target=&quot;_blank&quot;&gt;franksjewellers.ca&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 09 Aug 2015 12:04:25 -0400</pubDate>
-        <link>https://andrewparadi.github.io/project/franks-jewellers/</link>
-        <guid isPermaLink="true">https://andrewparadi.github.io/project/franks-jewellers/</guid>
+        <link>//andrewparadi.com/project/franks-jewellers/</link>
+        <guid isPermaLink="true">//andrewparadi.com/project/franks-jewellers/</guid>
         
         <category>CSS3</category>
         
@@ -494,8 +508,8 @@ This is the sequel to Doctorow&amp;#39;s award winning &lt;em&gt;Little Brother&
 &lt;p&gt;Disruption in banking is limited, internal bank innovation nearly impossible, so the banks need fintech startups more than ever. Canadian fintech startups now need to live with the fact that the odds for building a sustainable company in Canadian banking are even longer than imagined. The way I see it, there are three options for Canadian fintech: build a nimble firm and accept limited market growth opportunity, make the irrational assumption of founding a startup solely for acquisition, or dare to do the impossible; disrupt the Canadian banks.&lt;/p&gt;
 </description>
         <pubDate>Mon, 27 Jul 2015 10:59:25 -0400</pubDate>
-        <link>https://andrewparadi.github.io/blog/canadian-fintech-startups-have-only-3-options/</link>
-        <guid isPermaLink="true">https://andrewparadi.github.io/blog/canadian-fintech-startups-have-only-3-options/</guid>
+        <link>//andrewparadi.com/blog/canadian-fintech-startups-have-only-3-options/</link>
+        <guid isPermaLink="true">//andrewparadi.com/blog/canadian-fintech-startups-have-only-3-options/</guid>
         
         <category>startups</category>
         
@@ -597,8 +611,8 @@ Though I&amp;#39;m many years away from ever exchanging rings, Tim&amp;#39;s boo
 &lt;/blockquote&gt;
 </description>
         <pubDate>Thu, 11 Jun 2015 21:34:25 -0400</pubDate>
-        <link>https://andrewparadi.github.io/blog/leisure-reading-part-1/</link>
-        <guid isPermaLink="true">https://andrewparadi.github.io/blog/leisure-reading-part-1/</guid>
+        <link>//andrewparadi.com/blog/leisure-reading-part-1/</link>
+        <guid isPermaLink="true">//andrewparadi.com/blog/leisure-reading-part-1/</guid>
         
         <category>life</category>
         
@@ -688,8 +702,8 @@ Though I&amp;#39;m many years away from ever exchanging rings, Tim&amp;#39;s boo
 &lt;p&gt;Fireside Chats = Free learning from legends (usually worth the hype, don&amp;#39;t let doubts stop you from showing up!)&lt;/p&gt;
 </description>
         <pubDate>Mon, 11 May 2015 14:34:25 -0400</pubDate>
-        <link>https://andrewparadi.github.io/blog/fred-ted/</link>
-        <guid isPermaLink="true">https://andrewparadi.github.io/blog/fred-ted/</guid>
+        <link>//andrewparadi.com/blog/fred-ted/</link>
+        <guid isPermaLink="true">//andrewparadi.com/blog/fred-ted/</guid>
         
         <category>startups</category>
         
@@ -763,8 +777,8 @@ Though I&amp;#39;m many years away from ever exchanging rings, Tim&amp;#39;s boo
 &lt;p&gt;I am more convinced than ever that Ontario is one of the best places to build a startup. Innovation isn&amp;#39;t confined to &amp;quot;the valley&amp;quot;, it&amp;#39;s happening right here in KW, &lt;a href=&quot;https://youtu.be/fxTyS-aqdLE?t=8s&quot; target=&quot;_blank&quot;&gt;the 6&lt;/a&gt;, and all across Ontario.&lt;/p&gt;
 </description>
         <pubDate>Wed, 29 Apr 2015 19:47:45 -0400</pubDate>
-        <link>https://andrewparadi.github.io/blog/innovation-in-the-6/</link>
-        <guid isPermaLink="true">https://andrewparadi.github.io/blog/innovation-in-the-6/</guid>
+        <link>//andrewparadi.com/blog/innovation-in-the-6/</link>
+        <guid isPermaLink="true">//andrewparadi.com/blog/innovation-in-the-6/</guid>
         
         <category>startups</category>
         
