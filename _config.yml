@@ -19,7 +19,8 @@ cover: "/assets/images/launchpad-c.jpg"
 name: 'Andrew Paradi'
 author: 'Andrew Paradi'
 author_image: "/assets/images/andrew2015.jpg"
-bio: "I study CS at University of Waterloo and thrive in fast paced startup environments. I'm looking for a technical internship for Summer 2016 where I can keep coding awesome products. (P.S. Here's my <a href='/assets/files/AndrewParadiResume.pdf' target='_blank'>Resume</a>)"
+bio: "I study CS at University of Waterloo and want to tackle ambitious projects as an intern this summer 2016. Check out my <a href='/about/'>About</a> page or <a href='/assets/files/AndrewParadiResume.pdf' target='_blank'>Resume</a>) to learn more!"
+bio2: "I want to tackle ambitious projects as a summer 2016 intern. Learn more <a href='/about/'>About</a> why I might be a great fit for your team (<a href='/assets/files/AndrewParadiResume.pdf' target='_blank'>resume</a>)"
 
 paginate:
 
