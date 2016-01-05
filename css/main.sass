@@ -59,13 +59,13 @@ body
     border: #333 solid 3px
 
 .teaserimage
-  height: 450px
+  height: 350px
   position: relative
   overflow: hidden
   background-color: #000
   .teaserimage-image
     background-size: cover
-    background-position: center
+    background-position: 0 33%
     position: absolute
     top: 0
     left: 0
@@ -127,6 +127,22 @@ body
       color: #999
       &:hover
         color: #333
+  .toggle-menu
+    margin: 0 0 20px
+    text-align: center
+    color: #ccc
+    font-size: 1.5rem
+    a
+      text-decoration: none
+      color: #666
+      &:hover
+        color: #333
+    .selected
+      color: #333
+      border-bottom: 2.5px #999 solid
+      border-radius: 2px
+      padding: 3px 6px
+      margin: 10px
 
 .content
   width: 100%
@@ -136,7 +152,7 @@ body
   @include respond-to(800)
     padding: 0 $rs*2
   article
-    padding: 40px 0
+    padding: 20px 0
     border-bottom: 1px solid #f2f2f0
     &:last-child
       border-bottom: 0px

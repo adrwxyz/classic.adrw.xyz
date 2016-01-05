@@ -14,22 +14,13 @@ layout: default
     {% endif %}
     <h1 class="blog-title">{{ site.title }}</h1>
     <h2 class="blog-description">{{ site.description }}</h2>
-    <div class="custom-links">
-      {% for social in site.social %}
-        {% if social.url %}
-            <a class="icon-{{ social.icon }}" href="{{ social.url }}" {% if social.desc %} title="{{ social.desc }}"{% endif %}" target="_blank">
-              <i class="fa fa-{{ social.icon }}"></i>
-            </a>
-            &nbsp;&nbsp;·&nbsp;&nbsp;
-        {% endif %}
-      {% endfor %}
-      <a href="/about/">About</a>
-    </div>
-    <div class="custom-links">
-      <a href="{{site.url}}">Projects</a>
-	  &nbsp;·&nbsp;
-	  <a href="/blog/">Blog</a>
-	</div>
+    <section class="custom-links">
+      {% include social.html %}
+    </section>
+    <div class="toggle-menu">
+      <a href="{{site.url}}" class="selected">Projects</a>
+      <a href="/blog/">Blog</a>
+	  </div>
 </header>
 
 
