@@ -6,7 +6,7 @@ layout: "project"
 tags:
 - machine-learning
 - bloomberg
-- hacking
+- hack
 - video
 - pitch
 image: /assets/article_images/2014-09-30-launchpad-meets-hack-north-3-hypotheses-tested-hacking/stock-slate-demo-retail-c.jpg
