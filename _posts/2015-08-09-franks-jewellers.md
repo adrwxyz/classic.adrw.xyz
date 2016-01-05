@@ -4,8 +4,7 @@ date:   2015-08-09 16:04:25
 categories: project
 layout: "project"
 tags:
-- CSS3
-- HTML5
+- HTML/CSS
 - PHP
 - sales-copy
 - wordpress

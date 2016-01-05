@@ -4,13 +4,12 @@ date:   2014-10-27 16:09:25
 categories: project
 layout: "project"
 tags:
-- video-production
+- video
 - photoshop
 - illustrator
-- design
 - award
 image: /assets/article_images/2013-10-27-meet-the-link/thelink.jpg
-excerpt: As marketing specialist for Laurier's The Link business club, I got diverse experience in digital marketing and was awarded Executive of the Year award.
+excerpt: As marketing specialist for Laurier's The Link business club, I got diverse experience in digital marketing and was awarded Executive of the Year.
 seo-title: The Link - Marketing Specialist Wins Executive of the Year
 ---
 

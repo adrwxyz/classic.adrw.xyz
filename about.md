@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+![Andrew Paradi](/assets/images/andrew2015.jpg)
+
 <h2>Hi, I'm Andrew</h2>
 Welcome to the site! My past [projects](/) and [blog](/blog/) posts are the best way to understand who I am, what I've worked on, and how I approach a problem. For a more summarized look at my work experience, please check out my [resume](/assets/files/AndrewParadiResume.pdf), which includes a reference letter from my most recent position as a [Growth Intern at Videostream](http://andrewparadi.com/project/videostream/). 
 

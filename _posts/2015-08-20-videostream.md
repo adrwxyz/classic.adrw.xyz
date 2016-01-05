@@ -5,16 +5,13 @@ categories: project
 layout: "project"
 tags:
 - material-design
-- design
 - javascript
-- HTML5
-- CSS3
-- sass
+- HTML/Sass
 - sales-copy
-- paypal-api
+- paypal
 - customer-support
 image: /assets/article_images/2015-09-06-videostream-how-growth-starts-with-great-customer-support/vs-home-c.png
-excerpt: In 4 months, Andrew resolved 2,148 support tickets, coded a new website that boosted weekly actives & downloads, and optimized for revenue.
+excerpt: In 4 months, Andrew resolved 2,148 support tickets, coded a new website that boosted weekly actives & downloads, and optimized checkout flow for revenue.
 seo-title: Videostream - How I grew active users & revenue in 4 months
 ---
 

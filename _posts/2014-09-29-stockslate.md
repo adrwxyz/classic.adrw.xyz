@@ -5,9 +5,9 @@ categories: project
 layout: "project"
 tags:
 - machine-learning
-- bloomberg-api
+- bloomberg
 - hacking
-- video-production
+- video
 - pitch
 image: /assets/article_images/2014-09-30-launchpad-meets-hack-north-3-hypotheses-tested-hacking/stock-slate-demo-retail-c.jpg
 excerpt: StockSlate let investors choose stocks from Bloomberg data and then see how their portfolios would be judged by successful investors like Warren Buffet.
