@@ -28,5 +28,5 @@ With in depth customer knowledge and feedback, I could confidently redesign the 
 
 I worked on a new Premium flow in the app which makes upgrading to new features significantly easier for customers. I built the flow from scratch using HTML/Sass, Javascript, and integrations with Stripe, Paypal, and Google O-Auth APIs. It's beating the original Premium flow in initial revenue split tests.
 
-Read more about how I helped Videostream grow and see before and after screenshots in <a href="/blog/videostream-how-growth-starts-with-great-customer-support/">this post</a>.
+>[Read more about how I helped Videostream grow and see before and after screenshots here](/blog/videostream-how-growth-starts-with-great-customer-support/).
 

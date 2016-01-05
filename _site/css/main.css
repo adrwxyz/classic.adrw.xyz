@@ -255,12 +255,12 @@ body {
     margin: 0 0 10px;
     text-align: center;
     color: #ccc;
-    font-size: 1.5rem;
-    padding: 3px 6px;
-    margin: 10px; }
+    font-size: 1.5rem; }
     .blog-header .toggle-menu a {
       text-decoration: none;
-      color: #999; }
+      color: #999;
+      padding: 3px 6px;
+      margin: 10px; }
       .blog-header .toggle-menu a:hover {
         color: #666; }
     .blog-header .toggle-menu .selected {

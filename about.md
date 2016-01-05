@@ -4,12 +4,17 @@ title: About
 permalink: /about/
 ---
 
-<h1>About</h1>
+<h2>Hi, I'm Andrew</h2>
+Welcome to the site! My past [projects](/) and [blog](/blog/) posts are the best way to understand who I am, what I've worked on, and how I approach a problem. For a more summarized look at my work experience, please check out my [resume](/assets/files/AndrewParadiResume.pdf), which includes a reference letter from my most recent position as a [Growth Intern at Videostream](http://andrewparadi.com/project/videostream/). 
+
+I'm looking for an internship for Summer 2016 so if you think I'd be a good fit for your team, please email me at [me@andrewparadi.com](mailto:me@andrewparadi.com)!
+
+<h2>Work Experience</h2>
 I love working on teams that are focused on the end user. Whether that's building software or writing sales copy, I'm driven to find what matters most to customers and have a bias for features and marketing strategies that deliver results. 
 
 I learn quickly. I've picked up effective online marketing techniques from <a href="https://copyhackers.com/" target="_blank">Copyhackers</a>, <a href="https://moz.com/blog" target="_blank">Moz</a>, &amp; <a href="https://blog.kissmetrics.com/" target="_blank">Kissmetrics</a>. I've had practical coding experience on websites and applications used by millions of people. 
 
-My online marketing and code has successfully <a href="http://andrewparadi.com/projects/videostream">grown user bases</a>, <a href="http://andrewparadi.com/projects/teknically-webplio/">won thousands</a> in competition prize and grant money (<a href="http://andrewparadi.com/blog/the-389-day-laurier-bba/">1</a>, <a href="http://andrewparadi.com/blog/the-dream-fades/">2</a>), and even <a href="http://andrewparadi.com/projects/sam-campaign">elected a President</a>.
+My online marketing and code has successfully <a href="http://andrewparadi.com/project/videostream">grown user bases</a>, <a href="http://andrewparadi.com/project/teknically-webplio/">won thousands</a> in competition prize and grant money (<a href="http://andrewparadi.com/blog/the-389-day-laurier-bba/">1</a>, <a href="http://andrewparadi.com/blog/the-dream-fades/">2</a>), and even <a href="http://andrewparadi.com/project/sam-campaign">elected a President</a>.
 
 
 <h2>Why email Andrew?</h2>

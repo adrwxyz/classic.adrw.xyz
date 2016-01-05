@@ -6,8 +6,8 @@
 </description>
     <link>//andrewparadi.com/</link>
     <atom:link href="//andrewparadi.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 05 Jan 2016 00:32:37 -0500</pubDate>
-    <lastBuildDate>Tue, 05 Jan 2016 00:32:37 -0500</lastBuildDate>
+    <pubDate>Tue, 05 Jan 2016 01:06:41 -0500</pubDate>
+    <lastBuildDate>Tue, 05 Jan 2016 01:06:41 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -232,8 +232,6 @@
         
         <category>CSS3</category>
         
-        <category>sales-copy</category>
-        
         <category>paypal-api</category>
         
         <category>stripe-api</category>
@@ -244,7 +242,7 @@
         
         <category>hacking</category>
         
-        <category>api</category>
+        <category>pitch</category>
         
         
         <category>project</category>
@@ -407,11 +405,7 @@
         
         <category>paypal-api</category>
         
-        <category>stripe-api</category>
-        
         <category>customer-support</category>
-        
-        <category>api</category>
         
         
         <category>project</category>
