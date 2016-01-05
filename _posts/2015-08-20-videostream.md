@@ -12,9 +12,7 @@ tags:
 - sass
 - sales-copy
 - paypal-api
-- stripe-api
 - customer-support
-- api
 image: /assets/article_images/2015-09-06-videostream-how-growth-starts-with-great-customer-support/vs-home-c.png
 excerpt: In 4 months, Andrew resolved 2,148 support tickets, coded a new website that boosted weekly actives & downloads, and optimized for revenue.
 seo-title: Videostream - How I grew active users & revenue in 4 months

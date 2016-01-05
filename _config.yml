@@ -22,7 +22,7 @@ author_image: "/assets/images/andrew2015.jpg"
 bio: "I study CS at University of Waterloo and want to tackle ambitious projects as an intern this summer 2016. Check out my <a href='/about/'>About</a> page or <a href='/assets/files/AndrewParadiResume.pdf' target='_blank'>Resume</a>) to learn more!"
 bio2: "I want to tackle ambitious projects as a summer 2016 intern. Learn more <a href='/about/'>About</a> why I might be a great fit for your team (<a href='/assets/files/AndrewParadiResume.pdf' target='_blank'>resume</a>)"
 
-paginate: 20
+paginate: ""
 
 url: "//andrewparadi.com" # the base hostname & protocol for your site
 baseurl: ""

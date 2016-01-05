@@ -260,9 +260,9 @@ body {
     margin: 10px; }
     .blog-header .toggle-menu a {
       text-decoration: none;
-      color: #666; }
+      color: #999; }
       .blog-header .toggle-menu a:hover {
-        color: #333; }
+        color: #666; }
     .blog-header .toggle-menu .selected {
       color: #333;
       border-bottom: 2.5px #999 solid;
