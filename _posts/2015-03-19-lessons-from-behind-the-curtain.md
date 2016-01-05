@@ -9,7 +9,7 @@ seo-title: Five Lessons from Behind the Curtain
 
 **When your world stops spinning, the lights fade, and the silence surrounds you, you can finally think. These past 13 weeks have been the beginning of my next chapter, the regaining of consciousness, & the recovery from 13 months founding a startup.**
 
-This third instalment of the Teknically series ([1](http://andrewparadi.com/blog/the-389-day-laurier-bba/), [2](http://andrewparadi.com/blog/the-dream-fades/), [3](http://andrewparadi.com/blog/lessons-from-behind-the-curtain/), [4](http://andrewparadi.com/blog/7-personal-lessons-from-founding-a-startup/)) transitions from telling our story to sharing the key lessons we learned. Part 3 examines what we learned professionally. [Part 4](http://andrewparadi.com/blog/7-personal-lessons-from-founding-a-startup/), digs into how founding a startup poured gasoline on my personal development.
+This third instalment of the Teknically series ([1](/blog/the-389-day-laurier-bba/), [2](/blog/the-dream-fades/), [3](/blog/lessons-from-behind-the-curtain/), [4](/blog/7-personal-lessons-from-founding-a-startup/)) transitions from telling our story to sharing the key lessons we learned. Part 3 examines what we learned professionally. [Part 4](/blog/7-personal-lessons-from-founding-a-startup/), digs into how founding a startup poured gasoline on my personal development.
 
 
 <h2>Pulling Back the Curtain</h2>
