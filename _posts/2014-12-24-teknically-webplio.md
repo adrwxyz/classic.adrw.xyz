@@ -40,20 +40,18 @@ May 2, 2014. Utah Valley Convention Center in Provo, Utah.
 
 
 ##Press
-- [Laurier Business School Highlights to Alumni for 2014-2015](https://www.wlu.ca/docs/spotlights-features/lazaridis-sbe-highlights.pdf) - Wilfrid Laurier University - April 23, 2015
-- [Five Canadian startups turn to Google for their big push](http://business.financialpost.com/2014/10/05/five-canadian-startups-turn-to-google-for-their-big-push/) - Financial Post - Oct 5, 2014
-- [Student entrepreneurs catch Google's eye](http://www.theglobeandmail.com/report-on-business/careers/business-education/master-of-management-degree-gains-traction/article20671189/) - The Globe and Mail - Sept 19, 2014
-- [Google for Entrepreneurs Cohort 2 set to launch in Communitech Hub](http://news.communitech.ca/news/google-for-entrepreneurs-cohort-2-set-to-launch-in-communitech-hub/) - Communitech News - Sept 9, 2014
-- [570 News #TechHour: The Inside Scoop on Google 4 Entrepreneurs at Communitech](/assets/files/TechHour570News-Sept9-2014.mp3) - 570 News - Sept 9, 2014
-- [Five New Startups Awarded Residency at the Google Innovation Space at Communitech](http://www.betakit.com/five-new-startups-awarded-residency-in-the-google-innovation-space-at-communitech-hub/) - BetaKit - Sept 2, 2014
-- [Second round of startups in Google Innovation space announced](https://www.communitech.ca/start-news/second-round-of-startups-in-google-innovation-space-announced/#.VAFxUDJdV8E) - Communitech News - Aug 29, 2014
-- [Start-up helps web design](http://www.thecord.ca/start-up-helps-web-design/" target="_blank"><img src="img/logos/cord-logo.jpg) - Start-up helps web design - April 2, 2014
-- [Web analytics startup enjoys early success](http://www.therecord.com/news-story/4425791-web-analytics-startup-enjoys-early-success/) - The Waterloo Region Record - March 22, 2014
-- [Young entrepreneurs recognized](http://www.theglobeandmail.com/report-on-business/careers/business-education/saskatchewan-schools-reduce-roadblocks-for-aboriginal-business-students/article17597347/) - The Globe and Mail - March 20, 2014
-- [Laurier LaunchPad’s Teknically Wins 25K at Canadian Business Model Competition](http://laurierentrepreneur.ca/entrepreneurship/laurier-launchpads-teknically-wins-25k-at-canadian-business-model-competition/) - Laurier Entrepreneur - March 19, 2014
-- [Wilfrid Laurier University Startup Teknically Wins Canada’s Business Model Competition](http://www.techvibes.com/blog/canadas-business-model-competition-2014-03-17) - TechVibes - March 17, 2014
-- [Student Entrepreneurs Compete for Seat at Brigham Young](http://www.bmccanada.ca/2014/03/student-entrepreneurs/) - BMC Canada - March 16, 2014
-- [Six commerce students with big business ventures](http://www.theglobeandmail.com/report-on-business/careers/business-education/lighting-the-small-business-burner/article17410311/) - The Globe and Mail - March 12, 2014
+- [Laurier Business School Highlights to Alumni for 2014-2015](https://www.wlu.ca/docs/spotlights-features/lazaridis-sbe-highlights.pdf) - **Wilfrid Laurier University** - April 23, 2015
+- [Five Canadian startups turn to Google for their big push](http://business.financialpost.com/2014/10/05/five-canadian-startups-turn-to-google-for-their-big-push/) - **Financial Post** - Oct 5, 2014
+- [Student entrepreneurs catch Google's eye](http://www.theglobeandmail.com/report-on-business/careers/business-education/master-of-management-degree-gains-traction/article20671189/) - **The Globe and Mail** - Sept 19, 2014
+- [Google for Entrepreneurs Cohort 2 set to launch in Communitech Hub](http://news.communitech.ca/news/google-for-entrepreneurs-cohort-2-set-to-launch-in-communitech-hub/) - **Communitech News** - Sept 9, 2014
+- [570 News #TechHour: The Inside Scoop on Google 4 Entrepreneurs at Communitech](/assets/files/TechHour570News-Sept9-2014.mp3) - **570 News** - Sept 9, 2014
+- [Five New Startups Awarded Residency at the Google Innovation Space at Communitech](http://www.betakit.com/five-new-startups-awarded-residency-in-the-google-innovation-space-at-communitech-hub/) - **BetaKit** - Sept 2, 2014
+- [Web analytics startup enjoys early success](http://www.therecord.com/news-story/4425791-web-analytics-startup-enjoys-early-success/) - **The Waterloo Region Record** - March 22, 2014
+- [Young entrepreneurs recognized](http://www.theglobeandmail.com/report-on-business/careers/business-education/saskatchewan-schools-reduce-roadblocks-for-aboriginal-business-students/article17597347/) - **The Globe and Mail** - March 20, 2014
+- [Laurier LaunchPad’s Teknically Wins 25K at Canadian Business Model Competition](http://laurierentrepreneur.ca/entrepreneurship/laurier-launchpads-teknically-wins-25k-at-canadian-business-model-competition/) - **Laurier Entrepreneur** - March 19, 2014
+- [Wilfrid Laurier University Startup Teknically Wins Canada’s Business Model Competition](http://www.techvibes.com/blog/canadas-business-model-competition-2014-03-17) - **TechVibes** - March 17, 2014
+- [Student Entrepreneurs Compete for Seat at Brigham Young](http://www.bmccanada.ca/2014/03/student-entrepreneurs/) - **BMC Canada** - March 16, 2014
+- [Six commerce students with big business ventures](http://www.theglobeandmail.com/report-on-business/careers/business-education/lighting-the-small-business-burner/article17410311/) - **The Globe and Mail** - March 12, 2014
 
 
 >To learn more, check out the 4-part Teknically series on my blog: [1](/blog/the-389-day-laurier-bba/), [2](/blog/the-dream-fades/), [3](/blog/lessons-from-behind-the-curtain/), [4](/blog/7-personal-lessons-from-founding-a-startup/)
