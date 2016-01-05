@@ -22,21 +22,20 @@ We thrived in Laurier Launchpad, won national competitions, joined Google for En
 
 We did hundreds of customer interviews to find the pain points small business owners have in understanding Google Analytics. We pioneered machine learning math techniques that let us pull insights from complex Google Analytics data sets. 
 
-The full story is covered over two posts ([1](/blog/the-389-day-laurier-bba/), [2](/blog/the-dream-fades/)). Since going back to school at University of Waterloo, I've continued to [write](/blog/) about what we learned with Teknically and my perspective on different startup issues.
+The full story is covered over two posts ([1](/blog/the-389-day-laurier-bba/), [2](/blog/the-dream-fades/)). Since going back to study computer science at University of Waterloo, I've continued to [blog](/blog/) about what we learned with Teknically, share new books I've been reading, and my advice for other new founders.
 
-Below is some promotional media from Teknically, Webplio, and our winning pitches in competitions.
+Below is some promotional media from Teknically, Webplio, and two of our winning pitches in competitions.
 
-<h2>Webplio Promo</h2>
-<iframe width="853" height="480" src="https://www.youtube-nocookie.com/embed/3T7Qgm_jFj0?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-
-
-<h2>Business Model Competition Winning Pitch</h2>
+###Canada Business Model $25,000 Winning Pitch
 March 15, 2014. Dalhousie University, Halifax, Nova Scotia.
 <iframe width="853" height="480" src="https://www.youtube-nocookie.com/embed/EhbbMZyOLsc?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 
-<h2>International Business Model Competition Semi-Finalist Pitch</h2>
+###International Business Model Semi-Finalist Pitch
 May 2, 2014. Utah Valley Convention Center in Provo, Utah.
 <iframe width="853" height="480" src="https://www.youtube-nocookie.com/embed/OB7m2iMaiA0?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+###Webplio Promo
+<iframe width="853" height="480" src="https://www.youtube-nocookie.com/embed/3T7Qgm_jFj0?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 >To learn more, check out the 4-part Teknically series on my blog: [1](/blog/the-389-day-laurier-bba/), [2](/blog/the-dream-fades/), [3](/blog/lessons-from-behind-the-curtain/), [4](/blog/7-personal-lessons-from-founding-a-startup/)
