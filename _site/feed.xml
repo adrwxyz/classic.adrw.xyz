@@ -6,8 +6,8 @@
 </description>
     <link>//andrewparadi.com/</link>
     <atom:link href="//andrewparadi.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 05 Jan 2016 01:06:41 -0500</pubDate>
-    <lastBuildDate>Tue, 05 Jan 2016 01:06:41 -0500</lastBuildDate>
+    <pubDate>Sat, 16 Jan 2016 01:00:05 -0500</pubDate>
+    <lastBuildDate>Sat, 16 Jan 2016 01:00:05 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -151,6 +151,8 @@
 
 &lt;h2&gt;Other Readings&lt;/h2&gt;
 
+&lt;p&gt;&lt;img src=&quot;/assets/article_images/2015-12-31-leisure-reading-part-2/you-and-me-forever-c.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+
 &lt;p&gt;I also finished reading &lt;em&gt;The Hobbit&lt;/em&gt; by J.R.R. Tolkien and &lt;a href=&quot;http://www.youandmeforever.org/&quot;&gt;&lt;em&gt;You and Me Forever&lt;/em&gt;&lt;/a&gt; by Francis and Lisa. Francis is one of my favourite authors and his book on building a marriage with perspective of eternity is excellent. Francis and Lisa are donating all proceeds to their project in in East Africa to free sex slaves, empower women, and build lasting communities.&lt;/p&gt;
 
 &lt;p&gt;After recommendations from family and friends over multiple years, I&amp;#39;m finally reading &lt;em&gt;Good to Great&lt;/em&gt; by Jim Collins. Just a couple chapters in and I&amp;#39;m already starting to see why this book can change how you think about building an high performing organization that lasts.&lt;/p&gt;
@@ -224,23 +226,15 @@
         <link>//andrewparadi.com/project/losocco/</link>
         <guid isPermaLink="true">//andrewparadi.com/project/losocco/</guid>
         
-        <category>design</category>
-        
         <category>javascript</category>
         
-        <category>HTML5</category>
+        <category>HTML/CSS</category>
         
-        <category>CSS3</category>
+        <category>paypal</category>
         
-        <category>paypal-api</category>
+        <category>google-maps</category>
         
-        <category>stripe-api</category>
-        
-        <category>google-maps-api</category>
-        
-        <category>meteor.js</category>
-        
-        <category>hacking</category>
+        <category>hack</category>
         
         <category>pitch</category>
         
@@ -383,7 +377,9 @@
 
 &lt;p&gt;I worked on a new Premium flow in the app which makes upgrading to new features significantly easier for customers. I built the flow from scratch using HTML/Sass, Javascript, and integrations with Stripe, Paypal, and Google O-Auth APIs. It&amp;#39;s beating the original Premium flow in initial revenue split tests.&lt;/p&gt;
 
-&lt;p&gt;Read more about how I helped Videostream grow and see before and after screenshots in &lt;a href=&quot;/blog/videostream-how-growth-starts-with-great-customer-support/&quot;&gt;this post&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;/blog/videostream-how-growth-starts-with-great-customer-support/&quot;&gt;Read more about how I helped Videostream grow and see before and after screenshots here&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
         <pubDate>Thu, 20 Aug 2015 15:34:25 -0400</pubDate>
         <link>//andrewparadi.com/project/videostream/</link>
@@ -391,19 +387,13 @@
         
         <category>material-design</category>
         
-        <category>design</category>
-        
         <category>javascript</category>
         
-        <category>HTML5</category>
-        
-        <category>CSS3</category>
-        
-        <category>sass</category>
+        <category>HTML/Sass</category>
         
         <category>sales-copy</category>
         
-        <category>paypal-api</category>
+        <category>paypal</category>
         
         <category>customer-support</category>
         
@@ -428,9 +418,7 @@
         <link>//andrewparadi.com/project/franks-jewellers/</link>
         <guid isPermaLink="true">//andrewparadi.com/project/franks-jewellers/</guid>
         
-        <category>CSS3</category>
-        
-        <category>HTML5</category>
+        <category>HTML/CSS</category>
         
         <category>PHP</category>
         
