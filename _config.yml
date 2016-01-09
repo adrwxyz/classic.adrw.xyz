@@ -21,6 +21,24 @@ author: 'Andrew Paradi'
 author_image: "/assets/images/andrew2015.jpg"
 bio: "I study computer science at University of Waterloo, enjoy writing on my blog, producing videos, and playing piano."
 
+
+toggle_menu: True
+categories:
+  - title:	Projects
+    cat:  project
+    url:	/
+    desc:	"Volunteer work, hackathon hacks, freelance work, and summer internship projects."
+    
+  - title:	Work
+    cat:  work
+    url:	/work/
+    desc:	"Work experience from summer internships to managing a team of 5 at my startup."
+
+  - title:	Blog
+    cat:  blog
+    url:	/blog/
+    desc:	"Book reviews, startup thoughts, and case studies diving deep into how a project ended up being successful."
+    
 paginate: null
 
 url: "//andrewparadi.com" # the base hostname & protocol for your site
