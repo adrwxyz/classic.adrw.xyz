@@ -1,6 +1,6 @@
 ---
 layout: category
-permalink: /blog/
+permalink: /blog_n/
 ---
 
 
