@@ -30,21 +30,25 @@
     		    </section>
     		    {% if site.toggle_menu %}
     		      {% for category in site.categories %}
+    		      
     		        {% if forloop.first %}
                   <div class="toggle-menu">
                 {% endif %}
+                
     		      	{% if category.url == page.permalink %}
     		      	  {% capture cat %}{{category.cat}}{% endcapture %}
     		      		<a href="{{page.permalink}}" class="selected">{{category.title}}</a>
     		      	{% else %}
     		      		<a href="{{page.permalink}}">{{category.title}}</a>
     		      	{% endif %}
+    		      	
         		    {% if forloop.last %}
                   </div>
                   <div class="blog-description">
                     {{category.desc}}
                   </div>
                 {% endif %}
+                
         		  {% endfor %}
         		{% endif %}
     		</header>
