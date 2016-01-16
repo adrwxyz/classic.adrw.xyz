@@ -114,6 +114,8 @@ Multiple generations live under one roof. Grandchildren keep grandparents entert
 *Being Mortal* helped me realize that the vast majority of doctors don't know when to say "enough is enough". At some point, more medical treatment isn't worth it when the extra weeks of life you might get aren't a life worth living.
 
 ##Other Readings
+![](/assets/article_images/2015-12-31-leisure-reading-part-2/you-and-me-forever-c.png)
+
 I also finished reading *The Hobbit* by J.R.R. Tolkien and [*You and Me Forever*](http://www.youandmeforever.org/) by Francis and Lisa. Francis is one of my favourite authors and his book on building a marriage with perspective of eternity is excellent. Francis and Lisa are donating all proceeds to their project in in East Africa to free sex slaves, empower women, and build lasting communities.
 
 After recommendations from family and friends over multiple years, I'm finally reading *Good to Great* by Jim Collins. Just a couple chapters in and I'm already starting to see why this book can change how you think about building an high performing organization that lasts.
