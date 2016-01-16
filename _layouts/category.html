@@ -34,7 +34,7 @@
                   <div class="toggle-menu">
                 {% endif %}
     		      	{% if category.url == page.permalink %}
-    		      	  {assign cat = category.cat}
+    		      	  {% capture cat %}{{category.cat}}{% endcapture %}
     		      		<a href="{{page.permalink}}" class="selected">{{category.title}}</a>
     		      	{% else %}
     		      		<a href="{{page.permalink}}">{{category.title}}</a>
@@ -50,7 +50,7 @@
     		</header>
     		
     		
-    		      	<!-- {% assign %}.  here assign value for category to be referenced below for ...ccategories.{project} in post listing -->
+    		      	<!-- assign .  here assign value for category to be referenced below for ...ccategories.project in post listing -->
     		
     <!-- 		Try for loop of all posts then if statement each one if matches project. certain html attributes (tags, start date...) have if statements... -->
     		<main class="content" role="main">
