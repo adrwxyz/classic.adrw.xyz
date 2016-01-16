@@ -1,6 +1,7 @@
 ---
 title:  "Stock Slate"
-date:   2014-09-29 02:14:25
+date:   2014-09-21 02:14:25
+startdate:  2014-09-19 17:22:03
 categories: project
 layout: "project"
 tags:

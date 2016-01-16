@@ -1,4 +1,7 @@
 ---
 layout: category
+permalink: /blog/
 ---
+
+
 
