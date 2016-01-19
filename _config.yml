@@ -60,6 +60,7 @@ social:
     share_url:
     share_title:
     share_link:
+    caption:
 
   - icon:	linkedin
     url:	https://www.linkedin.com/in/andrewparadi
@@ -67,6 +68,7 @@ social:
     share_url:
     share_title:
     share_link:
+    caption:
     
   - icon:	github
     url:	https://github.com/andrewparadi
@@ -74,14 +76,7 @@ social:
     share_url:
     share_title:
     share_link:
-    
-#     resume
-  - icon:	graduation-cap
-    url:	/assets/files/AndrewParadiResume.pdf
-    desc:	Resume as of Dec 2015
-    share_url: 
-    share_title:
-    share_link:
+    caption:
 
   - icon:	twitter
     url:	https://twitter.com/andrew_paradi
@@ -89,6 +84,7 @@ social:
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
+    caption:
     
   - icon:	instagram
     url:	https://instagram.com/andrewnotes
@@ -96,6 +92,7 @@ social:
     share_url: 
     share_title:
     share_link:
+    caption:
     
   - icon:	youtube
     url:	https://youtube.com/c/andrewparadi
@@ -103,6 +100,7 @@ social:
     share_url: 
     share_title:
     share_link:
+    caption:
     
     #     PGP Key
   - icon:	lock
@@ -111,6 +109,16 @@ social:
     share_url: 
     share_title:
     share_link:
+    caption: PGP
+    
+#     resume
+  - icon:	graduation-cap
+    url:	/assets/files/AndrewParadiResume.pdf
+    desc:	Resume as of Jan 2015
+    share_url: 
+    share_title:
+    share_link:
+    caption: Resume
     
 
 #  - icon:	facebook
