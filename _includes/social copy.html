@@ -2,7 +2,7 @@
   {% for social in site.social %}
     {% if social.url %}
         <a class="icon-{{ social.icon }}" href="{{ social.url }}" {% if social.desc %} title="{{ social.desc }}"{% endif %}" target="_blank">
-          <i class="fa fa-{{ social.icon }}"></i> {% if social.caption and (layout == 'default' or layout == 'category') %}{{ social.caption }}{% endif %}
+          <i class="fa fa-{{ social.icon }}"></i> {% if social.caption %}{{ social.caption }}{% endif %}
         </a>
         &nbsp;·&nbsp;
     {% endif %}
