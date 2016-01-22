@@ -7,7 +7,7 @@ excerpt: 6 books I'd recommend that I've read since June 2015. Books covering a 
 seo-title: My Favourite 6 Books Since June
 ---
 
-**Welcome my new (much faster) blog! I'll have a post out soon about what's new but it's New Year's Eve! Before 2015 is finished, I'd like to share some of my favourite books I've finished since June 2015!**
+**Welcome to my new (much faster) blog! I'll have a post out soon about all the changes but before 2015 is finished, I'd like to share 6 of the best books I've read since June 2015!**
 
 >Looking for favs before June? [Check out this post.](/blog/leisure-reading-part-1/)
 
