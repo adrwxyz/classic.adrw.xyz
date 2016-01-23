@@ -13,19 +13,19 @@ excerpt: 404 - oops wrong page!
     {% if site.logo %}
       <a class="blog-logo" href="{{site.url}}" style="background-image: url('{{ site.logo }}')">{{ site.title }}</a>
     {% endif %}
-    <h1 class="blog-title">404 - {{ site.title }}</h1>
-    <h2 class="blog-description">{{ site.description }}</h2>
+    <h1 class="blog-title">404</h1>
+    <h2 class="blog-description">{{ site.title }} - {{ site.description }}</h2>
     <section class="custom-links">
       {% include social.html %}
     </section>
+    <div class="blog-description">
+      Sorry that link didn't quite work!
+      Please take a look at some of my blog posts &amp; past projects below.
+    </div>
     <div class="toggle-menu">
       <a href="{{site.url}}" class="selected">Projects</a>
       <a href="/blog/">Blog</a>
 	  </div>
-	  <div class="blog-description">
-      Sorry that link didn't quite work!
-      Please take a look at some of my blog posts *amp; past projects below.
-    </div>
 </header>
 
 
