@@ -32,6 +32,7 @@ While Gates funds a diverse set of clean energy initiatives, Musk focuses on opt
 
 This book gives a deeper look into the man who will make this future a reality for us all.
 
+<a name="ei2"></a>
 ##Emotional Intelligence 2.0 - Travis Bradberry &amp; Jean Greaves
 ![](/assets/article_images/2015-12-31-leisure-reading-part-2/Emotional_Intelligence_2.0-c.jpg)
 
@@ -43,6 +44,7 @@ When reading, I almost always found myself imagining times when I (or somebody I
 
 Looking at successful people across industries and times, the ability to read, manage, and manipulate emotions has built empires, won wars, and inspired generations of people. Learning these skills ourselves gives us a good foundation to be successful in our own life, and I'd recommend this book as a good place to start if you're a rookie like me.
 
+<a name="harper"></a>
 ##Stephen Harper - John Ibbitson
 ![](/assets/article_images/2015-12-31-leisure-reading-part-2/stephen_harper_john_ibbitson.jpg)
 
@@ -50,7 +52,7 @@ Okay, I confess. I follow politics. Mostly US politics (way more exciting) but t
 
 Despite growing up with Stephen Harper as Prime Minister for most of my life, I didn't know much about him. This book was a unique window into one of the most reclusive men to ever hold the office.
 
-The book works in chronological order through young Steve's growing up in Toronto suburb, Leaside, health problems that made him more hockey fan than player, and a short lived university education at University of Toronto's prestigious Trinity College. The Trinity College section was fascinating having read months before about Jim Balsille's time there in [*Losing the Signal*](/blog/leisure-reading-part-1/).
+The book works in chronological order through young Steve's growing up in Toronto suburb, Leaside, health problems that made him more hockey fan than player, and a short lived university education at University of Toronto's prestigious Trinity College. The Trinity College section was fascinating having read months before about Jim Balsille's time there in [*Losing the Signal*](/blog/leisure-reading-part-1/#losingthesignal).
 
 >The elite Trinity College community that fostered RIM co-founder Jim Balsille's competitive spirit, repelled Harper who dropped out within weeks of his freshman year.
 
@@ -74,6 +76,7 @@ Given this personality flaw that would have crippled most people to recurrent ca
 
 Beyond just seeing behind the curtain of Canadian government, John Ibbitson's *Stephen Harper* shares an understanding of how Stephen Harper, the man, thought and made decisions. His legacy is a complex one and I'm glad I read this book to see another side to the man who was our 22nd Prime Minister.
 
+<a name="homeland"></a>
 ##Homeland - Cory Doctorow
 ![](/assets/article_images/2015-12-31-leisure-reading-part-2/homeland_cory_doctorow.jpg)
 **This is the sequel to Doctorow's award winning *Little Brother* which I read [earlier this year](/blog/leisure-reading-part-1/). Unlike most sequels, Homeland lived up to expectations.**
@@ -96,6 +99,7 @@ You may hear people say that we don't need these tools if we don't have anything
 
 *[Download Homeland for free on Cory Doctorow's site](http://craphound.com/category/homeland/)*
 
+<a name="beingmortal"></a>
 ##Being Mortal&#58; Medicine and What Matters in the End - Atul Gawande
 ![](/assets/article_images/2015-12-31-leisure-reading-part-2/being-mortal-atul-gawande-c.jpg)
 
