@@ -79,7 +79,7 @@ Beyond just seeing behind the curtain of Canadian government, John Ibbitson's *S
 <a name="homeland"></a>
 ##Homeland - Cory Doctorow
 ![](/assets/article_images/2015-12-31-leisure-reading-part-2/homeland_cory_doctorow.jpg)
-**This is the sequel to Doctorow's award winning *Little Brother* which I read [earlier this year](/blog/leisure-reading-part-1/). Unlike most sequels, Homeland lived up to expectations.**
+**This is the sequel to Doctorow's award winning *Little Brother* which I read [earlier this year](/blog/leisure-reading-part-1/#littlebrother). Unlike most sequels, Homeland lived up to expectations.**
 
 It's another thrilling ride through the near future that is increasingly descriptive of the present we live in today. [Edward Snowden. The NSA. PRISM. Encryption wars. Mass data collection.](https://theintercept.com/) [Cars being hacked](http://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/).
 
