@@ -9,6 +9,8 @@ seo-title: My Favourite 6 Books Since January
 
 I purchased my Kobo Aura on Boxing Day 2014 and decided I would be more diligent in my leisure reading this year. 6 months in, these are the 6 books that I would most recommend. 
 
+>Looking for part 2? Check out my [favourite 6 books since June here](/blog/leisure-reading-part-2).
+
 
 <h2>David & Goliath - Malcolm Gladwell</h2>
 ![](/assets/article_images/2015-06-12-leisure-reading-part-1/Gladwell_David-and-Goliath.jpg)
@@ -22,9 +24,9 @@ Gladwell's books have always intrigued me since I read about 10,000 hours to suc
 
 I approach many policy issues more skeptically now. More money and resources will not always make things better when many aspects of society play out as Laffer curves and not traditional logarithmic diminishing returns.
 
+<a name="rosie"></a>
 <h2>The Rosie Project - Graeme C. Simsion</h2>
 ![](/assets/article_images/2015-06-12-leisure-reading-part-1/The-Rosie-Project.jpg)
-<a name="rosie"></a>
 
 While I was reading this book, it was all I could talk about. Maybe I'm just a sucker for a classic love story but I agree with Bill Gates (<a href="http://www.gatesnotes.com/About-Bill-Gates/6-Books-I-Would-Recommend-Summer-Reading" target="_blank">1</a>, <a href="http://www.gatesnotes.com/Books/The-Rosie-Effect" taget="_blank">2</a>) that this book is different. The book tells the tale of a biology professor with undiagnosed Aspergers syndrome that sets out on a journey to find the perfect wife by getting women to fill out a survey. Simsion did an unbelievable job writing the perfect internal thoughts of a near purely logical mind (and I found myself laughing as I admitted to myself that I shared many thought processes with a supposedly undiagnosed Aspergers professor). I very rarely read fiction but the The Rosie Project made me want to again.
 
@@ -45,9 +47,9 @@ One sentiment shared repeatedly throughout the book was his belief that the dese
 <h3>Related books I enjoyed:</h3>
 - <strong>Unbroken - Laura Hillenbrand:</strong> Gave me much better insight into the Pacific Theatre of World War II and Louie's determination was genuinely inspiring. As with most things, this book was better than the 2014 movie directed by Angelina Jolie.
 
+<a name="kellermarriage"></a>
 <h2>The Meaning of Marriage - Tim Keller</h2>
 ![](/assets/article_images/2015-06-12-leisure-reading-part-1/meaning-marriage-tim-keller.jpg)
-<a name="kellermarriage"></a>
 
 Though I'm many years away from ever exchanging rings, Tim's book speaks wisdom to single, unmarried, and married couples. I found his strong use of data from research studies paired with Biblical references a better approach than most relationship books that just pull from the author's personal experience and secular anecdotes. My favourite two pieces of data paraphrased were:
 
@@ -59,17 +61,17 @@ Though I'm many years away from ever exchanging rings, Tim's book speaks wisdom 
 - <strong>The Prodigal God - Tim Keller:</strong> Tim examines how the classic parable in Luke 15:11-32 is such a powerful expose of how powerful God's love is and how contrary to societal expectations it is even today.
 - <strong><a href="https://itunes.apple.com/us/podcast/timothy-keller-podcast/id352660924?mt=2" target="_blank">Tim Keller Podcast - Tim Keller</a>:</strong> This has been my go to podcast while I've been working out. Tim masterfully weaves philosophical and Biblical ideas together into thought provoking talks. The most convicting ones I've listened to so far have been "Your Plans: God's Plans", "Praying our Fears", and "Praying our Tears".
 
+<a name="hardthing"></a>
 <h2>The Hard Thing About Hard Things - Ben Horowitz</h2>
 ![](/assets/article_images/2015-06-12-leisure-reading-part-1/hard-things-ben-horowitz.jpg)
-<a name="hardthing"></a>
 
 <strong>Hand down, this is the most practical management book I've ever read.</strong> Written with the brevity of <a href="http://www.paulgraham.com/articles.html" target="_blank">Paul Graham</a> but interspersed with rap lyrics, Ben Horowitz (startup founder, CEO, and famous VC) dishes on how to effectively manage a startup. I valued the lessons and perspective he had from over a decade building a startup, IPO-ing during the Dotcom crash of 2000, and building Opsware into a massive IT software business that was acquired by  HP for $1.6 billion in 2006. 
 
 Reflecting on Teknically, certain aspects were always easy to identify as potential causes of our failure. After reading Hard Things, it is so much easier to pinpoint what specifically went wrong and what I will do differently in a new startup. <strong>This book is simply the most practical, must read for any startup founder.</strong> It succeeds Zero to One as my must-read recommendation for anybody in startups right now.
 
+<a name="losingthesignal"></a>
 <h2>Losing the Signal - Jacquie McNish & Sean Silcoff</h2>
 ![](/assets/article_images/2015-06-12-leisure-reading-part-1/losin_the_signal_mcnish.jpg)
-<a name="losingthesignal"></a>
 
 I bought Losing the Signal on Kobo days after it came out and <strong>was finished reading it within 10 days.</strong> It's the riveting account of Mike Lazaridis, Jim Balsille, RIM's hard fought rise to dominance in the smartphone industry they invented, and their precipitous fall we have all witnessed in the past 6 years. There are two reasons why I found this book so difficult to put down. 
 
@@ -89,4 +91,4 @@ With 12 books done in 6 months, I'm on track for a book every two weeks. Right n
 
 No matter how busy you feel you are, it's always the right time to start investing in yourself by reading. I never set out to reach a certain number but Im glad that I stuck with reading for fun this year. The dividends continue to pay out in my life and I hope the same for you.
 
->Next in Series: [Best Books since June](/blog/leisure-reading-part-2)
+>Next in Series: [Favourite 6 Books since June](/blog/leisure-reading-part-2)
