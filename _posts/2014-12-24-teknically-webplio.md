@@ -27,6 +27,7 @@ The full story is covered over two posts ([1](/blog/the-389-day-laurier-bba/), [
 
 Below is some promotional media from Teknically, Webplio, two of our winning pitches in competitions, and our mentions in national and tech press.
 
+<a name="video"></a>
 ###Canada Business Model $25,000 Winning Pitch
 March 15, 2014. Dalhousie University, Halifax, Nova Scotia.
 <iframe width="853" height="480" src="https://www.youtube-nocookie.com/embed/EhbbMZyOLsc?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
@@ -40,6 +41,7 @@ May 2, 2014. Utah Valley Convention Center in Provo, Utah.
 <iframe width="853" height="480" src="https://www.youtube-nocookie.com/embed/3T7Qgm_jFj0?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 
+<a name="press"></a>
 ##Press
 - [Laurier Business School Highlights to Alumni for 2014-2015](/assets/article_images/2014-12-24-teknically-webplio/lazaridis-sbe-highlights.pdf) - **Wilfrid Laurier University** - April 23, 2015
 - [Five Canadian startups turn to Google for their big push](http://business.financialpost.com/2014/10/05/five-canadian-startups-turn-to-google-for-their-big-push/) - **Financial Post** - Oct 5, 2014
