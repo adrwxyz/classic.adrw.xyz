@@ -1,9 +1,10 @@
 # Build settings
-markdown: redcarpet
-highlighter: pygments
+#markdown: redcarpet
+#highlighter: pygments
 gems:
   - jemoji
-  - pygments
+#  - pygments
+  - jekyll-paginate
   
 # Site settings
 title: "Andrew Paradi"
