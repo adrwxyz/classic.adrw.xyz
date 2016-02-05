@@ -64,9 +64,9 @@ body
   overflow: hidden
   background-color: #000
   .teaserimage-image
-    background-size: cover
+    background-size: 120%
     //background-position: 0 33%
-    background-position: center
+    background-position: 100% 33%
     position: absolute
     top: 0
     left: 0
@@ -257,32 +257,32 @@ body
     right: 0
     bottom: 0
     overflow: hidden
-    @media(min-width: 700px)
-	.post-image-image
-	  background-size: cover
-	  position: absolute
-	  top: 0
-	  left: 0
-	  right: 0
-	  bottom: 0
-	  text-indent: -9999px
-	  padding-top: 33%
-	  z-index: 1
-	.post-image-image2
-	  display: none
-	@media(max-width: 700px)
-	  .post-image-image
-	  	display: none
-	  .post-image-image2
-	  	background-size: cover
-	  	position: absolute
-	  	top: 0
-	  	left: 0
-	  	right: 0
-	  	bottom: 0
-	  	text-indent: -9999px
-	  	padding-top: 33%
-	  	z-index: 1
+  @media(min-width: 700px)
+    .post-image-image
+      background-size: cover
+      position: absolute
+      top: 0
+      left: 0
+      right: 0
+      bottom: 0
+      text-indent: -9999px
+      padding-top: 33%
+      z-index: 1
+    .post-image-image2
+      display: none
+  @media(max-width: 700px)
+    .post-image-image
+      display: none
+    .post-image-image2
+      background-size: cover
+      position: absolute
+      top: 0
+      left: 0
+      right: 0
+      bottom: 0
+      text-indent: -9999px
+      padding-top: 33%
+      z-index: 1
     .post-meta
       position: absolute
       bottom: $rs*5
