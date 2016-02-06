@@ -40,7 +40,7 @@ categories:
     url:	/blog/
     desc:	"Book reviews, startup thoughts, and case studies diving deep into how a project ended up being successful."
     
-paginate: nil
+paginate: Nil
 
 url: "//andrewparadi.com" # the base hostname & protocol for your site
 baseurl: ""

@@ -186,7 +186,7 @@ body {
   background-color: #000; }
   .teaserimage .teaserimage-image {
     background-size: cover;
-    background-position: center;
+    background-position: 0 33%;
     position: absolute;
     top: 0;
     left: 0;
@@ -384,8 +384,7 @@ body {
   right: 0;
   bottom: 0;
   overflow: hidden; }
-@media(min-width: 700px) {
-  .post .post-image-image {
+  .post .article-image .post-image-image {
     background-size: cover;
     position: absolute;
     top: 0;
@@ -395,22 +394,7 @@ body {
     text-indent: -9999px;
     padding-top: 33%;
     z-index: 1; }
-  .post .post-image-image2 {
-    display: none; } }
-@media(max-width: 700px) {
-  .post .post-image-image {
-    display: none; }
-  .post .post-image-image2 {
-    background-size: cover;
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    text-indent: -9999px;
-    padding-top: 33%;
-    z-index: 1; }
-  .post .post-meta {
+  .post .article-image .post-meta {
     position: absolute;
     bottom: 80px;
     left: 30%;
@@ -421,10 +405,10 @@ body {
     -moz-box-sizing: border-box;
     box-sizing: border-box; }
     @media only screen and (max-width: 800px) {
-      .post .post-meta {
+      .post .article-image .post-meta {
         left: 16px;
         right: 16px; } }
-  .post .post-title {
+  .post .article-image .post-title {
     font-weight: 600;
     font-style: normal;
     letter-spacing: -0.04em;
@@ -433,7 +417,7 @@ body {
     color: #fff;
     margin-bottom: 16px;
     text-shadow: 0px 1px 16px rgba(0, 0, 0, 0.5), 0px 0px 1px rgba(0, 0, 0, 0.5); }
-  .post .author-image {
+  .post .article-image .author-image {
     display: inline-block;
     width: 30px;
     height: 30px;
@@ -444,9 +428,9 @@ body {
     background-size: cover;
     border-radius: 100%;
     text-indent: -9999px; }
-  .post .author-name {
+  .post .article-image .author-name {
     display: inline; }
-  .post .post-meta-text {
+  .post .article-image .post-meta-text {
     color: rgba(255, 255, 255, 0.75);
     letter-spacing: -0.02em;
     font-weight: 400;
@@ -457,18 +441,18 @@ body {
     font-family: Avenir Next, Open Sans, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif;
     white-space: nowrap;
     text-overflow: ellipsis; }
-    .post .post-meta-text a {
+    .post .article-image .post-meta-text a {
       color: rgba(255, 255, 255, 0.75); }
-      .post .post-meta-text a:hover {
+      .post .article-image .post-meta-text a:hover {
         color: white; }
-  .post .fa-angle-down {
+  .post .article-image .fa-angle-down {
     font-size: 32px;
     margin: 64px auto 0;
     color: rgba(255, 255, 255, 0.75); }
-    .post .fa-angle-down:hover {
+    .post .article-image .fa-angle-down:hover {
       color: #fff; }
-  .post .topofpage {
-    text-decoration: underline; } }
+  .post .article-image .topofpage {
+    text-decoration: underline; }
 .post .noarticleimage .post-meta {
   font-family: Avenir Next, Open Sans, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif;
   padding-top: 60px; }
