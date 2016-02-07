@@ -151,5 +151,5 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      categories: "blog"
+      categories: ""
       author: "Andrew Paradi"

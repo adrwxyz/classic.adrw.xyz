@@ -2,6 +2,7 @@
 title:  "Videostream: How Growth Starts with Great Customer Support"
 date:   2015-09-06 22:50:25
 tags: startups
+categories: blog
 image: /assets/article_images/2015-09-06-videostream-how-growth-starts-with-great-customer-support/vs-home-c.png
 excerpt: Understanding Videostream users better through email support let me write better sales copy. Soon website downloads were up by 32% & weekly actives up 12%!
 seo-title: Videostream&#58; How Growth Starts with Great Customer Support
