@@ -11,7 +11,8 @@ seo-title: My Favourite 6 Books Since June
 
 >Looking for favs before June? [Check out this post.](/blog/leisure-reading-part-1/)
 
-##Elon Musk - Ashlee Vance
+Elon Musk - Ashlee Vance
+-----
 ![](/assets/article_images/2015-12-31-leisure-reading-part-2/elon-musk-ashlee-vance.jpg)
 
 This book was on my [currently reading list back in June](/blog/leisure-reading-part-1/). Two weeks after the post went up, I was finished. Everyone knows that Elon Musk is known for Tesla cars and SpaceX rockets but few know what he's like as a person.
@@ -33,7 +34,8 @@ While Gates funds a diverse set of clean energy initiatives, Musk focuses on opt
 This book gives a deeper look into the man who will make this future a reality for us all.
 
 <a name="ei2"></a>
-##Emotional Intelligence 2.0 - Travis Bradberry &amp; Jean Greaves
+Emotional Intelligence 2.0 - Travis Bradberry &amp; Jean Greaves
+-----
 ![](/assets/article_images/2015-12-31-leisure-reading-part-2/Emotional_Intelligence_2.0-c.jpg)
 
 I received this as a gift for my birthday in June and it certainly played as an ironic book to read after *Elon Musk*. It's a concisely written book with many examples for the four areas of personal competence (self-awareness and self-management) and social competence (social awareness and relationship management).
@@ -45,7 +47,8 @@ When reading, I almost always found myself imagining times when I (or somebody I
 Looking at successful people across industries and times, the ability to read, manage, and manipulate emotions has built empires, won wars, and inspired generations of people. Learning these skills ourselves gives us a good foundation to be successful in our own life, and I'd recommend this book as a good place to start if you're a rookie like me.
 
 <a name="harper"></a>
-##Stephen Harper - John Ibbitson
+Stephen Harper - John Ibbitson
+-----
 ![](/assets/article_images/2015-12-31-leisure-reading-part-2/stephen_harper_john_ibbitson.jpg)
 
 Okay, I confess. I follow politics. Mostly US politics (way more exciting) but this year was special. 2015 was a election year in Canada, and what a roller coaster it was.
@@ -77,7 +80,8 @@ Given this personality flaw that would have crippled most people to recurrent ca
 Beyond just seeing behind the curtain of Canadian government, John Ibbitson's *Stephen Harper* shares an understanding of how Stephen Harper, the man, thought and made decisions. His legacy is a complex one and I'm glad I read this book to see another side to the man who was our 22nd Prime Minister.
 
 <a name="homeland"></a>
-##Homeland - Cory Doctorow
+Homeland - Cory Doctorow
+-----
 ![](/assets/article_images/2015-12-31-leisure-reading-part-2/homeland_cory_doctorow.jpg)
 **This is the sequel to Doctorow's award winning *Little Brother* which I read [earlier this year](/blog/leisure-reading-part-1/#littlebrother). Unlike most sequels, Homeland lived up to expectations.**
 
@@ -100,7 +104,8 @@ You may hear people say that we don't need these tools if we don't have anything
 *[Download Homeland for free on Cory Doctorow's site](http://craphound.com/category/homeland/)*
 
 <a name="beingmortal"></a>
-##Being Mortal&#58; Medicine and What Matters in the End - Atul Gawande
+Being Mortal&#58; Medicine and What Matters in the End - Atul Gawande
+-----
 ![](/assets/article_images/2015-12-31-leisure-reading-part-2/being-mortal-atul-gawande-c.jpg)
 
 >"Nothing is certain except death and taxes" - Benjamin Franklin
@@ -117,7 +122,8 @@ Multiple generations live under one roof. Grandchildren keep grandparents entert
 
 *Being Mortal* helped me realize that the vast majority of doctors don't know when to say "enough is enough". At some point, more medical treatment isn't worth it when the extra weeks of life you might get aren't a life worth living.
 
-##Other Readings
+Other Readings
+-----
 ![](/assets/article_images/2015-12-31-leisure-reading-part-2/you-and-me-forever-c.png)
 
 I also finished reading *The Hobbit* by J.R.R. Tolkien and [*You and Me Forever*](http://www.youandmeforever.org/) by Francis and Lisa. Francis is one of my favourite authors and his book on building a marriage with perspective of eternity is excellent. Francis and Lisa are donating all proceeds to their project in in East Africa to free sex slaves, empower women, and build lasting communities.
