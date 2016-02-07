@@ -17,7 +17,8 @@ Throughout our development of Webplio, we have been successful at practically ap
 2. <strong>Market</strong>: Our Webplio "Scores" are not limited to just website analytics but could be applied to a financial data and provide significant value
 3. <strong>Customers</strong>: people respond better to a simple straight forward demo video (a la <a href="http://youtu.be/7QmCUDHpNzE" target="_blank">Dropbox</a>)
 
-##Product
+Product
+-----
 <a href="http://webplio.com" target="_blank">Webplio</a> presents business owners with easy to understand website performance information and insights. It's currently coded in PHP using the Symfony2 framework but we haven't had time yet to build in any asynchronous technologies like AJAX. These types of web technologies allow for no page reloads, all data would change fluidly and dynamically. Within any browser and on any device, Webplio would be as fluid, fun, and approachable as an iPad app. The only question we still had was how we should implement this powerful functionality (there are a lot of options!).
 
 ![Webplio's vivid graphs, summary scores, and algorithmically determined insights work together to help owners make sense of their website analytics data.](/assets/article_images/2014-09-30-launchpad-meets-hack-north-3-hypotheses-tested-hacking/bob-webplio-hero.jpg)
@@ -39,7 +40,8 @@ Hack the North provided a perfect opportunity to test if the MEAN stack would be
 
 
 
-##Market
+Market
+-----
 One of the primary value propositions for Webplio are Webplio Scores. For example, instead of using 5 different metrics to evaluate effectiveness, Webplio users only need their Webplio Score which summarizes overall performance into a single number. Webplio Scores have been used to evaluate effectiveness of referral traffic, landing pages, and even server performance but had never been used outside of website analytics<strong>...until Hack the North.</strong>
 
 ![In this table from the Webplio Dashboard, Webplio Scores simplify analysis of referral traffic. Instead of looking at up to 5 different metrics, users only need to look at a single Webplio Score to quickly understand where their best referral traffic is coming from.](/assets/article_images/2014-09-30-launchpad-meets-hack-north-3-hypotheses-tested-hacking/Webplio-Dashboard-v3-Referrals.png)
@@ -66,7 +68,8 @@ With Stock Slate, investing was now approachable to a whole new segment of the p
 
 
 
-##Customers
+Customers
+-----
 For our initial promotional videos for Webplio, we didn't yet have a working dashboard that we could demo live, so we compensated. Moving graphics and 3D effects helped give the illusion of a working product but it didn't resonate with our potential customers. For Stock Slate, we knew we would have a working demo so we could try a new approach.
 
 We looked at other successful videos from startups and found that the first Dropbox demo video was unbelievably successful. CEO Drew Houston recalled the impact of the video, “It drove hundreds of thousands of people to the website. Our beta waiting list went from 5,000 people to 75,000 people literally overnight. It totally blew us away.”*2  When we dissected Drew Houston's initial Dropbox demo it's clear that they nailed the basics. 
@@ -86,7 +89,8 @@ The Stock Slate demo video was our first video to hit the magic 301+ on YouTube.
 
 **This was a video that resonated with people. This was a video that inspired action. This was a video that would drive sales.** Thanks to this powerful confirmation of our final hypothesis, we will be releasing a new Webplio demo video next week that gets back to the basics.
 
-##tl;dr
+tl;dr
+-----
 1. Whether you know the "Lean Startup" process or not, start believing that <strong>everything you do is a hypothesis</strong>. If it goes well, great! Figure out how to keep doing it better. If not, change your next decision to readjust your heading based on what went wrong.
 2. In a startup, <strong>test all possible aspects of your product, market, and customers</strong>. You'll never regret having more data at your fingertips when making decisions about a new product feature, expanding to a new market, or better targeting your advertising to a specific customer segment.
 3. <strong>Opportunities to test your hypotheses are everywhere!</strong> Take off your blinders! A/B test your marketing. Incorporate usage statistics into your product. Interview more customers to get their honest long form opinion. If you want to succeed as a startup, you need to know your product, market, and customers better than anybody else.
