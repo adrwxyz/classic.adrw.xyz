@@ -13,14 +13,18 @@ description: > # this means to ignore newlines until "email:"
 
 email: me@andrewparadi.com
 #blog logo
-logo: "/assets/images/ap_logov3.5.png"
+logo: "/assets/images/ap_logov4.0.png"
 # blog cover
 cover: "/assets/images/launchpad-c.jpg"
 
 name: 'Andrew Paradi'
 author: 'Andrew Paradi'
 author_image: "/assets/images/andrew2015.jpg"
-bio: "I study computer science at University of Waterloo, enjoy writing on my blog, producing videos, and playing piano."
+bio: "I study computer science at University of Waterloo, build <a href='{{site.bio_project}}'>Progress for Pebble</a>, <a href='{{site.url}}/{{site.featured_post}}'>write stuff like this</a>, <a href='{{site.social.youtube.url}}'>produce videos</a>, and <a href='{{site.bio_piano}}'>groove out on piano</a>."
+bio_project: "http://andrewparadi.com/progress-pebble/"
+bio_post: "blog/videostream-how-growth-starts-with-great-customer-support/"
+bio_video: "https://youtu.be/hfbE7sVbz8k"
+bio_piano: "https://youtu.be/VuBCs_t54DY"
 
 
 toggle_menu: True
