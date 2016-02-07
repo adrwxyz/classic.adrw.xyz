@@ -2,6 +2,7 @@
 title:  "Launchpad Meets Hack the North: 3 Hypotheses We Tested While Hacking"
 date:   2014-09-30 12:34:25
 tags: startups
+categories: blog
 image: /assets/article_images/2014-09-30-launchpad-meets-hack-north-3-hypotheses-tested-hacking/stock-slate-demo-retail-c.jpg
 excerpt: Ever wondered how to apply the Lean Startup methodology to a hackathon? The Webplio team used Hack the North to test their top three hypotheses.
 seo-title: Launchpad Meets Hack the North&#58; Our 3 Startup Hypotheses
