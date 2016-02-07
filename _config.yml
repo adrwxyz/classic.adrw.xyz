@@ -144,12 +144,12 @@ social:
 
 
 # Defaults for layouts
-# defaults:
-#   -
-#     scope:
-#       path: ""
-#       type: "posts"
-#     values:
-#       layout: "post"
-#       categories: "blog"
-#       author: "Andrew Paradi"
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      categories: ""
+      author: "Andrew Paradi"
