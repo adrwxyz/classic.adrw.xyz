@@ -20,10 +20,10 @@ cover: "/assets/images/launchpad-c.jpg"
 name: 'Andrew Paradi'
 author: 'Andrew Paradi'
 author_image: "/assets/images/andrew2015.jpg"
-bio: "I study computer science at University of Waterloo, build <a href='{{site.bio_project}}'>Progress for Pebble</a>, <a href='{{site.url}}/{{site.featured_post}}'>write stuff like this</a>, <a href='{{site.social.youtube.url}}'>produce videos</a>, and <a href='{{site.bio_piano}}'>groove out on piano</a>."
+bio: "I study computer science at University of Waterloo, build a Pebble app, write stuff like this, produce vids, and play piano."
 bio_project: "http://andrewparadi.com/progress-pebble/"
 bio_post: "blog/videostream-how-growth-starts-with-great-customer-support/"
-bio_video: "https://youtu.be/hfbE7sVbz8k"
+bio_video: "https://youtu.be/hfbE7sVbz8k?list=PLmu6fQR8i26VzMOSuUikzqRLT4diEE_AA"
 bio_piano: "https://youtu.be/VuBCs_t54DY"
 
 
