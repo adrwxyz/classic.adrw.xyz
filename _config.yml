@@ -9,18 +9,22 @@ gems:
 # Site settings
 title: "Andrew Paradi"
 description: > # this means to ignore newlines until "email:"
-   Growth Focused Front End Developer
+   Growth Focused Developer
 
 email: me@andrewparadi.com
 #blog logo
-logo: "/assets/images/ap_logov3.5.png"
+logo: "/assets/images/ap_logov4.0.png"
 # blog cover
 cover: "/assets/images/launchpad-c.jpg"
 
 name: 'Andrew Paradi'
 author: 'Andrew Paradi'
 author_image: "/assets/images/andrew2015.jpg"
-bio: "I study computer science at University of Waterloo, enjoy writing on my blog, producing videos, and playing piano."
+bio: "I study computer science at University of Waterloo, build a Pebble app, write stuff like this, produce vids, and play piano."
+bio_project: "http://andrewparadi.com/progress-pebble/"
+bio_post: "blog/videostream-how-growth-starts-with-great-customer-support/"
+bio_video: "https://youtu.be/hfbE7sVbz8k?list=PLmu6fQR8i26VzMOSuUikzqRLT4diEE_AA"
+bio_piano: "https://youtu.be/VuBCs_t54DY"
 
 
 toggle_menu: True
@@ -55,7 +59,7 @@ twitter_handle: '@andrew_paradi'
 # social icons and sharing options
 social:
 
-  - icon:	inbox
+  - icon:	envelope
     url:	mailto:me@andrewparadi.com
     desc:	Email me@andrewparadi.com
     share_url:
@@ -63,7 +67,7 @@ social:
     share_link:
     caption:
 
-  - icon:	linkedin
+  - icon:	linkedin-square
     url:	https://www.linkedin.com/in/andrewparadi
     desc:	Connect with me on LinkedIn
     share_url:

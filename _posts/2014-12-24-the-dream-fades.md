@@ -98,12 +98,12 @@ I kept reading the email over again. They liked us as founders but didn't like W
 
 It just took us another three weeks to come to this realization ourselves.
 
-We then headed to the meetup. There were free drinks to dull the emotions, a panel discussion, and I got to meet some of the YC alumi with whom I had only Skyped. All were very encouraging and supportive knowing themselves that few startups ever get the phone call for their first YC application. We headed back to Mike's for the night and got a couple hours of sleep before our 4am wake up to fly home.
+We then headed to the meetup. There were free drinks to dull the emotions, a panel discussion, and I got to meet some of the YC alumni with whom I had only Skyped. All were very encouraging and supportive knowing themselves that few startups ever get the phone call for their first YC application. We headed back to Mike's for the night and got a couple hours of sleep before our 4am wake up to fly home.
 
 <h2>The Dream Fades</h2>
 Each of us took some time to try and figure out what we would do next given our limited financial runway. We could start coding ourselves and reduce outsourcing costs. We could start working on another idea. We could shut Teknically down.
 
-We settled on cutting costs and each coding, but with a new idea that we could get to market in three weeks and hopefully revenue by Christmas. In meer days I had picked up Angular.js and Brandon Node.js, Express, and MongoDB. Two weeks in we had made remarkable progress. 
+We settled on cutting costs and each coding, but with a new idea that we could get to market in three weeks and hopefully revenue by Christmas. In mere days I had picked up Angular.js and Brandon Node.js, Express, and MongoDB. Two weeks in we had made remarkable progress. 
 
 Unfortunately, both of us were starting to realize that the dream was fading. Over a hearty Mel's Diner lunch on December 2nd, we came to the conclusion that it was the beginning of the end. After 13 months of running on fumes, we needed time to breath. It was too late for another Hail Mary pivot. We would close up shop and go back to university. 
 
@@ -112,7 +112,7 @@ Our dreams for Teknically may not have been realized in the fullest, but the leg
 
 I'm thankful to many. Family and friends for your support. Dad for your guidance and steady perspective. Laurier Launchpad, Steve Farlow, Sandeep De, Dave Inglis, Anne Forler for taking a chance on a pair of first years who thought they could make Google Analytics better. Communitech. Google for Entrepreneurs. 
 
-YC Alumni: Patrick Hannigan (Ticket Labs), Gareth MacLeod (Tinker),  Aditya Bali (BufferBox), Devon Galloway (Vidyard), Jim Robeson (PiinPoint), Euwyn Poon (Opzi), Trevor Creech (Tinker), Ross Robinson (Tinker), Ian Roberts (Ticket Labs) for your patience, kindness, and time whether reviewing our application, conducting mock interviews, or talking shop over burgers and Stellas. Desmond Choi and Mike Reid, fellow entrepreneurs but most importantly, friends.
+YC Alumni: Patrick Hannigan (Ticket Labs, now Hive), Gareth MacLeod (Tinker), Aditya Bali (BufferBox, now Google), Devon Galloway (Vidyard), Jim Robeson (PiinPoint), Euwyn Poon (Opzi), Trevor Creech (Tinker), Ross Robinson (Tinker), Ian Roberts (Ticket Labs, now Hive) for your patience, kindness, and time whether reviewing our application, conducting mock interviews, or talking shop over burgers and Stellas. Desmond Choi and Mike Reid, fellow entrepreneurs but most importantly, friends.
 
 I'm excited to start math classes at University of Waterloo in January and hopefully continue there in Computing and Financial Management (CFM) or Computer Science (CS) starting in Fall 2015. Brandon will be continuing in the BBA/Computer Science double degree program at Wilfrid Laurier University.
 
