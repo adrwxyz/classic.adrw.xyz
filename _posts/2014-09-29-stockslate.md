@@ -1,5 +1,5 @@
 ---
-title:  "Stock Slate"
+title:  "StockSlate"
 date:   2014-09-21 02:14:25
 startdate:  2014-09-19 17:22:03
 categories: project

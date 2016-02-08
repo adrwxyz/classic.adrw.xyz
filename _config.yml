@@ -9,7 +9,7 @@ gems:
 # Site settings
 title: "Andrew Paradi"
 description: > # this means to ignore newlines until "email:"
-   Growth Focused Front End Developer
+   Growth Focused Developer
 
 email: me@andrewparadi.com
 #blog logo
@@ -59,7 +59,7 @@ twitter_handle: '@andrew_paradi'
 # social icons and sharing options
 social:
 
-  - icon:	inbox
+  - icon:	envelope
     url:	mailto:me@andrewparadi.com
     desc:	Email me@andrewparadi.com
     share_url:
@@ -67,7 +67,7 @@ social:
     share_link:
     caption:
 
-  - icon:	linkedin
+  - icon:	linkedin-square
     url:	https://www.linkedin.com/in/andrewparadi
     desc:	Connect with me on LinkedIn
     share_url:
