@@ -1,7 +1,7 @@
 ---
 layout: default
-permalink: /blog/
-excerpt: andrewnotes blog - book reviews, startup thoughts, and case studies diving deep into how a project ended up being successful
+permalink: /work/
+excerpt: projects and blog posts from my work experience
 ---
 
 <div class="teaserimage">
@@ -21,8 +21,8 @@ excerpt: andrewnotes blog - book reviews, startup thoughts, and case studies div
     </section>
     <div class="toggle-menu">
       <a href="{{site.url}}">Projects</a>
-      <a href="/blog/" class="selected">Blog</a>
-      <a href="/work/">Work</a>
+      <a href="/blog/">Blog</a>
+      <a href="/work/" class="selected">Work</a>
 	  </div>
 </header>
 
@@ -30,7 +30,7 @@ excerpt: andrewnotes blog - book reviews, startup thoughts, and case studies div
 <main class="content" role="main">
 
 	<div class="container featured">
-      {% for post in site.categories.blog %}
+      {% for post in site.categories.work %}
         <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
           <div class="article-item">
             <header class="post-header">
