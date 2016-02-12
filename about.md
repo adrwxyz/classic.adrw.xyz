@@ -7,7 +7,7 @@ permalink: /about/
 Hi, I'm Andrew!
 -----
 
-![Andrew Paradi](/assets/images/andrew2015.jpg)
+![](/assets/images/andrew2015.jpg)
 
 Welcome to the site! Check out my [projects](/), [blog](/blog/), [resume](/assets/files/AndrewParadiResume.pdf), &amp; [github](https://github.com/andrewparadi). 
 

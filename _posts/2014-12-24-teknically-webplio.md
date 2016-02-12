@@ -2,7 +2,10 @@
 title:  "Teknically & Webplio"
 date:   2014-12-24 01:34:25
 startdate:  2013-10-02 10:24:07
-categories: project
+permalink: /project/teknically-webplio/
+categories: 
+- project
+- work
 layout: "project"
 tags:
 - machine-learning

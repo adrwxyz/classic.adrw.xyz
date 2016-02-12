@@ -1,8 +1,11 @@
 ---
 title:  "Teknically Part 1: The 389 Day Laurier BBA"
 date:   2014-10-03 23:58:45
+permalink: /blog/the-389-day-laurier-bba/
 tags: startups
-categories: blog
+categories: 
+- blog
+- work
 image: /assets/article_images/2014-10-03-the-389-day-laurier-bba/cofounders-launchpad-desk.jpg
 excerpt: My first year as a BBA student at Wilfrid Laurier University was unlike anything imaginable. I started a business, travelled the world, and now I'm free.
 seo-title: The Most Exciting First Year at Laurier
