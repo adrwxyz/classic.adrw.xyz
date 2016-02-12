@@ -9,3 +9,5 @@ sitemap:
   exclude: 'yes'
 ---
 
+test
+test
