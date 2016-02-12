@@ -2,7 +2,9 @@
 title:  "Videostream"
 date:   2015-08-20 19:34:25
 startdate:  2015-05-04 10:05:00
-categories: project, work
+categories: 
+- project
+- work
 layout: "project"
 tags:
 - material-design
