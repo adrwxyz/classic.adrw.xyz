@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "email:"
 
 email: me@andrewparadi.com
 #blog logo
-logo: "/assets/images/ap_logov4.0.png"
+logo: "/assets/images/ap_logov4.0t.png"
 # blog cover
 cover: "/assets/images/launchpad-c.jpg"
 
