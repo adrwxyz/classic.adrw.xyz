@@ -1,6 +1,6 @@
 ---
 layout: category
-permalink: /work/
+permalink: /work2/
 excerpt: Andrew Paradi - work experience from summer internships to managing a team of 5 at my startup
 sitemap:
   lastmod: 2014-01-23
