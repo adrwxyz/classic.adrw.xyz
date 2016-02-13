@@ -1,6 +1,7 @@
 ---
 title:  "Five Lessons from Behind the Curtain"
 date:   2015-03-19 16:09:25
+permalink: /blog/lessons-from-behind-the-curtain/
 tags: startups
 categories: 
 - blog
