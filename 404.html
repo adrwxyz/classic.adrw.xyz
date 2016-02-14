@@ -1,7 +1,7 @@
 ---
 layout: default
-excerpt: 404 - oops wrong page!
-permalink: /404.html/
+excerpt: 404 oops
+permalink: /404.html
 ---
 
 <div class="teaserimage">
@@ -15,13 +15,14 @@ permalink: /404.html/
       <a class="blog-logo" href="{{site.url}}" style="background-image: url('{{ site.author_image }}')">{{ site.title }}</a>
     {% endif %}
     <h1 class="blog-title">{{ site.title }}</h1>
-    <h2 class="blog-description">404 - Oops that link didn't quite work!</h2>
+    <h2 class="blog-description">{{ site.description }}</h2>
     <section class="custom-links">
       {% include social.html %}
     </section>
     <div class="toggle-menu">
-      <a href="{{site.url}}" class="selected">Projects</a>
+      <a href="{{site.url}}">Projects</a>
       <a href="/blog/">Blog</a>
+      <a href="/work/">Work</a>
 	  </div>
 </header>
 
@@ -29,7 +30,7 @@ permalink: /404.html/
 <main class="content" role="main">
 
     <div class="container featured">
-      {% for post in site.categories.project %}
+      {% for post in site.posts %}
         <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
           <div class="article-item">
             <header class="post-header">
