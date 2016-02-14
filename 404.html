@@ -1,7 +1,7 @@
 ---
 layout: default
 excerpt: 404 - oops wrong page!
-permalink: /404.html/
+permalink: /404.html
 ---
 
 <div class="teaserimage">
@@ -20,8 +20,9 @@ permalink: /404.html/
       {% include social.html %}
     </section>
     <div class="toggle-menu">
-      <a href="{{site.url}}" class="selected">Projects</a>
+      <a href="{{site.url}}">Projects</a>
       <a href="/blog/">Blog</a>
+      <a href="/work/">Work</a>
 	  </div>
 </header>
 
@@ -29,7 +30,7 @@ permalink: /404.html/
 <main class="content" role="main">
 
     <div class="container featured">
-      {% for post in site.categories.project %}
+      {% for post in site.categories %}
         <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
           <div class="article-item">
             <header class="post-header">
