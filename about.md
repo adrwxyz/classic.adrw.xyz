@@ -28,9 +28,9 @@ I have an unwavering bias for features and marketing strategies that deliver res
 
 I learn quickly. Whether at **Hack the North** ([2014](/project/stockslate/), [2015](/project/losocco/)) or at [Videostream](/project/videostream/), I've picked up frameworks quickly to write code that performs under the scrutiny of code reviews and win competitions.
 
-My pitches, online marketing, and code has successfully [won over $65,000](/project/teknically-webplio/) in competition prizes &amp; grant money ([1](/blog/the-389-day-laurier-bba/), [2](/blog/the-dream-fades/)), led to **[interviewing at Y Combinator](/blog/the-dream-fades/)**, and even [elected a President](project/sam-campaign).
+My pitches, online marketing, and code has successfully [won over $65,000](/project/teknically-webplio/) in competition prizes &amp; grant money ([1](/blog/the-389-day-laurier-bba/), [2](/blog/the-dream-fades/)), led to **[interviewing at Y Combinator](/blog/the-dream-fades/)**, and even [elected a President](/project/sam-campaign).
 
 Other KW Founders
 -----
 
-Reach out if you're a **local startup founder** who wants to grab a coffee at DVLB and chat! I consult with founders on how to write successful government grant applications, pitch to win competitions, write effective sales copy, figure out a software MVP, and improve software user retention.
+Reach out if you're a **local startup founder** who wants to grab a coffee at [DVLB](http://dvlb.ca/) and chat! I consult with founders on how to write successful government grant applications, pitch to win competitions, write effective sales copy, figure out a software MVP, and improve software user retention.
