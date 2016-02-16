@@ -9,7 +9,7 @@ Hi, I'm Andrew!
 
 ![](/assets/images/andrew2015.jpg)
 
-Welcome to the site! Check out my [projects](/), [blog](/blog/), [resume](/assets/files/AndrewParadiResume.pdf), &amp; [github](https://github.com/andrewparadi). 
+Welcome to the site! Check out my [projects](/), [blog](/blog/), [work](/work/) experience, [resume](/assets/files/AndrewParadiResume.pdf), &amp; [github](https://github.com/andrewparadi). 
 
 Why email me?
 -----
