@@ -25,6 +25,6 @@ Bob was one of our first clients for <a href="/project/teknically-webplio/" targ
 
 The new site is extremely easy to edit, cost efficient to maintain long term, and is beautifully responsive on any device. 
 
-<em>"The new website just looks fantastic and it even kept with our look and feel that we use in other marketing. After the training from Andrew, we've been uploading new diamonds when they come in and even been getting some new customers as a result. Couldn't recommend him enough!"</em> - Bob Frank, Owner
+> "The new website just looks fantastic and it even kept with our look and feel that we use in other marketing. After the training from Andrew, we've been uploading new diamonds when they come in and even been getting some new customers as a result. Couldn't recommend him enough!" - Bob Frank, Owner
 
 As young couples continue to trust Bob with their engagement rings, more of them will be learning about Bob through their new website. Check it out at <a href="http://franksjewellers.ca/" target="_blank">franksjewellers.ca</a>
