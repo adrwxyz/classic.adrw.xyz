@@ -14,7 +14,7 @@ Welcome to the site! Check out my [projects](/), [blog](/blog/), [work](/work/) 
 Why email me?
 -----
 
-I've got a strong coding &amp; communication skills recognized in competition and I'm looking for a **summer 2016 technical internship**. [Email me at andrewparadi.com](mailto:me@andrewparadi.com) if your team wants an intern who takes initiative, learns quickly, and thrives under pressure.
+I've got a strong coding &amp; communication skills recognized in competition and I'm looking for a **summer 2016 technical internship**. [Email](mailto:me@andrewparadi.com) me at andrewparadi.com if your team wants an intern who takes initiative, learns quickly, and thrives under pressure.
 
 To contact me securely, here's my [PGP key](/assets/files/AndrewParadiPGP.asc) and fingerprint.
 836C B350 4409 4A9E 0A13 F12C EED3 03A3 B5B5 4E6E
