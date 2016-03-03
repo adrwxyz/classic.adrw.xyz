@@ -30,7 +30,7 @@ I have an unwavering bias for features and marketing strategies that deliver res
 
 I learn quickly. Whether at **Hack the North** ([2014](/project/stockslate/), [2015](/project/losocco/)) or at **[Videostream](/project/videostream/)**, I pick up frameworks quickly to write code that performs under the scrutiny of code reviews and win competitions.
 
-My pitches, online marketing, and code has successfully:
+My pitches, online marketing, and code have successfully:
 
 - Increased active users by 12% in one week for an app that already had over 1.2 million users ([1](blog/videostream-how-growth-starts-with-great-customer-support/))
 - Won over **$65,000** in commpetition prizes &amp; grants ([2](/project/teknically-webplio/), [3](/blog/the-389-day-laurier-bba/), [4](/blog/the-dream-fades/))
