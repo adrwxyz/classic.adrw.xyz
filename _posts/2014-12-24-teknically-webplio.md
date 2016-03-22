@@ -52,6 +52,7 @@ Webplio Promo
 
 Press
 -----
+- [Featured Company Profile](http://www.oce-ontario.org/our-companies) - **Ontario Centres of Excellence** - March 17, 2016
 - [Laurier Business School Highlights to Alumni for 2014-2015](/assets/article_images/2014-12-24-teknically-webplio/lazaridis-sbe-highlights.pdf) - **Wilfrid Laurier University** - April 23, 2015
 - [Five Canadian startups turn to Google for their big push](http://business.financialpost.com/2014/10/05/five-canadian-startups-turn-to-google-for-their-big-push/) - **Financial Post** - Oct 5, 2014
 - [Student entrepreneurs catch Google's eye](http://www.theglobeandmail.com/report-on-business/careers/business-education/master-of-management-degree-gains-traction/article20671189/) - **The Globe and Mail** - Sept 19, 2014
