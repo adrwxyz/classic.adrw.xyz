@@ -11,6 +11,7 @@ seo-title: How Startups Fail Even with Cash and Growth
 **Everybody in startups should be reading Paul Graham's essays. He just hit it out of the park again. Go read <a href="http://paulgraham.com/aord.html" target="_blank">"Default Alive or Default Dead?"</a> and then come back.**
 
 I've co-founded a startup (<a href="/blog/the-389-day-laurier-bba/">1</a>, <a href="/blog/the-dream-fades/">2</a>), worked as a growth intern at another (<a href="/blog/videostream-how-growth-starts-with-great-customer-support/">3</a>), and met with hundreds of founders over the past two years. These classic 3 steps to success more often than not were the foundation for too many startups:
+
 - Funding will finally let us hire, scale, grow, develop, succeed...
 - Growth will get us funding
 - Collect $100k - $100 million from VCs, Rinse, Repeat
