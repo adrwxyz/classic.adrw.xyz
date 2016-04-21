@@ -1,7 +1,7 @@
 ---
 layout: default
-permalink: /work/
-excerpt: projects and blog posts from my work experience
+permalink: /projects/
+excerpt: volunteer projects, hackathon hacks, freelance, and summer internships
 ---
 
 <div class="teaserimage">
@@ -20,16 +20,16 @@ excerpt: projects and blog posts from my work experience
       {% include social.html %}
     </section>
     <div class="toggle-menu">
-      <a href="/projects/">Projects</a>
+      <a href="/projects/" class="selected">Projects</a>
       <a href="/blog/">andrewnotes</a>
-      <a href="/work/" class="selected">Work</a>
+      <a href="/work/" >Work</a>
 	  </div>
 </header>
 
 <main class="content" role="main">
 
     <div class="container featured">
-      {% for post in site.categories.work %}
+      {% for post in site.categories.project %}
         <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
           <div class="article-item">
             <header class="post-header">

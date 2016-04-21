@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /blog/
-excerpt: andrewnotes blog - book reviews, startup thoughts, and case studies diving deep into how a project ended up being successful
+excerpt: andrewnotes blog - book reviews, life thoughts, and case studies of success
 ---
 
 <div class="teaserimage">
@@ -20,8 +20,8 @@ excerpt: andrewnotes blog - book reviews, startup thoughts, and case studies div
       {% include social.html %}
     </section>
     <div class="toggle-menu">
-      <a href="{{site.url}}">Projects</a>
-      <a href="/blog/" class="selected">Blog</a>
+      <a href="/projects/">Projects</a>
+      <a href="/blog/" class="selected">andrewnotes</a>
       <a href="/work/">Work</a>
 	  </div>
 </header>
@@ -41,7 +41,7 @@ excerpt: andrewnotes blog - book reviews, startup thoughts, and case studies div
             </section>
             <div class="post-meta">
               <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
-              <span class="post-tags-set">&nbsp;&nbsp;|&nbsp;&nbsp; {% for tag in post.tags %}<span class="post-tag-{{slug}}">{{ tag }}&nbsp;&nbsp;</span>{% endfor %}</span>
+              <span class="post-tags-set">&nbsp;|&nbsp; {% for tag in post.tags %}<span class="post-tag-{{slug}}">{{ tag }}&nbsp;&nbsp;</span>{% endfor %}</span>
   <!--            <span class="post-tags-set">on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}}</span>-->
             </div>
           </div>
