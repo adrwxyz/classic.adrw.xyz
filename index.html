@@ -1,6 +1,6 @@
 ---
 layout: default
-excerpt: Andrew Paradi - volunteer work, hackathon hacks, freelance work, and summer internship projects
+excerpt: Andrew Paradi - volunteer projects, hackathon hacks, freelance, and summer internships
 ---
 
 <div class="teaserimage">
@@ -19,17 +19,20 @@ excerpt: Andrew Paradi - volunteer work, hackathon hacks, freelance work, and su
       {% include social.html %}
     </section>
     <div class="toggle-menu">
-      <a href="{{site.url}}" class="selected">Projects</a>
-      <a href="/blog/">Blog</a>
+      <a href="{{site.url}}">Projects</a>
+      <a href="/blog/" class="selected">andrewnotes</a>
       <a href="/work/">Work</a>
 	  </div>
 </header>
+
+<!-- Email Signup Form, not full list of posts maybe top 3 plus most recent project/work -->
+
 
 
 <main class="content" role="main">
 
     <div class="container featured">
-      {% for post in site.categories.project %}
+      {% for post in site.categories.blog %}
         <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
           <div class="article-item">
             <header class="post-header">
