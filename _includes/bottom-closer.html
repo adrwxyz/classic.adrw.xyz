@@ -5,12 +5,18 @@
   <div class="inner">
     <h1 class="blog-title">{{ site.title }}</h1>
     <h2 class="blog-description">{{ site.description }}</h2>
-    {% if page.categories.first == "project" %}
+    {% if page.categories contains "project" %}
     <a href="/projects/" class="btn">Back to Projects</a>
+    {% if page.categories contains "blog" %}
+    <a href="/blog/" class="btn">Back to andrewnotes</a>
+    {% if page.categories contains "work" %}
+    <a href="/work/" class="btn">Back to Work</a>    
+<!--
     {% elsif page.categories %}
     <a href="/{{ page.categories.first }}" class="btn">Back to {{ page.categories.first | capitalize }}</a>
     {% else %}
     <a href="/" class="btn">Back to andrewnotes</a>
     {% endif %}
+-->
   </div>
 </div>
