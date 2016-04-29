@@ -7,10 +7,13 @@
     <h2 class="blog-description">{{ site.description }}</h2>
     {% if page.categories contains "project" %}
     <a href="/projects/" class="btn">Back to Projects</a>
+    {% endif %}
     {% if page.categories contains "blog" %}
     <a href="/blog/" class="btn">Back to andrewnotes</a>
+    {% endif %}
     {% if page.categories contains "work" %}
     <a href="/work/" class="btn">Back to Work</a>    
+    {% endif %}
 <!--
     {% elsif page.categories %}
     <a href="/{{ page.categories.first }}" class="btn">Back to {{ page.categories.first | capitalize }}</a>
