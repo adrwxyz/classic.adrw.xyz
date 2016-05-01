@@ -1,12 +1,8 @@
-body {
-  font-family: Linux Libertine;
-}
+body { font-family: Avenir Next, Open Sans, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif; margin: 0; padding: 0; text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; -moz-font-feature-settings: "liga=1, dlig=1"; -ms-font-feature-settings: "liga", "dlig"; -webkit-font-feature-settings: "liga", "dlig"; -o-font-feature-settings: "liga", "dlig"; font-feature-settings: "liga", "dlig"; }
 
-p {
-  font-family: Linux Libertine;
-}
+p { font-weight: 400; font-style: normal; font-size: 22px; line-height: 30px; margin: 0; padding-bottom: 30px; color: #333; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; }
 
-.bottom-closer .inner .btn { display: inline-block; text-align: center; letter-spacing: -0.02em; font-size: 15px; font-weight: 400; font-style: normal; text-decoration: none; cursor: pointer; height: 44px; background: #2196F3; color: #fff; vertical-align: middle; box-sizing: border-box; border-radius: 999em; line-height: 40px; padding: 0 18px; border: #1976D2 4px solid; }
+.btn { display: inline-block; text-align: center; letter-spacing: -0.02em; font-size: 15px; font-weight: 400; font-style: normal; text-decoration: none; cursor: pointer; height: 44px; background: #2196F3; color: #fff; vertical-align: middle; box-sizing: border-box; border-radius: 999em; line-height: 40px; padding: 0 18px; border: #1976D2 4px solid; }
 
-.bottom-closer .inner .btn:hover { font-weight: 600 !important; background: #1565C0 !important; border: #0D47A1 4px solid !important; }
+.btn:hover { font-weight: 600 !important; background: #1565C0 !important; border: #0D47A1 4px solid !important; }
 
