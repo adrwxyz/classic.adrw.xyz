@@ -25,7 +25,7 @@ Each post will answer a *frequently asked question* from friends, classmates, or
 
 **Now like any millennial,** I don't think we need to give this name. We don't need to formalize this relationship. 
 
-![Seriously tho, the snake people* have committment issues.](utah-coca-cola.jpg)
+![Seriously tho, the snake people* have committment issues.](/assets/article_images/2016-05-01-tinder-for-blogs/utah-coca-cola.jpg)
 
 > This is going to be Tinder for blogs.
 
