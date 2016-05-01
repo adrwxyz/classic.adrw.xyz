@@ -25,7 +25,7 @@ Each post will answer a *frequently asked question* from friends, classmates, or
 
 **Now like any millennial,** I don't think we need to give this name. We don't need to formalize this relationship.
 
-> This is going to be Tinder for blogs.
+> This is going to be Tinder for Blogs.
 
 1. *If you like what you read*, **swipe right** and join the email newsletter below!
 2. *If you think the post was kinda meh*, **swipe left** and suggest a topic that you'd rather read next time.
