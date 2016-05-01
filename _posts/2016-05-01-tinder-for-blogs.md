@@ -3,6 +3,7 @@ title:  "Tinder for Blogs"
 date:   2016-05-01 18:00:00
 tags:
 - tinder
+- summer2016
 categories: blog
 image: /assets/article_images/2016-05-01-tinder-for-blogs/DSC_1702.jpg
 excerpt: Every week I'm writing a post, and you can swipe right or left to choose what I write next!
@@ -28,7 +29,7 @@ Each post will answer a *frequently asked question* from friends, classmates, or
 
 1. *If you like what you read*, **swipe right** and join the email newsletter below!
 2. *If you think the post was kinda meh*, **swipe left** and suggest a topic that you'd rather read next time.
-3. **Help me test this today**, swipe right or left below!
+3. **Please help me test this today**, swipe right or left below!
 
 So that's the plan! *andrewnotes* is getting a reboot...and this next chapter is going to be an adventure together!
 
