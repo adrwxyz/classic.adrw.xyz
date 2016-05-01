@@ -35,7 +35,7 @@ So that's the plan! *andrewnotes* is getting a reboot...and this next chapter is
 
 **The next post drops this Friday.**
 
-**Swipe left or right below &amp; enter your email so you don't miss it.**
+**Swipe left or right below &amp; enter your email, don't miss it!**
 
 <script src="https://blitzen.com/scripts/blitzenForm.js" type="text/javascript"></script> <iframe src="https://andrew.blitzen.com/form/andrewnotes-footer-1?page=20150501-tinder-time" id="017ce06a18c93534f49cdb840176f9" onload="resizeCrossDomainIframe('017ce06a18c93534f49cdb840176f9', 'https://andrew.blitzen.com');" width="100%" style="border: none;" resize="true"></iframe>
 
