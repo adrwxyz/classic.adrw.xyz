@@ -23,7 +23,7 @@ Each post will answer a *frequently asked question* from friends, classmates, or
 - *Manage finances so you can have real freedom for life* – it doesn't even require moving to 'Murica!
 - *...and answers to other questions you have!*
 
-**Now like any millennial,** I don't think we need to give this name. We don't need to formalize this relationship. 
+**Now like any millennial,** I don't think we need to give this name. We don't need to formalize this relationship.
 
 > This is going to be Tinder for blogs.
 
@@ -33,7 +33,7 @@ Each post will answer a *frequently asked question* from friends, classmates, or
 
 So that's the plan! *andrewnotes* is getting a reboot...and this next chapter is going to be an adventure together!
 
-**The next post drops this Friday so swipe left or right and enter your email below so you don't miss it.**
+**The next post drops this Friday. Swipe left or right &amp; enter your email below so you don't miss it.**
 
 <script src="https://blitzen.com/scripts/blitzenForm.js" type="text/javascript"></script> <iframe src="https://andrew.blitzen.com/form/andrewnotes-footer-1?page=20150501-tinder-time" id="017ce06a18c93534f49cdb840176f9" onload="resizeCrossDomainIframe('017ce06a18c93534f49cdb840176f9', 'https://andrew.blitzen.com');" width="100%" style="border: none;" resize="true"></iframe>
 
