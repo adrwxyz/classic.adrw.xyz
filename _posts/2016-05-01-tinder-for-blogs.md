@@ -17,9 +17,9 @@ Each post will answer a *frequently asked question* from friends, classmates, or
 
 **I'm stoked to start this journey together!** We're going to travel through different topics and discussions around how to:
 
-- *Land your dream job* (stop missing out on interviews, getting underpaid, and figure out stand out)
-- *Lead a team or startup like a pro* (no more rookie mistakes that destroy culture and lead to failure)
-- *Manage finances so you can have real freedom for life* (that doesn't even require moving to 'Murica!)
+- *Land your dream job* – stop missing out on interviews, getting underpaid, and figure out stand out
+- *Lead a team or startup like a pro* – stop making rookie mistakes that destroy culture and lead to failure
+- *Manage finances so you can have real freedom for life* – it doesn't even require moving to 'Murica!
 - *...and answers to other questions you have!*
 
 **Now like any millennial,** I don't think we need to give this name. We don't need to formalize this relationship. 
@@ -30,7 +30,7 @@ Each post will answer a *frequently asked question* from friends, classmates, or
 2. *If you think the post was kinda meh*, **swipe left** and suggest a topic that you'd rather read next time.
 3. **Help me test this today**, swipe right or left below!
 
-So that's the plan! *andrewnotes* is getting a reboot...and this next chapter is going to be an adventure together.
+So that's the plan! *andrewnotes* is getting a reboot...and this next chapter is going to be an adventure together!
 
 **The next post drops this Friday so swipe left or right and enter your email below so you don't miss it.**
 
