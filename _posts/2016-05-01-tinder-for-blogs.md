@@ -33,7 +33,7 @@ Each post will answer a *frequently asked question* from friends, classmates, or
 
 So that's the plan! *andrewnotes* is getting a reboot...and this next chapter is going to be an adventure together!
 
-**The next post drops this Friday. **
+**The next post drops this Friday.**
 
 **Swipe left or right below &amp; enter your email so you don't miss it.**
 
