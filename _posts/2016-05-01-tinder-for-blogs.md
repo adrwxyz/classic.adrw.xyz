@@ -25,6 +25,8 @@ Each post will answer a *frequently asked question* from friends, classmates, or
 
 **Now like any millennial,** I don't think we need to give this name. We don't need to formalize this relationship. 
 
+![Seriously tho, the snake people* have committment issues.](utah-coca-cola.jpg)
+
 > This is going to be Tinder for blogs.
 
 1. *If you like what you read*, **swipe right** and join the email newsletter below!
@@ -37,3 +39,4 @@ So that's the plan! *andrewnotes* is getting a reboot...and this next chapter is
 
 <script src="https://blitzen.com/scripts/blitzenForm.js" type="text/javascript"></script> <iframe src="https://andrew.blitzen.com/form/andrewnotes-footer-1?page=20150501-tinder-time" id="017ce06a18c93534f49cdb840176f9" onload="resizeCrossDomainIframe('017ce06a18c93534f49cdb840176f9', 'https://andrew.blitzen.com');" width="100%" style="border: none;" resize="true"></iframe>
 
+* [Millenials = Snake People](https://chrome.google.com/webstore/detail/millennials-to-snake-peop/jhkibealmjkbkafogihpeidfcgnigmlf)
