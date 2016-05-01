@@ -2,7 +2,10 @@ body { font-family: Avenir Next, Open Sans, MundoSans, "Helvetica Neue", Arial, 
 
 p { font-weight: 400; font-style: normal; font-size: 22px; line-height: 30px; margin: 0; padding-bottom: 30px; color: #333; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; }
 
-.btn { display: inline-block; text-align: center; letter-spacing: -0.02em; font-size: 15px; font-weight: 400; font-style: normal; text-decoration: none; cursor: pointer; height: 44px; background: #2196F3; color: #fff; vertical-align: middle; box-sizing: border-box; border-radius: 999em; line-height: 40px; padding: 0 18px; border: #1976D2 4px solid; }
+.btn { display: inline-block; text-align: center; letter-spacing: -0.02em; font-size: 15px; font-weight: 400; font-style: normal; text-decoration: none; cursor: pointer; height: 44px; background: #43A047; color: #fff; vertical-align: middle; box-sizing: border-box; border-radius: 999em; line-height: 40px; padding: 0 18px; border: #2E7D32 4px solid; }
 
-.btn:hover { font-weight: 600 !important; background: #1565C0 !important; border: #0D47A1 4px solid !important; }
+.btn:hover { font-weight: 600 !important; background: #388E3C !important; border: #1B5E20 4px solid !important; color: #fff; }
 
+ul.likert li label.selected, ul.likert li label:hover { background-color: #2196F3; border: #1976D2 2px solid; }
+
+.alert-info, .workflow-trigger .child-node .workflow-api-instructions { background-color: #FFE0B2; border-color: #FFA726; color: #E65100 }
