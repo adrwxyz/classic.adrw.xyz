@@ -21,7 +21,7 @@ Each post will answer a *frequently asked question* from friends, classmates, or
 - *Land your dream job* – stop missing out on interviews, getting underpaid, and figure out stand out
 - *Lead a team or startup like a pro* – stop making rookie mistakes that destroy culture and lead to failure
 - *Manage finances so you can have real freedom for life* – it doesn't even require moving to 'Murica!
-- *Write applications to secure government grants, succeed at competitions, and to interview at incubators* – you didn't learn this in first year English course
+- *Write applications that secure government grants, win competitions, and land interviews at incubators* – your required first year English course doesn't teach this
 - *...and answers to other questions you have!*
 
 **Now like any millennial,** I don't think we need to give this name. We don't need to formalize this relationship.
