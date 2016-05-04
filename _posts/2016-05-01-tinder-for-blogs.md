@@ -43,5 +43,5 @@ So that's the plan! *andrewnotes* is getting a reboot...and this next chapter is
 **Top Posts**
 
 - [3 Ways Hack the North Improved our Startup](http://andrewparadi.com/blog/3-ways-hack-the-north-improved-our-startup/)
-- [Teknically: Google Analytics for SMB](http://andrewparadi.com/project/teknically-webplio/)
-- [How Customer Support Let Me Improve Downloads by 32%](http://andrewparadi.com/blog/videostream-how-growth-starts-with-great-customer-support/)
+- [Teknically: Google Analytics for Non-Techies](http://andrewparadi.com/project/teknically-webplio/)
+- [How An Email Support Agent Improved Downloads by 32%](http://andrewparadi.com/blog/videostream-how-growth-starts-with-great-customer-support/)
