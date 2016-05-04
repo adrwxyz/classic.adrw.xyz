@@ -24,7 +24,7 @@ Each post will answer a *frequently asked question* from friends, classmates, or
 - *Write applications that secure government grants, win competitions, and land interviews at incubators* – your required first year English course doesn't teach this
 - *...and answers to other questions you have!*
 
-**Now like any millennial,** I don't think we need to give this name. We don't need to formalize this relationship.
+**Now like any millennial,** I don't think we need to give this name. There isn't going to be a formal structure to the series or strict commitment to any topic. We don't need to formalize this relationship. 
 
 > This is going to be Tinder for Blogs.
 
@@ -40,3 +40,7 @@ So that's the plan! *andrewnotes* is getting a reboot...and this next chapter is
 
 <script src="https://blitzen.com/scripts/blitzenForm.js" type="text/javascript"></script> <iframe src="https://andrew.blitzen.com/form/andrewnotes-footer-1?page=20150501-tinder-for-blogs" id="017ce06a18c93534f49cdb840176f9" onload="resizeCrossDomainIframe('017ce06a18c93534f49cdb840176f9', 'https://andrew.blitzen.com');" width="100%" style="border: none;" resize="true"></iframe>
 
+**Top Posts**
+- [3 Ways Hack the North Improved our Startup](http://andrewparadi.com/blog/3-ways-hack-the-north-improved-our-startup/)
+- [Teknically: Google Analytics for SMB](http://andrewparadi.com/project/teknically-webplio/)
+- [How Customer Support Let Me Improve Downloads by 32%](http://andrewparadi.com/blog/videostream-how-growth-starts-with-great-customer-support/)
