@@ -8,7 +8,7 @@ tags:
 - tech
 categories: blog
 image: /assets/article_images/2016-05-06-coding-on-ipad/IMG_1418.jpg
-excerpt: How to be productive on iPad and why I choose it over my Macbook Pro
+excerpt: How to be productive on iPad and why I choose it every day
 seo-title: "Coding on iPad: Welcome to Reality"
 ---
 
