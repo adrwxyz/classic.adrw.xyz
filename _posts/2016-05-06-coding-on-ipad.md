@@ -20,7 +20,7 @@ A: Yes... yes I am.
 
 Since September, **I have brought only my iPad to classes**. With the exception of one math class in the Fall, I've taken all my notes on my *iPad*.
 
-For **CS136** and **CS246**, I've done significant portions of coding on my *iPad*. And for my blog and other writing, I've written tens of thousands of words on my *iPad*.
+For CS136 and CS246, I've done significant portions of coding on my *iPad*. And for my blog and other writing, I've written tens of thousands of words on my *iPad*.
 
 Despite how productive you can be with an iPad, it still has the stigma of a *simple media consumption device*.
 
@@ -33,41 +33,43 @@ How I am productive on iPad
 
 Productivity on an iPad is a function of how well you can manage with a bluetooth keyboard, and whether there exist stellar apps for the tasks you need to accomplish.
 
-> int productivity( int bluetoothKeyboard, int apps );
+`int productivity( int bluetoothKeyboard, int apps );`
 
 After years trying different keyboards, I found the [Brydge Air](http://www.brydgekeyboards.com/collections/ipad-air-air-2-pro-9-7-inch). It has a pesky `Siri` key where the `fn` key should be but is otherwise flawless.
 
 ![Brydge Air is an awesome keyboard](/assets/article_images/2016-05-06-coding-on-ipad/IMG_1421.jpg)
 
-Within the last year, iOS9's keyboard support and split view multitasking has made doing real work on the iPad possible. **I've found the two app limit often liberating as it lets me focus on a single task with no visual clutter.**
+This past year, iOS9's keyboard support and split view multitasking has made doing real work on the iPad possible. I've found the two app limit often liberating as it lets me focus on a single task with no visual clutter.
 
 ![iPad can handle CS246](/assets/article_images/2016-05-06-coding-on-ipad/coda-documents-ipadc.png)
 
-I could take notes from my textbook in iBooks with [OneNote](https://itunes.apple.com/us/app/microsoft-onenote-lists-photos/id410395246?mt=8) open side by side. 
-Other times I'd be coding a CS assignment with the spec open in [Documents](https://itunes.apple.com/us/app/documents-5-fast-pdf-reader/id364901807?mt=8) and a terminal in [Coda 2](https://www.panic.com/coda-ios/) to work on the school linux server. 
-And somedays I would just use [Outlook](https://itunes.apple.com/us/app/microsoft-outlook-email-calendar/id951937596?mt=8) full screen to crank through my inbox.
+- Take notes from my textbook in iBooks with [OneNote](https://itunes.apple.com/us/app/microsoft-onenote-lists-photos/id410395246?mt=8) open side by side. 
+- Code a CS assignment with the spec open in [Documents](https://itunes.apple.com/us/app/documents-5-fast-pdf-reader/id364901807?mt=8) and a terminal in [Coda 2](https://www.panic.com/coda-ios/) to work on the school linux server. 
+- Use [Outlook](https://itunes.apple.com/us/app/microsoft-outlook-email-calendar/id951937596?mt=8) full screen to process my inbox.
 
-For most of the tasks I did every day, I was equally or more productive on my iPad than my laptop.
+For most regular tasks, I was equally or more productive on my iPad, than my laptop.
 
 Why iPad?
 -----
 
-Though there are areas where the iPad falls short in productivity, it soars ahead in *portability*. It is light, has a small footprint, and a battery that will last a full day. 
+Where the iPad falls a bit flat in productivity, it soars ahead in *portability*. It is light, has a small footprint, and the battery lasts a full day.
 
-Every day (except when CS246 assignments were due), I was willing to sacrifice some productivity for less weight on my back and no *battery range anxiety*.
+Every day (except when CS246 assignments were due), I was willing to sacrifice some productivity for less weight in my bag and an all day battery.
 
-Beyond this simple tradeoff, learning how to use an iPad productively is preparation for the future.
+Beyond ergonomics and battery life, learning how to use an iPad productively is preparation for the future.
 
 iPads are the future?! C'mon man
 -----
 
-Each computing generation has been disrupted by a cheaper, less powerful, less "productive" class of computing devices. 
+Each generation of computers has been disrupted by a cheaper, less powerful, less "productive" class of devices. 
 
 Microcomputers (Macs & PCs) of the 1980s *disrupted* the minicomputers of the 1970s which *disrupted* the supercomputers of the 1960s. 
 
 ![NSA Supercomputer in 1971](/assets/article_images/2016-05-06-coding-on-ipad/Supercomputer_NSA-IBM360_85c.jpg)
 
-Most people are not crying about the slow down of desktop computing. In the iPad and smartphones, people have found a more approachable user experience in a device so portable they can always have it with them. **This is a winning formula.**
+And yet, most regular people are not crying about the slow down of desktop computing. 
+
+With the iPad and smartphones, people have found a more approachable user experience in a device so portable they can always have it with them. **This is a winning formula.**
 
 > iPads and smartphones are the next major paradigm shift. 
 
@@ -80,56 +82,63 @@ The *disruption* has begun...
 Houston, we have a problem
 -----
 
-Just this year Google announced that *more searches are now done on phones or tablets than desktops* ([1](http://www.theverge.com/2015/5/6/8558535/google-mobile-search-vs-desktop)). This tipping point where most web traffic is mobile is approaching quickly.
+Just this year Google announced that *more searches are now done on phones/tablets than desktops* ([1](http://www.theverge.com/2015/5/6/8558535/google-mobile-search-vs-desktop)). The tipping point where most web traffic is mobile is fast approaching.
 
-> The shift of web traffic mobile will be a fundamental change for internet businesses
+> The shift to mobile will be the most radical change for the internet since inception
 
-[Gary Vaynerchuk](https://youtu.be/wbdYg6X1e-g) has some really convicting ideas on how this this shift will impact **B2B**. He suggests that websites reliant on traditional techniques like Google Adwords, email lists, pop up forms, or display ad revenue will adapt or die when these lucrative strategies stop working on mobile.
+[Gary Vaynerchuk](https://youtu.be/wbdYg6X1e-g) has some thought provoking ideas on how this this shift will impact **B2B**. He suggests that websites reliant on traditional techniques like Google Adwords, email lists, pop up forms, or display ad revenue will adapt or die when these lucrative strategies stop working on mobile.
 
-> And he's got a point.
+> Gary's got a point.
 
 [People ignore ads](http://techcrunch.com/2010/12/03/survey-says-63-of-you-ignore-the-ads-on-this-very-page/). [Mobile browsers cripple websites](http://www.theverge.com/2015/7/20/9002721/the-mobile-web-sucks). [Few smartphone owners are installing new apps anymore](http://thenextweb.com/apps/2014/08/26/android-users-average-95-apps-installed-phones-according-yahoo-aviate-data/).  Facebook and Twitter in-app browsers reduce how many pages a person goes to per website.
 
-> The internet was built around a browser. But people aren't browsing anymore.
+> The internet was built around a browser.
 
-[Snapchat Discover stories](http://www.theverge.com/2015/1/27/7919809/snapchat-launches-discover-feature-ad-support). [Chat bots](http://www.theverge.com/2016/4/12/11395806/facebook-messenger-bot-platform-announced-f8-conference). [Instagram influencers](http://www.cnbc.com/2014/04/11/instagram-influencers-models-make-thousands-working-on-instagram.html). [YouTube celebrities](https://www.youtube.com/user/JusReign). Samsung, Ford, and other Fortune 500 companies are sponsoring videos like [this](https://youtu.be/4ESy8WRyVcs) and [this (featured below)](https://youtu.be/soxxPyaAT1k). Watch those and ask yourself if you'd remember **any** Samsung or Ford TV ad better than that YouTube placement. 
+> But people aren't browsing anymore.
+
+[Snapchat Discover stories](http://www.theverge.com/2015/1/27/7919809/snapchat-launches-discover-feature-ad-support). [Chat bots](http://www.theverge.com/2016/4/12/11395806/facebook-messenger-bot-platform-announced-f8-conference). [Instagram influencers](http://www.cnbc.com/2014/04/11/instagram-influencers-models-make-thousands-working-on-instagram.html). [YouTube celebrities](https://www.youtube.com/user/JusReign). Samsung, Ford, and other Fortune 500 companies are sponsoring videos like [this](https://youtu.be/4ESy8WRyVcs) and [this](https://youtu.be/soxxPyaAT1k) (featured below). Watch those and ask yourself if you'd remember **any** Samsung or Ford TV ad better than the YouTube placement. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/soxxPyaAT1k" frameborder="0" allowfullscreen></iframe>
+
+
 
 > The world is moving from mobile first, to mobile only. 
 
 Billions with a B
 -----
 
-**Furthermore**, tablets and smartphones are how the next 3 billion people will first experience computers and the internet. Over 80% of people in the West are already online. Meanwhile less than 46% of China, 19% of India, and 1% of another 178 developing countries have access to the internet ([2](http://www.internetlivestats.com/internet-users/#trend)).
+**Furthermore**, tablets and smartphones are how the next **3 billion people** will first experience computers and the internet. Over 80% of people in the West are already online. Yet, less than 46% of China, 19% of India, and 1% of another 178 developing countries have access to the internet ([2](http://www.internetlivestats.com/internet-users/#trend)).
 
 <script id="infogram_0_ec14b8eb-a0e6-4e7a-8fcb-20d054754d58" title="Internet Access vs Population" src="//e.infogr.am/js/embed.js?dEy" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a target="_blank" href="https://infogr.am/ec14b8eb-a0e6-4e7a-8fcb-20d054754d58" style="color:#989898!important;text-decoration:none!important;">Internet Access vs Population</a><br><a style="color:#989898!important;text-decoration:none!important;" href="https://infogr.am" target="_blank">Create your own infographics</a></div>
 
-Smartphones and iPads that we brush off as *inferior devices* to the *all mighty laptop* will be the **primary computers for billions of people**. Smartphones have become *increasingly affordable*, *cellular networks* continue to *expand*, and *entrepreneurs* have already recognized the *huge opportunity*.
+Smartphones and iPads that we brush off as *inferior devices* to the *all mighty laptop* will be the **primary computers for billions of people**. Smartphones have become increasingly affordable, cellular networks continue to expand, and entrepreneurs have already recognized the huge opportunity.
 
 > Services like banking, education, and healthcare can now be provided to billions through text message &amp; limited data connections
 
-Digital mobile banking and access to credit could reach up to **2 billion new people by 2030**. This would spur local economies and increase living standards across the developing world ([3](http://www.theverge.com/2015/2/4/7966043/bill-gates-future-of-banking-and-mobile-money)). 
+- Digital mobile banking and access to credit could reach up to **2 billion new people by 2030**. This would spur local economies and increase living standards across the developing world ([3](http://www.theverge.com/2015/2/4/7966043/bill-gates-future-of-banking-and-mobile-money)). 
+- Literacy and reading rates are already rising among those with mobile phone. An app like Worldreader can distribute 1,000 pages of an e-book for just 2-3 cents, radically more affordable than paper books ([4](http://www.theverge.com/2014/4/23/5643058/mobile-phone-reading-illiteracy-developing-countries-unesco)).
 
-Literacy and reading rates are already rising among those with mobile phone. An app like Worldreader can distribute 1,000 pages of an e-book for just 2-3 cents, radically more affordable than paper books ([4](http://www.theverge.com/2014/4/23/5643058/mobile-phone-reading-illiteracy-developing-countries-unesco)).
-
-> The post-PC world won't just make life easier for kids and Grandmas. It could bring tens of millions out of poverty.
+> The post-PC world won't just make life easier for kids and Grandmas. It could bring millions out of poverty.
 
 Conclusion
 -----
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YfJ3QxJYsw8" frameborder="0" allowfullscreen></iframe>
 
-In 2010, the early days of iPad, Steve Jobs told a speechless audience that desktop ["PCs are going to be like trucks"](https://youtu.be/YfJ3QxJYsw8), iPads and tablets are going to be like cars. For every 30 cars you see on a road, there might be one truck. And that might make some people uncomfortable.
 
-Six years later, the iPad wave has already hit many families and is continuing to move. When I looked around my classes this past term, I saw over a third of all new computers in my classes were Microsoft Surfaces or iPads. **And this was in computer science major classrooms.**
 
-Using my iPad and iPhone as primary devices forces me to engage with the new limitations, user experiences, opportunities, and challenges in this next wave of computing. 
+In 2010, the early days of iPad, Steve Jobs told a silent audience that desktop ["PCs are going to be like trucks"](https://youtu.be/YfJ3QxJYsw8), iPads and tablets are going to be like cars. For every 30 cars you see on a road, there might be one truck. And that might make some people uncomfortable.
 
-Thanks for reading 
+Six years later, the iPad wave has hit many families, companies, and campuses. When I look around my classes, I see over **a third of all new computers** in my classes were Microsoft Surfaces or iPads.
+
+Using my iPad and iPhone as primary devices forces me to engage with the new limitations, user experiences, opportunities, and challenges in this next wave of computing.
+
+When people ask "are you really coding on an iPad??", I can say for many reasons "Yes...yes I am".
+
+You read to play??
 -----
 
-I'll be posting every Friday this summer as part of my experiment to be [Tinder for Blogs](/blog/tinder-for-blogs/).
+Thanks for reading! I'll be posting every Friday this summer as part of my experiment to be [Tinder for Blogs](/blog/tinder-for-blogs/).
 
 1. *If you like what you read*, **swipe right** and join the email newsletter below!
 2. *If you think the post was kinda meh*, **swipe left** and suggest a topic that you'd rather read next time.
