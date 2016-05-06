@@ -1,5 +1,5 @@
 ---
-title:  "Coding on iPad: Taste the Future"
+title:  "Coding on iPad: Welcome to Reality"
 date:   2016-05-06 6:00:00
 tags:
 - tinder
@@ -9,7 +9,7 @@ tags:
 categories: blog
 image: /assets/article_images/2016-05-06-coding-on-ipad/IMG_1418.jpg
 excerpt: How to be productive on iPad and why I choose it over my Macbook Pro
-seo-title: "Coding on iPad: Taste the Future"
+seo-title: "Coding on iPad: Welcome to Reality"
 ---
 
 Q: Woah, you're coding on an iPad?!
@@ -135,9 +135,9 @@ Six years later, we are past the early adopter stage.
 
 Early adopters bought assuming iPads were simply pretty media consumption devices. Now, I see entire university classes where a third of new computers are iPads and Microsoft Surfaces. 
 
-People are choosing tablets for their primary computer. Mobile first is going to be mobile mostly.
+**People are choosing tablets for their primary computer.** Mobile first is going to be mobile mostly. The future is here.
 
-What a time to be alive.
+**What a time to be alive.**
 
 Ready to play??
 -----
