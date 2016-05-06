@@ -20,8 +20,8 @@ Each post will answer a *frequently asked question* from friends, classmates, or
 
 - *Land your dream job* – stop missing out on interviews, getting underpaid, and figure out stand out
 - *Lead a team or startup like a pro* – stop making rookie mistakes that destroy culture and lead to failure
-- *Manage finances so you can have real freedom for life* – it doesn't even require moving to 'Murica!
 - *Write applications that secure government grants, win competitions, and land interviews at incubators* – your required first year English course doesn't teach this
+- *Manage finances so you can have real freedom for life* – it doesn't even require moving to 'Murica!
 - *...and answers to other questions you have!*
 
 **Now like any millennial,** I don't think we need to give this name. There isn't going to be a formal structure to the series or strict commitment to any topic. We don't need to formalize this relationship. 
@@ -38,7 +38,7 @@ So that's the plan! *andrewnotes* is getting a reboot...and this next chapter is
 
 **Swipe left or right below &amp; enter your email, don't miss it!**
 
-<script src="https://blitzen.com/scripts/blitzenForm.js" type="text/javascript"></script> <iframe src="https://andrew.blitzen.com/form/andrewnotes-footer-1?page=20150501-tinder-for-blogs" id="017ce06a18c93534f49cdb840176f9" onload="resizeCrossDomainIframe('017ce06a18c93534f49cdb840176f9', 'https://andrew.blitzen.com');" width="100%" style="border: none;" resize="true"></iframe>
+<script src="https://blitzen.com/scripts/blitzenForm.js" type="text/javascript"></script> <iframe src="https://andrew.blitzen.com/form/andrewnotes-footer-1?page=20160501-tinder-for-blogs" id="017ce06a18c93534f49cdb840176f9" onload="resizeCrossDomainIframe('017ce06a18c93534f49cdb840176f9', 'https://andrew.blitzen.com');" width="100%" style="border: none;" resize="true"></iframe>
 
 **Top Posts**
 
