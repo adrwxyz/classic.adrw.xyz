@@ -1,13 +1,18 @@
-body { font-family: Avenir Next, Open Sans, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif; margin: 0; padding: 0; text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; -moz-font-feature-settings: "liga=1, dlig=1"; -ms-font-feature-settings: "liga", "dlig"; -webkit-font-feature-settings: "liga", "dlig"; -o-font-feature-settings: "liga", "dlig"; font-feature-settings: "liga", "dlig"; }
+body { font-family: Avenir Next, Open Sans, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif; font-size: 20px; margin: 0; padding: 0; text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; -moz-font-feature-settings: "liga=1, dlig=1"; -ms-font-feature-settings: "liga", "dlig"; -webkit-font-feature-settings: "liga", "dlig"; -o-font-feature-settings: "liga", "dlig"; font-feature-settings: "liga", "dlig"; }
 
 p { font-weight: 400; font-style: normal; font-size: 22px; line-height: 30px; margin: 0; padding-bottom: 30px; color: #333; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; }
 
-.btn { display: inline-block; text-align: center; letter-spacing: -0.02em; font-size: 15px; font-weight: 400; font-style: normal; text-decoration: none; cursor: pointer; height: 44px; background: #43A047; color: #fff; vertical-align: middle; box-sizing: border-box; border-radius: 999em; line-height: 40px; padding: 0 18px; border: #2E7D32 4px solid; }
+.form-button { display: inline-block; text-align: center; letter-spacing: -0.02em; font-size: 15px; font-weight: 400; font-style: normal; text-decoration: none; cursor: pointer; height: 44px; background: #2196F3; color: #fff; vertical-align: middle; box-sizing: border-box; border-radius: 999em; line-height: 40px; padding: 0 18px; border: #1976D2 4px solid; letter-spacing: 0em; }
 
-.btn:hover { font-weight: 600 !important; background: #388E3C !important; border: #1B5E20 4px solid !important; color: #fff; }
+.form-button:hover { font-weight: 600 !important; background: #1565C0 !important; border: #0D47A1 4px solid !important; color: #fff; letter-spacing: 0em; }
 
-ul.likert li label.selected, ul.likert li label:hover { background-color: #2196F3; border: #1976D2 2px solid; }
+.form-wrapper h4 { font-size: 18px; }
 
-.alert-info, .workflow-trigger .child-node .workflow-api-instructions { background-color: #FFE0B2; border-color: #FFA726; color: #E65100 }
+ul.likert li label.likert-label-text { font-size: 18px; }
 
-.col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-13, .col-lg-14, .col-lg-15, .col-lg-16, .col-lg-17, .col-lg-18, .col-lg-19, .col-lg-2, .col-lg-20, .col-lg-21, .col-lg-22, .col-lg-23, .col-lg-24, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-13, .col-md-14, .col-md-15, .col-md-16, .col-md-17, .col-md-18, .col-md-19, .col-md-2, .col-md-20, .col-md-21, .col-md-22, .col-md-23, .col-md-24, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-13, .col-sm-14, .col-sm-15, .col-sm-16, .col-sm-17, .col-sm-18, .col-sm-19, .col-sm-2, .col-sm-20, .col-sm-21, .col-sm-22, .col-sm-23, .col-sm-24, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-13, .col-xs-14, .col-xs-15, .col-xs-16, .col-xs-17, .col-xs-18, .col-xs-19, .col-xs-2, .col-xs-20, .col-xs-21, .col-xs-22, .col-xs-23, .col-xs-24, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .workflow-canvas>div { min-height: 30px; }
+ul.likert li label.likert-label-text.selected { font-weight: 600; }
+
+.control-bar .control-bar-inner, .form-wrapper { width: 90%; } 
+
+.col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-13, .col-lg-14, .col-lg-15, .col-lg-16, .col-lg-17, .col-lg-18, .col-lg-19, .col-lg-2, .col-lg-20, .col-lg-21, .col-lg-22, .col-lg-23, .col-lg-24, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-13, .col-md-14, .col-md-15, .col-md-16, .col-md-17, .col-md-18, .col-md-19, .col-md-2, .col-md-20, .col-md-21, .col-md-22, .col-md-23, .col-md-24, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-13, .col-sm-14, .col-sm-15, .col-sm-16, .col-sm-17, .col-sm-18, .col-sm-19, .col-sm-2, .col-sm-20, .col-sm-21, .col-sm-22, .col-sm-23, .col-sm-24, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-13, .col-xs-14, .col-xs-15, .col-xs-16, .col-xs-17, .col-xs-18, .col-xs-19, .col-xs-2, .col-xs-20, .col-xs-21, .col-xs-22, .col-xs-23, .col-xs-24, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .workflow-canvas>div { padding: 0px; }
+
