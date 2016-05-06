@@ -12,8 +12,11 @@ excerpt: How to be productive on iPad and why I choose it over my Macbook Pro
 seo-title: "Coding on iPad: A Taste of the Future"
 ---
 
-#Q: Woah, you're coding on an iPad?!
-#A: Yes, yes I am.
+Q: Woah, you're coding on an iPad?!
+-----
+
+A: Yes, yes I am.
+-----
 
 Since September, I have brought only my iPad to classes. With the exception of one math class in the Fall, I've taken all my notes on my iPad.
 
@@ -25,7 +28,9 @@ This dissonance prompted many questions from classmates this semester who weren'
 
 Today, I explain how I'm productive on an iPad and why I choose iPad in spite of it's limitations.
 
-#How I am productive on iPad
+How I am productive on iPad
+-----
+
 Productivity on an iPad is a function of how well you can manage with a bluetooth keyboard, and whether there exist steller apps for the tasks you need to accomplish.
 
 After years trying different keyboards, I found the [Brydge Air](http://www.brydgekeyboards.com/collections/ipad-air-air-2-pro-9-7-inch). It has a pesky Siri key where the fn key should be but is otherwise flawless.
@@ -38,19 +43,26 @@ I could take notes from my textbook in iBooks with [OneNote](https://itunes.appl
 
 For nearly all of the tasks I did every day, the iPad was the more productive choice.
 
-#Why iPad?
+Why iPad?
+-----
+
 Though there are areas where the iPad falls short in productivity, it soars ahead in portability. It is light, has a small footprint, and a battery that will last a full day. 
 
 Every day (except when CS246 assignments were due), I was willing to sacrifice some productivity for a few less weight on my back and no battery *range anxiety*.
 
 Beyond this simple tradeoff, learning how to use an iPad productively is preparation for the future.
 
-#iPads are the future? C'mon
+iPads are the future? C'mon
+-----
+
 Each computing generation has been disrupted by a cheaper, less powerful, less "productive" class of computing devices. Microcomputers (Macs & PCs)  of the 1980s disrupted the minicomputers of the 1970s which disrupted the supercomputers of the 1960s. 
 
 iPads and smartphones are the next major paradigm. For most people, the simplicity and further abstraction from the desktop mouse & keyboard model presents a more approachable UX in a more portable device. A winning formula.
 
 Kids now learn to use smartphones and iPads at home, and Chromebooks in school long before they ever touch a "real" desktop running OS X or Windows. My Mom does most of her email on her phone. My grandparents and many of their friends have switched from overpowered PCs to iPads for easier emailing and Skyping grandkids.
+
+Houston, we have a problem
+-----
 
 **Moreover**, just this year Google announced that more searches are now done on phones or tablets than desktops (http://www.theverge.com/2015/5/6/8558535/google-mobile-search-vs-desktop). This tipping point where most of any website's traffic is coming from mobile is approaching very quickly.
 
@@ -68,25 +80,32 @@ Kids now learn to use smartphones and iPads at home, and Chromebooks in school l
 
 > The world is moving from mobile first, to mobile only. 
 
-**Furthermore**, tablets and smartphones are how the next 3 billion people will first experience computers and the internet. Over 80% of people in the West are already online. Meanwhile less than 46% of China, 19% of India, and 1% of another 178 developing countries have access to the internet (http://www.internetlivestats.com/internet-users/#trend).
+Billions with a B
+-----
+
+**Furthermore**, tablets and smartphones are how the next 3 billion people will first experience computers and the internet. Over 80% of people in the West are already online. Meanwhile less than 46% of China, 19% of India, and 1% of another 178 developing countries have access to the internet ([1](http://www.internetlivestats.com/internet-users/#trend)).
 
 Smartphones and tablets that we brush off as inferior devices to the all mighty laptop will be the primary computers for billions of people. Smartphones have become increasingly affordable, cellular networks continue to expand, and entrepreneurs have already recognized the huge opportunity.
 
 > Services like banking, education, and healthcare can now be provided through text message &amp; limited data connections to underserved markets. 
 
-Digital mobile banking and access to credit could reach up to 2 billion new people by 2030. This would spur local economies and increase living standards across the developing world (http://www.theverge.com/2015/2/4/7966043/bill-gates-future-of-banking-and-mobile-money). 
+Digital mobile banking and access to credit could reach up to 2 billion new people by 2030. This would spur local economies and increase living standards across the developing world ([2](http://www.theverge.com/2015/2/4/7966043/bill-gates-future-of-banking-and-mobile-money)). 
 
-Literacy and reading rates are already rising among those with mobile phone. An app like Worldreader can distribute 1,000 pages of an e-book for just 2-3 cents (http://www.theverge.com/2014/4/23/5643058/mobile-phone-reading-illiteracy-developing-countries-unesco).
+Literacy and reading rates are already rising among those with mobile phone. An app like Worldreader can distribute 1,000 pages of an e-book for just 2-3 cents ([3](http://www.theverge.com/2014/4/23/5643058/mobile-phone-reading-illiteracy-developing-countries-unesco)).
 
-#Conclusion
+Conclusion
+-----
+
 In 2010, the early days of iPad, Steve Jobs told a speechless audience that desktop ("PCs are going to be like trucks")[https://youtu.be/YfJ3QxJYsw8], iPads and tablets are going to be like cars. For every 30 cars you see on a road, there might be one truck. And that might make some people uncomfortable.
 
 Six years later, I'm surprised that already a third of all new computers in my classes are Microsoft Surfaces or iPads. 
 
 Using my iPad and iPhone as primary devices forces me to engage with the new limitations, user experiences, opportunities, and challenges in this next wave of computing. 
 
-#Thanks for reading 
-I'm be posting every Friday this summer as part of my experiment to be [Tinder for Blogs](/blog/tinder-for-blogs/).
+Thanks for reading 
+-----
+
+I'll be posting every Friday this summer as part of my experiment to be [Tinder for Blogs](/blog/tinder-for-blogs/).
 
 1. *If you like what you read*, **swipe right** and join the email newsletter below!
 2. *If you think the post was kinda meh*, **swipe left** and suggest a topic that you'd rather read next time.
