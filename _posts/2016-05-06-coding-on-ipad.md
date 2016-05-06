@@ -54,7 +54,7 @@ For most regular tasks, I was equally or more productive on my iPad, than my lap
 Why iPad?
 -----
 
-Where the iPad falls a bit flat in productivity, it soars ahead in *portability*. It is light, has a small footprint, and the battery lasts a full day.
+Where the iPad falls a bit flat in productivity, it *soars* ahead in portability. It is light, has a small footprint, and a battery that lasts a full day.
 
 Every day (except when CS246 assignments were due), I was willing to sacrifice some productivity for less weight in my bag and an all day battery.
 
