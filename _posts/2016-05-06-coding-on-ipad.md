@@ -1,5 +1,5 @@
 ---
-title:  "Coding on iPad: A Taste of the Future"
+title:  "Coding on iPad: Taste the Future"
 date:   2016-05-06 6:00:00
 tags:
 - tinder
@@ -9,7 +9,7 @@ tags:
 categories: blog
 image: /assets/article_images/2016-05-06-coding-on-ipad/IMG_1418.jpg
 excerpt: How to be productive on iPad and why I choose it over my Macbook Pro
-seo-title: "Coding on iPad: A Taste of the Future"
+seo-title: "Coding on iPad: Taste the Future"
 ---
 
 Q: Woah, you're coding on an iPad?!
