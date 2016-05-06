@@ -60,7 +60,7 @@ Every day (except when CS246 assignments were due), I was willing to sacrifice s
 
 Beyond ergonomics and battery life, learning how to use an iPad productively is preparation for the future.
 
-iPads are the future?! C'mon man
+iPads are the future?! Pshh, c'mon man
 -----
 
 Each generation of computers has been disrupted by a cheaper, less powerful, less "productive" class of devices. 
