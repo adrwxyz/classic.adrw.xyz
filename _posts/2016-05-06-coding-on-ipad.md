@@ -26,6 +26,8 @@ Despite how productive you can be with an iPad, it still has the stigma of a *si
 
 This dissonance prompted many questions from classmates this semester who weren't surprised by a terminal running on a Microsoft Surface, but were astonished to see one running just as well on an iPad.
 
+Using my iPad and iPhone as primary devices forces me to engage with the new limitations, user experiences, opportunities, and challenges in this next wave of computing.
+
 > Today, I explain how I'm productive on an iPad and why I choose iPad in spite of it's limitations.
 
 How I am productive on iPad
@@ -102,7 +104,7 @@ Just this year Google announced that *more searches are now done on phones/table
 
 
 
-> The world is moving from mobile first, to mobile only. 
+> The world is moving from mobile first, to mobile mostly. 
 
 Billions with a B
 -----
@@ -127,15 +129,17 @@ Conclusion
 
 
 
-In 2010, the early days of iPad, Steve Jobs told a silent audience that desktop ["PCs are going to be like trucks"](https://youtu.be/YfJ3QxJYsw8), iPads and tablets are going to be like cars. For every 30 cars you see on a road, there might be one truck. And that might make some people uncomfortable.
+In 2010, the early days of iPad, Steve Jobs told a shocked audience that desktop [PCs are going to be like trucks](https://youtu.be/YfJ3QxJYsw8), and iPads and tablets are going to be like cars. For every 30 cars you see on a road, there might be one truck.
 
-Six years later, the iPad wave has hit many families, companies, and campuses. When I look around my classes, I see over **a third of all new computers** in my classes were Microsoft Surfaces or iPads.
+Six years later, we are past the early adopter stage. 
 
-Using my iPad and iPhone as primary devices forces me to engage with the new limitations, user experiences, opportunities, and challenges in this next wave of computing.
+Early adopters bought assuming iPads were simply pretty media consumption devices. Now, I see entire university classes where a third of new computers are iPads and Microsoft Surfaces. 
 
-When people ask "are you really coding on an iPad??", I can say for many reasons "Yes...yes I am".
+People are choosing tablets for their primary computer. Mobile first is going to be mobile mostly.
 
-You read to play??
+What a time to be alive.
+
+Ready to play??
 -----
 
 Thanks for reading! I'll be posting every Friday this summer as part of my experiment to be [Tinder for Blogs](/blog/tinder-for-blogs/).
