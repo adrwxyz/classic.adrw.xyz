@@ -122,7 +122,7 @@ Smartphones and iPads that we brush off as *inferior devices* to the *all mighty
 
 > The post-PC world won't just make life easier for kids and Grandmas. It could bring millions out of poverty.
 
-Conclusion
+Welcome to Reality
 -----
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YfJ3QxJYsw8" frameborder="0" allowfullscreen></iframe>
@@ -135,7 +135,9 @@ Six years later, we are past the early adopter stage.
 
 Early adopters bought assuming iPads were simply pretty media consumption devices. Now, I see entire university classes where a third of new computers are iPads and Microsoft Surfaces. 
 
-**People are choosing tablets for their primary computer.** Mobile first is going to be mobile mostly. The future is here.
+**People are choosing tablets for their primary computer.** 
+
+The future is here.
 
 **What a time to be alive.**
 
