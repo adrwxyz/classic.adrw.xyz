@@ -33,9 +33,9 @@ How I am productive on iPad
 
 Productivity on an iPad is a function of how well you can manage with a bluetooth keyboard, and whether there exist stellar apps for the tasks you need to accomplish.
 
-> productivity( bluetooth keyboard, apps );
+> int productivity( int bluetoothKeyboard, int apps );
 
-After years trying different keyboards, I found the [Brydge Air](http://www.brydgekeyboards.com/collections/ipad-air-air-2-pro-9-7-inch). It has a pesky Siri key where the fn key should be but is otherwise flawless.
+After years trying different keyboards, I found the [Brydge Air](http://www.brydgekeyboards.com/collections/ipad-air-air-2-pro-9-7-inch). It has a pesky `Siri` key where the `fn` key should be but is otherwise flawless.
 
 ![Brydge Air is an awesome keyboard](/assets/article_images/2016-05-06-coding-on-ipad/IMG_1421.jpg)
 
