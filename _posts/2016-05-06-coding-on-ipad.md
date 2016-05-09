@@ -8,9 +8,12 @@ tags:
 - tech
 categories: blog
 image: /assets/article_images/2016-05-06-coding-on-ipad/IMG_1418.jpg
-excerpt: How to be productive on iPad and why I choose it every day
+excerpt: How a year working on iPad convinced me the Post-PC era is almost here
 seo-title: "Coding on iPad: Welcome to Reality"
 ---
+
+**Update May 6: Walt Mossberg Approved!**
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/Andrew_Paradi">@Andrew_Paradi</a> <a href="https://twitter.com/verge">@verge</a> Thanks. Obviously, depends on personal needs and preferences, but I use iPad heavily. Screen/weight/size/power great.</p>&mdash; Walt Mossberg (@waltmossberg) <a href="https://twitter.com/waltmossberg/status/728663580527230980">May 6, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Q: Woah, you're coding on an iPad?!
 -----
@@ -40,6 +43,8 @@ Productivity on an iPad is a function of how well you can manage with a bluetoot
 After years trying different keyboards, I found the [Brydge Air](http://www.brydgekeyboards.com/collections/ipad-air-air-2-pro-9-7-inch). It has a pesky `Siri` key where the `fn` key should be but is otherwise flawless.
 
 ![Brydge Air is an awesome keyboard](/assets/article_images/2016-05-06-coding-on-ipad/IMG_1421.jpg)
+
+For math and economics classes, I've come to rely on the Pencil from [Paperby53](http://www.fiftythree.com/pencil) or the [Adonit Jot Pro](http://www.adonit.net/jot/) to write notes in OneNote that has ever improving drawing support.
 
 This past year, iOS9's keyboard support and split view multitasking has made doing real work on the iPad possible. I've found the two app limit often liberating as it lets me focus on a single task with no visual clutter.
 
