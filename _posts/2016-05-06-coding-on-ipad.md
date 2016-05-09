@@ -12,6 +12,9 @@ excerpt: How to be productive on iPad and why I choose it every day
 seo-title: "Coding on iPad: Welcome to Reality"
 ---
 
+**Update 1: Walt Mossberg Approved!**
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/Andrew_Paradi">@Andrew_Paradi</a> <a href="https://twitter.com/verge">@verge</a> Thanks. Obviously, depends on personal needs and preferences, but I use iPad heavily. Screen/weight/size/power great.</p>&mdash; Walt Mossberg (@waltmossberg) <a href="https://twitter.com/waltmossberg/status/728663580527230980">May 6, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>a
+
 Q: Woah, you're coding on an iPad?!
 -----
 
