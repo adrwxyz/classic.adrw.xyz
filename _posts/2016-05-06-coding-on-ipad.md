@@ -1,5 +1,5 @@
 ---
-title:  "Coding on iPad: Welcome to Reality"
+title:  "Coding on iPad: CS Student Goes Post-PC for 1 Year"
 date:   2016-05-06 6:00:00
 tags:
 - tinder
