@@ -8,7 +8,7 @@ tags:
 - tech
 categories: blog
 image: /assets/article_images/2016-05-06-coding-on-ipad/IMG_1418.jpg
-excerpt: How to be productive on iPad and why I choose it every day
+excerpt: How 1 year of working on iPad has convinced me that the Post-PC era is almost here
 seo-title: "Coding on iPad: Welcome to Reality"
 ---
 
