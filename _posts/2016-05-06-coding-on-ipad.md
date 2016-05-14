@@ -2,8 +2,8 @@
 title:  "Coding on iPad: Welcome to Reality"
 date:   2016-05-06 6:00:00
 tags:
-- tinder
 - summer2016
+- tinder
 - life
 - tech
 categories: blog
