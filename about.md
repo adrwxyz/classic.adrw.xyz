@@ -7,13 +7,13 @@ permalink: /about/
 Hi, I'm Andrew!
 -----
 
-![](/assets/images/andrew2015.jpg)
+![](/assets/images/about-header.jpg)
 
 Welcome to the site! Check out my [projects](/projects/), [andrewnotes](/blog/) blog, [work](/work/) experience, [resume](/assets/files/AndrewParadiResume.pdf), &amp; [github](https://github.com/andrewparadi). 
 
 I currently work at [Blitzen](https://blitzen.com) as a developer & copywriting intern. In the fall, I'll be back at University of Waterloo studying computer science.
 
-I actively write on my [andrewnotes](/blog/) blog, build a [Pebble app](http://andrewparadi.com/progress-pebble/), and post scripture & scenery on [@andrewnotes Instagram](https://www.instagram.com/andrewnotes/).
+I actively write on my [andrewnotes](/blog/) blog, build a [Pebble app](http://andrewparadi.com/progress-pebble/), and post scripture & scenery photographs on [@andrewnotes Instagram](https://www.instagram.com/andrewnotes/).
 
 Work Experience
 -----
