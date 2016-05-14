@@ -2,8 +2,8 @@
 title:  "Coding on iPad: Welcome to Reality"
 date:   2016-05-06 6:00:00
 tags:
-- tinder
 - summer2016
+- tinder
 - life
 - tech
 categories: blog
@@ -132,8 +132,6 @@ Welcome to Reality
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YfJ3QxJYsw8" frameborder="0" allowfullscreen></iframe>
 
-
-
 In 2010, the early days of iPad, Steve Jobs told a shocked audience that desktop [PCs are going to be like trucks](https://youtu.be/YfJ3QxJYsw8), and iPads and tablets are going to be like cars. For every 30 cars you see on a road, there might be one truck.
 
 Six years later, we are past the early adopter stage. 
@@ -146,12 +144,12 @@ The future is here.
 
 **What a time to be alive.**
 
-Ready to play??
+Up Next
 -----
 
 Thanks for reading! I'll be posting every Friday this summer as part of my experiment to be [Tinder for Blogs](/blog/tinder-for-blogs/).
 
-1. *If you like what you read*, **swipe right** and join the email newsletter below!
+1. *If you like what you read*, **swipe right** and join the email newsletter below.
 2. *If you think the post was kinda meh*, **swipe left** and suggest a topic that you'd rather read next time.
 
 <script src="https://blitzen.com/scripts/blitzenForm.js" type="text/javascript"></script> <iframe src="https://andrew.blitzen.com/form/andrewnotes-footer-1?page=20160506-coding-on-ipad" id="017ce06a18c93534f49cdb840176f9" onload="resizeCrossDomainIframe('017ce06a18c93534f49cdb840176f9', 'https://andrew.blitzen.com');" width="100%" style="border: none;" resize="true"></iframe>

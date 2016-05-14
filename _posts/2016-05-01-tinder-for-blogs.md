@@ -2,8 +2,8 @@
 title:  "Tinder for Blogs"
 date:   2016-05-01 18:00:00
 tags:
-- tinder
 - summer2016
+- tinder
 categories: blog
 image: /assets/article_images/2016-05-01-tinder-for-blogs/DSC_1702.jpg
 excerpt: Every week I'm writing a post, and you can swipe right or left to choose what I write next!
