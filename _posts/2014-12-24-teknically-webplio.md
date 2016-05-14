@@ -24,7 +24,7 @@ seo-title: Teknically &amp; Webplio - the future of Google Analytics
 
 Our product, Webplio, was a dashboard that simplified Google Analytics data for non-techy users. With different scoring algorithms, we could simplify data to base 100 scores and Siri-like insights in natural language. **With Webplio, anybody could understand their Google Analytics.**
 
-We thrived in Laurier Launchpad, won national competitions, joined Google for Entrepreneurs and interviewed at Y Combinator. 
+We thrived in Laurier Launchpad, won national competitions, hired brilliant University of Waterloo co-op students, joined Google for Entrepreneurs and interviewed at Y Combinator. 
 
 We did hundreds of customer interviews to find the pain points small business owners have in understanding Google Analytics. We pioneered machine learning math techniques that let us pull insights from complex Google Analytics data sets. 
 
