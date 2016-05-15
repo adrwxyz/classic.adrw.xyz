@@ -27,7 +27,7 @@ I learn quickly. Whether at **Hack the North** ([2014](/project/stockslate/), [2
 My pitches, online marketing, and code have successfully:
 
 - Increased active users by 12% in one week for an app that already had over 1.2 million users ([1](blog/videostream-how-growth-starts-with-great-customer-support/))
-- Won over **$65,000** in commpetition prizes &amp; grants ([2](/project/teknically-webplio/), [3](/blog/the-389-day-laurier-bba/), [4](/blog/the-dream-fades/))
+- Won over **$65,000** in competition prizes &amp; grants ([2](/project/teknically-webplio/), [3](/blog/the-389-day-laurier-bba/), [4](/blog/the-dream-fades/))
 - Been part of **Google for Entrepreneurs** Cohort 2 ([5](/blog/the-389-day-laurier-bba/))
 - Led to an interview at **Y Combinator** ([6](/blog/the-dream-fades/))
 - &amp; even **elected a President** ([7](/project/sam-campaign))...
