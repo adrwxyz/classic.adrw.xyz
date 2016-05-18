@@ -21,13 +21,15 @@ seo-title: Videostream - How I grew active users & revenue in 4 months
 
 **As Summer '15 Growth Intern, I got to work on three awesome projects on one of the most popular video streaming apps for Chromecast.**
 
-I lead customer support for [Videostream's](http://getvideostream.com/) over 1.2 million customers. That meant resolving 2,148 email support tickets over 4 months and writing close to 90 canned responses so I could do my job more efficiently
+I lead customer support for [Videostream](http://getvideostream.com/)'s then over 1.2 million customers (now close to 2 million!!). That meant resolving 2,148 email support tickets over 4 months and writing close to 90 canned responses so I could do my job more efficiently
 
-With in depth customer knowledge and feedback, I could confidently redesign the [Videostream website](http://getvideostream.com/) to focus on the benefits that resonated with customers. The new website I developed beat split tests across the board and on certain metrics had up to 32% better download conversion rates than the old website.
+With in depth customer knowledge and feedback, I could confidently redesign the [Videostream website](http://getvideostream.com/) to focus on the benefits that actually resonated with customers. The new website I developed beat split tests across the board and on certain metrics had up to 32% better download conversion rates than the old website.
+
+The new website also got more users to come back to Videostream leading to a 12% increase in weekly active users that has remained since (not a one time boost)!
 
 ![New Premium Flow: Plans, Payment Selection, & Features.](/assets/article_images/2015-09-06-videostream-how-growth-starts-with-great-customer-support/premflow1-c.jpg)
 
-I worked on a new Premium flow in the app which makes upgrading to new features significantly easier for customers. I built the flow from scratch using HTML/Sass, Javascript, and integrations with Stripe, Paypal, and Google O-Auth APIs. It's beating the original Premium flow in initial revenue split tests.
+I worked on a new Premium flow in the app which makes upgrading to new features significantly easier for customers. I built the flow from scratch using HTML/Sass, Javascript, and integrations with Stripe, Paypal, and Google OAuth APIs. It's beating the original Premium flow in initial revenue split tests.
 
->[Read more about how I helped Videostream grow and see before and after screenshots here](/blog/videostream-how-growth-starts-with-great-customer-support/).
+>[Read how I helped Videostream increase downloads 32% (+ before/after screenshots!!)](/blog/videostream-how-growth-starts-with-great-customer-support/).
 

@@ -47,7 +47,8 @@ In May we also hired three brilliant University of Waterloo engineering co-op st
 <a href="https://instagram.com/p/rItLgzG8WR/?modal=true">
 ![One of our bi-weekly sushi nights with our three University of Waterloo engineering co-op employees.](https://scontent-ord1-1.cdninstagram.com/hphotos-prn/t51.2885-15/e15/10593532_599420783512835_837079455_n.jpg)</a>
 
-##The Turning Point
+The Turning Point
+---
 
 In the past 6 weeks, a lot at Teknically has changed. At the end of August we were accepted as one of five companies in Canada's only <a href="https://www.googleforentrepreneurs.com/" target="_blank">Google for Entrepreneurs</a> program based out of Communitech. We were thrilled with the new office space (complete with Google ping pong table and astroturf) and ability to directly contact Google employees with specific questions on different products or APIs we were using. We even got to pitch Webplio to Google employees and management in the Google Waterloo office.
 
@@ -76,7 +77,9 @@ Within 48 hours of coming to this final conclusion, we had deferred our program,
 
 ![Full Time Entrepreneurs: Brandon and Andrew working on Webplio in the Laurier Launchpad space.](/assets/article_images/2014-10-03-the-389-day-laurier-bba/cofounders-launchpad-desk.jpg)
 
-##Success Thanks to Many
+Success Thanks to Many
+---
+
 Though many entrepreneurship stories attribute all success to the individual's hard work, there are always people and experiences that prepared them so they could take advantage of their opportunties and be successful. I am still thankful when I recall the family, friends, and mentors who helped me become who I am today.
 
 I learned servant leadership from my Grandpa after long summer days working with my hands on different projects. I learned attention to detail from my Mom, pushing me not to accept anything less than my best. From my sister, I've learned perseverance. From my Dad, a logical approach to decision making and how to push myself to be a better entrepreneur.
@@ -85,8 +88,8 @@ From St. Andrew's Presbyterian Streetsville and Camp Mini-Yo-We, a strengthened 
 
 Too many family, friends, and mentors to name have unknowingly fostered these skills and helped along each step of my journey. Thankfully my parents, sister, and extended family both understand and fully support my decision to defer classes and focus full time on Teknically. To God and all of you, I am truly grateful.
 
-##The Path Ahead
-
+The Path Ahead
+---
 
 ![](/assets/article_images/2014-09-30-launchpad-meets-hack-north-3-hypotheses-tested-hacking/Webplio-Dashboard-v3-Referrals.png)
 
