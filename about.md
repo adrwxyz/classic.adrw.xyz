@@ -2,6 +2,10 @@
 layout: page
 title: About
 permalink: /about/
+categories:
+- project
+- blog
+- work
 ---
 
 Hi, I'm Andrew!
