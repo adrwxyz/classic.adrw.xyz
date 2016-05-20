@@ -22,13 +22,13 @@ seo-title: Teknically &amp; Webplio - the future of Google Analytics
 
 **Brandon Chow and I founded Teknically in October 2013 and over the next 13 months had a remarkable journey.**
 
-Our product, Webplio, was a dashboard that simplified Google Analytics data for non-techy users. With different scoring algorithms, we could simplify data to base 100 scores and Siri-like insights in natural language. **With Webplio, anybody could understand their Google Analytics.**
+Our product, Webplio, was a dashboard that simplified Google Analytics data for non-techy users. With different scoring algorithms, we could simplify data to base 100 scores and Siri-like natural language insights. **With Webplio, anybody could understand their Google Analytics.**
 
-We thrived in Laurier Launchpad, won national competitions, hired brilliant University of Waterloo co-op students, joined Google for Entrepreneurs and interviewed at Y Combinator. 
+We thrived in Laurier Launchpad, won over $65,000 in national competitions and grants, hired brilliant University of Waterloo co-op students, was part of **Google for Entrepreneurs** Batch 2, and interviewed at **Y Combinator**. 
 
 We did hundreds of customer interviews to find the pain points small business owners have in understanding Google Analytics. We pioneered machine learning math techniques that let us pull insights from complex Google Analytics data sets. 
 
-The full story is covered over two posts ([1](/blog/the-389-day-laurier-bba/), [2](/blog/the-dream-fades/)). Since going back to study computer science at University of Waterloo, I've continued to [blog](/blog/) about what we learned with Teknically, share new books I've been reading, and my advice for other new founders.
+**The full story is covered over two posts ([1](/blog/the-389-day-laurier-bba/), [2](/blog/the-dream-fades/)).** Since going back to study computer science at University of Waterloo, I've continued to [blog](/blog/) about what we learned with Teknically, share new books I've been reading, and my advice for other new founders.
 
 Below is some promotional media from Teknically, Webplio, two of our winning pitches in competitions, and our mentions in national and tech press.
 
