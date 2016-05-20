@@ -50,7 +50,7 @@ Webplio Promo
 <iframe width="853" height="480" src="https://www.youtube-nocookie.com/embed/3T7Qgm_jFj0?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 
-<a name="press"></a>
+<a id="press" name="press"></a>
 
 Press
 -----
