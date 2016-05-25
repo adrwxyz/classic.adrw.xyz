@@ -54,6 +54,9 @@ Webplio Promo
 
 Press
 -----
+
+![Our debut in the Globe & Mail.](/assets/article_images/2014-12-24-teknically-webplio/insta-globe-mail-crop.jpg)
+
 - [Featured Company Profile](http://www.oce-ontario.org/our-companies) - **Ontario Centres of Excellence** - March 17, 2016
 - [Laurier Business School Highlights to Alumni for 2014-2015](/assets/article_images/2014-12-24-teknically-webplio/lazaridis-sbe-highlights.pdf) - **Wilfrid Laurier University** - April 23, 2015
 - [Five Canadian startups turn to Google for their big push](http://business.financialpost.com/2014/10/05/five-canadian-startups-turn-to-google-for-their-big-push/) - **Financial Post** - Oct 5, 2014
@@ -61,6 +64,7 @@ Press
 - [Google for Entrepreneurs Cohort 2 set to launch in Communitech Hub](http://news.communitech.ca/news/google-for-entrepreneurs-cohort-2-set-to-launch-in-communitech-hub/) - **Communitech News** - Sept 9, 2014
 - [570 News #TechHour: The Inside Scoop on Google 4 Entrepreneurs at Communitech](/assets/article_images/2014-12-24-teknically-webplio/TechHour570News-Sept9-2014.mp3) - **570 News** - Sept 9, 2014
 - [Five New Startups Awarded Residency at the Google Innovation Space at Communitech](http://www.betakit.com/five-new-startups-awarded-residency-in-the-google-innovation-space-at-communitech-hub/) - **BetaKit** - Sept 2, 2014
+- [Student entrepreneurs make semi-finals at international competition](http://www.theglobeandmail.com/report-on-business/careers/business-education/canadian-b-schools-ranked-among-worlds-best-in-programs-for-executives/article18689520/) - **The Globe and Mail** - May 16, 2014
 - [Web analytics startup enjoys early success](http://www.therecord.com/news-story/4425791-web-analytics-startup-enjoys-early-success/) - **The Waterloo Region Record** - March 22, 2014
 - [Young entrepreneurs recognized](http://www.theglobeandmail.com/report-on-business/careers/business-education/saskatchewan-schools-reduce-roadblocks-for-aboriginal-business-students/article17597347/) - **The Globe and Mail** - March 20, 2014
 - [Laurier LaunchPad’s Teknically Wins 25K at Canadian Business Model Competition](http://laurierentrepreneur.ca/entrepreneurship/laurier-launchpads-teknically-wins-25k-at-canadian-business-model-competition/) - **Laurier Entrepreneur** - March 19, 2014
