@@ -17,7 +17,9 @@ seo-title: "Coding on iPad: Welcome to Reality"
 
 **Update May 12: Featured on Spain tech site applesfera**
 
-![Read Eduardo Archanco's piece [here](http://www.applesfera.com/ipad/programar-codigo-en-un-ipad-todos-los-dias-es-posible).](/assets/article_images/2016-05-06-coding-on-ipad/coding-ipad-applesferac.png)
+![](/assets/article_images/2016-05-06-coding-on-ipad/coding-ipad-applesferac.png)
+
+Read Eduardo Archanco's piece [here](http://www.applesfera.com/ipad/programar-codigo-en-un-ipad-todos-los-dias-es-posible).
 
 Q: Woah, you're coding on an iPad?!
 -----
