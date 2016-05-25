@@ -12,7 +12,7 @@ excerpt: How a year working on iPad convinced me the Post-PC era is almost here
 seo-title: "Coding on iPad: Welcome to Reality"
 ---
 
-**Update May 6: Walt Mossberg Approved!**
+**Update May 6: Walt Mossberg Approved**
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/Andrew_Paradi">@Andrew_Paradi</a> <a href="https://twitter.com/verge">@verge</a> Thanks. Obviously, depends on personal needs and preferences, but I use iPad heavily. Screen/weight/size/power great.</p>&mdash; Walt Mossberg (@waltmossberg) <a href="https://twitter.com/waltmossberg/status/728663580527230980">May 6, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 **Update May 12: Featured on Spain tech site applesfera**
