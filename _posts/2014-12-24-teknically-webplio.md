@@ -55,7 +55,7 @@ Webplio Promo
 Press
 -----
 
-![Our debut in the Globe & Mail.](/assets/article_images/2014-12-24-teknically-webplio/insta-globe-mail.jpg)
+![Our debut in the Globe & Mail.](/assets/article_images/2014-12-24-teknically-webplio/insta-globe-mail-crop.jpg)
 
 - [Featured Company Profile](http://www.oce-ontario.org/our-companies) - **Ontario Centres of Excellence** - March 17, 2016
 - [Laurier Business School Highlights to Alumni for 2014-2015](/assets/article_images/2014-12-24-teknically-webplio/lazaridis-sbe-highlights.pdf) - **Wilfrid Laurier University** - April 23, 2015
