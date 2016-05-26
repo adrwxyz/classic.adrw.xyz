@@ -27,6 +27,7 @@ How to increase CTR
 	- Evoking curiosity increases clicks
 
 Title tags
+
 - nutritionsecrets.com ranks 1 on "green tea"
 	- 10 proven benefits of green tea (no 3 is very impressive)
 	- Direct curiosity, buzzfeed/upworthy clickbaity
