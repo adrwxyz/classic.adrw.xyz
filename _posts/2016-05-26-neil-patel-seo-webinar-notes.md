@@ -9,7 +9,7 @@ seo-title: "Neil Patel SEO Webinar Notes"
 permalink: /raw/2016-05-26-neil-patel-notes/
 ---
 
-**Here's my raw, unedited, 3,004 word notes with actionable insights, case studies, and Q&A from Neil Patel's SEO Webinar on May 26. Please go check him out at NeilPatel.com, it was a great webinar.**
+**Here's my raw, unedited, 3,004 word notes with actionable insights, case studies, and Q&A from Neil Patel's SEO Webinar on May 26. Please go check him out at NeilPatel.com, it was a great webinar!**
 
 How to increase CTR
 ---
@@ -27,6 +27,7 @@ How to increase CTR
 	- Evoking curiosity increases clicks
 
 Title tags
+
 - nutritionsecrets.com ranks 1 on "green tea"
 	- 10 proven benefits of green tea (no 3 is very impressive)
 	- Direct curiosity, buzzfeed/upworthy clickbaity
@@ -43,7 +44,9 @@ Title tags
 
 How to get links from the best publications
 ---
+
 Publications
+
 - Entrepreneur.com
 	- Had 
 - Forbes.com
@@ -57,9 +60,11 @@ Publications
 	- 
 
 Why?
+
 - Don't just do it for links, do it for press, leads, and sales
 
 How?
+
 - Don't email the strategy
 - Network with other writers, email writers at publication
 	- "Hey x, Huge fan of content, love latest post on xyz, few things I would have added/changed. You discuss xyz, but abc would be more useful to your readers. Best of luck, love your articles, didn't mean to be negative, just love seeing you crank out great content. Cheers."
@@ -74,6 +79,7 @@ How?
 - Once you have guest account, trade intros and network with other guest writers
 
 Guest Post Rules
+
 - Don't do this just for the links (you'll start to get greedy)
 - Don't shove links in your posts
 - Don't reuse your content
@@ -82,6 +88,7 @@ Guest Post Rules
 - Optimize for keywords
 
 Buffer
+
 - Sent out unique content to 4-10 people "Hi I have post discussing...would you be interest"
 - First to reply gets the original
 - Next to reply, send back "Just give me an hour, making some awesome edits."
@@ -94,6 +101,7 @@ International Expansion
 - NP expanding into Portuguese, Spanish, German, Arabic
 
 Why?
+
 - Not as competitive
 - Costs less
 - See results faster
@@ -101,12 +109,15 @@ Why?
 https://ahrefs.com
 
 How does a basic site get 40k visitors/month?
+
 - 88 pages, no backlinks, no referrals...
 
 Most languages aren't competitive
+
 - Takes 3-6 months to dominate most international markets
 
 Rules
+
 - Translate the content manually (NP paying $100/post to translate entire site)
 - Build links from the local region (most don't know about link building or SEO techniques etc so are willing to just give them out)
 - Partner with locals
@@ -115,6 +126,7 @@ Rules
 	- Are you targeting language or a country? (Portuguese is different Brazil vs Portugal, Spanish is the same throughout SA)
 
 How
+
 - Google Search Console, add sub section domain.com/br for Brazil
 - Click "search traffic" -> "international targeting" -> Choose country/lang targeting
 - ONLY do subdirectory for country targeting, not language
@@ -122,6 +134,7 @@ How
 - Translated content isn't duplicate
 
 Where to target?
+
 - # of speakers of language
 - GDP of country
 - How strong is currency? If currency is weak, then you can expand their faster/further for same budget.
@@ -133,6 +146,7 @@ How to rank for competitive terms
 - Search "internet marketing" NP has 2 in top 10
 
 How?
+
 - Started years ago making guides, go above beyond with graphics/custom illustrations, 30,000 word content, subsections with long tail keywords, useful to everyone (beginner's and advanced)...etc
 - Don't forget to cross link
 	- Add sidebars to pages that link to all guides
@@ -144,6 +158,7 @@ How?
 	- Use an attractive title tag
 
 Title tag vs guide
+
 - Search engine land vs Moz Guide to SEO
 	- Moz has way more referring domains
 	- SEL has better title tag than Moz, basic content
@@ -151,6 +166,7 @@ Title tag vs guide
 	- SEL "What is SEO / Search Engine Optimization? – Search Engine Land"
 
 Rules
+
 - Link out (link out to other relevant content, often those sites find out and link back or contact them and they might share it)
 - Leverage internal links (cross linking)
 - Be patient (not going to rank on competitive terms for 3-6 months)
@@ -162,12 +178,14 @@ How to generate social shares (no ads)
 - NP right now, 35% Organic Search, 24% social, 19% direct, 17% email, 5% referral.
 
 Stats
+
 - Social drives 80k visitors/m
 - Email drives over 60% of social traffic
 - Social users are 219% more likely to comment on blog posts
 - Social are 2x more likely to link to your site
 
 How?
+
 - Share old articles on FB, Twitter since new users haven't seen them
 - Nutrition Secrets did the following and got 35k visitors in 30 days
 
@@ -194,11 +212,13 @@ Ideal Site Architecture
 - A good structure and site architecture means better crawling
 
 How most people plan their site
+
 - Homepage -> categories -> subcategories -> other pages/posts
 - This seems organized but Google searches every link so posts/pages need to link to each other
 - Internal/cross linking increases SEO Juice
 
 Rules
+
 - Make site hierarchical
 - Keep number of main categories between 2 and 7
 - Balance the sub categories within each category
@@ -208,6 +228,7 @@ Rules
 - Make your navigation in HTML/CSS
 
 Example
+
 - www.kimsrestaurant.com/locations/chinatown
 - Kim's -> Menu, Catering, About, Locations -> Chinatown...
 
@@ -218,6 +239,7 @@ Branding
 - Brand is personal names
 
 Strategies
+
 - Focus on press and crazy marketing tactics – Chris Barrett from PR Service
 - Leverage social media influences – Dan from Stranger Social
 	- Pay $100 for someone with influencer account to post your links on big pages
@@ -227,6 +249,7 @@ Strategies
 - Gary Vaynerchuk, put phone number on ads for his book and started getting phone calls
 
 Lessons
+
 - You want to run your campaigns all at once
 - You need to do this weekly over a period of 2 months
 	- Get people to post pictures/images/links "Who is Neil Patel?"
@@ -236,6 +259,7 @@ Lessons
 - Branding $ is much more cost effective than Google Ads $
 
 Free marketing course
+
 - Want to learn more? Check out the AMP! 
 
 
@@ -402,12 +426,12 @@ Q&A
 - When nofollow links?
 	- Only nofollow links from commenters
 	
-Thanks for Reading
+Thanks for Reading!
 ---
 
-Thanks for reading! I also write about B2B marketing for SaaS startups, writing focused copy, and winning case studies from my work. 
+I also write about B2B marketing for SaaS startups, writing focused copy, and winning case studies from my work. 
 
-Would you like to join the private email list?
+Would you like to join the private email list for more?
 	
 <script src="https://blitzen.com/scripts/blitzenForm.js" type="text/javascript"></script>
 <iframe src="https://andrew.blitzen.com/form/andrewnotes-Neil-Patel-Notes" id="afa9977326849e130cd6ce923c6f76" onload="resizeCrossDomainIframe('afa9977326849e130cd6ce923c6f76', 'https://andrew.blitzen.com');" width="100%" style="border: none; display: none;" resize="true"></iframe>
