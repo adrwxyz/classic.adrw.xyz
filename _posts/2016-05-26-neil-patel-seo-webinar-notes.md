@@ -11,7 +11,7 @@ permalink: /raw/2016-05-26-neil-patel-notes/
 
 **Here's my raw, unedited, 3,004 word notes with actionable insights, case studies, and Q&A from Neil Patel's SEO Webinar on May 26. Please go check him out at NeilPatel.com, it was a great webinar!**
 
-How to increase CTR
+1. How to increase CTR
 ---
 
 - Use higher CTR to get more clicks and then slowly get more clicks than Google results above you, then you overtake them
@@ -42,7 +42,7 @@ Title tags
 	- "The best luxury hotels in the world – Five star alliance"
 	- "10 of the best luxury hotel brands in the world – Forbes"
 
-How to get links from the best publications
+2. How to get links from the best publications
 ---
 
 Publications
@@ -93,7 +93,7 @@ Buffer
 - First to reply gets the original
 - Next to reply, send back "Just give me an hour, making some awesome edits."
 
-International Expansion
+3. International Expansion
 ---
 
 - English isn't the most popular language
@@ -139,7 +139,7 @@ Where to target?
 - GDP of country
 - How strong is currency? If currency is weak, then you can expand their faster/further for same budget.
 
-How to rank for competitive terms
+4. How to rank for competitive terms
 ---
 
 - Search "online marketing", NP ranks 4, quicksprout ranks 1, despite many other sites with higher domain authority
@@ -172,7 +172,7 @@ Rules
 - Be patient (not going to rank on competitive terms for 3-6 months)
 
 
-How to generate social shares (no ads)
+5. How to generate social shares (no ads)
 ---
 
 - NP right now, 35% Organic Search, 24% social, 19% direct, 17% email, 5% referral.
@@ -205,7 +205,7 @@ How?
 - LinkedIn Groups
 	- Join relevant high follower groups, share update to groups
 	
-Ideal Site Architecture
+6. Ideal Site Architecture
 ---
 
 - Google will show Sitelinks if your site architecture is great (ie. the other posts below main domain in search rankings)
@@ -232,7 +232,7 @@ Example
 - www.kimsrestaurant.com/locations/chinatown
 - Kim's -> Menu, Catering, About, Locations -> Chinatown...
 
-Branding
+7. Branding
 ---
 
 - Google Trend to see brand 
