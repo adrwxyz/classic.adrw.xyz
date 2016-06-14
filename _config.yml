@@ -84,6 +84,14 @@ social:
     share_title:
     share_link:
     caption:
+    
+  - icon:	angellist
+    url:	https://angel.co/andrew-paradi
+    desc:	Add me on Angel List
+    share_url:
+    share_title:
+    share_link:
+    caption:
 
   - icon:	twitter
     url:	https://twitter.com/andrew_paradi
