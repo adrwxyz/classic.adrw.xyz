@@ -20,7 +20,7 @@ excerpt: Brandon Chow &amp; Andrew Paradi interviewed at Y Combinator, were part
 seo-title: Teknically &amp; Webplio - the future of Google Analytics
 ---
 
-**Brandon Chow and I founded Teknically in October 2013 and over the next 13 months had a remarkable journey.**
+**[Brandon Chow](http://www.branchow.com) and I founded Teknically in October 2013 and over the next 13 months had a remarkable journey.**
 
 Our product, Webplio, was a dashboard that simplified Google Analytics data for non-techy users. With different scoring algorithms, we could simplify data to base 100 scores and Siri-like natural language insights. **With Webplio, anybody could understand their Google Analytics.**
 

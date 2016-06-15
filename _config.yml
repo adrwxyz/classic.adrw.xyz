@@ -119,8 +119,8 @@ social:
     
     #     PGP Key
   - icon:	lock
-    url:	/assets/files/AndrewParadiPGP.zip
-    desc:	PGP Fingerprint and Public Key
+    url:	https://keybase.io/andrewparadi
+    desc:	Keybase.io PGP Fingerprint &amp; Public Key
     share_url: 
     share_title:
     share_link:
