@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/andrewparadi
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://andrewparadi.com
+    * I am andrewparadi (https://keybase.io/andrewparadi) on keybase.
+      * I have a public key with fingerprint 836C B350 4409 4A9E 0A13  F12C EED3 03A3 B5B5 4E6E
+
+      To do so, I am signing this object:
+
+      {
+            "body": {
+                      "key": {
+                                    "eldest_kid": "010115a0705296790e9b4b7b123b5eec1cccaac13b4a3f9cd540538a47dbdddec9f60a",
+                                                "fingerprint": "836cb35044094a9e0a13f12ceed303a3b5b54e6e",
+                                                            "host": "keybase.io",
+                                                                        "key_id": "eed303a3b5b54e6e",
+                                                                                    "kid": "010115a0705296790e9b4b7b123b5eec1cccaac13b4a3f9cd540538a47dbdddec9f60a",
+                                                                                                "uid": "261fc382da8b9a450d948618f31b8319",
+                                                                                                            "username": "andrewparadi"
+                                                                                                                    },
+                                                                                                                            "service": {
+                                                                                                                                          "hostname": "andrewparadi.com",
+                                                                                                                                                      "protocol": "http:"
+                                                                                                                                                              },
+                                                                                                                                                                      "type": "web_service_binding",
+                                                                                                                                                                              "version": 1
+                                                                                                                                                                                  },
+                                                                                                                                                                                      "ctime": 1466002048,
+                                                                                                                                                                                          "expire_in": 157680000,
+                                                                                                                                                                                              "prev": "42a0574d7259d14a7abc8fe95c44fb986993a07054e6f1c46d8b3a90056e569a",
+                                                                                                                                                                                                  "seqno": 4,
+                                                                                                                                                                                                      "tag": "signature"
+      }
+
+      which yields the signature:
+
+      -----BEGIN PGP MESSAGE-----
+      Comment: GPGTools - https://gpgtools.org
+
+      owGtkm1MHEUYx+84oOHKmwJpKUjLgloNhdnb2b3dU1sKEqmS1oCVaALH7M4cbDlu
+      j7vjrYjURqSmlZe02lparoA1Jk0jIogtWFqFxAIx5NBQKr6VgMU2WIFqioW4S4yf
+      +tH5Mpl5/s9v/vPP0xRi0Bn18+OGjp6e3Q79yJyoy0X73qqmRAVXUZZqqpisbcSO
+      idtjLZYxZaEADWiaRcAMWJPAmQVABBGKZpE2MSJLiERLkoSQRDMiRIxNkDALAcvw
+      CJqxiDEmkmDjAKKSKJvsKCQup0t2eFQsz3CSyLAAQiBAJBCAaMZGmyRCMAMYpLJF
+      FhKOqI1FilvrUM2JyE2SZUW9Uw/WNXsP0P/PvsvWcCaOtkkMb8KIFwUEWYAFyHM0
+      b2NokWdoQRO6icuBSoiqRg7sIhVO5EJYpmqSKLVSLktEC1f7zQNUyZJSojKcLsWj
+      SIpdrRZ5PE6L1uypcmrqCiJa/+VYRdmB1TjVhnLicsuKg7LQqlLyyBqYhhwHgAlA
+      PokilU7ZRayypmDNHA/UpT1DylWkFZoQYM0Qm02sgGmIzEiUeBsRWAlCmyjwnCAw
+      axGq0dpoCXKYFxkkAMByhOUELR43KXUolAWqPlGhynTLhQ7kKXMRqsb4tl+sv05v
+      1AUG+GmDpjMGhf83faNhq9u+ToiczTtx/9LgaMnwXF6N/NXZ3dHM1YaBzXc+uRF8
+      viCh76bX8DnMNJwZVUZ+JG0ZXCPD9LfHXt6YQuORZ9791Xgk+Tfk9U9bKSiI2HUh
+      cDBVsE8nOjJaE47MfAD2xA+eZn4ZvjTnfL5hpbuiY/NfD1cduBm5ISv9sanSL/YG
+      bZo5fOx2AHs4ZbKks3Yp5kpSTFzcdlL6evZCzJ3M4UCp78/0o52BT/K3g0taBsq+
+      fDr+ui84YDC1buJUsDe9qKsvsf90eF3zUurdbWH4h6y2gy/g1Pb9Lfd+b4XK1dzl
+      iRcXAjveS/xo173o5khlfH5s/U++5s4usTatVz+ScTL2VpS78bXCGbdgjdxh/T76
+      /cvmHXkDq6t0c+Xkhzvjt4swqx++7A3btzzbePelKPzp+qKLx2PQeH5EBGeo850x
+      +Xw1Y4UgbP6dY2m1t0IbyvaYQlvsVNRD4177tBME17/xs2/8ILuc3e137bs/1j0V
+      3rvybJz50IHQrr3dbU31Xfvp+dzozqpHg1Jmx45Gbew995xtMST8UEh6+bWJofMx
+      W7bWRca1WZqWa/VbfG3RrQtln+30KGmDN/JDK/MzNvT0LiZd2XouxfK4V4ry1etO
+      fnOqbhK1f5t6n54eAjnZhr/917mGpjKvX6yemH01M614ae4RGjyRM3VBRGc/rn5z
+      8ZVue3zOpn8A
+      =XAfF
+      -----END PGP MESSAGE-----
+
+      And finally, I am proving ownership of this host by posting or
+      appending to this document.
+
+      View my publicly-auditable identity here: https://keybase.io/andrewparadi
+
+      ==================================================================
+
