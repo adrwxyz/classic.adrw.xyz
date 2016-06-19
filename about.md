@@ -50,6 +50,6 @@ Reach Out
 
 Questions or inquiries? Email *me at andrewparadi.com*
 
-Contact me with PGP encryption: [Keybase.io/AndrewParadi](https://keybase.io/andrewparadi), [PGP key](/assets/files/AndrewParadiPGP.asc)
+Contact me with PGP encryption: [keybase.io](https://keybase.io/andrewparadi), [PGP key](/assets/files/AndrewParadiPGP.asc)
 
 836C B350 4409 4A9E 0A13 F12C EED3 03A3 B5B5 4E6E
