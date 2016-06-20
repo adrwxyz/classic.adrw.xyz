@@ -1,5 +1,5 @@
 ---
-title:  "Five Lessons from Behind the Curtain"
+title:  "5 Tough Lessons for When Your Startup Fails"
 date:   2015-03-19 16:09:25
 permalink: /blog/lessons-from-behind-the-curtain/
 tags: startups
@@ -8,7 +8,7 @@ categories:
 - work
 image: /assets/article_images/2015-03-19-lessons-from-behind-the-curtain/chicago.jpg
 excerpt: At our final Laurier Launchpad update presentation we summarized the five biggest lessons we had learned founding our startup, Teknically.
-seo-title: Five Lessons from Behind the Curtain
+seo-title: "5 Tough Lessons for When Your Startup Fails | Andrew Paradi"
 ---
 
 **When your world stops spinning, the lights fade, and the silence surrounds you, you can finally think. These past 13 weeks have been the beginning of my next chapter, the regaining of consciousness, & the recovery from 13 months founding a startup.**

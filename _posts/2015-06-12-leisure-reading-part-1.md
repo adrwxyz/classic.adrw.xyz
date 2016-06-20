@@ -5,7 +5,7 @@ tags: life
 categories: blog
 image: /assets/article_images/2015-06-12-leisure-reading-part-1/bills-glass-c.jpg
 excerpt: 6 books I'd recommend that I've read since January 2015. Books covering civil rights, business, startups, and a romcom of a professor with Aspergers.
-seo-title: My Favourite 6 Books Since January
+seo-title: "My Favourite 6 Books Since January 2015 | Andrew Paradi"
 ---
 
 I purchased my Kobo Aura on Boxing Day 2014 and decided I would be more diligent in my leisure reading this year. 6 months in, these are the 6 books that I would most recommend. 
