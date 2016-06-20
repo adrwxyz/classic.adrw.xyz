@@ -12,7 +12,7 @@ tags:
 - pitch
 image: /assets/article_images/2014-09-30-launchpad-meets-hack-north-3-hypotheses-tested-hacking/stock-slate-demo-retail-c.jpg
 excerpt: StockSlate let investors choose stocks from Bloomberg data and then see how their portfolios would be judged by successful investors like Warren Buffet.
-seo-title: StockSlate - How we brought Warren Buffet to Hack the North
+seo-title: "StockSlate - How we brought Warren Buffet to Hack the North | Andrew Paradi"
 ---
 
 Built at Hack the North 2014, StockSlate let you analyze stock picks in real time with algorithms of the world's most successful investors. Using the Bloomberg API for stock data, you could choose a portfolio of stocks and then instantly see how these would stand up to the wisdom of Warren Buffet, Benjamin Graham, or Peter Lynch.

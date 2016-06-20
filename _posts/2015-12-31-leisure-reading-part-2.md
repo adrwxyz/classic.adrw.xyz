@@ -5,7 +5,7 @@ tags: life
 categories: blog
 image: /assets/article_images/2015-12-31-leisure-reading-part-2/sandbanks-books.jpg
 excerpt: 6 books I'd recommend that I've read since June 2015. Books covering a real life Tony Stark, the Prime Minister of Canada, death, marriage, and a book about little people in a far away land.
-seo-title: My Favourite 6 Books Since June
+seo-title: "My Favourite 6 Books Since June 2015 | Andrew Paradi"
 ---
 
 **Welcome to my new (much faster) blog! I'll have a post out soon about all the changes but before 2015 is finished, I'd like to share 6 of the best books I've read since June 2015!**

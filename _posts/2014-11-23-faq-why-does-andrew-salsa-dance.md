@@ -5,7 +5,7 @@ tags: life
 categories: blog
 image: /assets/article_images/2014-11-23-faq-why-does-andrew-salsa-dance/andrew-salsa.jpg
 excerpt: In November 2013 I had never danced before. One year later I'm dancing in a choreographed performance for the club's end of term party. Crack a Coca-Cola and I'll tell you the story of how I became a "Salsero".
-seo-title: FAQ&#58; Why Does Andrew Salsa Dance?
+seo-title: "FAQ: Why Does Andrew Salsa Dance? | Andrew Paradi"
 ---
 
 **In November 2013 I had never danced before. One year later I'm dancing in a choreographed performance for the club's end of term party. Crack a Coca-Cola and I'll tell you the story of how I became a "Salsero" (or you can just skip to the <a href="http://youtu.be/RVdGBEsZFws" target="_blank">video</a>).**

@@ -11,7 +11,7 @@ tags:
 - award
 image: /assets/article_images/2013-10-27-meet-the-link/thelink.jpg
 excerpt: As marketing specialist for Laurier's The Link business club, I got diverse experience in digital marketing and was awarded Executive of the Year.
-seo-title: The Link - Marketing Specialist Wins Executive of the Year
+seo-title: "The Link - 2014 Executive of the Year | Andrew Paradi"
 ---
 
 I was a marketing specialist for Wilfrid Laurier University's best business club, The Link in 2013-2014. I did video production, photography, graphic design in Illustrator, group leader at LIBC conference, and was awarded Executive of the Year award in my freshman year.

@@ -5,7 +5,7 @@ tags: startups
 categories: blog
 image: /assets/article_images/2015-10-16-how-startups-fail-even-with-cash-and-growth/DSC_8213.jpg
 excerpt: Are you Default Alive or Default Dead? You need to read Paul Graham's latest post and honestly figure out your startup's answer.
-seo-title: How Startups Fail Even with Cash and Growth
+seo-title: "How Startups Fail Even with Cash and Growth | Andrew Paradi"
 ---
 
 **Everybody in startups should be reading Paul Graham's essays. He just hit it out of the park again. Go read <a href="http://paulgraham.com/aord.html" target="_blank">"Default Alive or Default Dead?"</a> and then come back.**

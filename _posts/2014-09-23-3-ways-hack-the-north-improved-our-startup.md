@@ -5,7 +5,7 @@ tags: startups
 categories: blog
 image: /assets/article_images/2014-09-23-3-ways-hack-the-north-improved-our-startup/HTN-Photo-c.jpg
 excerpt: From September 19th to the 21st, University of Waterloo's Engineering 5 building was over run by a native species of the region&#58; hackers...
-seo-title: "3 Ways Hack The North Improved Our Startup - Webplio Blog"
+seo-title: "3 Ways Hack The North Improved Our Startup | Andrew Paradi"
 ---
 
 **From September 19th to the 21st, University of Waterloo's Engineering 5 building was over run by a native species of the region: hackers...**

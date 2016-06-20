@@ -12,7 +12,7 @@ tags:
 - wordpress
 image: /assets/article_images/2014-02-26-sam-campaign/SamDisplayPicture.png
 excerpt: The race was tight but a clever marketing strategy pushed Sam Lambert over the top to win in 2014. Learn about the winning strategy Andrew helped develop.
-seo-title: Bowtie - How We Won a Presidential Campaign
+seo-title: "Bowtie - How We Won a Presidential Campaign | Andrew Paradi"
 ---
 
 <h2>How we won a Presidential Campaign</h2>

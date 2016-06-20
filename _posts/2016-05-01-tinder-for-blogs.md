@@ -7,7 +7,7 @@ tags:
 categories: blog
 image: /assets/article_images/2016-05-01-tinder-for-blogs/DSC_1702.jpg
 excerpt: Every week I'm writing a post, and you can swipe right or left to choose what I write next!
-seo-title: Tinder for Blogs
+seo-title: "Tinder for Blogs | Andrew Paradi"
 ---
 
 **This summer I'm writing a post every week.** 

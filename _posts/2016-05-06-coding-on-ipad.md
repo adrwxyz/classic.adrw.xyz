@@ -9,7 +9,7 @@ tags:
 categories: blog
 image: /assets/article_images/2016-05-06-coding-on-ipad/IMG_1418.jpg
 excerpt: How a year working on iPad convinced me the Post-PC era is almost here
-seo-title: "Coding on iPad: Welcome to Reality"
+seo-title: "Coding on iPad: Welcome to Reality | Andrew Paradi"
 ---
 
 Q: Woah, you're coding on an iPad?!

@@ -15,8 +15,8 @@ tags:
 - paypal
 - customer-support
 image: /assets/article_images/2015-09-06-videostream-how-growth-starts-with-great-customer-support/vs-home-c.png
-excerpt: In 4 months, Andrew resolved 2,148 support tickets, coded a new website that boosted weekly actives & downloads, and optimized checkout flow for revenue.
-seo-title: Videostream - How I grew active users & revenue in 4 months
+excerpt: In 4 months, Andrew resolved 2,148 support tickets, boosted downloads 32% with a new website, and optimized checkout flow for revenue.
+seo-title: "Videostream - Downloads Up 32% in Weeks | Andrew Paradi"
 ---
 
 **As Summer '15 Growth Intern, I got to work on three awesome projects on one of the most popular video streaming apps for Chromecast.**

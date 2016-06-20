@@ -16,7 +16,7 @@ tags:
 - sysadmin
 image: /assets/article_images/2015-08-09-franks-jewellers/franks.jpg
 excerpt: Frank's Jewellers has been a trusted store in Uptown Waterloo since 1919. When they needed a new website, Andrew delivered with responsive, modern design.
-seo-title: Frank's Jewellers - New website bolsters historic store
+seo-title: "New website boosts historic Frank's Jewellers | Andrew Paradi"
 ---
 
 Frank's Jewellers has been trusted by couples and jewellery shoppers in Uptown Waterloo since 1919. After having a <a href="http://franksjewellers.ca/old/" target="_blank">basic website</a> for nearly a decade, owner, Bob Franks, realized that against the crowd sourced information of Yelp and improving competitor websites, Frank's Jewellers needed a more effective website.
