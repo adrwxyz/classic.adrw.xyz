@@ -12,6 +12,13 @@ seo-title: "Tinder for Blogs | Andrew Paradi"
 
 **This summer I'm writing a post every week.** 
 
+Here's what I've written so far
+
+- [Coding on iPad: Welcome to Reality](/blog/coding-on-ipad/)
+- [6 Questions to Focus your Resume on Impact](/blog/hired-part-1/)
+- [Why Your Resume Needs SEO, and How](/blog/hired-part-2/)
+- [Get More Interviews with This Resume Structure](/blog/hired-part-3/)
+
 **And you can use Tinder to choose what I write next.**
 
 Each post will answer a *frequently asked question* from friends, classmates, or from the Tinder form below every post.
@@ -42,6 +49,6 @@ So that's the plan! *andrewnotes* is getting a reboot...and this next chapter is
 
 **Top Posts**
 
-- [3 Ways Hack the North Improved our Startup](http://andrewparadi.com/blog/3-ways-hack-the-north-improved-our-startup/)
-- [Teknically: Google Analytics for Non-Techies](http://andrewparadi.com/project/teknically-webplio/)
-- [How An Email Support Agent Improved Downloads by 32%](http://andrewparadi.com/blog/videostream-how-growth-starts-with-great-customer-support/)
+- [3 Ways Hack the North Improved our Startup](/blog/3-ways-hack-the-north-improved-our-startup/)
+- [Teknically: Google Analytics for Non-Techies](/project/teknically-webplio/)
+- [How An Email Support Agent Improved Downloads by 32%](/blog/videostream-how-growth-starts-with-great-customer-support/)

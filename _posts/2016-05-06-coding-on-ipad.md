@@ -9,8 +9,14 @@ tags:
 categories: blog
 image: /assets/article_images/2016-05-06-coding-on-ipad/IMG_1418.jpg
 excerpt: How a year working on iPad convinced me the Post-PC era is almost here
-seo-title: "Coding on iPad: Welcome to Reality | Andrew Paradi"
+seo-title: "I code on my iPad, the world will soon | Andrew Paradi"
 ---
+
+Looking for a job or co-op? Check out *andrewnotes*::**Hired**.
+
+- [6 Questions to Focus your Resume on Impact](/blog/hired-part-1/)
+- [Why Your Resume Needs SEO, and How](/blog/hired-part-2/)
+- [Get More Interviews with This Resume Structure](/blog/hired-part-3/)
 
 Q: Woah, you're coding on an iPad?!
 -----
@@ -166,9 +172,9 @@ Thanks for reading! I'll be posting every Friday this summer as part of my exper
 
 **Top Posts**
 
-- [3 Ways Hack the North Improved our Startup](http://andrewparadi.com/blog/3-ways-hack-the-north-improved-our-startup/)
-- [Teknically: Google Analytics for Non-Techies](http://andrewparadi.com/project/teknically-webplio/)
-- [How An Email Support Agent Improved Downloads by 32%](http://andrewparadi.com/blog/videostream-how-growth-starts-with-great-customer-support/)
+- [3 Ways Hack the North Improved our Startup](/blog/3-ways-hack-the-north-improved-our-startup/)
+- [Teknically: Google Analytics for Non-Techies](/project/teknically-webplio/)
+- [How An Email Support Agent Improved Downloads by 32%](/blog/videostream-how-growth-starts-with-great-customer-support/)
 
 
 
