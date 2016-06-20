@@ -1,5 +1,5 @@
 ---
-title:  "Up 32%: Videostream's Growth Started Answering Support Emails"
+title:  "Up 32%: Videostream's Growth Started by Answering Support Emails"
 date:   2015-09-06 22:50:25
 permalink: /blog/videostream-how-growth-starts-with-great-customer-support/
 tags: startups
