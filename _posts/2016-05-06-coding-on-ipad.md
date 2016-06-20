@@ -16,7 +16,7 @@ Looking for a job or co-op? Check out *andrewnotes*::**Hired**.
 
 - [6 Questions to Focus your Resume on Impact](http://andrewparadi.com/blog/hired-part-1/)
 - [Why Your Resume Needs SEO, and How](http://andrewparadi.com/blog/hired-part-2/)
-- [They'll Notice When your Resume has a Thesis](http://andrewparadi.com/blog/hired-part-3/)
+- [They Can Spot a Resume with a Thesis](http://andrewparadi.com/blog/hired-part-3/)
 
 Q: Woah, you're coding on an iPad?!
 -----

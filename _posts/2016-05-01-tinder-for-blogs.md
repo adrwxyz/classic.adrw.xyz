@@ -17,7 +17,7 @@ Here's what I've written so far
 - [Coding on iPad: Welcome to Reality](/blog/coding-on-ipad/)
 - [6 Questions to Focus your Resume on Impact](http://andrewparadi.com/blog/hired-part-1/)
 - [Why Your Resume Needs SEO, and How](http://andrewparadi.com/blog/hired-part-2/)
-- [They'll Notice When your Resume has a Thesis](http://andrewparadi.com/blog/hired-part-3/)
+- [They Can Spot a Resume with a Thesis](http://andrewparadi.com/blog/hired-part-3/)
 
 **And you can use Tinder to choose what I write next.**
 
