@@ -9,8 +9,14 @@ tags:
 categories: blog
 image: /assets/article_images/2016-05-06-coding-on-ipad/IMG_1418.jpg
 excerpt: How a year working on iPad convinced me the Post-PC era is almost here
-seo-title: "Coding on iPad: Welcome to Reality | Andrew Paradi"
+seo-title: "I code on my iPad, the world will soon | Andrew Paradi"
 ---
+
+Looking for a job or co-op? Check out *andrewnotes*::**Hired**.
+
+- [6 Questions to Focus your Resume on Impact](http://andrewparadi.com/blog/hired-part-1/)
+- [Why Your Resume Needs SEO, and How](http://andrewparadi.com/blog/hired-part-2/)
+- [They'll Notice When your Resume has a Thesis](http://andrewparadi.com/blog/hired-part-3/)
 
 Q: Woah, you're coding on an iPad?!
 -----
