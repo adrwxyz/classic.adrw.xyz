@@ -1,5 +1,5 @@
 ---
-title:  "Up 32%: Videostream's Growth Started by Answering Support Emails"
+title:  "Up 32%: Videostream's Growth Started with Great Support"
 date:   2015-09-06 22:50:25
 permalink: /blog/videostream-how-growth-starts-with-great-customer-support/
 tags: startups
@@ -7,8 +7,8 @@ categories:
 - blog
 - work
 image: /assets/article_images/2015-09-06-videostream-how-growth-starts-with-great-customer-support/vs-home-c.png
-excerpt: Understanding Videostream users better through email support let me write better sales copy. Soon website downloads were up by 32% & weekly actives up 12%!
-seo-title: "Videostream: How I Boosted Downloads 32% in Weeks | Andrew Paradi"
+excerpt: Downloads and Videostream Premium signups were up over 30%. Here's how we did it.
+seo-title: "Up 32%: Videostream's Growth Started with Great Support"
 ---
 
 **As a Growth Intern at <a href="http://getvideostream.com/" target="_blank">Videostream</a>, I used my customer support job to hack growth on all fronts. After answering thousands of customer emails, I could write sales copy that resonated. Website downloads went up by 32%, weekly active users grew 12%, and revenue even went up! This post is about how we did it in only 12 weeks.**
