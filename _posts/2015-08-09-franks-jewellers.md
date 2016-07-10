@@ -21,9 +21,11 @@ seo-title: "New website boosts historic Frank's Jewellers | Andrew Paradi"
 
 Frank's Jewellers has been trusted by couples and jewellery shoppers in Uptown Waterloo since 1919. After having a <a href="http://franksjewellers.ca/old/" target="_blank">basic website (below)</a> for nearly a decade, owner, Bob Franks, realized that against the crowd sourced information of Yelp and improving competitor websites, Frank's Jewellers needed a more effective website.
 
-![Original Frank's Jewellers website circa 2002.](/assets/article_images/2015-08-09-franks-jewellers/frank-jewellers-oldc.png)
+![Old Frank's Jewellers website 2002-2015.](/assets/article_images/2015-08-09-franks-jewellers/frank-jewellers-oldc.png)
 
 Built on Wordpress, I heavily customized a base theme in PHP, coded page templates, wrote new sales copy, built a custom Google Analytics dashboard, and trained staff how to edit content and understand Google Analytics.
+
+![New Frank's Jewellers website.](/assets/article_images/2015-08-09-franks-jewellers/franks.jpg)
 
 The new site is extremely easy to edit, cost efficient to maintain long term, and is beautifully responsive on any device. 
 
