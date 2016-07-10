@@ -23,11 +23,11 @@ Frank's Jewellers has been trusted by couples and jewellery shoppers in Uptown W
 
 Against the intuitive local search of Yelp and improving competitors, owner Bob Frank knew they needed a more effective website.
 
-![Old Frank's Jewellers website 2002-2015. [franksjewellers.ca/old](http://franksjewellers.ca/old/)](/assets/article_images/2015-08-09-franks-jewellers/frank-jewellers-oldc.png)
+![Old Frank's Jewellers website 2002-2015.](/assets/article_images/2015-08-09-franks-jewellers/frank-jewellers-oldc.png)
 
 Built on Wordpress, I heavily customized a base theme in PHP, coded page templates, wrote new sales copy, built a custom Google Analytics dashboard, and trained staff how to edit content and understand Google Analytics.
 
-![New Frank's Jewellers website. [franksjewellers.ca](http://franksjewellers.ca/)](/assets/article_images/2015-08-09-franks-jewellers/franks.jpg)
+![New Frank's Jewellers website.](/assets/article_images/2015-08-09-franks-jewellers/franks.jpg)
 
 The new site is extremely easy to edit, cost efficient to maintain long term, and is beautifully responsive on any device. 
 
