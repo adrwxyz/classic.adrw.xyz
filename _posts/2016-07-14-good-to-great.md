@@ -95,7 +95,7 @@ The difference is that founders and small team leaders can change their heading 
 
 > It's just so much easier to change the heading of a small boat than a huge tanker.
 
-The issue is that most founders don't recognize the wrong heading until it's too late. And, according to Paul Graham, [most are going in the wrong direction](/blog/how-startups-fail-even-with-cash-and-growth/)).
+[According to Paul Graham](/blog/how-startups-fail-even-with-cash-and-growth/), the issue is that most founders don't recognize their on the wrong heading until it's too late.
 
 A core failing of most founders is that they don't take the time to invest in themselves. They *"don't have time"* to keep learning, identify their own weaknesses, blind spots, and be brutally honest about areas where their team or startup is headed towards failure. 
 
