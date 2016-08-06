@@ -80,7 +80,7 @@ After interviewing management teams and employees, Collins distilled **8 key cha
 	
 	Despite countless historical examples to learn from, I still see so many startups obliviously making this same mistake.
 
-7. **The Flywheel and the Doom Loop**: Great companies never became great overnight, or because of a single action or speech. They became great over time. Consistent effort in a single direction compounding throughout the organization until a breakthrough happened not as a function of luck, but of inevitable momentum.
+7. **The Flywheel and the Doom Loop**: Good companies don't become great overnight, or because of a single action or speech. They became great over time. Consistent effort in a single direction compounding throughout the organization until a breakthrough happened not as a function of luck, but of inevitable momentum.
 
 8. **From Good to Great to Built to Last**: Tying in Collin's previous book on turning companies with great results into enduring great companies, great companies are deliberate in self-preservation. They develop processes and leaders that can endure the loss of charismatic leader, changing market conditions, or even a change to their core business.
 
