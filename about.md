@@ -13,40 +13,50 @@ Hi, I'm Andrew!
 
 ![](/assets/images/about-header.jpg)
 
-Welcome to the site! Check out my [projects](/projects/), [andrewnotes](/blog/) blog, [work](/work/) experience, [resume](/assets/files/AndrewParadiResume.pdf), &amp; [github](https://github.com/andrewparadi). 
+Welcome! Explore my side [projects](/projects/), [andrewnotes](/blog/) blog, [work](/work/) experience, [resume](/assets/files/AndrewParadiResume.pdf), &amp; [github](https://github.com/andrewparadi). 
 
-I currently work at [Blitzen](https://blitzen.com) as a developer & copywriting intern. In the fall, I'll be back at University of Waterloo studying computer science.
+I currently work at [Blitzen](https://blitzen.com) as a developer & copywriting intern. In the fall, I'll be back at University of Waterloo studying computer science and be searching for a **Winter 2017 internship**.
 
 I actively write on my [andrewnotes](/blog/) blog, build a [Pebble app](http://andrewparadi.com/progress-pebble/), and post scripture & scenery photographs on [@andrewnotes Instagram](https://www.instagram.com/andrewnotes/).
 
 Work Experience
 -----
 
-I thrive working on teams focused on the end user. Whether that's building software or writing copy that converts, I'm driven to find out what matters most to customers.
+I thrive working on user-focused teams. Whether building software or writing copy that converts, I'm driven to discover what matters most to customers.
 
-I have an unwavering bias for features and marketing strategies that deliver results. 
+I have an unwavering bias for features and growth strategies that deliver results. Data wins over personal preference, 8 days a week. 
 
 I learn quickly. Whether at **Hack the North** ([2014](/project/stockslate/), [2015](/project/losocco/)), **[Videostream](/project/videostream/)** or now at [Blitzen](https://blitzen.com), I pick up frameworks quickly to write code that performs under the scrutiny of code reviews and pressure of competition.
 
-My pitches, online marketing, and code have successfully:
+This summer I've expanded my stack to include:
 
-- Increased active users by 12% in one week for an app that already had over 1.2 million users ([1](blog/videostream-how-growth-starts-with-great-customer-support/))
-- Won over **$65,000** in competition prizes &amp; grants ([2](/project/teknically-webplio/), [3](/blog/the-389-day-laurier-bba/), [4](/blog/the-dream-fades/))
-- Been part of **Google for Entrepreneurs** Cohort 2 ([5](/blog/the-389-day-laurier-bba/))
-- Led to an interview at **Y Combinator** ([6](/blog/the-dream-fades/))
-- &amp; even **elected a President** ([7](/project/sam-campaign))...
+- AngularJS 2
+- Firebase
+- Django (Python 3)
+- PostgreSQL
+- HTML5, CSS3/SASS, Javascript ES6
+- C, C++, Bash
+
+My pitches, conversion sales copy, and code have successfully:
+
+- Boosted organic inbound signups by 81% with new site design and copy [[1](https://blitzen.com)] 
+- Increased **active users by 12%** for a 1.2 million user app [[2](blog/videostream-how-growth-starts-with-great-customer-support/)]
+- Won over **$65,000** in competition prizes &amp; grants[([3](/project/teknically-webplio/)], [[4](/blog/the-389-day-laurier-bba/)], [[5](/blog/the-dream-fades/)]
+- Been part of **Google for Entrepreneurs** Cohort 2 [[6](/blog/the-389-day-laurier-bba/)]
+- Wrote application and interviewed at **Y Combinator** [[7](/blog/the-dream-fades/)]
+- &amp; even **elected a President** [[8](/project/sam-campaign)]...
 
 
 New KW Startup Founders
 -----
 
-I've had my fair share of experiences as an early stage tech startup founder in Kitchener Waterloo. If you're a local founder, I'm always down to grab a coffee at [DVLB](http://dvlb.ca/) and chat. I have strong experience in how to write successful government grant applications (OCE SmartStart), pitches that win competitions, &amp; sales copy that gets your first MVP alpha customers. Email me at andrewparadi.com and we'll find a time to meet up.
+I've had my fair share of experiences as an early stage tech startup founder in Kitchener Waterloo. If you're a local founder, I'm always down to grab a coffee at  [DVLB](http://dvlb.ca/) and chat. I have strong experience in how to write successful government grant applications (OCE SmartStart), pitches that win competitions, &amp; sales copy that gets your first MVP alpha customers. Email me at andrewparadi.com and we'll find a time to meet up.
 
 
 Reach Out
 -----
 
-<!---I have strong coding &amp; communication skills recognized in competition and I'm looking for a **summer 2016 technical internship**. [Email](mailto:me@andrewparadi.com) me at andrewparadi.com if your team wants an intern who takes initiative, learns quickly, and thrives under pressure.--->
+// I have strong coding &amp; communication skills recognized in competition and I'm looking for a **summer 2016 technical internship**. [Email](mailto:me@andrewparadi.com) me at andrewparadi.com if your team wants an intern who takes initiative, learns quickly, and thrives under pressure.
 
 Questions or inquiries? Email *me at andrewparadi.com*
 
