@@ -28,7 +28,7 @@ I have an unwavering bias for features and growth strategies that deliver result
 
 I learn quickly. Whether at **Hack the North** ([2014](/project/stockslate/), [2015](/project/losocco/)), **[Videostream](/project/videostream/)** or now at [Blitzen](https://blitzen.com), I pick up frameworks quickly to write code that performs under the scrutiny of code reviews and pressure of competition.
 
-This summer I've expanded my stack to include:
+**This summer I've expanded my stack to include:**
 
 - AngularJS 2
 - Firebase
@@ -37,7 +37,7 @@ This summer I've expanded my stack to include:
 - HTML5, CSS3/SASS, Javascript ES6
 - C, C++, Bash
 
-My pitches, conversion sales copy, and code have successfully:
+**My pitches, conversion sales copy, and code have successfully:**
 
 - Boosted organic inbound signups by 81% with new site design and copy [[1](https://blitzen.com)] 
 - Increased **active users by 12%** for a 1.2 million user app [[2](blog/videostream-how-growth-starts-with-great-customer-support/)]
@@ -50,13 +50,18 @@ My pitches, conversion sales copy, and code have successfully:
 New KW Startup Founders
 -----
 
-I've had my fair share of experiences as an early stage tech startup founder in Kitchener Waterloo. If you're a local founder, I'm always down to grab a coffee at  [DVLB](http://dvlb.ca/) and chat. I have strong experience in how to write successful government grant applications (OCE SmartStart), pitches that win competitions, &amp; sales copy that gets your first MVP alpha customers. Email me at andrewparadi.com and we'll find a time to meet up.
+I've had my fair share of experiences as an early stage tech startup founder in Kitchener Waterloo. If you're a local founder, I'm always down to grab a coffee at  [DVLB](http://dvlb.ca/) and chat. I have strong experience in how to write successful government grant applications (OCE SmartStart), pitches that win competitions, &amp; sales copy that gets your first MVP alpha customers. Email *me at andrewparadi.com* and we'll find a time to meet up.
 
+
+Internship Opportunities
+-----
+
+I have strong coding &amp; communication skills recognized in competition and I'm looking for a **Winter 2017 technical internship**. 
+
+Email *me at andrewparadi.com* if your team wants to work with a go-getter who takes learns quickly and thrives under pressure.
 
 Reach Out
 -----
-
-// I have strong coding &amp; communication skills recognized in competition and I'm looking for a **summer 2016 technical internship**. [Email](mailto:me@andrewparadi.com) me at andrewparadi.com if your team wants an intern who takes initiative, learns quickly, and thrives under pressure.
 
 Questions or inquiries? Email *me at andrewparadi.com*
 
