@@ -131,9 +131,9 @@ Coming Next Week
 
 Good to Great was only one of the books I flipped through this winter and spring. Next week I'll share the other 4! 
 
-Also if you're interested in other books I'd recommend, check out parts [1](/blog/leisure-reading-part-1/) and [2](/blog/leisure-reading-part-2/) of my leisure reading series.
+Check out other books I'd recommend in parts [1](/blog/leisure-reading-part-1/) and [2](/blog/leisure-reading-part-2/) of my leisure reading series (plus part 3 coming out next week!).
 
-Finally, Special thanks to [Hooli](http://hooli.xyz) for their title support of **andrewnotes**. 
+Finally, special thanks to [Hooli](http://hooli.xyz) for their [title](https://youtu.be/bQO5oqrP1KE) support of **andrewnotes**. 
 
 *Thanks for Reading*
 
