@@ -113,13 +113,16 @@ Consider the Following
 
 I'd encourage every founder to start reading again. 
 
-Keep learning. Admit that you don't know everything. Prioritize your personal growth. 
+Admit that you don't know everything. Keep learning. 
 
-Because a better you will make a better leader.
+Prioritize your personal growth. 
 
-... and by better leader, I mean a better **Level 5 leader**. 
+Because a better you, will make a better leader.
 
-**Your mission should you choose to accept: start reading, and never stop.**
+... and by better leader, I mean a **Level 5 leader**. 
+
+**Your mission should you choose to accept:**
+**Start reading, and never stop.**
 
 Coming Next Week
 ---
@@ -128,7 +131,7 @@ Good to Great was only one of the books I flipped through this winter and spring
 
 Also if you're interested in other books I'd recommend, check out parts [1](/blog/leisure-reading-part-1/) and [2](/blog/leisure-reading-part-2/) of my leisure reading series.
 
-Finally, Special thanks to [Hooli](http://hooli.xyz) for their support of **andrewnotes**::reading. 
+Finally, Special thanks to [Hooli](http://hooli.xyz) for their title support of **andrewnotes**. 
 
 *Thanks for Reading*
 
