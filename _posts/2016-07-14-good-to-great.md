@@ -12,7 +12,7 @@ excerpt: The &#35;1 book I'd recommend if you want to improve your startup and i
 seo-title: "Why startup founders should read Good to Great | Andrew Paradi"
 ---
 
-**I read [Good to Great](/blog/leisure-reading-part-3/) last semester and it's now the #1 book I'd recommend to startup founders and leaders. [The Hard Thing About Hard Things](/blog/leisure-reading-part-1/#hardthing) is still a very close #2, but this post examines the newest title champion.**
+**I read [Good to Great](/blog/leisure-reading-part-3/) last semester and it's now the #1 book I'd recommend to startup founders and leaders. [The Hard Thing About Hard Things](/blog/leisure-reading-part-1/#hardthing) is still a very close #2, but this post examines the newest title champion of my bookshelf.**
 
 Too many founders stop (or never start) investing in their own personal growth. Yet they are surprised when their own ideas stagnate or their team continues to fall into the same patterns of failure.
 
@@ -51,9 +51,11 @@ After interviewing management teams and employees, Collins distilled **8 key cha
 
 1. **Level 5 Leadership**: Defined not as the charismatic leaders society idolizes, Level 5's are quiet, humble, and determined. Working hard to listen, lead with integrity and by example, they are more Lincoln than Patton or Caesar.
 
-2. **First Who...then What**: Instead of starting with vision or strategy, Level's 5's always start with people.*"Get the right people on the bus, the wrong people off the bus, and the right people in the right seats – and then they figured out where to drive it."* 
+2. **First Who...then What**: Instead of starting with vision or strategy, Level's 5's always start with people. *"Get the right people on the bus, the wrong people off the bus, and the right people in the right seats – and then they figured out where to drive it."* (Good to Great) 
 
-	I've underestimated the importance of this one to my own detriment and my own misunderstanding of another team's success.
+	I've underestimated the importance of this key to my own detriment and my own misunderstanding of another team's success.
+
+	The right people will let your startup succeed, and the wrong can easily cause it to crumble before your eyes. 
 
 3. **Confront the Brutal Facts (Yet Never Lose Faith)**: Like a Prisoner of War, a great leader and management team doesn't dilute themselves with false hope or blissful ignorance. They confront the facts no matter how brutal but at the same time hold an unwavering faith that they can and will succeed.
 
@@ -106,9 +108,9 @@ A core failing of most founders is that they don't take the time to invest in th
 
 When founders can't make the time to invest in themselves, it isn't too surprising when they *"don't have time"* to focus on strategy, roadmaps, their employees, or their customers. 
 
-Most founders simply end up "putting out fires", convinced that their *"busyness"* is a sign of their proficiency as a leader, blindly ignorant of the real causes for their floundering startup. 
+Most founders simply end up "putting out fires", convinced that their *"busyness"* is a sign of their proficiency as a leader, blindly ignorant of the real causes for their floundering startup.
 
-One part of our culture I was very proud of at [Teknically](/project/teknically-webplio???!!) was both Brandon and my unyielding desire to keep reading and learning. We each read through 1 book per month on topics from [startup financing](/blog/7-personal-lessons-from-founding-a-startup/) to C.S. Lewis to UX design theory.
+One part of our culture I was very proud of at [Teknically](/project/teknically-webplio???!!) was our unyielding desire to keep reading and learning. We each read through almost 1 book per month on topics from [startup financing](/blog/7-personal-lessons-from-founding-a-startup/) to C.S. Lewis to UX design theory.
 
 Regular reading gave us new ideas and perspectives to bounce off each other. With something other than our startup to think about, nightly and lunch reading also helped us stay sane as founders!
 
