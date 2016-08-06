@@ -39,7 +39,7 @@ I learn quickly. Whether at **Hack the North** ([2014](/project/stockslate/), [2
 
 **My pitches, conversion sales copy, and code have successfully:**
 
-- Boosted organic inbound signups by 81% with new site design and copy [[1](https://blitzen.com)] 
+- Boosted inbound signups by 81% with new site design & copy [[1](https://blitzen.com)] 
 - Increased **active users by 12%** for a 1.2 million user app [[2](blog/videostream-how-growth-starts-with-great-customer-support/)]
 - Won over **$65,000** in competition prizes &amp; grants[([3](/project/teknically-webplio/)], [[4](/blog/the-389-day-laurier-bba/)], [[5](/blog/the-dream-fades/)]
 - Been part of **Google for Entrepreneurs** Cohort 2 [[6](/blog/the-389-day-laurier-bba/)]
