@@ -74,13 +74,13 @@ After interviewing management teams and employees, Collins distilled **8 key cha
 	
 	- Or consider Research in Motion / Blackberry that believed technology like data-efficient networks and physical keyboards could be a primary, lasting competitive advantage. [Paralyzed by their arrogance and internal chaos](/blog/leisure-reading-part-1/#losingthesignal), they failed to see why the iPhone mattered until it was too late.
 	
-		The iPhone soared because they delivered an email, internet, media, and app experience that anyone from 5 to 95 years old could pick up and use. People wanted the better experience and didn't care if that cost them a keyboard, battery life, and higher cellular costs.
+		The iPhone soared because they delivered an email, internet, media, and app experience that anyone from 5 to 95 years old could use. People wanted the better experience and didn't care if that cost them a keyboard, battery life, and higher cellular costs.
 
 		**Blackberry made technology the product. Apple used technology as the medium for an experience.** 
 	
 	Despite countless historical examples to learn from, I still see so many startups obliviously making this same mistake.
 
-7. **The Flywheel and the Doom Loop**: Great companies never became great overnight or because of a single action or speech. They became great over time. Consistent effort in a single direction compounding throughout the organization until a breakthrough happened not as a function of luck, but of inevitable momentum.
+7. **The Flywheel and the Doom Loop**: Great companies never became great overnight, or because of a single action or speech. They became great over time. Consistent effort in a single direction compounding throughout the organization until a breakthrough happened not as a function of luck, but of inevitable momentum.
 
 8. **From Good to Great to Built to Last**: Tying in Collin's previous book on turning companies with great results into enduring great companies, great companies are deliberate in self-preservation. They develop processes and leaders that can endure the loss of charismatic leader, changing market conditions, or even a change to their core business.
 
