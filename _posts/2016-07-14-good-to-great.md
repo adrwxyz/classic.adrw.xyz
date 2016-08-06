@@ -114,10 +114,8 @@ Consider the Following
 
 ![Bill Nye thinks you should consider this too](/assets/article_images/2016-07-14-good-to-great/consider-the-following-bill-nye.jpg)
 
-I'd encourage every founder to start reading again. 
-
+I'd encourage every founder to start reading again.
 Admit that you don't know everything. Keep learning. 
-
 Prioritize your personal growth. 
 
 Because a better you, will make a better leader.
