@@ -105,9 +105,9 @@ When founders can't make the time to invest in themselves, it isn't too surprisi
 
 Most founders simply end up "putting out fires", convinced that their *"busyness"* is a sign of their proficiency as a leader, blindly ignorant of the real causes for their floundering startup. 
 
-One part of our culture I was very proud of at [Teknically](/project/teknically-webplio???!!) was both Brandon and my unyielding desire to keep reading and learning. We each read through nearly 1 book per month on topics from [startup financing](/blog/7-personal-lessons-from-founding-a-startup/) to C.S. Lewis to UX design theory.
+One part of our culture I was very proud of at [Teknically](/project/teknically-webplio???!!) was both Brandon and my unyielding desire to keep reading and learning. We each read through 1 book per month on topics from [startup financing](/blog/7-personal-lessons-from-founding-a-startup/) to C.S. Lewis to UX design theory.
 
-Regular reading gave us new ideas and perspectives to bounce off each other. With something other than our startup to think about, reading helped us stay sane as founders.
+Regular reading gave us new ideas and perspectives to bounce off each other. With something other than our startup to think about, nightly and lunch reading also helped us stay sane as founders!
 
 Consider the Following
 ---
