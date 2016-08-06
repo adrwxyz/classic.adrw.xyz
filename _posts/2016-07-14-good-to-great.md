@@ -18,11 +18,14 @@ Too many founders stop (or never start) investing in their own personal growth. 
 
 *Good to Great* is a fanatically data driven analysis of why some companies remain average, and how others succeed drastically more than their peers, industry, and the overall market.
 
-This is also a great excuse for you to crack a great book open and start investing again in yourself. It's worth it and as I've quoted before...
+Most of all it focuses on why being *good* is the enemy of being **great**.
 
-> "The average American reads one book per year. The average millionaire reads one book per week."
+This post is also a great excuse for you to crack a great book open and start investing again in yourself. It's worth it and as I've quoted before...
 
-Next week, I'll release part 3 of my every-6ish-months reading list ([part 1](/blog/leisure-reading-part-1/), [part 2](/blog/leisure-reading-part-2/))...but *Good to Great* deserved a post of its own.
+**"The average American reads one book per year.** 
+**The average millionaire reads one book per week."**
+
+Next week, I'll release part 3 of my every-6ish-months reading list ([part 1](/blog/leisure-reading-part-1/), [part 2](/blog/leisure-reading-part-2/))... but *Good to Great* deserved a post of its own.
 
 Good to Great – Jim Collins
 ---
