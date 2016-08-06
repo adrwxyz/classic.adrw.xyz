@@ -51,11 +51,11 @@ After interviewing management teams and employees, Collins distilled **8 key cha
 
 1. **Level 5 Leadership**: Defined not as the charismatic leaders society idolizes, Level 5's are quiet, humble, and determined. Working hard to listen, lead with integrity and by example, they are more Lincoln than Patton or Caesar.
 
-2. **First Who...then What**: Instead of starting with vision or strategy, Level's 5's always start with people. *"Get the right people on the bus, the wrong people off the bus, and the right people in the right seats – and then they figured out where to drive it."* (Good to Great) 
+2. **First Who...then What**: Instead of starting with vision or strategy, Level's 5's always start with people. *"Get the right people on the bus, the wrong people off the bus, and the right people in the right seats – and then they figured out where to drive it."* (Jim Collins) 
 
 	I've underestimated the importance of this key to my own detriment and my own misunderstanding of another team's success.
 
-	The right people will let your startup succeed, and the wrong can easily cause it to crumble before your eyes. 
+	> The right people will let your startup succeed, and the wrong can cause it to crumble before your eyes. 
 
 3. **Confront the Brutal Facts (Yet Never Lose Faith)**: Like a Prisoner of War, a great leader and management team doesn't dilute themselves with false hope or blissful ignorance. They confront the facts no matter how brutal but at the same time hold an unwavering faith that they can and will succeed.
 
