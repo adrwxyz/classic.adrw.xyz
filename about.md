@@ -41,7 +41,7 @@ I learn quickly. Whether at **Hack the North** ([2014](/project/stockslate/), [2
 
 - Boosted inbound signups by 81% with new site design & copy [[1](https://blitzen.com)] 
 - Increased **active users by 12%** for a 1.2 million user app [[2](blog/videostream-how-growth-starts-with-great-customer-support/)]
-- Won over **$65,000** in competition prizes &amp; grants[([3](/project/teknically-webplio/)], [[4](/blog/the-389-day-laurier-bba/)], [[5](/blog/the-dream-fades/)]
+- Won over **$65,000** in competition prizes &amp; grants [[3](/project/teknically-webplio/)], [[4](/blog/the-389-day-laurier-bba/)], [[5](/blog/the-dream-fades/)]
 - Been part of **Google for Entrepreneurs** Cohort 2 [[6](/blog/the-389-day-laurier-bba/)]
 - Wrote application and interviewed at **Y Combinator** [[7](/blog/the-dream-fades/)]
 - &amp; even **elected a President** [[8](/project/sam-campaign)]...
