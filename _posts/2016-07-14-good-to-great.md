@@ -51,9 +51,10 @@ After interviewing management teams and employees, Collins distilled **8 key cha
 2. **First Who...then What**: Instead of starting with vision or strategy, Level's 5's always start with people.*"Get the right people on the bus, the wrong people off the bus, and the right people in the right seats – and then they figured out where to drive it."* 
 
 	I've underestimated the importance of this one to my own detriment and my own misunderstanding of another team's success.
-- **Confront the Brutal Facts (Yet Never Lose Faith)**: Like a Prisoner of War, a great leader and management team doesn't dilute themselves with false hope or blissful ignorance. They confront the facts no matter how brutal but at the same time hold an unwavering faith that they can and will succeed.
 
-- **The Hedgehog Concept (Simplicity within the Three Circles)**: Referencing Isaiah Berlin's famous essay, the world divides into foxes and hedgehogs by the Greek parable *"The fox knows many things, but the hedgehog knows one big thing."* Specifically, the fox will try to be cunning, but the hedgehog wins with a single core strength of curling into a defensive ball of needles. 
+3. **Confront the Brutal Facts (Yet Never Lose Faith)**: Like a Prisoner of War, a great leader and management team doesn't dilute themselves with false hope or blissful ignorance. They confront the facts no matter how brutal but at the same time hold an unwavering faith that they can and will succeed.
+
+4. **The Hedgehog Concept (Simplicity within the Three Circles)**: Referencing Isaiah Berlin's famous essay, the world divides into foxes and hedgehogs by the Greek parable *"The fox knows many things, but the hedgehog knows one big thing."* Specifically, the fox will try to be cunning, but the hedgehog wins with a single core strength of curling into a defensive ball of needles. 
 
 	Every great company is the best in the world at something. No great company has a core business that is mediocre. Their core competencies always converge in the centre of these three questions:
 	
@@ -61,27 +62,27 @@ After interviewing management teams and employees, Collins distilled **8 key cha
 	- What can you be **the best in the world** at?
 	- What drives your **economic engine**?
 	
-- **A Culture of Discipline**: A self-disciplined group of people does not need hierarchy, bureaucracy, or excessive controls. Like the old adage that *character is what you do when no one is looking*, self-disciplined people with freedom still act with integrity and entrepreneurial spirit for the better of the firm. 
+5. **A Culture of Discipline**: A self-disciplined group of people does not need hierarchy, bureaucracy, or excessive controls. Like the old adage that *character is what you do when no one is looking*, self-disciplined people with freedom still act with integrity and entrepreneurial spirit for the better of the firm. 
 
 	Undisciplined people abuse freedom and require the negative bureaucratic controls that though partially effective, will never inspire the performance that self-disciplined people will inherently do.
 
-- **Technology Accelerators**: Most companies treat technology in one of two ways: like a fad that must be catered to reluctantly, or as the primary source of their future success. Yet great companies think of technology not as an end, but a means. They carefully choose and commit technologies that can accelerate existing successful processes.
+6. **Technology Accelerators**: Most companies treat technology in one of two ways: like a fad that must be catered to reluctantly, or as the primary source of their future success. Yet great companies think of technology not as an end, but a means. They carefully choose and commit technologies that can accelerate existing successful processes.
 
 	- [Think about banks vs fintech](/blog/canadian-fintech-startups-have-only-3-options/). Banks resist and then reluctantly submit to new technologies. The primary value proposition of many fintech startups isn't better technology, it's better customer experience. 
 	
-	Better technology is simply a more effective medium to provide new products, prices, and support to customers fed up with the bureaucracy, fees, and self-interest of big banks.
+		Better technology is simply a more effective medium to provide new products, prices, and support to customers fed up with the bureaucracy, fees, and self-interest of big banks.
 	
 	- Or consider Research in Motion / Blackberry that believed technology like data-efficient networks and physical keyboards could be a primary, lasting competitive advantage. [Paralyzed by their arrogance and internal chaos](/blog/leisure-reading-part-1/#losingthesignal), they failed to see why the iPhone mattered until it was too late.
 	
-	The iPhone soared because they delivered an email, internet, media, and app experience that anyone from 5 to 95 years old could pick up and use. People wanted the better experience and didn't care if that cost them a keyboard, battery life, and higher cellular costs.
+		The iPhone soared because they delivered an email, internet, media, and app experience that anyone from 5 to 95 years old could pick up and use. People wanted the better experience and didn't care if that cost them a keyboard, battery life, and higher cellular costs.
 
-	**Blackberry made technology the product. Apple used technology as the medium for an experience.** 
+		**Blackberry made technology the product. Apple used technology as the medium for an experience.** 
 	
 	Despite countless historical examples to learn from, I still see so many startups obliviously making this same mistake.
 
-- **The Flywheel and the Doom Loop**: Great companies never became great overnight or because of a single action or speech. They became great over time. Consistent effort in a single direction compounding throughout the organization until a breakthrough happened not as a function of luck, but of inevitable momentum.
+7. **The Flywheel and the Doom Loop**: Great companies never became great overnight or because of a single action or speech. They became great over time. Consistent effort in a single direction compounding throughout the organization until a breakthrough happened not as a function of luck, but of inevitable momentum.
 
-- **From Good to Great to Built to Last**: Tying in Collin's previous book on turning companies with great results into enduring great companies, great companies are deliberate in self-preservation. They develop processes and leaders that can endure the loss of charismatic leader, changing market conditions, or even a change to their core business.
+8. **From Good to Great to Built to Last**: Tying in Collin's previous book on turning companies with great results into enduring great companies, great companies are deliberate in self-preservation. They develop processes and leaders that can endure the loss of charismatic leader, changing market conditions, or even a change to their core business.
 
 Why Good to Great matters to founders
 ---
