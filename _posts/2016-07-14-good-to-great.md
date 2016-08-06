@@ -25,7 +25,7 @@ This post is also a great excuse for you to crack a great book open and start in
 **"The average American reads one book per year.** 
 **The average millionaire reads one book per week."**
 
-Next week, I'll release part 3 of my every-6ish-months reading list ([part 1](/blog/leisure-reading-part-1/), [part 2](/blog/leisure-reading-part-2/))... but *Good to Great* deserved a post of its own.
+Next week, I'll release [part 3](/blog/leisure-reading-part-3/) of my every-6ish-months book list (parts [1](/blog/leisure-reading-part-1/) & [2](/blog/leisure-reading-part-2/))... but *Good to Great* deserved a post of its own.
 
 Good to Great – Jim Collins
 ---
