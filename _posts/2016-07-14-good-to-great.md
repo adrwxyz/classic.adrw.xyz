@@ -1,5 +1,5 @@
 ---
-title:  "How to Achieve Greatness, not Goodness"
+title:  "To Achieve Greatness, Abandon Goodness"
 date:   2016-07-14 18:00:00
 tags:
 - summer2016
@@ -8,11 +8,11 @@ tags:
 - life
 categories: blog
 image: /assets/article_images/2016-07-14-good-to-great/DSC_0726c.jpg
-excerpt: The &#35;1 book I'd recommend if you want to improve your startup and understand what makes a company succeed long term. 
+excerpt: The &#35;1 book I'd recommend if you want to improve your startup and ignore the Hooli mantra. 
 seo-title: "Why startup founders should read Good to Great | Andrew Paradi"
 ---
 
-**I read Good to Great by Jim Collins last semester and it's now the #1 book I'd recommend to startup founders and leaders. Ben Horowitz's [The Hard Thing About Hard Things](/blog/leisure-reading-part-1/#hardthing) is still a very close #2. This post explains why my list has changed.**
+**I read [Good to Great](/blog/leisure-reading-part-3/) last semester and it's now the #1 book I'd recommend to startup founders and leaders. [The Hard Thing About Hard Things](/blog/leisure-reading-part-1/#hardthing) is still a very close #2, but this post examines the newest title champion.**
 
 Too many founders stop (or never start) investing in their own personal growth. Yet they are surprised when their own ideas stagnate or their team continues to fall into the same patterns of failure.
 
@@ -131,7 +131,7 @@ Coming Next Week
 
 Good to Great was only one of the books I flipped through this winter and spring. Next week I'll share the other 4! 
 
-Check out other books I'd recommend in parts [1](/blog/leisure-reading-part-1/) and [2](/blog/leisure-reading-part-2/) of my leisure reading series (plus part 3 coming out next week!).
+Check out other books I'd recommend in parts [1](/blog/leisure-reading-part-1/) and [2](/blog/leisure-reading-part-2/) of my leisure reading series (plus [part 3](/blog/leisure-reading-part-3/) coming out next week!).
 
 Finally, special thanks to [Hooli](http://hooli.xyz) for their [title](https://youtu.be/bQO5oqrP1KE) support of **andrewnotes**. 
 
