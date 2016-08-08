@@ -8,13 +8,15 @@ tags:
 - life
 categories: blog
 image: /assets/article_images/2016-07-14-good-to-great/DSC_0726c.jpg
-excerpt: The &#35;1 book I'd recommend if you want to improve your startup and ignore the Hooli mantra. 
+excerpt: "Good to Great" is the &#35;1 book I'd recommend if you want to improve your startup and ignore the Hooli mantra. 
 seo-title: "Why startup founders should read Good to Great | Andrew Paradi"
 ---
 
 **I read [Good to Great](/blog/leisure-reading-part-3/) last semester and it's now the #1 book I'd recommend to startup founders and leaders. [The Hard Thing About Hard Things](/blog/leisure-reading-part-1/#hardthing) is still a very close #2, but this post examines the newest title champion of my bookshelf.**
 
 Too many founders stop (or never start) investing in their own personal growth. Yet they are surprised when their own ideas stagnate or their team continues to fall into the same patterns of failure.
+
+As a student, I've also wondered why some companies I work at on co-op are thriving but others are stagnant. What are those key ingredients that I could start looking for in interviews to work at successful companies? 
 
 *Good to Great* is a fanatically data driven analysis of why some companies remain average, and how others succeed drastically more than their peers, industry, and the overall market.
 
