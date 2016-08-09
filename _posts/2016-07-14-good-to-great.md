@@ -108,7 +108,7 @@ The difference is that founders and small team leaders can change their heading 
 
 A core failing of most founders is that they do not take the time to invest in themselves. They *"don't have time"* to keep learning, identify their own weaknesses, blind spots, and be brutally honest about areas where their team or startup is headed towards failure. 
 
-> Fail to invest in yourself, and your investments will tend to fail.
+> Fail to invest in yourself, and your investments tend to fail.
 
 When founders can not make the time to invest in themselves, it is not too surprising when they *"don't have time"* to focus on strategy, roadmaps, their employees, or their customers. 
 
