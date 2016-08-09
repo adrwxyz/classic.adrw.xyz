@@ -16,7 +16,7 @@ seo-title: "Why startup founders should read Good to Great | Andrew Paradi"
 
 Too many founders stop (or never start) investing in their own personal growth. Yet they are surprised when their own ideas stagnate or their team continues to fall into the same patterns of failure.
 
-As a student, I've also wondered why some companies I work at on co-op are thriving but others are stagnant. What are those key ingredients that I could start looking for in interviews to work at successful companies? 
+As a co-op student or graduate, you may wonder why some companies you work at thrive but others are stagnant. What are those key ingredients that you could start screening for in interviews to land work at successful companies?
 
 *Good to Great* is a fanatically data driven analysis of why some companies remain average, and how others succeed drastically more than their peers, industry, and the overall market.
 
