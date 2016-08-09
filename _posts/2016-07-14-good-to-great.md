@@ -131,7 +131,7 @@ Because a better you, will make a better leader.
 
 ... and by better leader, I mean a **Level 5 leader**. 
 
-**Your mission should you choose to accept:**
+**How do you kickstart your personal development? Your first mission should you choose to accept:**
 
 > Start reading, and never stop.
 
