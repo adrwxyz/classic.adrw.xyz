@@ -8,7 +8,7 @@ tags:
 - life
 categories: blog
 image: /assets/article_images/2016-07-14-good-to-great/DSC_0726c.jpg
-excerpt: Good to Great is the &#35;1 book I would recommend if you want to improve your startup and ignore the Hooli mantra. 
+excerpt: Good to Great is the &#35;1 book I would recommend if you want to improve your startup and stick it to the Hooli mantra. 
 seo-title: "Why startup founders should read Good to Great | Andrew Paradi"
 ---
 
