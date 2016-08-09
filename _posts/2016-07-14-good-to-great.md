@@ -8,11 +8,11 @@ tags:
 - life
 categories: blog
 image: /assets/article_images/2016-07-14-good-to-great/DSC_0726c.jpg
-excerpt: Good to Great is the &#35;1 book I'd recommend if you want to improve your startup and ignore the Hooli mantra. 
+excerpt: Good to Great is the &#35;1 book I would recommend if you want to improve your startup and ignore the Hooli mantra. 
 seo-title: "Why startup founders should read Good to Great | Andrew Paradi"
 ---
 
-**I read [Good to Great](/blog/leisure-reading-part-3/) last semester and it's now the #1 book I'd recommend to startup founders and leaders. [The Hard Thing About Hard Things](/blog/leisure-reading-part-1/#hardthing) is still a very close #2, but this post examines the newest title champion of my bookshelf.**
+**I read [Good to Great](/blog/leisure-reading-part-3/) last semester and it is now the #1 book I would recommend to startup founders and leaders. [The Hard Thing About Hard Things](/blog/leisure-reading-part-1/#hardthing) is still a very close #2, but this post examines the newest title champion of my bookshelf.**
 
 Too many founders stop (or never start) investing in their own personal growth. Yet they are surprised when their own ideas stagnate or their team continues to fall into the same patterns of failure.
 
@@ -22,12 +22,12 @@ As a co-op student or graduate, you may wonder why some companies you work at th
 
 Most of all it focuses on why being *good* is the enemy of being **great**.
 
-This post is also a great excuse for you to crack a great book open and start investing again in yourself. It's worth it and as I've quoted before...
+This post is also a great excuse for you to crack a great book open and start investing again in yourself. It is worth it and as I have quoted before...
 
 **"The average American reads one book per year.** 
 **The average millionaire reads one book per week."**
 
-Next week, I'll release [part 3](/blog/leisure-reading-part-3/) of my every-6ish-months book list (parts [1](/blog/leisure-reading-part-1/) & [2](/blog/leisure-reading-part-2/))... but *Good to Great* deserved a post of its own.
+Next week, I will release [part 3](/blog/leisure-reading-part-3/) of my every-6ish-months book list (parts [1](/blog/leisure-reading-part-1/) & [2](/blog/leisure-reading-part-2/))... but *Good to Great* deserved a post of its own.
 
 Good to Great – Jim Collins
 ---
@@ -53,13 +53,13 @@ After interviewing management teams and employees, Collins distilled **8 key cha
 
 1. **Level 5 Leadership**: Defined not as the charismatic leaders society idolizes, Level 5's are quiet, humble, and determined. Working hard to listen, lead with integrity and by example, they are more Lincoln than Patton or Caesar.
 
-2. **First Who...then What**: Instead of starting with vision or strategy, Level's 5's always start with people. *"Get the right people on the bus, the wrong people off the bus, and the right people in the right seats – and then they figured out where to drive it."* (Jim Collins) 
+2. **First Who...then What**: Instead of starting with vision or strategy, Level 5's always start with people. *"Get the right people on the bus, the wrong people off the bus, and the right people in the right seats – and then they figured out where to drive it."* (Jim Collins) 
 
-	I've underestimated the importance of this key to my own detriment and my own misunderstanding of another team's success.
+	I have underestimated the importance of this key to my own detriment and my own misunderstanding of another team's success.
 
 	> The right people will let your startup succeed, and the wrong can cause it to crumble before your eyes. 
 
-3. **Confront the Brutal Facts (Yet Never Lose Faith)**: Like a Prisoner of War, a great leader and management team doesn't dilute themselves with false hope or blissful ignorance. They confront the facts no matter how brutal but at the same time hold an unwavering faith that they can and will succeed.
+3. **Confront the Brutal Facts (Yet Never Lose Faith)**: Like a Prisoner of War, a great leader and management team does not dilute themselves with false hope or blissful ignorance. They confront the facts no matter how brutal but at the same time hold an unwavering faith that they can and will succeed.
 
 4. **The Hedgehog Concept (Simplicity within the Three Circles)**: Referencing Isaiah Berlin's famous essay, the world divides into foxes and hedgehogs by the Greek parable *"The fox knows many things, but the hedgehog knows one big thing."* Specifically, the fox will try to be cunning, but the hedgehog wins with a single core strength of curling into a defensive ball of needles. 
 
@@ -75,19 +75,19 @@ After interviewing management teams and employees, Collins distilled **8 key cha
 
 6. **Technology Accelerators**: Most companies treat technology in one of two ways: like a fad that must be catered to reluctantly, or as the primary source of their future success. Yet great companies think of technology not as an end, but a means. They carefully choose and commit technologies that can accelerate existing successful processes.
 
-	- [Think about banks vs fintech](/blog/canadian-fintech-startups-have-only-3-options/). Banks resist and then reluctantly submit to new technologies. The primary value proposition of many fintech startups isn't better technology, it's better customer experience. 
+	- **[Think about banks vs fintech](/blog/canadian-fintech-startups-have-only-3-options/)**. Banks resist and then reluctantly submit to new technologies. The primary value proposition of many fintech startups is not better technology, it is better customer experience. 
 	
 		Better technology is simply a more effective medium to provide new products, prices, and support to customers fed up with the bureaucracy, fees, and self-interest of big banks.
 	
-	- Or consider Research in Motion / Blackberry that believed technology like data-efficient networks and physical keyboards could be a primary, lasting competitive advantage. [Paralyzed by their arrogance and internal chaos](/blog/leisure-reading-part-1/#losingthesignal), they failed to see why the iPhone mattered until it was too late.
+	- Or consider **Research in Motion / Blackberry** that believed technology like data-efficient networks and physical keyboards could be a primary, lasting competitive advantage. [Paralyzed by their arrogance and internal chaos](/blog/leisure-reading-part-1/#losingthesignal), they failed to see why the iPhone mattered until it was too late.
 	
-		The iPhone soared because they delivered an email, internet, media, and app experience that anyone from 5 to 95 years old could use. People wanted the better experience and didn't care if that cost them a keyboard, battery life, and higher cellular costs.
+		The iPhone soared because they delivered an email, internet, media, and app experience that anyone from 5 to 95 years old could use. People wanted the better experience and did not care if that cost them a keyboard, battery life, and higher cellular costs.
 
 		**Blackberry made technology the product. Apple used technology as the medium for an experience.** 
 	
 	Despite countless historical examples to learn from, I still see so many startups obliviously making this same mistake.
 
-7. **The Flywheel and the Doom Loop**: Good companies don't become great overnight, or because of a single action or speech. They became great over time. It takes consistent effort in a single direction compounding throughout the organization. A breakthrough becomes inevitable not as a function of luck, but of resiliant momentum.
+7. **The Flywheel and the Doom Loop**: Good companies do not become great overnight, or because of a single action or speech. They became great over time. It takes consistent effort in a single direction compounding throughout the organization. A breakthrough becomes inevitable not as a function of luck, but of resiliant momentum.
 
 8. **From Good to Great to Built to Last**: Tying in Collin's previous book on turning companies with great results into enduring great companies, great companies are deliberate in self-preservation. They develop processes and leaders that can endure the loss of charismatic leader, changing market conditions, or even a change to their core business.
 
@@ -96,19 +96,19 @@ Why Good to Great matters to founders
 
 This book was clearly written for the MBA certified suits working at traditional corporations. Yet, the biggest problems I continue to see with startups stem from ignoring one, though usually many...or all, of these 8 concepts.
 
-Whether it's ineffective leadership, not prioritizing people, or lacking the laser focus of a hedgehog concept, startups and small teams suffer from the same potentially fatal wounds that large corporations do.
+Whether it is ineffective leadership, not prioritizing people, or lacking the laser focus of a hedgehog concept, startups and small teams suffer from the same potentially fatal wounds that large corporations do.
 
 The difference is that founders and small team leaders can change their heading much faster than big corporations. 
 
-> It's just so much easier to change the heading of a small boat than a huge tanker.
+> It is just so much easier to change the heading of a small boat than a huge tanker.
 
-[According to Paul Graham](/blog/how-startups-fail-even-with-cash-and-growth/), the issue is that most founders don't recognize their on the wrong heading until it's too late.
+[According to Paul Graham](/blog/how-startups-fail-even-with-cash-and-growth/), the issue is that most founders do not recognize they are on the wrong heading until it's too late.
 
-A core failing of most founders is that they don't take the time to invest in themselves. They *"don't have time"* to keep learning, identify their own weaknesses, blind spots, and be brutally honest about areas where their team or startup is headed towards failure. 
+A core failing of most founders is that they do not take the time to invest in themselves. They *"don't have time"* to keep learning, identify their own weaknesses, blind spots, and be brutally honest about areas where their team or startup is headed towards failure. 
 
 > Fail to invest in yourself, and your investments will tend to fail.
 
-When founders can't make the time to invest in themselves, it isn't too surprising when they *"don't have time"* to focus on strategy, roadmaps, their employees, or their customers. 
+When founders can not make the time to invest in themselves, it is not too surprising when they *"don't have time"* to focus on strategy, roadmaps, their employees, or their customers. 
 
 Most founders simply end up "putting out fires", convinced that their *"busyness"* is a sign of their proficiency as a leader, blindly ignorant of the real causes for their floundering startup.
 
@@ -121,8 +121,8 @@ Consider the Following
 
 ![Bill Nye thinks you should consider this too](/assets/article_images/2016-07-14-good-to-great/consider-the-following-bill-nye.jpg)
 
-I'd encourage every founder to start reading again.
-Admit that you don't know everything. Keep learning. 
+I would encourage every founder to start reading again.
+Admit that you do not know everything. Keep learning. 
 Prioritize your personal growth. 
 
 Because a better you, will make a better leader.
@@ -138,7 +138,7 @@ Coming Next Week
 
 Good to Great was only one of the books I flipped through this winter and spring. Next week I'll share the other 4! 
 
-Check out other books I'd recommend in parts [1](/blog/leisure-reading-part-1/) and [2](/blog/leisure-reading-part-2/) of my leisure reading series (plus [part 3](/blog/leisure-reading-part-3/) coming out next week!).
+Check out other books I would recommend in parts [1](/blog/leisure-reading-part-1/) and [2](/blog/leisure-reading-part-2/) of my leisure reading series (plus [part 3](/blog/leisure-reading-part-3/) coming out next week!).
 
 Finally, special thanks to [Hooli](http://hooli.xyz) for their [title](https://youtu.be/bQO5oqrP1KE) support of **andrewnotes**. 
 
