@@ -110,13 +110,13 @@ A core failing of most founders is that they do not take the time to invest in t
 
 > Fail to invest in yourself, and your investments tend to fail.
 
-When founders can not make the time to invest in themselves, it is not too surprising when they *"don't have time"* to focus on strategy, roadmaps, their employees, or their customers. 
+When founders can not make the time to invest in themselves, it is not too surprising when they *"don't have time"* to adequately focus on their startup's strategy, roadmaps, employees, or customers. 
 
 Most founders simply end up "putting out fires", convinced that their *"busyness"* is a sign of their proficiency as a leader, blindly ignorant of the real causes for their floundering startup.
 
 One part of our culture I was very proud of at [Teknically](/project/teknically-webplio???!!) was our unyielding desire to keep reading and learning. We each read through almost 1 book per month on topics from [startup financing](/blog/7-personal-lessons-from-founding-a-startup/) to C.S. Lewis to UX design theory.
 
-Regular reading gave us new ideas and perspectives to bounce off each other. With something other than our startup to think about, nightly and lunch reading also helped us stay sane as founders!
+Regular reading gave us new ideas and perspectives to bounce off each other. With something other than our startup to think about and discuss, nightly and lunch reading also helped us stay sane as founders!
 
 Consider the Following
 ---
