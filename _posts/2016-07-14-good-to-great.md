@@ -12,7 +12,7 @@ excerpt: Good to Great is the &#35;1 book I would recommend if you want to impro
 seo-title: "Why startup founders should read Good to Great | Andrew Paradi"
 ---
 
-**I read [Good to Great](/blog/leisure-reading-part-3/) last semester and it is now the #1 book I would recommend to startup founders and leaders. [The Hard Thing About Hard Things](/blog/leisure-reading-part-1/#hardthing) is still a very close #2, but this post examines the newest title champion of my bookshelf.**
+**I read [Good to Great](/blog/books-part-3/) last semester and it is now the #1 book I would recommend to startup founders and leaders. [The Hard Thing About Hard Things](/blog/books-part-1/#hardthing) is still a very close #2, but this post examines the newest title champion of my bookshelf.**
 
 Too many founders stop (or never start) investing in their own personal growth. Yet they are surprised when their own ideas stagnate or their team continues to fall into the same patterns of failure.
 
@@ -20,7 +20,7 @@ As a co-op student or graduate, you may wonder why some companies you work at th
 
 **What are those key ingredients that you could start screening for in interviews to land work at successful companies?**
 
-*Good to Great* is a fanatically data driven analysis of why some companies remain average, and how others succeed drastically more than their peers, industry, and the overall market.
+*Good to Great* presents a data driven hypothesis of why some companies remain average, and how others succeed drastically more than their peers, industry, and the overall market.
 
 Most of all it focuses on why being *good* is the enemy of being **great**.
 
@@ -29,7 +29,7 @@ This post is also a great excuse for you to crack a great book open and start in
 **"The average American reads one book per year.** 
 **The average millionaire reads one book per week."**
 
-Next week, I will release [part 3](/blog/leisure-reading-part-3/) of my every-6ish-months book list (parts [1](/blog/leisure-reading-part-1/) & [2](/blog/leisure-reading-part-2/))... but *Good to Great* deserved a post of its own.
+Next week, I will release [part 3](/blog/books-part-3/) of my every-6ish-months book list (parts [1](/blog/books-part-1/) & [2](/blog/books-part-2/))... but *Good to Great* deserved a post of its own.
 
 Good to Great – Jim Collins
 ---
@@ -81,7 +81,7 @@ After interviewing management teams and employees, Collins distilled **8 key cha
 	
 		Better technology is simply a more effective medium to provide new products, prices, and support to customers fed up with the bureaucracy, fees, and self-interest of big banks.
 	
-	- Or consider **Research in Motion / Blackberry** that believed technology like data-efficient networks and physical keyboards could be a primary, lasting competitive advantage. [Paralyzed by their arrogance and internal chaos](/blog/leisure-reading-part-1/#losingthesignal), they failed to see why the iPhone mattered until it was too late.
+	- Or consider **Research in Motion / Blackberry** that believed technology like data-efficient networks and physical keyboards could be a primary, lasting competitive advantage. [Paralyzed by their arrogance and internal chaos](/blog/books-part-1/#losingthesignal), they failed to see why the iPhone mattered until it was too late.
 	
 		The iPhone soared because they delivered an email, internet, media, and app experience that anyone from 5 to 95 years old could use. People wanted the better experience and did not care if that cost them a keyboard, battery life, and higher cellular costs.
 
@@ -140,7 +140,7 @@ Coming Next Week
 
 Good to Great was only one of the books I flipped through this winter and spring. Next week I'll share the other 4! 
 
-Check out other books I would recommend in parts [1](/blog/leisure-reading-part-1/) and [2](/blog/leisure-reading-part-2/) of my leisure reading series (plus [part 3](/blog/leisure-reading-part-3/) coming out next week!).
+Check out other books I would recommend in parts [1](/blog/books-part-1/) and [2](/blog/books-part-2/) of my leisure reading series (plus [part 3](/blog/books-part-3/) coming out next week!).
 
 Finally, special thanks to [Hooli](http://hooli.xyz) for their [title](https://youtu.be/bQO5oqrP1KE) support of **andrewnotes**. 
 
@@ -150,7 +150,7 @@ Finally, special thanks to [Hooli](http://hooli.xyz) for their [title](https://y
 
 **Top Posts**
 
-- [My Favourite Books Since June](/blog/leisure-reading-part-2/)
+- [My Favourite Books Since June](/blog/books-part-2/)
 - [Hired: Your Resume Needs SEO, Here's How](/blog/hired-part-2/)
 - [Hired: Get More Interviews with This Resume Structure](/blog/hired-part-3/)
 - [Up 32%: How An Email Support Agent Boosted Downloads in 1 Week](/blog/videostream-how-growth-starts-with-great-customer-support/)
