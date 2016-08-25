@@ -26,7 +26,7 @@ I thrive working on user-focused teams. Whether building software or writing cop
 
 I have an unwavering bias for features and growth strategies that deliver results. Data wins over personal preference, 8 days a week. 
 
-I learn quickly. Whether at **Hack the North** ([2014](/project/stockslate/), [2015](/project/losocco/)), **[Videostream](/project/videostream/)** or now at [Blitzen](https://blitzen.com), I pick up frameworks quickly to write code that performs under the scrutiny of code reviews and pressure of competition.
+I learn quickly. Whether at **Hack the North** ([2014](/project/stockslate/), [2015](/project/losocco/)), **[Videostream](/project/videostream/)** or now at [Blitzen](/project/blitzen), I pick up frameworks quickly to write code that performs under the scrutiny of code reviews and pressure of competition.
 
 **This summer I've expanded my stack to include:**
 
@@ -50,9 +50,9 @@ I learn quickly. Whether at **Hack the North** ([2014](/project/stockslate/), [2
 New KW Startup Founders
 -----
 
-I've had my fair share of experiences as an early stage tech startup founder in Kitchener Waterloo. If you're a local founder, I'm always down to grab a coffee at  [DVLB](http://dvlb.ca/) and chat. 
+I've had my fair share of experiences as an early stage tech startup founder in Kitchener Waterloo. If you're a local founder, I'm always down to grab a coffee at [DVLB](http://dvlb.ca/) and chat. 
 
-I have strong experience in how to write successful government grant applications (OCE SmartStart, SRED Credits...), pitches that win competitions, &amp; sales copy that gets your first MVP alpha customers. Email *me at andrewparadi.com* and we'll find a time to meet up.
+I have strong experience in how to write successful government grant applications (OCE SmartStart, SRED Credits...), pitches that win competitions, &amp; sales copy that gets your first MVP alpha customers. Email [*me at andrewparadi.com*](mailto:me@andrewparadi.com) and we'll find a time to meet up.
 
 
 Internship Opportunities
