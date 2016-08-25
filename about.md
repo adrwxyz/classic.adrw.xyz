@@ -13,9 +13,9 @@ Hi, I'm Andrew!
 
 ![](/assets/images/about-header.jpg)
 
-Welcome! Explore my side [projects](/projects/), [andrewnotes](/blog/) blog, [work](/work/) experience, [resume](/assets/files/AndrewParadiResume.pdf), &amp; [github](https://github.com/andrewparadi). 
+Explore my side [projects](/projects/), [andrewnotes](/blog/) blog, [work](/work/) experience, [resume](/assets/files/AndrewParadiResume.pdf), &amp; [github](https://github.com/andrewparadi). 
 
-I currently work at [Blitzen](https://blitzen.com) as a developer & copywriting intern. In the fall, I'll be back at University of Waterloo studying computer science and be searching for a **Winter 2017 internship**.
+This summer I worked at [Blitzen](/project/blitzen) as a developer & copywriting intern. For Fall 2016, I'll be back at University of Waterloo studying computer science and searching for a **Winter 2017 internship**.
 
 I actively write on my [andrewnotes](/blog/) blog, build a [Pebble app](http://andrewparadi.com/progress-pebble/), and post scripture & scenery photographs on [@andrewnotes Instagram](https://www.instagram.com/andrewnotes/).
 
@@ -39,8 +39,8 @@ I learn quickly. Whether at **Hack the North** ([2014](/project/stockslate/), [2
 
 **My pitches, conversion sales copy, and code have successfully:**
 
-- Boosted inbound signups by 81% with new site design & copy [[1](https://blitzen.com)] 
-- Increased **active users by 12%** for a 1.2 million user app [[2](blog/videostream-how-growth-starts-with-great-customer-support/)]
+- Boosted **inbound signups by 81%** with new site design & copy [[1](/project/blitzen)] 
+- Increased **active users by 12%** for a 1.2 million user app [[2](/blog/videostream-how-growth-starts-with-great-customer-support/)]
 - Won over **$65,000** in competition prizes &amp; grants [[3](/project/teknically-webplio/)], [[4](/blog/the-389-day-laurier-bba/)], [[5](/blog/the-dream-fades/)]
 - Been part of **Google for Entrepreneurs** Cohort 2 [[6](/blog/the-389-day-laurier-bba/)]
 - Wrote application and interviewed at **Y Combinator** [[7](/blog/the-dream-fades/)]
@@ -50,7 +50,9 @@ I learn quickly. Whether at **Hack the North** ([2014](/project/stockslate/), [2
 New KW Startup Founders
 -----
 
-I've had my fair share of experiences as an early stage tech startup founder in Kitchener Waterloo. If you're a local founder, I'm always down to grab a coffee at  [DVLB](http://dvlb.ca/) and chat. I have strong experience in how to write successful government grant applications (OCE SmartStart), pitches that win competitions, &amp; sales copy that gets your first MVP alpha customers. Email *me at andrewparadi.com* and we'll find a time to meet up.
+I've had my fair share of experiences as an early stage tech startup founder in Kitchener Waterloo. If you're a local founder, I'm always down to grab a coffee at  [DVLB](http://dvlb.ca/) and chat. 
+
+I have strong experience in how to write successful government grant applications (OCE SmartStart, SRED Credits...), pitches that win competitions, &amp; sales copy that gets your first MVP alpha customers. Email *me at andrewparadi.com* and we'll find a time to meet up.
 
 
 Internship Opportunities
@@ -58,7 +60,7 @@ Internship Opportunities
 
 I have strong coding &amp; communication skills recognized in competition and I'm looking for a **Winter 2017 technical internship**. 
 
-Email [*me at andrewparadi.com*](mailto:me@andrewparadi.com) if your team wants to work with a **go-getter** who **learns quickly and thrives under pressure**.
+Email [*me at andrewparadi.com*](mailto:me@andrewparadi.com) if your team wants to work with a **go-getter** who **learns quickly, writes production code, and thrives under pressure**.
 
 Reach Out
 -----
@@ -66,4 +68,5 @@ Reach Out
 Questions or inquiries? Email [*me at andrewparadi.com*](mailto:me@andrewparadi.com)
 
 Contact me with PGP encryption: [keybase.io](https://keybase.io/andrewparadi), [PGP key](/assets/files/AndrewParadiPGP.asc)
+
 836C B350 4409 4A9E 0A13 F12C EED3 03A3 B5B5 4E6E
