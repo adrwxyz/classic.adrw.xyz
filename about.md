@@ -58,12 +58,12 @@ Internship Opportunities
 
 I have strong coding &amp; communication skills recognized in competition and I'm looking for a **Winter 2017 technical internship**. 
 
-Email *me at andrewparadi.com* if your team wants to work with a **go-getter** who takes **learns quickly and thrives under pressure**.
+Email [*me at andrewparadi.com*](mailto:me@andrewparadi.com) if your team wants to work with a **go-getter** who **learns quickly and thrives under pressure**.
 
 Reach Out
 -----
 
-Questions or inquiries? Email *me at andrewparadi.com*
+Questions or inquiries? Email [*me at andrewparadi.com*](mailto:me@andrewparadi.com)
 
 Contact me with PGP encryption: [keybase.io](https://keybase.io/andrewparadi), [PGP key](/assets/files/AndrewParadiPGP.asc)
 836C B350 4409 4A9E 0A13 F12C EED3 03A3 B5B5 4E6E
