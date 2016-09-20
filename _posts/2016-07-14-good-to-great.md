@@ -152,5 +152,5 @@ Finally, special thanks to [Hooli](http://hooli.xyz) for their [title](https://y
 
 - [My Favourite Books Since June](/blog/books-part-2/)
 - [Hired: Your Resume Needs SEO, Here's How](/blog/hired-part-2/)
-- [Hired: Get More Interviews with This Resume Structure](/blog/hired-part-3/)
+- [Hired: Your Resume Shouldn't Read like a Restaurant Menu](/blog/hired-part-3/)
 - [Up 32%: How An Email Support Agent Boosted Downloads in 1 Week](/blog/videostream-how-growth-starts-with-great-customer-support/)
