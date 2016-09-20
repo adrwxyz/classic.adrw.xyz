@@ -14,7 +14,7 @@ tags:
 - HTML/Sass
 - material-design
 image: /assets/article_images/2016-09-19-resume-scoreboard/htn-2c.png
-excerpt: At Hack the North 2016, Andrew solo built a resume comparison tool in AngularJS
+excerpt: A resume comparison tool built at Hack the North 2016 in AngularJS.
 seo-title: "Resume Scoreboard - AngularJS, Firebase, Material Design | Andrew Paradi"
 ---
 
@@ -34,3 +34,6 @@ But unlike with Google searches, you can't verify where you rank, whether you're
 4. Click more to see details and areas to improve
 
 Built in AngularJS 2, with Firebase and Material Design by Andrew Paradi at Hack the North 2016.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeInvoSw_v-dpq_xoBQXb9BHDPrV99D6zNcUbnZLTgjLr8uvw/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
