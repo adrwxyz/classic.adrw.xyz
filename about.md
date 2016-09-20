@@ -26,7 +26,7 @@ I thrive working on user-focused teams. Whether building software or writing cop
 
 I have an unwavering bias for features and growth strategies that deliver results. Data wins over personal preference, 8 days a week. 
 
-I learn quickly. Whether at **Hack the North** ([2014](/project/stockslate/), [2015](/project/losocco/), [2016](https://github.com/andrewparadi/resume-scoreboard)), **[Videostream](/project/videostream/)** or [Blitzen](/project/blitzen), I pick up frameworks quickly to write code that performs under the scrutiny of code reviews and pressure of competition.
+I learn quickly. Whether at **Hack the North** ([2014](/project/stockslate/), [2015](/project/losocco/), [2016](/project/resume-scoreboard/)), **[Videostream](/project/videostream/)** or [Blitzen](/project/blitzen), I pick up frameworks quickly to write code that performs under the scrutiny of code reviews and pressure of competition.
 
 **This summer I've expanded my stack to include:**
 
