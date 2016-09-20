@@ -15,9 +15,9 @@ Hi, I'm Andrew!
 
 Explore my side [projects](/projects/), [andrewnotes](/blog/) blog, [work](/work/) experience, [resume](/assets/files/AndrewParadiResume.pdf), &amp; [github](https://github.com/andrewparadi). 
 
-This summer I worked at [Blitzen](/project/blitzen) as a developer & copywriting intern. For Fall 2016, I'll be back at University of Waterloo studying computer science and searching for a **Winter 2017 internship**.
+I'm currently computer science studying at University of Waterloo and searching for a **Winter 2017 internship**.
 
-I actively write on my [andrewnotes](/blog/) blog, build a [Pebble app](http://andrewparadi.com/progress-pebble/), and post scripture & scenery photographs on [@andrewnotes Instagram](https://www.instagram.com/andrewnotes/).
+I actively write on my [andrewnotes](/blog/) blog, build different [side projects](/projects/), and post scripture & scenery photographs on [@andrewnotes Instagram](https://www.instagram.com/andrewnotes/).
 
 Work Experience
 -----
@@ -26,20 +26,24 @@ I thrive working on user-focused teams. Whether building software or writing cop
 
 I have an unwavering bias for features and growth strategies that deliver results. Data wins over personal preference, 8 days a week. 
 
-I learn quickly. Whether at **Hack the North** ([2014](/project/stockslate/), [2015](/project/losocco/)), **[Videostream](/project/videostream/)** or now at [Blitzen](/project/blitzen), I pick up frameworks quickly to write code that performs under the scrutiny of code reviews and pressure of competition.
+I learn quickly. Whether at **Hack the North** ([2014](/project/stockslate/), [2015](/project/losocco/), [2016](https://github.com/andrewparadi/resume-scoreboard)), **[Videostream](/project/videostream/)** or [Blitzen](/project/blitzen), I pick up frameworks quickly to write code that performs under the scrutiny of code reviews and pressure of competition.
 
 **This summer I've expanded my stack to include:**
 
-- AngularJS 2
-- Firebase
-- Django (Python 3)
-- PostgreSQL
-- HTML5, CSS3/SASS, Javascript ES6
+- HTML5
+- CSS3/SASS
+- Javascript ES6, jQuery
 - C, C++, Bash
+- Python 3
+- NodeJS, NPM, Grunt
+- AngularJS 1.4 & 2
+- Firebase
+- Wordpress, PHP
+
 
 **My pitches, conversion sales copy, and code have successfully:**
 
-- Boosted **inbound signups by 81%** with new site design & copy [[1](/project/blitzen)] 
+- Boosted **inbound signups by 74%** with new site design & copy [[1](/project/blitzen)] 
 - Increased **active users by 12%** for a 1.2 million user app [[2](/blog/videostream-how-growth-starts-with-great-customer-support/)]
 - Won over **$65,000** in competition prizes &amp; grants [[3](/project/teknically-webplio/)], [[4](/blog/the-389-day-laurier-bba/)], [[5](/blog/the-dream-fades/)]
 - Been part of **Google for Entrepreneurs** Cohort 2 [[6](/blog/the-389-day-laurier-bba/)]
@@ -60,7 +64,7 @@ Internship Opportunities
 
 I have strong coding &amp; communication skills recognized in competition and I'm looking for a **Winter 2017 technical internship**. 
 
-Email [*me at andrewparadi.com*](mailto:me@andrewparadi.com) if your team wants to work with a **go-getter** who **learns quickly, writes production code, and thrives under pressure**.
+Email [*me at andrewparadi.com*](mailto:me@andrewparadi.com) if your team wants to work with a **go-getter** who **learns quickly, writes production code, is driven by data, and thrives under pressure**.
 
 Reach Out
 -----
