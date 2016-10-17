@@ -7,7 +7,7 @@ tags:
 - security
 - tech
 image: /assets/article_images/2016-10-16-fix-mac-globalsign-https/https-errorc.png
-excerpt: How to fix the GlobalSign HTTPS error messing up your Mac's browser
+excerpt: How to fix the GlobalSign HTTPS error messing up your Mac's browser.
 seo-title: "Fix your Mac's HTTPS GlobalSign Error | Andrew Paradi"
 ---
 
