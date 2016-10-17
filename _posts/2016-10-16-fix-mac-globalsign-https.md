@@ -33,7 +33,7 @@ After rebooting back to my regular account, I could delete the certificate and a
 
 Hope this helps if you've been having issues with your Mac (PC users got lucky this time since this bug didn't affect them).
 
-Further reading: [Google Chrome: Fix connection errors](https://support.google.com/chrome/answer/6098869?visit_id=0-636122317658295463-3726611247&rd=1) 
+Further reading: [Google Chrome – Fix connection errors](https://support.google.com/chrome/answer/6098869?visit_id=0-636122317658295463-3726611247&rd=1) 
 
 *Join the andrewnotes email list for more posts like this*
 
