@@ -19,7 +19,7 @@ When trying to load most uwaterloo.ca sites, I was met with this error:
 
 ![GlobalSign HTTPS Error in Google Chrome](/assets/article_images/2016-10-16-fix-mac-globalsign-https/https-error.png)
 
-After some digging, it turns out that the issue was an expired `DigiCert High Assurance EV Root CA` root certificate.
+After some [digging](https://support.google.com/chrome/answer/6098869?visit_id=0-636122317658295463-3726611247&rd=1), it turns out that the issue was an expired `DigiCert High Assurance EV Root CA` root certificate.
 
 But when I tried to delete it from `Applications/Utilities/Keychain Access.app`, I got an error:
 
@@ -31,7 +31,9 @@ Then in terminal, enter the command `csrutil disable`.
 
 After rebooting back to my regular account, I could delete the certificate and access University of Waterloo websites. I would also recommmend rebooting back to recovery to restore security protection with `csrutil enable`.
 
-Hope this helps if you've been having issues with your Mac (PC users got lucky this time since this bug didn't affect them). 
+Hope this helps if you've been having issues with your Mac (PC users got lucky this time since this bug didn't affect them).
+
+Further reading: [Google Chrome: Fix connection errors](https://support.google.com/chrome/answer/6098869?visit_id=0-636122317658295463-3726611247&rd=1) 
 
 *Join the andrewnotes email list for more posts like this*
 
