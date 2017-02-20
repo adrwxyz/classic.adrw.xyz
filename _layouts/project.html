@@ -11,7 +11,7 @@
 	      <meta itemprop="keywords" content="{{ page.tags | join: ',' }}" />
 		  <meta itemprop="description" content="{{ content | strip_html | truncatewords: 40 }}" />
 		  <time class="published" itemprop="datePublished" datetime="{{ page.date | date: '%Y-%m-%d' }}"> {{ page.date | date: "%B %e, %Y" }} </time>
-		  
+
         {% if page.image %}
         <div class="article-image">
           <div class="post-image-image" style="background-image: url({% if page.image %}{{ page.image }}{% endif %})">
@@ -55,7 +55,7 @@
           <a name="topofpage"></a>
           {{content}}
           <br/>
-          <p><strong>If this is the type of impact you want your {{ site.work_term }} {{ site.work_title }} to have, let's chat. Email <a href="mailto:{{ site.email }}">me at andrewparadi.com</a> or check <a href="{{ site.resume }}">my resume</a>.</strong></p>
+          <p><strong>If this is the type of impact you want a {{ site.work_title }} starting {{ site.work_term }} to have, let's chat. Email <a href="mailto:{{ site.email }}">me at andrewparadi.com</a> or check <a href="{{ site.resume }}">my resume</a>.</strong></p>
         </section>
         <footer class="post-footer">
           <section class="share">

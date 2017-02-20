@@ -4,7 +4,7 @@
     <section class="author">
       <div class="author-image" style="background-image: url({{site.author_image}})">{{site.author}}</div>
       <h4>{{ site.author }}</h4>
-      <p class="bio">I study computer science at University of Waterloo, build <a href='{{site.bio_project}}'>a Pebble app</a>, <a href='{{site.url}}/{{site.bio_post}}'>write winning copy</a>, <a href='{{site.bio_insta}}'>capture God's beauty in photos</a>, and <a href='{{site.bio_piano}}'>play piano</a>.</p>
+      <p class="bio">I study computer science at University of Waterloo, develop software at <a href='{{site.bio_work}}'>Atomic</a>, <a href='{{site.bio_hack}}'>code hacks like this</a>, <a href='{{site.bio_video}}'>produce vids</a>, and <a href='{{site.bio_piano}}'>play piano</a>.</p>
       <hr>
       <p class="published">Published <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time></p>
     </section>
@@ -12,7 +12,7 @@
   <div class="isRight">
     <h5 class="index-headline featured"><span>Connect</span></h5>
     <footer class="site-footer">
-      <section class="poweredby"><strong>Looking for a kick-ass dev intern for Winter 2017?</strong><br/>Check out <a href="/assets/files/AndrewParadiResume.pdf" target="_blank" id="resume"><strong>my resume</strong></a> &amp; <a href="mailto:{{site.email}}" target="_blank" id="email">email <strong>me@...!</strong></a></section>
+      <section class="poweredby"><strong>Looking for a kick-ass {{ site.work_title }} starting {{ site.work_term }}?</strong><br/>Check out <a href="/assets/files/AndrewParadiResume.pdf" target="_blank" id="resume"><strong>my resume</strong></a> &amp; <a href="mailto:{{site.email}}" target="_blank" id="email">email <strong>me@...!</strong></a></section>
 <!--       <section class="poweredby">Built with <a href="http://jekyllrb.com" target="_blank"> Jekyll</a> &amp; <a href="https://pages.github.com/" target="_blank">Github Pages</a></section> -->
 <!--       <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i> You should subscribe to my feed.</span></a> -->
       <div class="inner">
