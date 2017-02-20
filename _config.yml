@@ -5,7 +5,7 @@ gems:
   - jemoji
 #  - pygments
   - jekyll-paginate
-  
+
 # Site settings
 title: "Andrew Paradi"
 description: > # this means to ignore newlines until "email:"
@@ -20,15 +20,17 @@ cover: "/assets/images/covers/launchpad-c.jpg"
 name: 'Andrew Paradi'
 author: 'Andrew Paradi'
 author_image: "/assets/images/andrew2015.jpg"
-bio: "I study computer science at University of Waterloo, build a Pebble app, write stuff like this, produce vids, and play piano."
+bio: "I study computer science at University of Waterloo, develop software at Atomic, code hacks like this, produce vids, and play piano."
 bio_page: "/about/"
+bio_work: "http://atomic.vc"
+bio_hack: "http://www.andrewparadi.com/torduckgo/"
 bio_project: "/progress-pebble/"
 bio_post: "/blog/videostream-how-growth-starts-with-great-customer-support/"
 bio_video: "https://youtu.be/hfbE7sVbz8k?list=PLmu6fQR8i26VzMOSuUikzqRLT4diEE_AA"
 bio_piano: "https://youtu.be/VuBCs_t54DY"
 bio_insta: "https://www.instagram.com/andrewnotes/"
-work_title: "dev intern"
-work_term: "Winter 2017"
+work_title: "software developer"
+work_term: "early 2018"
 resume: "/assets/files/AndrewParadiResume.pdf"
 
 
@@ -37,18 +39,18 @@ categories:
   - title:	Projects
     cat:  project
     url:	/
-    desc:	"Volunteer work, hackathon hacks, freelance work, and summer internship projects."
-    
+    desc:	"Volunteer work, hackathon hacks, freelance work, and internship projects."
+
   - title:	Work
     cat:  work
     url:	/work/
-    desc:	"Work experience from summer internships to managing a team of 5 at my startup."
+    desc:	"Work experience from consulting, internships, and managing a team of 5 at Teknically."
 
   - title:	Blog
     cat:  blog
     url:	/blog/
-    desc:	"Book reviews, startup thoughts, and case studies diving deep into how a project ended up being successful."
-    
+    desc:	"Book reviews, startup thoughts, and case studies diving into how projects succeed."
+
 paginate: Nil
 
 url: "//www.andrewparadi.com" # the base hostname & protocol for your site
@@ -79,7 +81,7 @@ social:
     share_title:
     share_link:
     caption:
-    
+
   - icon:	github
     url:	https://github.com/andrewparadi
     desc:	Fork me on github
@@ -87,7 +89,7 @@ social:
     share_title:
     share_link:
     caption:
-    
+
   - icon:	angellist
     url:	https://angel.co/andrew-paradi
     desc:	Add me on Angel List
@@ -103,41 +105,41 @@ social:
     share_title: ?text=
     share_link: "&amp;url="
     caption:
-    
+
   - icon:	instagram
     url:	https://instagram.com/andrewnotes
     desc:	Follow on instagram
-    share_url: 
+    share_url:
     share_title:
     share_link:
     caption:
-    
+
   - icon:	youtube
     url:	https://youtube.com/c/andrewparadi
     desc:	Watch my videos on Youtube
-    share_url: 
+    share_url:
     share_title:
     share_link:
     caption:
-    
+
     #     PGP Key
   - icon:	lock
     url:	https://keybase.io/andrewparadi
     desc:	Keybase.io PGP Fingerprint &amp; Public Key
-    share_url: 
+    share_url:
     share_title:
     share_link:
     caption: PGP
-    
+
 #     resume
   - icon:	graduation-cap
     url:	/assets/files/AndrewParadiResume.pdf
     desc:	Resume as of Jan 2015
-    share_url: 
+    share_url:
     share_title:
     share_link:
     caption: Resume
-    
+
 
 #  - icon:	facebook
 #    url:	https://facebook.com/???
@@ -145,7 +147,7 @@ social:
 #    share_url: https://www.facebook.com/sharer.php
 #    share_title: ?t=
 #    share_link: "&amp;u="
-    
+
 
 
 #  - icon:	google-plus
