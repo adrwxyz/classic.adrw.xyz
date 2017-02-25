@@ -1,0 +1,13 @@
+version: '2'
+services:
+
+  api:
+    image: jekyll/jekyll
+    container_name: andrewparadi_github_io
+    volumes:
+      - ./:/src
+    working_dir: /src
+    command: bash -c 'jekyll serve -s /src --watch'
+    ports:
+      - "4000:4000"
+      - "80:4000"
