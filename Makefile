@@ -21,6 +21,16 @@ rebuild: init
 compile: init
 	bash -c "$$DOCKER_NICE run app webpack"
 
+add:
+	bash -c "git add ."
+
+commit: add
+	@read -p "Enter commit message: " message; \
+	git commit -am "$$message"
+
+deploy: add commit
+	git push
+
 run: init
 	bash -c "$$DOCKER_NICE up"
 

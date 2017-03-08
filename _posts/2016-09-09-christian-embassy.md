@@ -26,8 +26,8 @@ After years with a basic website built on a humble budget, new site development 
 
 I helped Christian Embassy by building a new website on Wordpress and optimizing it for mobile loading speed. This was an especially important priority given how busy leaders would be likely viewing the website on the go.
 
-> "I have appreciated working with Andrew on our website and his patience in helping me establish an effective digital presence of the Christian Embassy. My prayer is that the website will be a helpful resource to leaders across the globe, inspiring them to lead like Jesus!
-" - Stephanie Dyck
+> "I have appreciated working with Andrew on our website and his patience in helping me establish an effective digital presence of the Christian Embassy. My prayer is that the website will be a helpful resource to leaders across the globe, inspiring them to lead like Jesus!"
+- Stephanie Dyck, International Representative at the Christian Embassy
 
 ![New website, completely mobile friendly!](/assets/article_images/2016-09-09-christian-embassy/christianembassy-new.png)
 
