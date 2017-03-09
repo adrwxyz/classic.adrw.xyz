@@ -53,8 +53,8 @@ This past year, iOS9's keyboard support and split view multitasking has made doi
 
 ![iPad can handle CS246](/assets/article_images/2016-05-06-coding-on-ipad/coda-documents-ipadc.png)
 
-- Take notes from my textbook in iBooks with [OneNote](https://itunes.apple.com/us/app/microsoft-onenote-lists-photos/id410395246?mt=8) open side by side. 
-- Code a CS assignment with the spec open in [Documents](https://itunes.apple.com/us/app/documents-5-fast-pdf-reader/id364901807?mt=8) and a terminal in [Coda 2](https://www.panic.com/coda-ios/) to work on the school linux server. 
+- Take notes from my textbook in iBooks with [OneNote](https://itunes.apple.com/us/app/microsoft-onenote-lists-photos/id410395246?mt=8) open side by side.
+- Code a CS assignment with the spec open in [Documents](https://itunes.apple.com/us/app/documents-5-fast-pdf-reader/id364901807?mt=8) and a terminal in [Coda 2](https://www.panic.com/coda-ios/) to work on the school linux server.
 - Use [Outlook](https://itunes.apple.com/us/app/microsoft-outlook-email-calendar/id951937596?mt=8) full screen to process my inbox.
 
 For most regular tasks, I was equally or more productive on my iPad, than my laptop.
@@ -71,20 +71,20 @@ Beyond ergonomics and battery life, learning how to use an iPad productively is 
 iPads are the future?! Pshh, c'mon man
 -----
 
-Each generation of computers has been disrupted by a cheaper, less powerful, less "productive" class of devices. 
+Each generation of computers has been disrupted by a cheaper, less powerful, less "productive" class of devices.
 
-Microcomputers (Macs & PCs) of the 1980s *disrupted* the minicomputers of the 1970s which *disrupted* the supercomputers of the 1960s. 
+Microcomputers (Macs & PCs) of the 1980s *disrupted* the minicomputers of the 1970s which *disrupted* the supercomputers of the 1960s.
 
 ![NSA Supercomputer in 1971](/assets/article_images/2016-05-06-coding-on-ipad/Supercomputer_NSA-IBM360_85c.jpg)
 
-And yet, most regular people are not crying about the slow down of desktop computing. 
+And yet, most regular people are not crying about the slow down of desktop computing.
 
 With the iPad and smartphones, people have found a more approachable user experience in a device so portable they can always have it with them. **This is a winning formula.**
 
-> iPads and smartphones are the next major paradigm shift. 
+> iPads and smartphones are the next major paradigm shift.
 
-- Kids now learn to use smartphones and iPads at home, and Chromebooks in school long before they ever touch a "real" desktop running OS X or Windows. 
-- My Mom does most of her email on her phone. 
+- Kids now learn to use smartphones and iPads at home, and Chromebooks in school long before they ever touch a "real" desktop running OS X or Windows.
+- My Mom does most of her email on her phone.
 - My grandparents and many of their friends have switched from overpowered PCs to iPads for easier emailing and Skyping grandkids.
 
 The *disruption* has begun...
@@ -106,13 +106,13 @@ Just this year Google announced that *more searches are now done on phones/table
 
 > But people aren't browsing anymore.
 
-[Snapchat Discover stories](http://www.theverge.com/2015/1/27/7919809/snapchat-launches-discover-feature-ad-support). [Chat bots](http://www.theverge.com/2016/4/12/11395806/facebook-messenger-bot-platform-announced-f8-conference). [Instagram influencers](http://www.cnbc.com/2014/04/11/instagram-influencers-models-make-thousands-working-on-instagram.html). [YouTube celebrities](https://www.youtube.com/user/JusReign). Samsung, Ford, and other Fortune 500 companies are sponsoring videos like [this](https://youtu.be/4ESy8WRyVcs) and [this](https://youtu.be/soxxPyaAT1k) (featured below). Watch those and ask yourself if you'd remember **any** Samsung or Ford TV ad better than the YouTube placement. 
+[Snapchat Discover stories](http://www.theverge.com/2015/1/27/7919809/snapchat-launches-discover-feature-ad-support). [Chat bots](http://www.theverge.com/2016/4/12/11395806/facebook-messenger-bot-platform-announced-f8-conference). [Instagram influencers](http://www.cnbc.com/2014/04/11/instagram-influencers-models-make-thousands-working-on-instagram.html). [YouTube celebrities](https://www.youtube.com/user/JusReign). Samsung, Ford, and other Fortune 500 companies are sponsoring videos like [this](https://youtu.be/4ESy8WRyVcs) and [this](https://youtu.be/soxxPyaAT1k) (featured below). Watch those and ask yourself if you'd remember **any** Samsung or Ford TV ad better than the YouTube placement.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/soxxPyaAT1k" frameborder="0" allowfullscreen></iframe>
 
 
 
-> The world is moving from mobile first, to mobile mostly. 
+> The world is moving from mobile first, to mobile mostly.
 
 Billions with a B
 -----
@@ -125,7 +125,7 @@ Smartphones and iPads that we brush off as *inferior devices* to the *all mighty
 
 > Services like banking, education, and healthcare can now be provided to billions through text message &amp; limited data connections
 
-- Digital mobile banking and access to credit could reach up to **2 billion new people by 2030**. This would spur local economies and increase living standards across the developing world ([3](http://www.theverge.com/2015/2/4/7966043/bill-gates-future-of-banking-and-mobile-money)). 
+- Digital mobile banking and access to credit could reach up to **2 billion new people by 2030**. This would spur local economies and increase living standards across the developing world ([3](http://www.theverge.com/2015/2/4/7966043/bill-gates-future-of-banking-and-mobile-money)).
 - Literacy and reading rates are already rising among those with mobile phone. An app like Worldreader can distribute 1,000 pages of an e-book for just 2-3 cents, radically more affordable than paper books ([4](http://www.theverge.com/2014/4/23/5643058/mobile-phone-reading-illiteracy-developing-countries-unesco)).
 
 > The post-PC world won't just make life easier for kids and Grandmas. It could bring millions out of poverty.
@@ -137,11 +137,11 @@ Welcome to Reality
 
 In 2010, the early days of iPad, Steve Jobs told a shocked audience that desktop [PCs are going to be like trucks](https://youtu.be/YfJ3QxJYsw8), and iPads and tablets are going to be like cars. For every 30 cars you see on a road, there might be one truck.
 
-Six years later, we are past the early adopter stage. 
+Six years later, we are past the early adopter stage.
 
-Early adopters bought assuming iPads were simply pretty media consumption devices. Now, I see entire university classes where a third of new computers are iPads and Microsoft Surfaces. 
+Early adopters bought assuming iPads were simply pretty media consumption devices. Now, I see entire university classes where a third of new computers are iPads and Microsoft Surfaces.
 
-**People are choosing tablets for their primary computer.** 
+**People are choosing tablets for their primary computer.**
 
 The future is here.
 
@@ -159,26 +159,8 @@ Updates
 
 Read Eduardo Archanco's piece [here](http://www.applesfera.com/ipad/programar-codigo-en-un-ipad-todos-los-dias-es-posible).
 
-
-Up Next
------
-
-Thanks for reading! I'll be posting every Friday this summer as part of my experiment to be [Tinder for Blogs](/blog/tinder-for-blogs/).
-
-1. *If you like what you read*, **swipe right** and join the email newsletter below.
-2. *If you think the post was kinda meh*, **swipe left** and suggest a topic that you'd rather read next time.
-
-<script src="https://blitzen.com/scripts/blitzenForm.js" type="text/javascript"></script> <iframe src="https://andrew.blitzen.com/form/andrewnotes-footer-1?page=20160506-coding-on-ipad" id="017ce06a18c93534f49cdb840176f9" onload="resizeCrossDomainIframe('017ce06a18c93534f49cdb840176f9', 'https://andrew.blitzen.com');" width="100%" style="border: none;" resize="true"></iframe>
-
 **Top Posts**
 
 - [3 Ways Hack the North Improved our Startup](/blog/3-ways-hack-the-north-improved-our-startup/)
 - [Teknically: Google Analytics for Non-Techies](/project/teknically-webplio/)
 - [How An Email Support Agent Improved Downloads by 32%](/blog/videostream-how-growth-starts-with-great-customer-support/)
-
-
-
-
-
-
-

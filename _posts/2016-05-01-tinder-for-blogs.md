@@ -10,7 +10,7 @@ excerpt: Every week I'm writing a post, and you can swipe right or left to choos
 seo-title: "Tinder for Blogs | Andrew Paradi"
 ---
 
-**This summer I'm writing a post every week.** 
+**This summer I'm writing a post every week.**
 
 Here's what I've written so far
 
@@ -34,7 +34,7 @@ Each post will answer a *frequently asked question* from friends, classmates, or
 - *Manage finances so you can have real freedom for life* – it doesn't even require moving to 'Murica!
 - *...and answers to other questions you have!*
 
-**Now like any millennial,** I don't think we need to give this name. There isn't going to be a formal structure to the series or strict commitment to any topic. We don't need to formalize this relationship. 
+**Now like any millennial,** I don't think we need to give this name. There isn't going to be a formal structure to the series or strict commitment to any topic. We don't need to formalize this relationship.
 
 > This is going to be Tinder for Blogs.
 
@@ -48,7 +48,7 @@ So that's the plan! *andrewnotes* is getting a reboot...and this next chapter is
 
 **Swipe left or right below &amp; enter your email, don't miss it!**
 
-<script src="https://blitzen.com/scripts/blitzenForm.js" type="text/javascript"></script> <iframe src="https://andrew.blitzen.com/form/andrewnotes-footer-1?page=20160501-tinder-for-blogs" id="017ce06a18c93534f49cdb840176f9" onload="resizeCrossDomainIframe('017ce06a18c93534f49cdb840176f9', 'https://andrew.blitzen.com');" width="100%" style="border: none;" resize="true"></iframe>
+![Original Tinder Feedback Form (Not accepting responses anymore)](/assets/article_images/2016-05-01-tinder-for-blogs/tinder-blitzen.png)
 
 **Top Posts**
 
