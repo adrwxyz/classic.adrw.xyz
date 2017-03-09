@@ -32,7 +32,7 @@ Title tags
 	- 10 proven benefits of green tea (no 3 is very impressive)
 	- Direct curiosity, buzzfeed/upworthy clickbaity
 	- Increased CTR from 4.5% to 5% without changing position
-- Good ones 
+- Good ones
 	- "Popular running shoes for women | comfortable running sneakers..."
 		- Popular + comfortable, point to value prop
 	- "Finding the right dog sitter for your pooch - Dogtime"
@@ -48,16 +48,16 @@ Title tags
 Publications
 
 - Entrepreneur.com
-	- Had 
+	- Had
 - Forbes.com
 	- a
 - HuffingtonPost.com
-	- 
+	-
 - BrazilPost
 	- Didn't even speak english or know him but drives traffic and signups
 	- Paid for translation for correspondence emails and articles
 - InfoMoney (Bloomberg Brazil)
-	- 
+	-
 
 Why?
 
@@ -75,7 +75,7 @@ How?
 	- Send off 3rd email "Hey, have a question, want to follow in footsteps as my career progresses, how can I write on forbes, inc..." they'll intro to editor if you've given them enough tips
 	- 30% above works
 	- // "Hey I want to do you a huge favour, I'll write the post for you on this topic your readers want, can you intro to editor to "
-	- Not as successful since more people are 
+	- Not as successful since more people are
 - Once you have guest account, trade intros and network with other guest writers
 
 Guest Post Rules
@@ -162,7 +162,7 @@ Title tag vs guide
 - Search engine land vs Moz Guide to SEO
 	- Moz has way more referring domains
 	- SEL has better title tag than Moz, basic content
-	- Moz "SEO: The Beginner's Guide to Search Engine Optimization – Moz" 
+	- Moz "SEO: The Beginner's Guide to Search Engine Optimization – Moz"
 	- SEL "What is SEO / Search Engine Optimization? – Search Engine Land"
 
 Rules
@@ -204,7 +204,7 @@ How?
 	- When the post goes live send out "Here you go [url] Cheers, Mike Jones" you don't even have to tell them to share
 - LinkedIn Groups
 	- Join relevant high follower groups, share update to groups
-	
+
 6. Ideal Site Architecture
 ---
 
@@ -235,7 +235,7 @@ Example
 7. Branding
 ---
 
-- Google Trend to see brand 
+- Google Trend to see brand
 - Brand is personal names
 
 Strategies
@@ -254,13 +254,13 @@ Lessons
 - You need to do this weekly over a period of 2 months
 	- Get people to post pictures/images/links "Who is Neil Patel?"
 - Rotate up the campaigns
-	- Don't just rely on models, 
+	- Don't just rely on models,
 - Don't expect results right away
 - Branding $ is much more cost effective than Google Ads $
 
 Free marketing course
 
-- Want to learn more? Check out the AMP! 
+- Want to learn more? Check out the AMP!
 
 
 
@@ -326,7 +326,7 @@ Q&A
 	- Issue is when submitting to big publications, they want unique content
 - Find best writers?
 	- problogger.net
-	- Good writer, $0.10-0.13/word 
+	- Good writer, $0.10-0.13/word
 - Compete in ecommerce?
 	- Build more links (internal)
 	- Competition is impossible, focus on niche
@@ -362,7 +362,7 @@ Q&A
 - Changed site architecture, huge drop in rankings, what do i do?
 	- What did you change? categories...
 	- Always keep URLs the same
-	- Go into analytics and see what pages have the least traffic, likely not cross linking enough 
+	- Go into analytics and see what pages have the least traffic, likely not cross linking enough
 - Lead pages as homepages hurt ranking?
 	- Usually uses iframe which means very little is indexed so won't help
 - Avoid slideshow on commerce, what else?
@@ -425,15 +425,10 @@ Q&A
 	- Quizes, engagement and high loyalty
 - When nofollow links?
 	- Only nofollow links from commenters
-	
+
 Thanks for Reading!
 ---
 
 I also write about B2B marketing for SaaS startups, writing focused copy, and winning case studies from my work. 
-
-Would you like to join the private email list for more?
-	
-<script src="https://blitzen.com/scripts/blitzenForm.js" type="text/javascript"></script>
-<iframe src="https://andrew.blitzen.com/form/andrewnotes-Neil-Patel-Notes" id="afa9977326849e130cd6ce923c6f76" onload="resizeCrossDomainIframe('afa9977326849e130cd6ce923c6f76', 'https://andrew.blitzen.com');" width="100%" style="border: none; display: none;" resize="true"></iframe>
 
 P.S. [Here's one of the case studies](http://andrewparadi.com/blog/videostream-how-growth-starts-with-great-customer-support/) I've made public from my work with a B2C app that boosted conversions by over 30% on an app that already had 1.2 millions users. [Read it here!](http://andrewparadi.com/blog/videostream-how-growth-starts-with-great-customer-support/)

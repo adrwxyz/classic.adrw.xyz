@@ -8,7 +8,7 @@ categories:
 - work
 ---
 
-Hi, I'm Andrew! Hire me!
+Hi, I'm Andrew!
 -----
 
 ![](/assets/images/about-header.jpg)
@@ -19,23 +19,18 @@ I have 3+ years of experience solving problems with great code at [Atomic.vc](ht
 
 **I want to work on tough problems with other user-focused devs.**
 
-If you want to chat about how I could bring value to your dev team...<br/>
-**Please email [*me at andrewparadi.com*](mailto:me@andrewparadi.com)**.
+I'm ready to join a dev team starting May 2018. Want to chat about how I could bring value to your dev team? **Email [*me at andrewparadi.com*](mailto:me@andrewparadi.com)**.
 
 P.S. If you [need a new website](#freelance-website--software-development) or some [help with your startup pitch](#copywriting--pitch-coaching)...
 
-...hmmm, maybe that's a bit too forward
+What am I about?
 -----
-
-Let's try this again!
-
-I'm Andrew Paradi, straight from the `905` ...aka Mississauga.
 
 I love reading, playing trumpet in the UW Jazz Band, starting businesses, and working on side projects (like [DuckDuckGo search for the Tor browser](http://www.andrewparadi.com/torduckgo/)).
 
 I thrive working on user-focused teams. MVP & user experience >`l33t code`. User A/B split test data > personal design preferences & startup lingo.
 
-I work as a software dev intern at [Atomic.vc](http://atomic.vc) in Kitchener.
+I'm passionate about volunteering weekly & using my talents to help people.
 
 So why should you hire me?
 -----
