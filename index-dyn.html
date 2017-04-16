@@ -40,7 +40,6 @@ excerpt: Andrew Paradi - volunteer work, hackathon hacks, freelance work, and su
               <div class="post-meta">
                 <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
                 <span class="post-tags-set">&nbsp;|&nbsp; {% for tag in post.tags %}<span class="post-tag-{{slug}}">{{ tag }}&nbsp;&nbsp;</span>{% endfor %}</span>
-  <!--              <span class="post-tags-set">on {{foreach tags}}<span class="post-tag-{{slug}}">{{if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}}</span> -->
               </div>
             </div>
           </article>
@@ -63,15 +62,14 @@ excerpt: Andrew Paradi - volunteer work, hackathon hacks, freelance work, and su
               <div class="post-meta">
                 <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
                 <span class="post-tags-set">&nbsp;|&nbsp; {% for tag in post.tags %}<span class="post-tag-{{slug}}">{{ tag }}&nbsp;&nbsp;</span>{% endfor %}</span>
-  <!--              <span class="post-tags-set">on {{foreach tags}}<span class="post-tag-{{slug}}">{{if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}}</span> -->
               </div>
             </div>
           </article>
         {% endfor %}
       </div>
-    
-    
-    
+
+
+
       <div class="container featured">
         {% for post in site.categories.project %}
           <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
@@ -85,16 +83,15 @@ excerpt: Andrew Paradi - volunteer work, hackathon hacks, freelance work, and su
               <div class="post-meta">
                 <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
                 <span class="post-tags-set">&nbsp;|&nbsp; {% for tag in post.tags %}<span class="post-tag-{{slug}}">{{ tag }}&nbsp;&nbsp;</span>{% endfor %}</span>
-  <!--              <span class="post-tags-set">on {{foreach tags}}<span class="post-tag-{{slug}}">{{if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}}</span> -->
               </div>
             </div>
           </article>
         {% endfor %}
       </div>
-    
-    
-    
-    
-    
+
+
+
+
+
 
 </main>

@@ -11,7 +11,7 @@
 	      <meta itemprop="keywords" content="{{ page.tags | join: ',' }}" />
 		  <meta itemprop="description" content="{{ content | strip_html | truncatewords: 40 }}" />
 		  <time class="published" itemprop="datePublished" datetime="{{ page.date | date: '%Y-%m-%d' }}"> {{ page.date | date: "%B %e, %Y" }} </time>
-		  
+
         {% if page.image %}
         <div class="article-image">
           <div class="post-image-image" style="background-image: url({% if page.image %}{{ page.image }}{% endif %})">
@@ -27,7 +27,6 @@
               <a href="{{ site.bio_page }}"><h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ site.author }}</h4></a>
               on
               <time datetime="{{ page.date | date: "%F %R" }}" >{{ page.date | date_to_string }}</time>
-              <!-- , tagged on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}} -->
             </div>
             <div style="text-align:center">
               <a href="#topofpage" class="topofpage"><i class="fa fa-angle-down"></i></a>
@@ -43,7 +42,6 @@
               <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ page.author }}</h4>
               on
               <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time>
-              <!-- , tagged on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}} -->
             </div>
           </div>
         </div>

@@ -18,7 +18,7 @@
     		        Teaser Image
     		  </div>
     		</div>
-    		
+
     		<header class="blog-header">
     		    {% if site.logo %}
     		      <a class="blog-logo" href="{{site.url}}" style="background-image: url('{{ site.logo }}')">{{ site.title }}</a>
@@ -30,32 +30,32 @@
     		    </section>
     		    {% if site.toggle_menu %}
     		      {% for category in site.categories %}
-    		      
+
     		        {% if forloop.first %}
                   <div class="toggle-menu">
                 {% endif %}
-                
+
     		      	{% if category.url == page.permalink %}
     		      	  {% capture cat %}{{category.cat}}{% endcapture %}
     		      		<a href="{{page.permalink}}" class="selected">{{category.title}}</a>
     		      	{% else %}
     		      		<a href="{{page.permalink}}">{{category.title}}</a>
     		      	{% endif %}
-    		      	
+
         		    {% if forloop.last %}
                   </div>
                   <div class="blog-description">
                     {{category.desc}}
                   </div>
                 {% endif %}
-                
+
         		  {% endfor %}
         		{% endif %}
     		</header>
-    		
-    		
+
+
     		      	<!-- assign .  here assign value for category to be referenced below for ...ccategories.project in post listing -->
-    		
+
     <!-- 		Try for loop of all posts then if statement each one if matches project. certain html attributes (tags, start date...) have if statements... -->
     		<main class="content" role="main">
       		<div class="container featured">
@@ -73,16 +73,14 @@
       	            <div class="post-meta">
       	              {% if cat == "work" or cat == "project" %}<time datetime="{{ post.date | date_to_long_string }}">{{ post.startdate | date_to_long_string }}</time> - {% endif %}<time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
       	              <span class="post-tags-set">&nbsp;|&nbsp; {% for tag in post.tags %}<span class="post-tag-{{slug}}">{{ tag }}&nbsp;&nbsp;</span>{% endfor %}</span>
-      	                
-      	<!--              <span class="post-tags-set">on {{foreach tags}}<span class="post-tag-{{slug}}">{{if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}}</span> -->
       	            </div>
       	          </div>
       	        </article>
-      	        
+
       	      {% endif %}
     	      {% endfor %}
     	    </div>
-    		
+
     		</main>
 
       </div>
