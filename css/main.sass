@@ -260,6 +260,32 @@ body
     right: 0
     bottom: 0
     overflow: hidden
+    @media(min-width: 700px)
+      .post-image-image
+        background-size: cover
+        position: absolute
+        top: 0
+        left: 0
+        right: 0
+        bottom: 0
+        text-indent: -9999px
+        padding-top: 33%
+        z-index: 1
+      .post-image-image2
+        display: none
+    @media(max-width: 700px)
+      .post-image-image
+        display: none
+      .post-image-image2
+        background-size: cover
+        position: absolute
+        top: 0
+        left: 0
+        right: 0
+        bottom: 0
+        text-indent: -9999px
+        padding-top: 33%
+        z-index: 1
     .post-image-image
       background-size: cover
       position: absolute
@@ -606,17 +632,18 @@ body
       height: 44px
       background: #2196F3
       color: #fff
-      vertical-align: middle
+      vertical-align: baseline
       box-sizing: border-box
       border-radius: 999em
-      line-height: 40px
+      line-height: 44px
       padding: 0 18px
-      border: #1976D2 4px solid
+      margin: 0px 10px
+      // border: #1976D2 4px solid
       &:hover
-        font-weight: 600 !important
+        font-weight: 500 !important
         background: #1565C0 !important
-        border: #0D47A1 4px solid !important
-        
+        // border: #0D47A1 4px solid !important
+
 #disqus_thread
   margin-top: 50px
 .post-tag-articleimage

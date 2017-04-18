@@ -1,0 +1,19 @@
+<div class="bottom-closer">
+  <div class="background-closer-image" {%if site.cover %} style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url({{ site.cover | prepend: site.baseurl }})"{% endif %}>
+    Image
+  </div>
+  <div class="inner">
+    <h1 class="blog-title">{{ site.title }}</h1>
+    <h2 class="blog-description">{{ site.description }}</h2>
+    <a href="mailto:{{ site.email }}" class="btn">Contact Andrew</a>
+    {% if page.categories contains "project" %}
+    <a href="/projects/" class="btn">Projects</a>
+    {% endif %}
+    {% if page.categories contains "blog" %}
+    <a href="/blog/" class="btn">andrewnotes</a>
+    {% endif %}
+    {% if page.categories contains "work" %}
+    <a href="/work/" class="btn">Work</a>
+    {% endif %}
+  </div>
+</div>

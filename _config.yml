@@ -1,3 +1,5 @@
+# Based on https://github.com/dirkfabisch/mediator/ as of Apr 17, 2017
+
 # Build settings
 #markdown: redcarpet
 #highlighter: pygments
@@ -14,8 +16,10 @@ description: > # this means to ignore newlines until "email:"
 email: me@andrewparadi.com
 #blog logo
 logo: "/assets/images/ap_logov4.0t.png"
+float_logo: true
 # blog cover
 cover: "/assets/images/covers/launchpad-c.jpg"
+date_format: "%B %e, %Y"
 
 name: 'Andrew Paradi'
 author: 'Andrew Paradi'
@@ -32,6 +36,8 @@ bio_insta: "https://www.instagram.com/andrewnotes/"
 work_title: "software developer"
 work_term: "early 2018"
 resume: "/assets/files/AndrewParadiResume.pdf"
+google_analytics: UA-15052723-11
+google_webmaster_tools: O_pv2dcb2u8RFakuUQcH-TwV5lPeBs6aNXZJY5xYiDs
 
 
 toggle_menu: True
@@ -51,7 +57,7 @@ categories:
     url:	/blog/
     desc:	"Book reviews, startup thoughts, and case studies diving into how projects succeed."
 
-paginate: Nil
+paginate:
 
 url: "//www.andrewparadi.com" # the base hostname & protocol for your site
 baseurl: ""
@@ -122,7 +128,6 @@ social:
     share_link:
     caption:
 
-    #     PGP Key
   - icon:	lock
     url:	https://keybase.io/andrewparadi
     desc:	Keybase.io PGP Fingerprint &amp; Public Key
@@ -131,7 +136,6 @@ social:
     share_link:
     caption: PGP
 
-#     resume
   - icon:	graduation-cap
     url:	/assets/files/AndrewParadiResume.pdf
     desc:	Resume as of Jan 2015
@@ -139,6 +143,14 @@ social:
     share_title:
     share_link:
     caption: Resume
+
+  - icon:	id-card-o
+    url:	/about
+    desc:	About Page
+    share_url:
+    share_title:
+    share_link:
+    caption: About
 
 
 #  - icon:	facebook
