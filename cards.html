@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /blog/
+permalink: /cards/
 excerpt: andrewnotes blog - book reviews, life thoughts, and case studies of success
 cover: /assets/images/covers/DSC_4838-DSC_4841c.jpg
 ---
@@ -22,14 +22,41 @@ cover: /assets/images/covers/DSC_4838-DSC_4841c.jpg
     </section>
     <div class="toggle-menu">
       <a href="/projects/">Projects</a>
-      <a href="/blog/" class="selected">andrewnotes</a>
+      <a href="/blog/">andrewnotes</a>
       <a href="/work/">Work</a>
-	  </div>
+    </div>
 </header>
-
+<div class="cards-wrapper">
+  {% for post in site.posts %}
+  <a href="{{ post.url | prepend: site.baseurl }}">
+    <div class="card" data-id="{{ post.id }}">
+      <div class="card__container card__container--closed">
+        <svg class="card__image" preserveaspectratio="xMidYMid slice" viewbox="0 0 640 400" xmlns="http://www.w3.org/2000/svg">
+          {% if post.thumb %}
+          <image clip-path="url(#{{ post.id }}-clip-path)" height="400" width="640" xlink:href="{{ post.thumb | prepend: site.baseurl }}"></image>
+          {% elsif post.image %}
+          <image clip-path="url(#{{ post.id }}-clip-path)" height="400" width="640" xlink:href="{{ post.image | prepend: site.baseurl }}"></image>
+          {% else %}
+          <image clip-path="url(#{{ post.id }}-clip-path)" height="400" width="640" xlink:href="{{ post.image | prepend: site.baseurl }}"></image>
+          {% endif %}
+        </svg>
+        <div class="card__content">
+          <i class="card__btn-close fa fa-times"></i>
+          <div class="card__caption">
+            <h2 class="card__title">{{ post.title }}</h2>
+            <p class="card__subtitle">{{ post.date | date: site.date_format }}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+  {% endfor %}
+</div><!-- /cards -->
 
 <main class="content" role="main">
 
+  <hr>
+  <br/>
 	<div class="container featured">
       {% for post in site.categories.blog %}
         <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
