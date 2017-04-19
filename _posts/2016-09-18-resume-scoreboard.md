@@ -3,11 +3,13 @@ title:  "Resume Scoreboard"
 date:   2016-09-18 18:00:00
 startdate:  2015-09-16 9:05:00
 permalink: /project/resume-scoreboard/
-categories: 
+categories:
 - project
+- hackathon
+- experience
 layout: "project"
 tags:
-- hack 
+- hack
 - AngularJS
 - NodeJS
 - javascript
@@ -16,6 +18,12 @@ tags:
 image: /assets/article_images/2016-09-19-resume-scoreboard/htn-2c.png
 excerpt: A resume comparison tool built at Hack the North 2016 in AngularJS.
 seo-title: "Resume Scoreboard - AngularJS, Firebase, Material Design | Andrew Paradi"
+position: Resume Scoreboard
+company: Hack the North 2016
+summary: >
+  - Buuilt stuff
+  - more stuff
+  - yeaaaah
 ---
 
 **At Hack the North 2016, I built Resume Scoreboard.**
@@ -36,4 +44,3 @@ But unlike with Google searches, you can't verify where you rank, whether you're
 Built in AngularJS 2, with Firebase and Material Design by Andrew Paradi at Hack the North 2016.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeInvoSw_v-dpq_xoBQXb9BHDPrV99D6zNcUbnZLTgjLr8uvw/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-

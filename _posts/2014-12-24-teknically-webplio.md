@@ -3,12 +3,12 @@ title:  "Teknically & Webplio"
 date:   2014-12-24 01:34:25
 startdate:  2013-10-02 10:24:07
 permalink: /project/teknically-webplio/
-categories: 
+categories:
 - project
 - work
+- experience
 layout: "project"
 tags:
-- machine-learning
 - google-analytics
 - HTML/CSS
 - y-combinator
@@ -24,9 +24,9 @@ seo-title: "Teknically &amp; Webplio - the future of Google Analytics | Andrew P
 
 Our product, Webplio, was a dashboard that simplified Google Analytics data for non-techy users. With different scoring algorithms, we could simplify data to base 100 scores and Siri-like natural language insights. **With Webplio, anybody could understand their Google Analytics.**
 
-We thrived in Laurier Launchpad, won over $65,000 in national competitions and grants, hired brilliant University of Waterloo co-op students, was part of **Google for Entrepreneurs** Batch 2, and interviewed at **Y Combinator**. 
+We thrived in Laurier Launchpad, won over $65,000 in national competitions and grants, hired brilliant University of Waterloo co-op students, was part of **Google for Entrepreneurs** Batch 2, and interviewed at **Y Combinator**.
 
-We did hundreds of customer interviews to find the pain points small business owners have in understanding Google Analytics. We pioneered machine learning math techniques that let us pull insights from complex Google Analytics data sets. 
+We did hundreds of customer interviews to find the pain points small business owners have in understanding Google Analytics. We pioneered machine learning math techniques that let us pull insights from complex Google Analytics data sets.
 
 **The full story is covered over two posts ([1](/blog/the-389-day-laurier-bba/), [2](/blog/the-dream-fades/)).** Since going back to study computer science at University of Waterloo, I've continued to [blog](/blog/) about what we learned with Teknically, share new books I've been reading, and my advice for other new founders.
 

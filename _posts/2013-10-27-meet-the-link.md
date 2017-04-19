@@ -1,8 +1,11 @@
 ---
 title:  "Meet the Link"
-date:   2014-10-27 16:09:25
+date:   2014-4-27 16:09:25
 startdate:  2013-08-25 14:24:48
-categories: project
+categories:
+- experience
+- volunteer
+- project
 layout: "project"
 tags:
 - video

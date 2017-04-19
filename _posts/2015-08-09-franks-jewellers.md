@@ -5,7 +5,8 @@ startdate:  2015-01-29 09:32:05
 permalink: /project/franks-jewellers/
 categories:
 - project
-- work
+- consulting
+- experience
 layout: "project"
 tags:
 - HTML/CSS

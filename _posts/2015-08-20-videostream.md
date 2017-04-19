@@ -3,9 +3,10 @@ title:  "Videostream"
 date:   2015-08-20 19:34:25
 startdate:  2015-05-04 10:05:00
 permalink: /project/videostream/
-categories: 
+categories:
 - project
 - work
+- experience
 layout: "project"
 tags:
 - material-design
@@ -32,4 +33,3 @@ The new website also got more users to come back to Videostream leading to a 12%
 I worked on a new Premium flow in the app which makes upgrading to new features significantly easier for customers. I built the flow from scratch using HTML/Sass, Javascript, and integrations with Stripe, Paypal, and Google OAuth APIs. It's beating the original Premium flow in initial revenue split tests.
 
 >[Read how I helped Videostream increase downloads 32% (+ before/after screenshots!!)](/blog/videostream-how-growth-starts-with-great-customer-support/).
-

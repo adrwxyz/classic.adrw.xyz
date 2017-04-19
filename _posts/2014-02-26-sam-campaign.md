@@ -2,7 +2,10 @@
 title:  "Sam Lambert for President"
 date:   2014-02-26 02:24:25
 startdate:  2013-12-12 18:34:23
-categories: project
+categories:
+- experience
+- volunteer
+- project
 layout: "project"
 tags:
 - strategy
@@ -22,7 +25,7 @@ Other candidates focused on hyper detailed platforms, bombarding students with p
 
 I worked as co-lead for marketing on the campaign and worked with Sam and his campaign staff to determine his winning strategy. We successfully made the election about character. Who will you trust to be professional, inviting, and a worthy representative of Wilfrid Laurier University on campus and abroad?
 
-Sam regularly wore bow ties, so we strategically used that as a symbol of his character and used it liberally in print, digital, and video marketing. By pushing early on for students to associate Sam's bright and trustworthy character with bow ties, we didn't even have to say Vote Sam in posters late in the campaign when there were more restrictions. We could just show a bow tie icon and voters would immediately think Sam. 
+Sam regularly wore bow ties, so we strategically used that as a symbol of his character and used it liberally in print, digital, and video marketing. By pushing early on for students to associate Sam's bright and trustworthy character with bow ties, we didn't even have to say Vote Sam in posters late in the campaign when there were more restrictions. We could just show a bow tie icon and voters would immediately think Sam.
 
 I was actively involved in marketing strategy meetings, developed his campaign website, and did full video production for his main campaign video (below).
 

@@ -3,9 +3,8 @@ title:  "Up 32%: Videostream Growth Started with Great Support"
 date:   2015-09-06 22:50:25
 permalink: /blog/videostream-how-growth-starts-with-great-customer-support/
 tags: startups
-categories: 
+categories:
 - blog
-- work
 image: /assets/article_images/2015-09-06-videostream-how-growth-starts-with-great-customer-support/vs-home-c.png
 excerpt: Downloads and Videostream Premium signups were up over 30%. Here's how we did it.
 seo-title: "Up 32%: Videostream's Growth Started with Great Support"
@@ -36,7 +35,7 @@ The Videostream team had reached a consensus: the website was long due for a mak
 
 ![Original Videostream Website](/assets/article_images/2015-09-06-videostream-how-growth-starts-with-great-customer-support/vs-old-c.jpg)
 
-I started brainstorming what I the ideal new website would be like. 
+I started brainstorming what I the ideal new website would be like.
 
 - It would be easier to understand what was Videostream.
 - Hero images would showcase how Videostream worked with laptops, TVs, iPhones and Android devices.
@@ -44,7 +43,7 @@ I started brainstorming what I the ideal new website would be like.
 
 I first focused on the "above the fold" content, or what a visitor would see before they scrolled. As I bounced between different drafts for the subtitle, I realized that using a word substitution animation would allow us to subtly show just how many files we supported. With a simple Javascript animation, "The easiest way to stream ____ from your computer..." would animate the blank to say: videos, MP4s, MKVs, AVIs, MP3s... switching every 4 seconds. This instantly addressed above the fold the question: "will Videostream play my videos?"
 
-To stay consistent with the app's existing design style, I found a great Material Design HTML/CSS/JS framework to build on (<a href="http://www.materialup.com/posts/mdlp-material-design-landing-page" target="_blank">1</a>). I got to work on customizations and generating the Hero image assets in Photoshop. 
+To stay consistent with the app's existing design style, I found a great Material Design HTML/CSS/JS framework to build on (<a href="http://www.materialup.com/posts/mdlp-material-design-landing-page" target="_blank">1</a>). I got to work on customizations and generating the Hero image assets in Photoshop.
 
 Leveraging my knowledge from leading sites like <a href="https://copyhackers.com/" target="_blank">Copyhackers</a>, <a href="https://moz.com/blog" target="_blank">Moz</a>, &amp; <a href="https://blog.kissmetrics.com/" target="_blank">Kissmetrics</a>, I focused all visitors towards a single Call to Action (CTA) above the fold: the "Get Streaming" download button.
 
@@ -94,14 +93,14 @@ I did a lot of research from e-commerce checkout white papers to successful upgr
 ![New Premium Flow: Plans, Payment Selection, & Features.](/assets/article_images/2015-09-06-videostream-how-growth-starts-with-great-customer-support/premflow1-c.jpg)
 ![New Premium Flow: Payment Confirmation.](/assets/article_images/2015-09-06-videostream-how-growth-starts-with-great-customer-support/premflow2-c.jpg)
 
-The Premium flow was almost in production as I finished my internship at Videostream. The benefits of Videostream were now easy to understand. Upgrading was fast and seamless and could be done in fewer clicks. 
+The Premium flow was almost in production as I finished my internship at Videostream. The benefits of Videostream were now easy to understand. Upgrading was fast and seamless and could be done in fewer clicks.
 
 The new Premium flow is in split tests now where it is rumoured to be winning and generating more revenue for Videostream.
 
 <h2>Growth? Check, check, and check</h2>
 At Videostream, I leveraged my primary task of email support to better understand our customers and spur growth in different parts of our funnel. The new website increased download conversions by up to 32% on most metrics. We improved user retention with weekly active users growing by 12%. Revenue is now going up thanks to a more effective Premium flow.
 
-Personally, I grew a lot. The experience of owning a project, working closely with founders, collaborating with a crazy good technical team, and supporting thousands of customers was priceless. I learned so much. 
+Personally, I grew a lot. The experience of owning a project, working closely with founders, collaborating with a crazy good technical team, and supporting thousands of customers was priceless. I learned so much.
 
 I'm thankful to Matt, Jason, Graham, Joe, Phillip, Sean, & Rahul for all of the support, guidance, and unique opportunities I received this summer. It's certainly one I won't soon forget.
 

@@ -28,6 +28,7 @@ cover: /assets/images/covers/DSC_4838-DSC_4841c.jpg
 </header>
 <div class="cards-wrapper">
   {% for post in site.posts %}
+  {% if post.categories contains "blog" %}
   <a href="{{ post.url | prepend: site.baseurl }}">
     <div class="card" data-id="{{ post.id }}">
       <div class="card__container card__container--closed">
@@ -50,6 +51,7 @@ cover: /assets/images/covers/DSC_4838-DSC_4841c.jpg
       </div>
     </div>
   </a>
+  {% endif %}
   {% endfor %}
 </div><!-- /cards -->
 

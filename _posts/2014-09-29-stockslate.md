@@ -2,10 +2,12 @@
 title:  "StockSlate"
 date:   2014-09-21 02:14:25
 startdate:  2014-09-19 17:22:03
-categories: project
+categories:
+- project
+- hackathon
+- experience
 layout: "project"
 tags:
-- machine-learning
 - bloomberg
 - hack
 - video
@@ -25,4 +27,3 @@ We won the Bloomberg API Prize for most innovative use of their data at the comp
 - <a href="http://andrewparadi.com/blog/launchpad-meets-hack-north-3-hypotheses-tested-hacking/">Launchpad meets Hack the North: 3 Hypotheses We Tested While Hacking</a> - Sept 30, 2014
 
 <iframe width="960" height="720" src="https://www.youtube-nocookie.com/embed/juY4bwJXMVE?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-

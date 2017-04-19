@@ -3,9 +3,8 @@ title:  "5 Tough Lessons for When Your Startup Fails"
 date:   2015-03-19 16:09:25
 permalink: /blog/lessons-from-behind-the-curtain/
 tags: startups
-categories: 
+categories:
 - blog
-- work
 image: /assets/article_images/2015-03-19-lessons-from-behind-the-curtain/chicago.jpg
 excerpt: At our final Laurier Launchpad update presentation we summarized the five biggest lessons we had learned founding our startup, Teknically.
 seo-title: "5 Tough Lessons for When Your Startup Fails | Andrew Paradi"
@@ -54,7 +53,7 @@ Competitions ate up months of time early on that would have been better invested
 
 The early development stage simply can't be outsourced outside of the founding team. Somebody needs to know all the code from the beginning. As new members join, they can be the lead in bringing them up to speed and having them understand the vision of the product. This simply isn't possible if coding in parts or whole is outsourced and contractors change every couple months.
 
->Put simply, if you're a business major who thinks your idea is the next Google/Facebook/Snapchat/Uber and all you need is a cheap coder or technical founder to be successful, you are delusional. 
+>Put simply, if you're a business major who thinks your idea is the next Google/Facebook/Snapchat/Uber and all you need is a cheap coder or technical founder to be successful, you are delusional.
 
 Execution is worth more than ideas. Learn to code so you can make your product vision a reality. There are no substitutes, no short cuts, and with <a href="https://www.codeschool.com/" target="_blank">Code School</a>, <a href="http://www.codecademy.com/" target="_blank">Codecademy</a>, and millions of other free resources there are no excuses.
 
@@ -63,7 +62,7 @@ Execution is worth more than ideas. Learn to code so you can make your product v
 <h2>3. Do things that don't scale.</h2>
 After the Webplio Snapshot Report we went straight into building the full Webplio Dashboard. We tried to jump from paper to perfectly scaled web app. What were we thinking?
 
-><a href="http://paulgraham.com/ds.html" target="_blank">"Do things that don't scale"</a> is a classic piece of PG advice. 
+><a href="http://paulgraham.com/ds.html" target="_blank">"Do things that don't scale"</a> is a classic piece of PG advice.
 >We know now how profound it is.
 
 We should have focused on putting together a hack online MVP and launching as soon as possible. Instead of just entering data manually, we spent months perfecting the Google Analytics integration. Instead of launching with our first front end mockups, we went through numerous internal revisions until we were happy with it. Instead of launching with a basic signup page, we split test wait lists, copy, videos, and marketing techniques.

@@ -3,9 +3,8 @@ title:  "Teknically Part 1: The 389 Day Laurier BBA"
 date:   2014-10-03 23:58:45
 permalink: /blog/the-389-day-laurier-bba/
 tags: startups
-categories: 
+categories:
 - blog
-- work
 image: /assets/article_images/2014-10-03-the-389-day-laurier-bba/cofounders-launchpad-desk.jpg
 excerpt: My first year as a BBA student at Wilfrid Laurier University was unlike anything imaginable. I started a business, travelled the world, and now I'm free.
 seo-title: "The Most Exciting First Year at Laurier | Andrew Paradi"
@@ -63,17 +62,17 @@ These aspects alone were a big deal for us. The past two weeks have expanded wha
 
 
 
-To fully take advantage of the resources and partnership available as part of Google for Entrepreneurs, we would need to work <strong>quickly</strong>. To effectively leverage our grant money to exponentially grow Teknically, we would need to stay <strong>focused</strong>. 
+To fully take advantage of the resources and partnership available as part of Google for Entrepreneurs, we would need to work <strong>quickly</strong>. To effectively leverage our grant money to exponentially grow Teknically, we would need to stay <strong>focused</strong>.
 
 We remembered what it was like to work full time in the summer... We were remarkably focused, productive and made amazing progress...
 
 
 
->To truly manifest our vision for Webplio, there was no doubt we would need to work full time. 
+>To truly manifest our vision for Webplio, there was no doubt we would need to work full time.
 
 
 
-Within 48 hours of coming to this final conclusion, we had deferred our program, dropped all of our classes, and were now working full time on Teknically. 
+Within 48 hours of coming to this final conclusion, we had deferred our program, dropped all of our classes, and were now working full time on Teknically.
 
 ![Full Time Entrepreneurs: Brandon and Andrew working on Webplio in the Laurier Launchpad space.](/assets/article_images/2014-10-03-the-389-day-laurier-bba/cofounders-launchpad-desk.jpg)
 
@@ -84,7 +83,7 @@ Though many entrepreneurship stories attribute all success to the individual's h
 
 I learned servant leadership from my Grandpa after long summer days working with my hands on different projects. I learned attention to detail from my Mom, pushing me not to accept anything less than my best. From my sister, I've learned perseverance. From my Dad, a logical approach to decision making and how to push myself to be a better entrepreneur.
 
-From St. Andrew's Presbyterian Streetsville and Camp Mini-Yo-We, a strengthened and unwavering faith. From my high school math teacher Mr. Spencer, university level financial mathematics skills. From my high school English teacher Mr. Blake, deliberate mindfulness and the ability to write clearly and persuasively. From my Graydon and Laurier friends, the value of a community that pushes each other to be better. From Laurier Launchpad, how to systematically test your assumptions about your product, customers, and market. 
+From St. Andrew's Presbyterian Streetsville and Camp Mini-Yo-We, a strengthened and unwavering faith. From my high school math teacher Mr. Spencer, university level financial mathematics skills. From my high school English teacher Mr. Blake, deliberate mindfulness and the ability to write clearly and persuasively. From my Graydon and Laurier friends, the value of a community that pushes each other to be better. From Laurier Launchpad, how to systematically test your assumptions about your product, customers, and market.
 
 Too many family, friends, and mentors to name have unknowingly fostered these skills and helped along each step of my journey. Thankfully my parents, sister, and extended family both understand and fully support my decision to defer classes and focus full time on Teknically. To God and all of you, I am truly grateful.
 
@@ -97,7 +96,7 @@ Now that we are working full time, we can push Teknically to Mach 2. Next week, 
 
 ![Teknically founders Brandon and Andrew in their new Google for Entrepreneurs space at Communitech.](/assets/article_images/2014-10-03-the-389-day-laurier-bba/cofounders-ping-pong.jpg)
 
-September 24th was our last day as full time Laurier students. Now as full time entrepreneurs, we can't wait to see what will happen in this second year of <a href="http://teknically.com" target="_blank">Teknically</a>. 
+September 24th was our last day as full time Laurier students. Now as full time entrepreneurs, we can't wait to see what will happen in this second year of <a href="http://teknically.com" target="_blank">Teknically</a>.
 
 <strong><a href="http://youtu.be/_DnKNClu2XM?t=1m45s" target="_blank">No ragrets</a>, let the post-post-secondary adventure begin.</strong>
 
