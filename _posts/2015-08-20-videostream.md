@@ -18,6 +18,11 @@ tags:
 image: /assets/article_images/2015-09-06-videostream-how-growth-starts-with-great-customer-support/vs-home-c.png
 excerpt: In 4 months, Andrew resolved 2,148 support tickets, boosted downloads 32% with a new website, and optimized checkout flow for revenue.
 seo-title: "Videostream - Downloads Up 32% in Weeks | Andrew Paradi"
+position: Growth Intern
+company: Videostream
+summary: |
+  - Built new website with 32% more downloads, 12% weekly active users boost
+  - Customer support for 1.2 million customers, wrote 90 new canned responses
 ---
 
 **As Summer '15 Growth Intern, I got to work on three awesome projects on one of the most popular video streaming apps for Chromecast.**

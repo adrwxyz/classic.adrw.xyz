@@ -183,12 +183,14 @@ body
     .post-meta
       font-size: 14px
       color: #b3b3b1
-      line-height: 30px
       a
         color: #b3b3b1
         text-decoration: none
         &:hover
           text-decoration: underline
+    .post-tags-set
+      display: flex
+      flex-flow: row wrap
 .container.featured
   padding-bottom: 40px
 
@@ -668,27 +670,29 @@ pre
     padding-left: 0
 
 .experience
-  padding: 0 !important
+  padding-top: 30px !important
   .experience-year
     font-size: 24px
     font-weight: 700
     font-family: $font-serif
-    margin-top: 20px
+    margin: -17px -20px
+    padding-right: 5px
     display: block
     float: left
+    background-color: #fff
   .experience-item
-    margin: 0 0 0 70px
     .experience-position
       font-weight: 400
-      margin: 0 25px
+      font-style: italic
     .experience-company
-      font-weight: 700
+      font-weight: 600
+      font-style: normal
     .experience-position,
     .experience-company
       letter-spacing: -0.02em
-      font-style: normal
-      font-size: 20px
+      font-size: 18px
       line-height: 1.1
+      display: inline-block
       margin: 0 0
       a
         text-decoration: none
@@ -703,17 +707,16 @@ pre
       line-height: 1.1
       color: #666665
     .experience-meta
-      font-size: 14px
+      font-size: 12px
       color: #b3b3b1
-      line-height: 30px
       a
         color: #b3b3b1
         text-decoration: none
         &:hover
           text-decoration: underline
     .experience-month
-      // margin: 5px 0
-      vertical-align: top
+      margin: 5px 0
+      font-size: 14px
       font-family: $font-serif
       float: right
 
