@@ -12,12 +12,14 @@ layout: "project"
 tags:
 - HTML/CSS
 - PHP
-- wordpress
-- training
-- analytics
+- Wordpress
+- Google-Analytics
+- Training
 image: /assets/article_images/2016-09-09-christian-embassy/christianembassy-new.png
 excerpt: The Christian Embassy needed a new site to better engage with Diplomats and Members of Parliament
 seo-title: "New online reputation with Diplomats and MPs | Andrew Paradi"
+position: Volunteer Website Dev
+company: Christian Embassy
 ---
 
 The Christian Embassy supports diplomats, Members of Parliament, Senators, and business leaders with resources and events to help them pursue excellence in leadership and discover the hope and light of Jesus.

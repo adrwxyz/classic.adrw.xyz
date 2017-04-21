@@ -1,7 +1,7 @@
 ---
 title:  "Resume Scoreboard"
 date:   2016-09-18 18:00:00
-startdate:  2015-09-16 9:05:00
+startdate:  2016-09-16 9:05:00
 permalink: /project/resume-scoreboard/
 categories:
 - project
@@ -9,21 +9,19 @@ categories:
 - experience
 layout: "project"
 tags:
-- hack
+- Hack
 - AngularJS
-- NodeJS
-- javascript
+- Firebase
+- Material-Design
+- Typescript
 - HTML/Sass
-- material-design
 image: /assets/article_images/2016-09-19-resume-scoreboard/htn-2c.png
 excerpt: A resume comparison tool built at Hack the North 2016 in AngularJS.
 seo-title: "Resume Scoreboard - AngularJS, Firebase, Material Design | Andrew Paradi"
 position: Resume Scoreboard
-company: Hack the North 2016
-summary: >
-  - Buuilt stuff
-  - more stuff
-  - yeaaaah
+company: HackTheNorth
+summary: |
+  Resume keyword analysis dashboard built with AngularJS 2 & Firebase
 ---
 
 **At Hack the North 2016, I built Resume Scoreboard.**
