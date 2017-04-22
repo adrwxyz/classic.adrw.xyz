@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about
 categories:
 - project
 - blog
@@ -15,7 +15,7 @@ Hi, I'm Andrew!
 
 I'm graduating from **computer science at University of Waterloo** in 2018.
 
-I have 3+ years of experience solving problems with great code at [Atomic.vc](http://atomic.vc), startups [[1](/project/blitzen)][[2](/project/videostream)][[3](/project/teknically-webplio/)], for [clients](/project/franks-jewellers/), [side projects](/projects), & Hack the North [[4](/project/resume-scoreboard/)][[5](/project/losocco/)][[6](/project/stockslate/)].
+I have 3+ years of experience solving problems with great code at [Atomic.vc](http://atomic.vc), startups [[1](/project/blitzen)][[2](/project/videostream)][[3](/project/teknically-webplio)], for [clients](/project/franks-jewellers), [side projects](/projects), & Hack the North [[4](/project/resume-scoreboard)][[5](/project/losocco)][[6](/project/stockslate)].
 
 **I want to work on tough problems with other user-focused devs.**
 
@@ -26,7 +26,7 @@ P.S. If you [need a new website](#freelance-website--software-development) or so
 What am I about?
 -----
 
-I love reading, playing trumpet in the UW Jazz Band, starting businesses, and working on side projects (like [DuckDuckGo search for the Tor browser](http://www.andrewparadi.com/torduckgo/)).
+I love reading, playing trumpet in the UW Jazz Band, starting businesses, and working on side projects (like [DuckDuckGo search for the Tor browser](http://www.andrewparadi.com/torduckgo)).
 
 I thrive working on user-focused teams. MVP & user experience >`l33t code`. User A/B split test data > personal design preferences & startup lingo.
 
@@ -34,7 +34,7 @@ I'm passionate about volunteering weekly & using my talents to help people.
 
 So why should you hire me?
 -----
-**I learn quickly**. Whether at Hack the North ([2016](/project/resume-scoreboard/), [2015](/project/losocco/), [2014](/project/stockslate/)), or [Atomic.vc](http://atomic.vc), I pick up new tools quickly to solve problems with code.
+**I learn quickly**. Whether at Hack the North ([2016](/project/resume-scoreboard), [2015](/project/losocco), [2014](/project/stockslate)), or [Atomic.vc](http://atomic.vc), I pick up new tools quickly to solve problems with code.
 
 I have a **strong attention to detail**. With user experiences, interfaces, sales copy, and writing code, I spot issues and fix them before code review.
 
@@ -54,10 +54,10 @@ I'm **focused on solving problems**. Unnecessary dev work misses deadlines. I wr
 **My code, pitches, and sales copy have successfully:**
 
 - Boosted **inbound signups by 74%** with new site design & copy [[7](/project/blitzen)]
-- Increased **active users by 12%** for a 1.2 million user app [[8](/blog/videostream-how-growth-starts-with-great-customer-support/)]
-- Won over **$65,000** in competition prizes &amp; grants [[9](/project/teknically-webplio/)][[10](/blog/the-389-day-laurier-bba/)][[11](/blog/the-dream-fades/)]
-- Been part of **Google for Entrepreneurs** Cohort 2 [[12](/blog/the-389-day-laurier-bba/)]
-- Wrote application and interviewed at **Y Combinator** [[13](/blog/the-dream-fades/)]
+- Increased **active users by 12%** for a 1.2 million user app [[8](/blog/videostream-how-growth-starts-with-great-customer-support)]
+- Won over **$65,000** in competition prizes &amp; grants [[9](/project/teknically-webplio)][[10](/blog/the-389-day-laurier-bba)][[11](/blog/the-dream-fades)]
+- Been part of **Google for Entrepreneurs** Cohort 2 [[12](/blog/the-389-day-laurier-bba)]
+- Wrote application and interviewed at **Y Combinator** [[13](/blog/the-dream-fades)]
 - ...& even **elected a President** [[14](/project/sam-campaign)]
 
 Resume?
@@ -117,4 +117,4 @@ With four years of experience writing A/B test beating sales copy [[15](/project
 
 If you'd like a fresh perspective on your messaging, [send me an email](mailto:me@andrewparadi.com).
 
-P.S. If you want to learn more for yourself, start reading [Copyhackers](https://copyhackers.com/)!
+P.S. If you want to learn more for yourself, start reading [Copyhackers](https://copyhackers.com)!

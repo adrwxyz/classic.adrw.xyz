@@ -24,7 +24,7 @@ summary: |
   - Built new Wordpress site, secured servers, and migrated email systems
 ---
 
-Frank's Jewellers has been trusted by couples and jewellery shoppers in Uptown Waterloo since 1919. After having a <a href="http://franksjewellers.ca/old/" target="_blank">basic website (below)</a> for nearly a decade, owner Bob Frank, was looking for a fresh look.
+Frank's Jewellers has been trusted by couples and jewellery shoppers in Uptown Waterloo since 1919. After having a <a href="http://franksjewellers.ca/old" target="_blank">basic website (below)</a> for nearly a decade, owner Bob Frank, was looking for a fresh look.
 
 Against the intuitive local search of Yelp and improving competitors, owner Bob Frank knew they needed a more effective website.
 
@@ -39,6 +39,6 @@ The new site is extremely easy to edit, cost efficient to maintain long term, an
 > "The new website just looks fantastic and it even kept with our look and feel that we use in other marketing. After the training from Andrew, we've been uploading new diamonds when they come in and even been getting some new customers as a result. Couldn't recommend him enough!"
 - Bob Frank, Owner, Frank's Jewellers
 
-Bob was one of our first clients for <a href="/project/teknically-webplio/" target="_blank">Webplio</a> back in Fall 2013 so it was a pleasure to work with him and their staff again.
+Bob was one of our first clients for <a href="/project/teknically-webplio" target="_blank">Webplio</a> back in Fall 2013 so it was a pleasure to work with him and their staff again.
 
-As young couples continue to trust Bob with their engagement rings, more of them will be learning about Bob through their new website. Check it out at <a href="http://franksjewellers.ca/" target="_blank">franksjewellers.ca</a>.
+As young couples continue to trust Bob with their engagement rings, more of them will be learning about Bob through their new website. Check it out at <a href="http://franksjewellers.ca" target="_blank">franksjewellers.ca</a>.

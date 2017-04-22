@@ -33,7 +33,7 @@ We soon had joined the Laurier Launchpad, sketched initial Webplio logos on used
 
 ![We were 1st place winners at CBMC in Halifax beating top MBA and PhD teams from around Canada for the $25,000 grand prize.](/assets/article_images/2014-10-03-the-389-day-laurier-bba/bmc-winner-cheque.jpg)
 
-In March, we competed against top MBA and PhD startup teams from across Canada at Dalhousie University for the Canada Business Model Canvas competition. For our innovative use of the canvas to tell our startup story, we won 1st place and $25,000. In May, we competed at the International Business Model Competition at Brigham Young University in Provo, Utah. Against the best MBA and PhD startups from Harvard, Stanford, and other top international universities, we finished top 40 out of 2,500 competitors. Thanks to our strong performance at these competitions, we were featured in the <a href="http://www.theglobeandmail.com/report-on-business/careers/business-education/saskatchewan-schools-reduce-roadblocks-for-aboriginal-business-students/article17597347/" target="_blank">Globe & Mail</a>, <a href="http://www.techvibes.com/blog/canadas-business-model-competition-2014-03-17" target="_blank">TechVibes</a>, and other <a href="http://teknically.com/press" target="_blank">publications</a>.
+In March, we competed against top MBA and PhD startup teams from across Canada at Dalhousie University for the Canada Business Model Canvas competition. For our innovative use of the canvas to tell our startup story, we won 1st place and $25,000. In May, we competed at the International Business Model Competition at Brigham Young University in Provo, Utah. Against the best MBA and PhD startups from Harvard, Stanford, and other top international universities, we finished top 40 out of 2,500 competitors. Thanks to our strong performance at these competitions, we were featured in the <a href="http://www.theglobeandmail.com/report-on-business/careers/business-education/saskatchewan-schools-reduce-roadblocks-for-aboriginal-business-students/article17597347" target="_blank">Globe & Mail</a>, <a href="http://www.techvibes.com/blog/canadas-business-model-competition-2014-03-17" target="_blank">TechVibes</a>, and other <a href="http://teknically.com/press" target="_blank">publications</a>.
 
 ![At the international level, we competed against top teams from Harvard, Stanford and other top international universities and finished top 40 out of 2,500 competitors.](/assets/article_images/2014-10-03-the-389-day-laurier-bba/utah.jpg)
 
@@ -44,7 +44,7 @@ In May we also hired three brilliant University of Waterloo engineering co-op st
 The Turning Point
 ---
 
-In the past 6 weeks, a lot at Teknically has changed. At the end of August we were accepted as one of five companies in Canada's only <a href="https://www.googleforentrepreneurs.com/" target="_blank">Google for Entrepreneurs</a> program based out of Communitech. We were thrilled with the new office space (complete with Google ping pong table and astroturf) and ability to directly contact Google employees with specific questions on different products or APIs we were using. We even got to pitch Webplio to Google employees and management in the Google Waterloo office.
+In the past 6 weeks, a lot at Teknically has changed. At the end of August we were accepted as one of five companies in Canada's only <a href="https://www.googleforentrepreneurs.com" target="_blank">Google for Entrepreneurs</a> program based out of Communitech. We were thrilled with the new office space (complete with Google ping pong table and astroturf) and ability to directly contact Google employees with specific questions on different products or APIs we were using. We even got to pitch Webplio to Google employees and management in the Google Waterloo office.
 
 ![Brandon and Andrew pitch to Google employees and management for the kickoff of their Google for Entrepreneurs tenancy batch.](/assets/article_images/2014-10-03-the-389-day-laurier-bba/google-for-entrepreneurs.jpg)
 
@@ -94,4 +94,4 @@ September 24th was our last day as full time Laurier students. Now as full time 
 
 <strong><a href="http://youtu.be/_DnKNClu2XM?t=1m45s" target="_blank">No ragrets</a>, let the post-post-secondary adventure begin.</strong>
 
-And it did...in [part 2](/blog/the-dream-fades/).
+And it did...in [part 2](/blog/the-dream-fades).

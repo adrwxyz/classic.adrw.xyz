@@ -9,7 +9,7 @@ categories:
 - experience
 layout: "project"
 tags:
-- Hack
+- Hackathon
 - Bloomberg-API
 - Portfolio-Analysis
 - Pitch

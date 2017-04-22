@@ -12,7 +12,7 @@ seo-title: "5 Tough Lessons for When Your Startup Fails | Andrew Paradi"
 
 **When your world stops spinning, the lights fade, and the silence surrounds you, you can finally think. These past 13 weeks have been the beginning of my next chapter, the regaining of consciousness, & the recovery from 13 months founding a startup.**
 
-This third instalment of the Teknically series ([1](/blog/the-389-day-laurier-bba/), [2](/blog/the-dream-fades/), [3](/blog/lessons-from-behind-the-curtain/), [4](/blog/7-personal-lessons-from-founding-a-startup/)) transitions from telling our story to sharing the key lessons we learned. Part 3 examines what we learned professionally. [Part 4](/blog/7-personal-lessons-from-founding-a-startup/), digs into how founding a startup poured gasoline on my personal development.
+This third instalment of the Teknically series ([1](/blog/the-389-day-laurier-bba), [2](/blog/the-dream-fades), [3](/blog/lessons-from-behind-the-curtain), [4](/blog/7-personal-lessons-from-founding-a-startup)) transitions from telling our story to sharing the key lessons we learned. Part 3 examines what we learned professionally. [Part 4](/blog/7-personal-lessons-from-founding-a-startup), digs into how founding a startup poured gasoline on my personal development.
 
 
 <h2>Pulling Back the Curtain</h2>
@@ -54,7 +54,7 @@ The early development stage simply can't be outsourced outside of the founding t
 
 >Put simply, if you're a business major who thinks your idea is the next Google/Facebook/Snapchat/Uber and all you need is a cheap coder or technical founder to be successful, you are delusional.
 
-Execution is worth more than ideas. Learn to code so you can make your product vision a reality. There are no substitutes, no short cuts, and with <a href="https://www.codeschool.com/" target="_blank">Code School</a>, <a href="http://www.codecademy.com/" target="_blank">Codecademy</a>, and millions of other free resources there are no excuses.
+Execution is worth more than ideas. Learn to code so you can make your product vision a reality. There are no substitutes, no short cuts, and with <a href="https://www.codeschool.com" target="_blank">Code School</a>, <a href="http://www.codecademy.com" target="_blank">Codecademy</a>, and millions of other free resources there are no excuses.
 
 <strong>If you're really serious about your idea, build it. If not, you're still a wantrepreneur.</strong>
 
@@ -71,7 +71,7 @@ At the end of the day, we had a product too big it was riddled with bugs, too lo
 <strong>Launch your MVP ASAP. Work with users to fix bugs, rework designs, and prioritize features. Scalability should be part of your product vision, but top priority is on getting an MVP to users.</strong>
 
 <h2>4. Be your customer, use your competitors.</h2>
-We had never used <a href="https://www.kissmetrics.com/" target="_blank">Kissmetrics</a>, <a href="http://moz.com" target="_blank">Moz</a>, <a href="https://mixpanel.com" target="_blank">Mixpanel</a>, <a href="http://www.crazyegg.com/" target="_blank">CrazyEgg</a>, <a href="https://taplytics.com/" target="_blank">Taplytics</a>, <a href="https://optimizely.com" target="_blank">Optimizely</a> and only primitively used Google Analytics. When we finally did give Optimizely and Mixpanel a try in October 2014 we realized that many problems in analytics had already been solved, and solved really well.
+We had never used <a href="https://www.kissmetrics.com" target="_blank">Kissmetrics</a>, <a href="http://moz.com" target="_blank">Moz</a>, <a href="https://mixpanel.com" target="_blank">Mixpanel</a>, <a href="http://www.crazyegg.com" target="_blank">CrazyEgg</a>, <a href="https://taplytics.com" target="_blank">Taplytics</a>, <a href="https://optimizely.com" target="_blank">Optimizely</a> and only primitively used Google Analytics. When we finally did give Optimizely and Mixpanel a try in October 2014 we realized that many problems in analytics had already been solved, and solved really well.
 
 >The classic YC startup has founders who found a problem while doing their job, decided to solve it with software, reached out to peers and others who had the problem, and boom...scaled to a $100 million dollar company.
 

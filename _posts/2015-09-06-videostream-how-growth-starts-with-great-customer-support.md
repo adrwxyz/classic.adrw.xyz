@@ -10,9 +10,9 @@ excerpt: Downloads and Videostream Premium signups were up over 30%. Here's how 
 seo-title: "Up 32%: Videostream's Growth Started with Great Support"
 ---
 
-**As a Growth Intern at <a href="http://getvideostream.com/" target="_blank">Videostream</a>, I used my customer support job to hack growth on all fronts. After answering thousands of customer emails, I could write sales copy that resonated. Website downloads went up by 32%, weekly active users grew 12%, and revenue even went up! This post is about how we did it in only 12 weeks.**
+**As a Growth Intern at <a href="http://getvideostream.com" target="_blank">Videostream</a>, I used my customer support job to hack growth on all fronts. After answering thousands of customer emails, I could write sales copy that resonated. Website downloads went up by 32%, weekly active users grew 12%, and revenue even went up! This post is about how we did it in only 12 weeks.**
 
-<h2>Update Oct 22: Approval from legend <a href="https://twitter.com/copyhackers" target="_blank">Joanna</a> at <a href="https://copyhackers.com/" target="_blank">Copyhackers</a>!</h2>
+<h2>Update Oct 22: Approval from legend <a href="https://twitter.com/copyhackers" target="_blank">Joanna</a> at <a href="https://copyhackers.com" target="_blank">Copyhackers</a>!</h2>
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">nice work! *really* great study on optimizing for growth in a short period of time <a href="https://t.co/BZPdRb2Pbj">https://t.co/BZPdRb2Pbj</a></p>&mdash; Joanna Wiebe (@copyhackers) <a href="https://twitter.com/copyhackers/status/657363804162949121">October 23, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -45,7 +45,7 @@ I first focused on the "above the fold" content, or what a visitor would see bef
 
 To stay consistent with the app's existing design style, I found a great Material Design HTML/CSS/JS framework to build on (<a href="http://www.materialup.com/posts/mdlp-material-design-landing-page" target="_blank">1</a>). I got to work on customizations and generating the Hero image assets in Photoshop.
 
-Leveraging my knowledge from leading sites like <a href="https://copyhackers.com/" target="_blank">Copyhackers</a>, <a href="https://moz.com/blog" target="_blank">Moz</a>, &amp; <a href="https://blog.kissmetrics.com/" target="_blank">Kissmetrics</a>, I focused all visitors towards a single Call to Action (CTA) above the fold: the "Get Streaming" download button.
+Leveraging my knowledge from leading sites like <a href="https://copyhackers.com" target="_blank">Copyhackers</a>, <a href="https://moz.com/blog" target="_blank">Moz</a>, &amp; <a href="https://blog.kissmetrics.com" target="_blank">Kissmetrics</a>, I focused all visitors towards a single Call to Action (CTA) above the fold: the "Get Streaming" download button.
 
 ![New Site Hero: The view above the fold any visitor to GetVideostream.com will see. Notice the singular focus on quickly describing what is Videostream, and pushing visitors to download.](/assets/article_images/2015-09-06-videostream-how-growth-starts-with-great-customer-support/vs-home-c.png)
 

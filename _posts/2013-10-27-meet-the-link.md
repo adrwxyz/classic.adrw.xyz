@@ -8,6 +8,7 @@ categories:
 - volunteer
 layout: "project"
 tags:
+- Volunteer
 - Video-Production
 - Graphic-Design
 - Photoshop

@@ -13,7 +13,7 @@ seo-title: "3 Ways Hack The North Improved Our Startup | Andrew Paradi"
 
 >![Update May 2015: We've been featured on Hack the North's Press <a href="http://hackthenorth.com/press" target=_blank">page</a>!](/assets/article_images/2014-09-23-3-ways-hack-the-north-improved-our-startup/HTN-press-c.jpg)
 
-Hack the North at UW gave 1,000 top hackers the opportunity to build something awesome in just 36 hours. Sponsored by top tech companies (Apple, Microsoft, Google, Facebook, Bloomberg, Uber <a href="http://hackthenorth.com" target="_blank">...</a>), <a href="http://www.ycombinator.com/" target="_blank">Y Combinator</a>, and with opportunities to use the newest technologies from Oculus Rifts to Thalmic Lab's Myo, Canada had never seen a hackathon like this.
+Hack the North at UW gave 1,000 top hackers the opportunity to build something awesome in just 36 hours. Sponsored by top tech companies (Apple, Microsoft, Google, Facebook, Bloomberg, Uber <a href="http://hackthenorth.com" target="_blank">...</a>), <a href="http://www.ycombinator.com" target="_blank">Y Combinator</a>, and with opportunities to use the newest technologies from Oculus Rifts to Thalmic Lab's Myo, Canada had never seen a hackathon like this.
 
 As co-founder of Teknically and currently deep in Webplio development, it would seem counter intuitive to drop what we were doing to build something at Hack the North. When I began to realize the sheer scope of Hack the North back in August, I saw a unique opportunity for Teknically to grow in new ways as a startup.
 
@@ -39,7 +39,7 @@ When we contemplated entering Hack the North we were a bit worried whether we'd 
 
 ![Stock Slate Team: Yutong Luo, Brandon Chow, Andrew Paradi, Jason Kurian](/assets/article_images/2014-09-23-3-ways-hack-the-north-improved-our-startup/HTN-Photo-c.jpg)
 
-Thanks to our shared interest in learning new technologies and matching skills, our team was just filled with <a href="https://youtu.be/VFqbGbU8f8o" target="_blank">synergy</a>. We also had the skills to tackle new technologies. From the MEAN stack to the Bloomberg Open API it was a lot of fun working with new technologies to build out Stock Slate as a fluid one page web app. We even ended up winning the Bloomberg API Prize for best use of their API (each of us will be get a <a href="http://ardrone2.parrot.com/" target="_blank">Parrot AR Elite Drone</a> in the mail soon)!
+Thanks to our shared interest in learning new technologies and matching skills, our team was just filled with <a href="https://youtu.be/VFqbGbU8f8o" target="_blank">synergy</a>. We also had the skills to tackle new technologies. From the MEAN stack to the Bloomberg Open API it was a lot of fun working with new technologies to build out Stock Slate as a fluid one page web app. We even ended up winning the Bloomberg API Prize for best use of their API (each of us will be get a <a href="http://ardrone2.parrot.com" target="_blank">Parrot AR Elite Drone</a> in the mail soon)!
 
 2. Competition You Can See, Hear, and Smell
 -----
@@ -78,4 +78,4 @@ We had no idea when we arrived at Hack the North that the weekend would improve 
 3. Chamath and the UW + YCom Alumni panel inspired us to dream bigger of who we could become in just a few short years.
 4. Our team won the Bloomberg API Prize!
 
-This article is the first in our Hack the North series. Continue your reading with Part 2: <a href="http://andrewparadi.com/blog/launchpad-meets-hack-north-3-hypotheses-tested-hacking/">Launchpad Meets Hack the North: 3 Hypotheses We Tested While Hacking</a>.
+This article is the first in our Hack the North series. Continue your reading with Part 2: <a href="http://andrewparadi.com/blog/launchpad-meets-hack-north-3-hypotheses-tested-hacking">Launchpad Meets Hack the North: 3 Hypotheses We Tested While Hacking</a>.

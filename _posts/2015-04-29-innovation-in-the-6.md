@@ -35,7 +35,7 @@ I know first hand how quickly a startup can take over your life. <strong>In Fall
 <h2>BOSI: Discovering I'm a Builder</h2>
 In first year BBA at Laurier students test their emotional intelligence with DISC, EQI, Myers–Briggs, and any number of other tests. Most of these are very broad in scope and just provide general insights into who you are and who you are best suited to work with on a team.
 
-In a breakout session at Discovery, I learned about <a href="https://www.bosidna.com/" target="_blank">BOSI</a>: the test to determine your Entrepreneurial DNA. It gave me a much clearer understanding of situations in which I thrive and blind spots that can hold me back.
+In a breakout session at Discovery, I learned about <a href="https://www.bosidna.com" target="_blank">BOSI</a>: the test to determine your Entrepreneurial DNA. It gave me a much clearer understanding of situations in which I thrive and blind spots that can hold me back.
 
 <iframe width="853" height="480" src="https://www.youtube-nocookie.com/embed/fsU9N6A18sY?rel=0" frameborder="0" allowfullscreen></iframe><figcaption>Entrepreneurial DNA" annotation="BOSI Creator, Joe Abraham, speaking at TedxBend. Alt link: <a href="https://youtu.be/fsU9N6A18sY">https://youtu.be/fsU9N6A18sY</a></figcaption>
 
@@ -48,12 +48,12 @@ According to BOSI, the four types of entrepreneurs are (by % of total entreprene
 
 After taking my own assessment it was clarifying to recognize that my primary DNA type was Builder and secondary was Opportunist. Looking back on my favourite aspects of positions in clubs, organizations, and Teknically, they were all situations in which a Builder would thrive. They were situations in which I thrived.
 
-BOSI gave me a new lens to view other entrepreneurs and myself. It also provided some initial ideas on how I can find opportunities better suited to my strengths. You can take the ten question test yourself <a href="https://www.bosidna.com/" target="_blank">here</a>. I'd highly recommend taking the two minutes to fill it out.
+BOSI gave me a new lens to view other entrepreneurs and myself. It also provided some initial ideas on how I can find opportunities better suited to my strengths. You can take the ten question test yourself <a href="https://www.bosidna.com" target="_blank">here</a>. I'd highly recommend taking the two minutes to fill it out.
 
 <h2>Real Networking</h2>
 Everybody always talks about networking especially at business schools. The focus is always on how networking can land you the dream job, help you meet famous business people, or give you connections to power. I think much of this encourages an approach that is self-centered and doesn't provide either person value. It simply leads to constant self-promotion and business card exchanges.
 
-As with most things in life, I've begun to learn first hand that serving others is much better than serving yourself. At Discovery it was awesome to reconnect with entrepreneurs and mentors I've met along my journey in the KW Tech community. It was even cooler to sit and talk with entrepreneurs I hadn't met before and learn how they are innovating in areas from an <a href="http://dymaxiainc.com/" target="_blank">anxiety alert system for people with autism</a> to <a href="http://www.shocklock.ca/#/" target="_blank">car maintenance safety hardware</a>.
+As with most things in life, I've begun to learn first hand that serving others is much better than serving yourself. At Discovery it was awesome to reconnect with entrepreneurs and mentors I've met along my journey in the KW Tech community. It was even cooler to sit and talk with entrepreneurs I hadn't met before and learn how they are innovating in areas from an <a href="http://dymaxiainc.com" target="_blank">anxiety alert system for people with autism</a> to <a href="http://www.shocklock.ca/#" target="_blank">car maintenance safety hardware</a>.
 
 Since I wasn't working on Webplio anymore, there was no distraction to try and get the person to sign up. I was able to listen and think of the best insights or lessons I could share to help them. I can't speak for others but I found this approach to networking much more rewarding.
 
