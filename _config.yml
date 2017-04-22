@@ -36,34 +36,43 @@ bio_insta: "https://www.instagram.com/andrewnotes"
 work_title: "software developer"
 work_term: "early 2018"
 resume: "/assets/files/AndrewParadiResume.pdf"
+
 google_analytics: UA-15052723-11
 google_webmaster_tools: O_pv2dcb2u8RFakuUQcH-TwV5lPeBs6aNXZJY5xYiDs
 
-
-toggle_menu: True
-categories:
-  - title:	Projects
-    cat:  project
-    url:	/
-    desc:	"Volunteer work, hackathon hacks, freelance work, and internship projects."
-
-  - title:	Work
-    cat:  work
-    url:	/work/
-    desc:	"Work experience from consulting, internships, and managing a team of 5 at Teknically."
-
-  - title:	Blog
-    cat:  blog
-    url:	/blog/
-    desc:	"Book reviews, startup thoughts, and case studies diving into how projects succeed."
+header_menu:
+  - title: Experience
+    slug: experience
+    url: /experience
+    icon: road
+  - title: Projects
+    slug: project
+    url: /projects
+    icon: code
+  - title: Blog
+    slug: blog
+    url: /blog
+    icon: sticky-note
+  - title: Resume
+    slug: resume
+    url: "{{ resume }}"
+    icon: graduation-cap
+  - title: About
+    slug: about
+    url: /about
+    icon: id-card
+  - title: Contact
+    slug: contact
+    url: /contact
+    icon: envelope
 
 experience_sections:
-- title: Work Experience
-  slug: work
-- title: Hackathons & Side Projects
-  slug: project
-- title: Volunteer Work
-  slug: volunteer
+  - title: Work Experience
+    slug: work
+  - title: Hackathons & Side Projects
+    slug: project
+  - title: Volunteer Work
+    slug: volunteer
 
 paginate:
 
@@ -79,7 +88,6 @@ twitter_handle: '@andrew_paradi'
 
 # social icons and sharing options
 social:
-
   - icon:	envelope
     url:	mailto:me@andrewparadi.com
     desc:	Email me@andrewparadi.com
@@ -87,7 +95,6 @@ social:
     share_title:
     share_link:
     caption:
-
   - icon:	linkedin-square
     url:	https://www.linkedin.com/in/andrewparadi
     desc:	Connect with me on LinkedIn
@@ -95,7 +102,6 @@ social:
     share_title:
     share_link:
     caption:
-
   - icon:	github
     url:	https://github.com/andrewparadi
     desc:	Fork me on github
@@ -103,7 +109,6 @@ social:
     share_title:
     share_link:
     caption:
-
   - icon:	angellist
     url:	https://angel.co/andrew-paradi
     desc:	Add me on Angel List
@@ -111,7 +116,6 @@ social:
     share_title:
     share_link:
     caption:
-
   - icon:	twitter
     url:	https://twitter.com/andrewparadi
     desc: Follow me on twitter
@@ -119,7 +123,6 @@ social:
     share_title: ?text=
     share_link: "&amp;url="
     caption:
-
   - icon:	instagram
     url:	https://instagram.com/andrewnotes
     desc:	Follow on instagram
@@ -127,7 +130,6 @@ social:
     share_title:
     share_link:
     caption:
-
   - icon:	youtube
     url:	https://youtube.com/c/andrewparadi
     desc:	Watch my videos on Youtube
@@ -135,7 +137,6 @@ social:
     share_title:
     share_link:
     caption:
-
   - icon:	lock
     url:	https://keybase.io/andrewparadi
     desc:	Keybase.io PGP Fingerprint &amp; Public Key
@@ -143,7 +144,6 @@ social:
     share_title:
     share_link:
     caption: PGP
-
   - icon:	graduation-cap
     url:	/assets/files/AndrewParadiResume.pdf
     desc:	Resume as of Jan 2015
@@ -151,36 +151,25 @@ social:
     share_title:
     share_link:
     caption: Resume
-
-  - icon:	id-card-o
+  - icon:	id-card
     url:	/about
     desc:	About Page
     share_url:
     share_title:
     share_link:
     caption: About
-
-
 #  - icon:	facebook
 #    url:	https://facebook.com/???
 #    desc: Connect with me facebook
 #    share_url: https://www.facebook.com/sharer.php
 #    share_title: ?t=
 #    share_link: "&amp;u="
-
-
-
 #  - icon:	google-plus
 #    url:	https://google.com/???
 #    desc:	Add me on google+
 #    share_url:
 #    share_title:
 #    share_link:
-
-
-
-
-
 
 # Defaults for layouts
 defaults:
