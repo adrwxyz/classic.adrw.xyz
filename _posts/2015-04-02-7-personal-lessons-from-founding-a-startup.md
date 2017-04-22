@@ -1,6 +1,7 @@
 ---
 title:  "7 Personal Lessons from Founding a Startup"
 date:   2015-04-02 18:04:25
+permalink: /blog/7-personal-lessons-from-founding-a-startup
 tags: startups
 categories: blog
 image: /assets/article_images/2015-04-02-7-personal-lessons-from-founding-a-startup/field-truck-c.jpg
@@ -24,7 +25,7 @@ I covered these 7 tips in a talk I did at <a href="https://www.facebook.com/star
 - <a href="https://www.codeschool.com/" target="_blank">Code School</a> - Very robust beginner to advanced lessons in almost any language/framework
 
 <h2>1: Two Things About People</h2>
-In parts <a href="/blog/the-389-day-laurier-bba/">1</a> and <a href="/blog/the-dream-fades/">2</a> I give more details about our journey. In short, over 13 months we met hundreds of mentors, student entrepreneurs, experienced founders, and investors. I'm thankful to so many for their support and wisdom that helped us avoid many of the most common mistakes made as founders. 
+In parts <a href="/blog/the-389-day-laurier-bba/">1</a> and <a href="/blog/the-dream-fades/">2</a> I give more details about our journey. In short, over 13 months we met hundreds of mentors, student entrepreneurs, experienced founders, and investors. I'm thankful to so many for their support and wisdom that helped us avoid many of the most common mistakes made as founders.
 
 That being said, I also learned two key things about people that I have hinted at in previous posts and talks:
 
@@ -37,7 +38,7 @@ Few people are real experts, even fewer know your business better than you do. W
 <h2>2. Embrace Reading</h2>
 In July 2007 I attended a National Speakers Association conference in San Diego and one of the self-made speakers shared a remarkable quote:
 
->"The average American reads 1 book per year. 
+>"The average American reads 1 book per year.
 The average millionaire reads 1 book per week."
 
 This has always stuck with me and I've seen the consequences play out repeatedly when I forget to feed my mind. Read anything, read everything. Over the course of 2014 I averaged one book per month. Since January 2015, I'm up to one book every two weeks, still aiming towards the goal of one book per week.
@@ -49,14 +50,14 @@ I started with interesting biographies and relevant startup books. I soon branch
 <h2>3. 360º Leadership</h2>
 In high school I read a book called <a href="http://www.chapters.indigo.ca/en-ca/books/product/9780310495956-item.html?mkwid=8t6Z3MTe_dc&pcrid=44154474422&s_campaign=goo-Shopping_Books&gclid=Cj0KEQjwl_6oBRDHxNGz6ueJufMBEiQAvm_k_kfLIX93EQO_JNhMc_Wf3Ohg75gStBv7SSBe4pNeJQQaAiva8P8HAQ" target="_blank">Courageous Leadership</a> by Bill Hybels  that fundamentally changed how I viewed leadership. He successfully proved that business management techniques were just as useful to build a successful church as they were in any organization.
 
-He suggests in his book that leadership isn't simple like a straight line. It's not just leading those below you by setting goals or casting vision; as a team leader, 
+He suggests in his book that leadership isn't simple like a straight line. It's not just leading those below you by setting goals or casting vision; as a team leader,
 club president, or even startup founder. True leadership extends for 360º.
 
 ![Illustration of the 360º Leader (attr: ajoconnor.com).](/assets/article_images/2015-04-02-7-personal-lessons-from-founding-a-startup/360Leader.png)
 
-It involves leading by example and helpful words nudging in the right direction those beside you; as peers, classmates, or good friends. Leadership includes proving by example a better work ethic, a better way to live, addressing those above you respectfully; your bosses, executives, or elders. 
+It involves leading by example and helpful words nudging in the right direction those beside you; as peers, classmates, or good friends. Leadership includes proving by example a better work ethic, a better way to live, addressing those above you respectfully; your bosses, executives, or elders.
 
-What really resonated with me though was the revelation that none of these three areas is the most difficult to lead. The most difficult task is leading yourself. 
+What really resonated with me though was the revelation that none of these three areas is the most difficult to lead. The most difficult task is leading yourself.
 
 It's the area where most leaders fall off the path, when they let themselves off the hook, don't hold themselves to a higher standard, or don't take the time and energy to keep improving themselves. It can be easy to settle into a complacency and prideful self-righteousness when you don't lead yourself with the same vigor that you lead others.
 
@@ -65,7 +66,7 @@ When I have failed, it has almost always been as a result of a failure to lead m
 If you want to be serious about becoming a great leader, be serious about leading yourself now.
 
 <h2>4. Dealing with Failure</h2>
-I have two distinct memories of becoming overwhelmed by failure in the course of our startup. Both revealed an immovable reliance I had put on success to justify my understanding of who I was as a person. 
+I have two distinct memories of becoming overwhelmed by failure in the course of our startup. Both revealed an immovable reliance I had put on success to justify my understanding of who I was as a person.
 
 <h3>i) Laurier Entrepreneurship Competition</h3>
 ![](/assets/article_images/2015-04-02-7-personal-lessons-from-founding-a-startup/LEC-c.jpg)
@@ -76,7 +77,7 @@ In February 2014 we competed in the Laurier Entrepreneurship Competition and ble
 
 I was shocked and kept desperately wanting to know what did we do wrong? How could we have presented better? Which aspects of our product and business plan weren't made clear? My parents and others helped me realize that we didn't do anything wrong.
 
->Life isn't fair. Judges don't always pick who should have won. 
+>Life isn't fair. Judges don't always pick who should have won.
 The best don't always win. Just accept it.
 
 It took a while but I have. When we competed later in Halifax and Provo, my mindset going in was very different. I didn't have any assumption that we would win simply based on being the best, we needed to tailor to the judges. In Halifax we successfully did that and won first place. In Provo, we weren't as successful. Regardless of the results I was still very happy with how we did, separate from our place in the standings.
@@ -84,7 +85,7 @@ It took a while but I have. When we competed later in Halifax and Provo, my mind
 <h3>ii) Y Combinator</h3>
 ![](/assets/article_images/2015-04-02-7-personal-lessons-from-founding-a-startup/SFstation-c.jpg)
 
-In November 2014, we interviewed unsuccessfully at Y Combinator in Mountain View, California. My reaction then was different. I began to think back over everything we had accomplished; competitions won, mentors impressed, co-op students hired, innovative software designs, overflowing waitlists of customers. Had it all been false positives, had it all been for nothing? 
+In November 2014, we interviewed unsuccessfully at Y Combinator in Mountain View, California. My reaction then was different. I began to think back over everything we had accomplished; competitions won, mentors impressed, co-op students hired, innovative software designs, overflowing waitlists of customers. Had it all been false positives, had it all been for nothing?
 
 Again I was letting the final result determine the binary judgement of the journey. If we had succeeded, the journey was a success; if we had failed, the journey was a failure. I was shortchanging myself by trying to reduce the complexity of our startup journey to a binary result.
 

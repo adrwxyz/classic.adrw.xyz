@@ -1,7 +1,7 @@
 ---
 title:  "Up 32%: Videostream Growth Started with Great Support"
 date:   2015-09-06 22:50:25
-permalink: /blog/videostream-how-growth-starts-with-great-customer-support/
+permalink: /blog/videostream-how-growth-starts-with-great-customer-support
 tags: startups
 categories:
 - blog

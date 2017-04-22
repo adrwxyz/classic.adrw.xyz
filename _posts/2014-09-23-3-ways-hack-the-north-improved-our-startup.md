@@ -1,6 +1,7 @@
 ---
 title:  "3 Ways Hack the North Improved our Startup"
 date:   2014-09-23 14:34:25
+permalink: /blog/3-ways-hack-the-north-improved-our-startup
 tags: startups
 categories: blog
 image: /assets/article_images/2014-09-23-3-ways-hack-the-north-improved-our-startup/HTN-Photo-c.jpg
@@ -36,7 +37,7 @@ When we contemplated entering Hack the North we were a bit worried whether we'd 
 	<li>Jason Kurian: A MEAN ninja</li>
 </ul>
 
-<a href="https://instagram.com/p/tOuf1WG8dI/" target="_blank"><img src="http://photos-g.ak.instagram.com/hphotos-ak-xfp1/1742199_290274417829046_1818926910_n.jpg" alt="Stock Slate Team: Yutong Luo, Brandon Chow, Andrew Paradi, Jason Kurian"/></a>
+![Stock Slate Team: Yutong Luo, Brandon Chow, Andrew Paradi, Jason Kurian](/assets/article_images/2014-09-23-3-ways-hack-the-north-improved-our-startup/HTN-Photo-c.jpg)
 
 Thanks to our shared interest in learning new technologies and matching skills, our team was just filled with <a href="https://youtu.be/VFqbGbU8f8o" target="_blank">synergy</a>. We also had the skills to tackle new technologies. From the MEAN stack to the Bloomberg Open API it was a lot of fun working with new technologies to build out Stock Slate as a fluid one page web app. We even ended up winning the Bloomberg API Prize for best use of their API (each of us will be get a <a href="http://ardrone2.parrot.com/" target="_blank">Parrot AR Elite Drone</a> in the mail soon)!
 
@@ -47,8 +48,8 @@ We work out of the Google for Entrepreneurs space at Communitech and are surroun
 
 Everyone at the event is there in good spirit to have a good time and show what awesome things they can build. This style of competition opens the floodgates to simply indescribably innovative hacks such as my personal favourites: <a href="http://hackthenorth.challengepost.com/submissions/27029-open-pokemon" target="_blank">Open Pokemon</a> and the <a href="http://hackthenorth.challengepost.com/submissions/27086-silicon-man" target="_blank">Silicon Man</a>.
 
-<video src="http://videos-b-11.ak.instagram.com/hphotos-ak-xaf1/10713849_1509221115984991_1899933270_n.mp4" type="video/mp4" controls></video>
-<figcaption>Silicon Man: Why pay for an Oculus Rift and a Thalmic Labs Myo when you could strap an iPhone to your face and create a custom glove interface?!</figcaption>
+<video controls><source src="/assets/article_images/2014-09-23-3-ways-hack-the-north-improved-our-startup/silicon-man.mp4" type="video/mp4"></video>
+<figcaption>"Silicon Man: Why pay for an Oculus Rift and a Thalmic Labs Myo when you could strap an iPhone to your face and create a custom glove interface?!"</figcaption>
 
 I'm a strong believer that you become the people you surround yourself with. That's why I didn't want to leave Hack the North when it was done. We were surrounded by wickedly smart, hard working, friendly hackers from around the world not motivated by monetary gain (they didn't announce the prizes before hand, everybody applied for the love of hacking). It was an amazing group to be part of and we certainly left inspired by each other to keep building awesome stuff.
 
@@ -63,7 +64,7 @@ We wanted to leave enough time for hacking so we decided to only go to the keyno
 
 Saturday afternoon's headline act was Y Combinator's new President Sam Altman. He was interviewed by University of Waterloo's Dean of Engineering Dr. Pearl Sullivan but we found the panel discussion that followed much more applicable to startup life. Moderated by Sam, the panel consisted of UW's most successful YCom alumni with founders and CEOs of Pebble, Thalmic Labs, Vidyard, and A Thinking Ape all sharing valuable insights on what it's really like to build a startup.
 
-<a href="https://instagram.com/p/tLJ1t1G8b6/" target="_blank"><img src="http://photos-b.ak.instagram.com/hphotos-ak-xaf1/10693659_1466888876932369_1764327461_n.jpg" alt="UW + YC: Sam Altman moderates a panel of alumni from both University of Waterloo and Y Combinator: Eric Migicovsky (Founder, Pebble), Eric Diep (Founder, A Thinking Ape), Wilkins Chung (A Thinking Ape), Michael Litt (CEO, Vidyard), Stephen Lake (CEO, Thalmic Labs)"/></a>
+![UW + YC: Sam Altman moderates a panel of alumni from both University of Waterloo and Y Combinator: Eric Migicovsky (Founder, Pebble), Eric Diep (Founder, A Thinking Ape), Wilkins Chung (A Thinking Ape), Michael Litt (CEO, Vidyard), Stephen Lake (CEO, Thalmic Labs)](/assets/article_images/2014-09-23-3-ways-hack-the-north-improved-our-startup/uw-yc-alumni.jpg)
 
 Both speakers and the panel confirmed both that Waterloo is an awesome place to build a startup, but there's nothing that can come close to the access to capital and mentorship that you get in Silicon Valley. Even though all of the UW YCom founders have since moved their companies back to Waterloo (or Vancouver for A Thinking Ape), each founder talked about how they still spend time regularly in the valley to maintain their networks and receive corporate guidance. For our startup, these two talks pushed us to set more concrete goals of how we will somehow make our way to the valley in coming years.
 

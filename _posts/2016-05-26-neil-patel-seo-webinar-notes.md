@@ -1,12 +1,12 @@
 ---
 title:  "Neil Patel SEO Webinar Notes"
 date:   2016-05-26 15:00:00
+permalink: /raw/2016-05-26-neil-patel-notes/
 tags:
 categories:
 image: /assets/article_images/2016-05-26-neil-patel-seo-webinar-notes/neil-patel-seo-webinar-notes.png
 excerpt: Raw notes from Neil Patel's May 26 Webinar
 seo-title: "Neil Patel SEO Webinar Notes"
-permalink: /raw/2016-05-26-neil-patel-notes/
 ---
 
 **Here's my raw, unedited, 3,004 word notes with actionable insights, case studies, and Q&A from Neil Patel's SEO Webinar on May 26. Please go check him out at NeilPatel.com, it was a great webinar!**
@@ -429,6 +429,6 @@ Q&A
 Thanks for Reading!
 ---
 
-I also write about B2B marketing for SaaS startups, writing focused copy, and winning case studies from my work. 
+I also write about B2B marketing for SaaS startups, writing focused copy, and winning case studies from my work.
 
 P.S. [Here's one of the case studies](http://andrewparadi.com/blog/videostream-how-growth-starts-with-great-customer-support/) I've made public from my work with a B2C app that boosted conversions by over 30% on an app that already had 1.2 millions users. [Read it here!](http://andrewparadi.com/blog/videostream-how-growth-starts-with-great-customer-support/)

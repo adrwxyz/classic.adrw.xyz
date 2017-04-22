@@ -1,6 +1,7 @@
 ---
 title:  "Launchpad Meets Hack the North: 3 Hypotheses We Tested While Hacking"
 date:   2014-09-30 12:34:25
+permalink: /blog/launchpad-meets-hack-north-3-hypotheses-tested-hacking
 tags: startups
 categories: blog
 image: /assets/article_images/2014-09-30-launchpad-meets-hack-north-3-hypotheses-tested-hacking/stock-slate-demo-retail-c.jpg
@@ -10,7 +11,7 @@ seo-title: "Launchpad Meets Hack the North: Our 3 Startup Hypotheses | Andrew Pa
 
 >Looking for Hack the North Part 1? Check out <a href="http://andrewparadi.com/2014/09/3-ways-hack-the-north-improved-our-startup/">3 Ways Hack the North Improved our Startup</a>!
 
-As part of the Laurier Launchpad since October 2013, we quickly learned the "Lean Startup" methodology developed by Steve Blank, a legendary Silicon Valley serial entrepreneur and Stanford professor.  Distilled to one sentence, it is making decisions in your startup, not based on your intuition, but based on what your real results are with your product, market, and customers. Customer interviews, minimum viable products (MVP), and split testing marketing material are just a few of the many techniques used to test initial assumptions about your market, customers, or product. 
+As part of the Laurier Launchpad since October 2013, we quickly learned the "Lean Startup" methodology developed by Steve Blank, a legendary Silicon Valley serial entrepreneur and Stanford professor.  Distilled to one sentence, it is making decisions in your startup, not based on your intuition, but based on what your real results are with your product, market, and customers. Customer interviews, minimum viable products (MVP), and split testing marketing material are just a few of the many techniques used to test initial assumptions about your market, customers, or product.
 
 Throughout our development of Webplio, we have been successful at practically applying this methodology to our business (we have won over $27,000 at national and international competitions for our use of the lean startup process and business model canvas: <a href="https://youtu.be/OB7m2iMaiA0" target="_blank">IBMC</a>, <a href="https://youtu.be/EhbbMZyOLsc" target="_blank">CBMC</a>). As Hack the North approached we saw the opportunity to test three new assumptions we had for our product, market, and customers:
 
@@ -28,7 +29,7 @@ With many different ways to implement this fluid user experience, we wanted to t
 
 ![Stock Slate: a fluid, real-time stocks web application built on the powerful MEAN stack.](/assets/article_images/2014-09-30-launchpad-meets-hack-north-3-hypotheses-tested-hacking/stock-slate-demo-retail-c.jpg)
 
-Stock Slate confirmed our hypothesis. Using the MEAN stack as the backbone for our real-time stocks application, we could easily test the most important capabilities of the framework. 
+Stock Slate confirmed our hypothesis. Using the MEAN stack as the backbone for our real-time stocks application, we could easily test the most important capabilities of the framework.
 
 >Could it process lots of data in real-time? Yes.
 >  
@@ -51,7 +52,7 @@ Our primary test with Stock Slate was to see if our approach with scores would b
 
 ![In Stock Slate, Investor Scores simplify stock analysis to a single score of a stock's value. This example show's Peter Lynch's algorithm being applied to some top retail stocks. It's easily clear that investing in Family Dollar Inc. would be a better choice than Sears Holdings Corp.*1](/assets/article_images/2014-09-30-launchpad-meets-hack-north-3-hypotheses-tested-hacking/stock-slate-demo-retail-c.jpg)
 
-When we showed peers, judges, and sponsors they all had the same reaction: **disbelief**. 
+When we showed peers, judges, and sponsors they all had the same reaction: **disbelief**.
 
 
 
@@ -73,7 +74,7 @@ Customers
 -----
 For our initial promotional videos for Webplio, we didn't yet have a working dashboard that we could demo live, so we compensated. Moving graphics and 3D effects helped give the illusion of a working product but it didn't resonate with our potential customers. For Stock Slate, we knew we would have a working demo so we could try a new approach.
 
-We looked at other successful videos from startups and found that the first Dropbox demo video was unbelievably successful. CEO Drew Houston recalled the impact of the video, “It drove hundreds of thousands of people to the website. Our beta waiting list went from 5,000 people to 75,000 people literally overnight. It totally blew us away.”*2  When we dissected Drew Houston's initial Dropbox demo it's clear that they nailed the basics. 
+We looked at other successful videos from startups and found that the first Dropbox demo video was unbelievably successful. CEO Drew Houston recalled the impact of the video, “It drove hundreds of thousands of people to the website. Our beta waiting list went from 5,000 people to 75,000 people literally overnight. It totally blew us away.”*2  When we dissected Drew Houston's initial Dropbox demo it's clear that they nailed the basics.
 
 >Scripted conversation, not a pitch. Video screencapture demo. Simple articulation of value prop. Easter eggs.
 
@@ -86,7 +87,7 @@ With Stock Slate we focused on the basics. Identify the problem. Demo how somebo
 <iframe width="960" height="540" src="//www.youtube-nocookie.com/embed/juY4bwJXMVE?rel=0" frameborder="0" allowfullscreen></iframe>
 <figcaption>When we initially posted the Stock Slate video to YouTube, the view count quickly hit 301+. Google does this when it needs more time to verify views for highly viewed videos.</figcaption>
 
-The Stock Slate demo video was our first video to hit the magic 301+ on YouTube. Within 60 minutes of posting it on <a href="http://www.reddit.com/r/investing/comments/2h8ha7/created_this_in_36_hours_looking_for_feedback/" target="_blank">/r/investing</a> we already had 9 people comment asking where they can sign up and start using it. 
+The Stock Slate demo video was our first video to hit the magic 301+ on YouTube. Within 60 minutes of posting it on <a href="http://www.reddit.com/r/investing/comments/2h8ha7/created_this_in_36_hours_looking_for_feedback/" target="_blank">/r/investing</a> we already had 9 people comment asking where they can sign up and start using it.
 
 **This was a video that resonated with people. This was a video that inspired action. This was a video that would drive sales.** Thanks to this powerful confirmation of our final hypothesis, we will be releasing a new Webplio demo video next week that gets back to the basics.
 

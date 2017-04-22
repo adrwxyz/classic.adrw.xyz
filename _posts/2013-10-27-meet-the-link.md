@@ -2,19 +2,23 @@
 title:  "Meet the Link"
 date:   2014-4-27 16:09:25
 startdate:  2013-08-25 14:24:48
+permalink: /project/meet-the-link
 categories:
 - experience
 - volunteer
-- project
 layout: "project"
 tags:
-- video
-- photoshop
-- illustrator
-- award
+- Video-Production
+- Graphic-Design
+- Photoshop
+- Illustrator
+- Member-Of-The-Year-Award
+- Laurier
 image: /assets/article_images/2013-10-27-meet-the-link/thelink.jpg
 excerpt: As marketing specialist for Laurier's The Link business club, I got diverse experience in digital marketing and was awarded Executive of the Year.
 seo-title: "The Link - 2014 Executive of the Year | Andrew Paradi"
+position: Marketing Specialist
+company: The Link
 ---
 
 I was a marketing specialist for Wilfrid Laurier University's best business club, The Link in 2013-2014. I did video production, photography, graphic design in Illustrator, group leader at LIBC conference, and was awarded Executive of the Year award in my freshman year.

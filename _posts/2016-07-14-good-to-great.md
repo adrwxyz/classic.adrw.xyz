@@ -1,6 +1,7 @@
 ---
 title:  "To Achieve Greatness, Don't Settle for Goodness"
 date:   2016-07-14 18:00:00
+permalink: /blog/good-to-great
 tags:
 - summer2016
 - startups
