@@ -57,6 +57,14 @@ categories:
     url:	/blog/
     desc:	"Book reviews, startup thoughts, and case studies diving into how projects succeed."
 
+experience_sections:
+- title: Work Experience
+  slug: work
+- title: Hackathons & Side Projects
+  slug: project
+- title: Volunteer Work
+  slug: volunteer
+
 paginate:
 
 url: "//www.andrewparadi.com" # the base hostname & protocol for your site
