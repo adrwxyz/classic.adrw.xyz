@@ -1,6 +1,7 @@
 ---
 title:  "How Startups Fail Even with Cash and Growth"
 date:   2015-10-16 16:34:25
+permalink: /blog/how-startups-fail-even-with-cash-and-growth
 tags: startups
 categories: blog
 image: /assets/article_images/2015-10-16-how-startups-fail-even-with-cash-and-growth/DSC_8213.jpg
@@ -26,10 +27,10 @@ I'm just speechless how clearly this explains the systematic failure inherent in
 
 Founders are baited by initial VC money to optimize for quick launch and fast growth. This all to the peril of building a product and business model that will last.
 
-It's easy to dismiss this and believe that your startup and perspective is different. Yet, too many founders are blind leading the blind. 
+It's easy to dismiss this and believe that your startup and perspective is different. Yet, too many founders are blind leading the blind.
 
 Many startup cultures don't encourage any employees to voice concerns or ask questions. Founders spin anything to reinforce their viewpoint that success will come with the next founding round or growth spurt.
 
-I wish more founders would step back and realize if they're default dead or default alive. I didn't do this myself in Teknically and regret the ultimate cost of our "it's going great" culture. 
+I wish more founders would step back and realize if they're default dead or default alive. I didn't do this myself in Teknically and regret the ultimate cost of our "it's going great" culture.
 
 **Looking back, we were default dead. We just didn't realize it until we had died.**

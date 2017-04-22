@@ -2,20 +2,24 @@
 title:  "Sam Lambert for President"
 date:   2014-02-26 02:24:25
 startdate:  2013-12-12 18:34:23
+permalink: /project/sam-campaign
 categories:
 - experience
 - volunteer
-- project
 layout: "project"
 tags:
-- strategy
-- video
+- Volunteer
+- Marketing-Strategy
 - HTML/CSS
 - PHP
-- wordpress
+- Wordpress
+- Video-Production
+- Laurier
 image: /assets/article_images/2014-02-26-sam-campaign/SamDisplayPicture.png
 excerpt: The race was tight but a clever marketing strategy pushed Sam Lambert over the top to win in 2014. Learn about the winning strategy Andrew helped develop.
 seo-title: "Bowtie - How We Won a Presidential Campaign | Andrew Paradi"
+position: Marketing Co-Lead
+company: Sam Lambert Presidential Campaign
 ---
 
 <h2>How we won a Presidential Campaign</h2>

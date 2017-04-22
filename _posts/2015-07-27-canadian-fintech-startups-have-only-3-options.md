@@ -1,6 +1,7 @@
 ---
 title:  "Canadian Fintech Startups Have Only 3 Options"
 date:   2015-07-27 14:59:25
+permalink: /blog/canadian-fintech-startups-have-only-3-options
 tags: startups
 categories: blog
 image: /assets/article_images/2015-07-27-canadian-fintech-startups-have-only-3-options/old-new-building.jpg

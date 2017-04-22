@@ -1,7 +1,7 @@
 ---
 title:  "5 Tough Lessons for When Your Startup Fails"
 date:   2015-03-19 16:09:25
-permalink: /blog/lessons-from-behind-the-curtain/
+permalink: /blog/lessons-from-behind-the-curtain
 tags: startups
 categories:
 - blog
@@ -31,7 +31,7 @@ Our original MVP (minimum viable product) was a paper custom report we called th
 
 <strong>We were dead wrong.</strong>
 
-<a href="https://instagram.com/p/jNR0WyG8Q9/?modal=true">![Right MVP, Wrong Medium: In the dead of winter, we sold 10 Webplio Snapshot Reports but it didn't validate Webplio Dashboard. Medium matters.](https://scontent-ord1-1.cdninstagram.com/hphotos-xpt1/t51.2885-15/e15/1599377_351877598287771_1712167658_n.jpg)</a>
+![Right MVP, Wrong Medium: In the dead of winter, we sold 10 Webplio Snapshot Reports but it didn't validate Webplio Dashboard. Medium matters.](/assets/article_images/2014-10-03-the-389-day-laurier-bba/webplio-report-winter.jpg)
 
 When it came to bringing these initial customers on board to Webplio Dashboard, few were interested. They liked the value of learning more about their website in the medium of a paper report they could hold in their hands. When we changed medium to an online dashboard, none of these initial customers were interested despite it being the same value proposition.
 
@@ -48,8 +48,7 @@ We fell into this trap by thinking the Webplio Snapshot Report had validated our
 
 Competitions ate up months of time early on that would have been better invested coding code and launching an MVP. If both of us had been coding, we would have reached this goal much faster.
 
-<a href="https://instagram.com/p/lk6PPAG8eu/?modal=true">
-![We were 1st place winners at CBMC in Halifax but lost focus of our main priority: releasing Webplio as an online MVP.](https://scontent-ord1-1.cdninstagram.com/hphotos-xft1/t51.2885-15/e15/11373614_461456450692376_21313322_n.jpg)</a>
+![We were 1st place winners at CBMC in Halifax but lost focus of our main priority: releasing Webplio as an online MVP.](/assets/article_images/2014-10-03-the-389-day-laurier-bba/bmc-winner-cheque.jpg)
 
 The early development stage simply can't be outsourced outside of the founding team. Somebody needs to know all the code from the beginning. As new members join, they can be the lead in bringing them up to speed and having them understand the vision of the product. This simply isn't possible if coding in parts or whole is outsourced and contractors change every couple months.
 

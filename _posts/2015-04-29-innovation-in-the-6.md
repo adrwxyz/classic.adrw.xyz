@@ -1,6 +1,7 @@
 ---
 title:  "OCE Discovery 2015: Innovation in the #6ix?"
 date:   2015-04-29 23:47:45
+permalink: /blog/innovation-in-the-6
 tags: startups
 categories: blog
 image: /assets/article_images/2015-04-29-innovation-in-the-6/discovery2015.jpg
@@ -52,7 +53,7 @@ BOSI gave me a new lens to view other entrepreneurs and myself. It also provided
 <h2>Real Networking</h2>
 Everybody always talks about networking especially at business schools. The focus is always on how networking can land you the dream job, help you meet famous business people, or give you connections to power. I think much of this encourages an approach that is self-centered and doesn't provide either person value. It simply leads to constant self-promotion and business card exchanges.
 
-As with most things in life, I've begun to learn first hand that serving others is much better than serving yourself. At Discovery it was awesome to reconnect with entrepreneurs and mentors I've met along my journey in the KW Tech community. It was even cooler to sit and talk with entrepreneurs I hadn't met before and learn how they are innovating in areas from an <a href="http://dymaxiainc.com/" target="_blank">anxiety alert system for people with autism</a> to <a href="http://www.shocklock.ca/#/" target="_blank">car maintenance safety hardware</a>. 
+As with most things in life, I've begun to learn first hand that serving others is much better than serving yourself. At Discovery it was awesome to reconnect with entrepreneurs and mentors I've met along my journey in the KW Tech community. It was even cooler to sit and talk with entrepreneurs I hadn't met before and learn how they are innovating in areas from an <a href="http://dymaxiainc.com/" target="_blank">anxiety alert system for people with autism</a> to <a href="http://www.shocklock.ca/#/" target="_blank">car maintenance safety hardware</a>.
 
 Since I wasn't working on Webplio anymore, there was no distraction to try and get the person to sign up. I was able to listen and think of the best insights or lessons I could share to help them. I can't speak for others but I found this approach to networking much more rewarding.
 
@@ -62,4 +63,3 @@ Since I wasn't working on Webplio anymore, there was no distraction to try and g
 It's an honour to attend these events with so many hard working, down to earth people. I didn't know what to expect at Discovery but I walked away very impressed with the individuals in many aspects of Ontario's entrepreneurship ecosystem, the growing synergy between government and startup sector, and the state of innovation in Ontario.
 
 I am more convinced than ever that Ontario is one of the best places to build a startup. Innovation isn't confined to "the valley", it's happening right here in KW, <a href="https://youtu.be/fxTyS-aqdLE?t=8s" target="_blank">the 6</a>, and all across Ontario.
-

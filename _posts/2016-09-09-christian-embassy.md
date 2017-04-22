@@ -2,11 +2,9 @@
 title:  "Christian Embassy"
 date:   2016-09-09 16:04:25
 startdate:  2016-06-29 09:32:05
-permalink: /project/christian-embassy/
+permalink: /project/christian-embassy
 categories:
-- project
 - volunteer
-- consulting
 - experience
 layout: "project"
 tags:

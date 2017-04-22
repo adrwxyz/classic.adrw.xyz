@@ -2,19 +2,18 @@
 title:  "Videostream"
 date:   2015-08-20 19:34:25
 startdate:  2015-05-04 10:05:00
-permalink: /project/videostream/
+permalink: /project/videostream
 categories:
-- project
 - work
 - experience
 layout: "project"
 tags:
-- material-design
-- javascript
+- Javascript
 - HTML/Sass
-- sales-copy
-- paypal
-- customer-support
+- Material-Design
+- Optimizely
+- Sales-Copy
+- Customer-Support
 image: /assets/article_images/2015-09-06-videostream-how-growth-starts-with-great-customer-support/vs-home-c.png
 excerpt: In 4 months, Andrew resolved 2,148 support tickets, boosted downloads 32% with a new website, and optimized checkout flow for revenue.
 seo-title: "Videostream - Downloads Up 32% in Weeks | Andrew Paradi"

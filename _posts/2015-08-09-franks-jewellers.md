@@ -2,7 +2,7 @@
 title:  "Frank's Jewellers"
 date:   2015-08-09 16:04:25
 startdate:  2015-01-29 09:32:05
-permalink: /project/franks-jewellers/
+permalink: /project/franks-jewellers
 categories:
 - project
 - consulting
@@ -11,10 +11,10 @@ layout: "project"
 tags:
 - HTML/CSS
 - PHP
-- sales-copy
-- wordpress
-- training
-- sysadmin
+- Wordpress
+- Sales-Copy
+- Training
+- Systems-Administration
 image: /assets/article_images/2015-08-09-franks-jewellers/franks.png
 excerpt: Frank's Jewellers has been a trusted store in Uptown Waterloo since 1919. When they needed a new website, Andrew delivered with responsive, modern design.
 seo-title: "New website boosts historic Frank's Jewellers | Andrew Paradi"
