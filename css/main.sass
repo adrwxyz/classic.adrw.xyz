@@ -46,7 +46,7 @@ body
   width: $rs*3
   height: $rs*3
   overflow: hidden
-  z-index: 99
+  z-index: 152
   .logo
     display: block
     position: absolute
@@ -60,6 +60,76 @@ body
     background-color: #fff
     border: #333 solid 3px
     border-radius: 50%
+.menu-readium
+  position: fixed
+  right: 10px
+  top: 10px
+  width: $rs*3
+  height: $rs*3
+  overflow: hidden
+  z-index: 151
+  .menu-icon
+    display: block
+    position: absolute
+    top: $rs/2
+    left: $rs/2
+    width: $rs*2
+    height: $rs*2
+    z-index: 151
+    background-size: 90%
+    background-repeat: repeat
+    background-position: center
+    background-color: #fff
+    border: #333 solid 3px
+    border-radius: 50%
+    .fa
+      margin: 5px 6px
+  &:hover
+    cursor: pointer
+  ul.menu
+    display: none
+  ul.show
+    display: block
+    position: fixed
+    top: 3px
+    left: 18px
+    right: 18px
+    // width: $rs*3
+    // height: $rs*3
+    overflow: hidden
+    z-index: 150
+    font-size: 15px
+    font-weight: 500
+    text-align: right
+    text-decoration: none
+    padding: 3px 30px 3px 30px
+    background: #fff
+    border: #333 solid 3px
+    border-radius: 16px
+    // height: 28px
+    // width: 500px
+    list-style-type: none
+    li.menu-item
+      float: right
+      text-decoration: none
+      a
+        color: #333
+        text-decoration: none
+        padding: 5px 10px
+      &:hover
+        a
+          color: #f2f2f2
+          text-decoration: none
+          background-color: #333
+          // a.menu-item
+          //   text-decoration: none
+          //   .current
+          //     text-decoration: underline
+
+
+
+
+
 
 .teaserimage
   height: 350px
@@ -226,8 +296,8 @@ body
 
 .post-reading
   position: absolute
-  top: 10px
-  right: 30px
+  top: 13px
+  right: 60px
   line-height: 44px
   display: inline-block
   white-space: nowrap
@@ -237,7 +307,7 @@ body
   font-weight: 400
   font-style: normal
   font-family: $font-sans
-  z-index: 999
+  z-index: 149
 .tag-articleimage .post-reading
   color: rgba(255,255,255,0.9)
   text-shadow: 0px 1px 4px rgba(0,0,0,0.25), 0px 0px 1px rgba(0,0,0,0.5)
@@ -682,6 +752,8 @@ pre
     // margin: 0px -20px
     // margin: 20px 0px
     border-bottom: 1px solid #f2f2f0
+    &:first-child
+      border-top: 1px solid #f2f2f0
   .experience-year
     font-size: 24px
     font-weight: 700
