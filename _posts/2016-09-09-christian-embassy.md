@@ -8,6 +8,7 @@ categories:
 - experience
 layout: "project"
 tags:
+- Volunteer
 - HTML/CSS
 - PHP
 - Wordpress
@@ -33,4 +34,4 @@ I helped Christian Embassy by building a new website on Wordpress and optimizing
 
 ![New website, completely mobile friendly!](/assets/article_images/2016-09-09-christian-embassy/christianembassy-new.png)
 
-As our country's leaders continue to face the tough situations that will test their leadership, I hope the new website can provide some resources to support them in their positions. [Check out their new website](http://christianembassy.ca/).
+As our country's leaders continue to face the tough situations that will test their leadership, I hope the new website can provide some resources to support them in their positions. [Check out their new website](http://christianembassy.ca).

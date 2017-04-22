@@ -9,7 +9,7 @@ categories:
 - experience
 layout: "project"
 tags:
-- Hack
+- Hackathon
 - AngularJS
 - Firebase
 - Material-Design

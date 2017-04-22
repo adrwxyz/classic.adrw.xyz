@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /experience/
+permalink: /experience
 excerpt: projects and blog posts from my work experience
 ---
 
@@ -20,9 +20,9 @@ excerpt: projects and blog posts from my work experience
       {% include social.html %}
     </section>
     <div class="toggle-menu">
-      <a href="/projects/">Projects</a>
-      <a href="/blog/">andrewnotes</a>
-      <a href="/work/" class="selected">Work</a>
+      <a href="/projects">Projects</a>
+      <a href="/blog">andrewnotes</a>
+      <a href="/work" class="selected">Work</a>
 	  </div>
 </header>
 
@@ -34,7 +34,7 @@ excerpt: projects and blog posts from my work experience
         {% for post in site.posts %}
         {% if post.categories contains category.slug %}
           {% capture exp_year %}{{ post.date | date: "%Y" }}{% endcapture %}
-          {% if exp_year != exp_year_prev %}<div class="experience-year">{{exp_year }}</div>{% endif %}
+          <!-- {% if exp_year != exp_year_prev %}<div class="experience-year">{{exp_year }}</div>{% endif %} -->
           {% capture exp_year_prev %}{{ post.date | date: "%Y" }}{% endcapture %}
           <article class="experience-item" itemscope itemtype="http://schema.org/BlogPosting" role="article">
             <header>

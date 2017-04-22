@@ -13,7 +13,7 @@ excerpt: Good to Great is the &#35;1 book I would recommend if you want to impro
 seo-title: "Why startup founders should read Good to Great | Andrew Paradi"
 ---
 
-**I read [Good to Great](/blog/books-part-3/) last semester and it is now the #1 book I would recommend to startup founders and leaders. [The Hard Thing About Hard Things](/blog/books-part-1/#hardthing) is still a very close #2, but this post examines the newest title champion of my bookshelf.**
+**I read [Good to Great](/blog/books-part-3)last semester and it is now the #1 book I would recommend to startup founders and leaders. [The Hard Thing About Hard Things](/blog/books-part-1/#hardthing) is still a very close #2, but this post examines the newest title champion of my bookshelf.**
 
 Too many founders stop (or never start) investing in their own personal growth. Yet they are surprised when their own ideas stagnate or their team continues to fall into the same patterns of failure.
 
@@ -30,7 +30,7 @@ This post is also a great excuse for you to crack a great book open and start in
 **"The average American reads one book per year.**
 **The average millionaire reads one book per week."**
 
-Next week, I will release [part 3](/blog/books-part-3/) of my every-6ish-months book list (parts [1](/blog/books-part-1/) & [2](/blog/books-part-2/))... but *Good to Great* deserved a post of its own.
+Next week, I will release [part 3](/blog/books-part-3)of my every-6ish-months book list (parts [1](/blog/books-part-1)& [2](/blog/books-part-2))... but *Good to Great* deserved a post of its own.
 
 Good to Great – Jim Collins
 ---
@@ -78,7 +78,7 @@ After interviewing management teams and employees, Collins distilled **8 key cha
 
 6. **Technology Accelerators**: Most companies treat technology in one of two ways: like a fad that must be catered to reluctantly, or as the primary source of their future success. Yet great companies think of technology not as an end, but a means. They carefully choose and commit technologies that can accelerate existing successful processes.
 
-	- **[Think about banks vs fintech](/blog/canadian-fintech-startups-have-only-3-options/)**. Banks resist and then reluctantly submit to new technologies. The primary value proposition of many fintech startups is not better technology, it is better customer experience.
+	- **[Think about banks vs fintech](/blog/canadian-fintech-startups-have-only-3-options)**. Banks resist and then reluctantly submit to new technologies. The primary value proposition of many fintech startups is not better technology, it is better customer experience.
 
 		Better technology is simply a more effective medium to provide new products, prices, and support to customers fed up with the bureaucracy, fees, and self-interest of big banks.
 
@@ -105,7 +105,7 @@ The difference is that founders and small team leaders can change their heading 
 
 > It is just so much easier to change the heading of a small boat than a huge tanker.
 
-[According to Paul Graham](/blog/how-startups-fail-even-with-cash-and-growth/), the issue is that most founders do not recognize they are on the wrong heading until it's too late.
+[According to Paul Graham](/blog/how-startups-fail-even-with-cash-and-growth), the issue is that most founders do not recognize they are on the wrong heading until it's too late.
 
 A core failing of most founders is that they do not take the time to invest in themselves. They *"don't have time"* to keep learning, identify their own weaknesses, blind spots, and be brutally honest about areas where their team or startup is headed towards failure.
 
@@ -115,7 +115,7 @@ When founders can not make the time to invest in themselves, it is not too surpr
 
 Most founders simply end up "putting out fires", convinced that their *"busyness"* is a sign of their proficiency as a leader, blindly ignorant of the real causes for their floundering startup.
 
-One part of our culture I was very proud of at [Teknically](/project/teknically-webplio???!!) was our unyielding desire to keep reading and learning. We each read through almost 1 book per month on topics from [startup financing](/blog/7-personal-lessons-from-founding-a-startup/) to C.S. Lewis to UX design theory.
+One part of our culture I was very proud of at [Teknically](/project/teknically-webplio???!!) was our unyielding desire to keep reading and learning. We each read through almost 1 book per month on topics from [startup financing](/blog/7-personal-lessons-from-founding-a-startup)to C.S. Lewis to UX design theory.
 
 Regular reading gave us new ideas and perspectives to bounce off each other. With something other than our startup to think about and discuss, nightly and lunch reading also helped us stay sane as founders!
 
@@ -141,13 +141,13 @@ Looking for other great books?
 
 Good to Great was only one of the books I flipped through this winter and spring.
 
-Check out other books I would recommend in parts [1](/blog/books-part-1/), [2](/blog/books-part-2/), and [3](/blog/books-part-3/) of my leisure reading series.
+Check out other books I would recommend in parts [1](/blog/books-part-1), [2](/blog/books-part-2), and [3](/blog/books-part-3)of my leisure reading series.
 
 Finally, special thanks to [Hooli](http://hooli.xyz) for their [title](https://youtu.be/bQO5oqrP1KE) support of **andrewnotes**.
 
 **Top Posts**
 
-- [My Favourite Books Since June](/blog/books-part-2/)
-- [Hired: Your Resume Needs SEO, Here's How](/blog/hired-part-2/)
-- [Hired: Your Resume Shouldn't Read like a Restaurant Menu](/blog/hired-part-3/)
-- [Up 32%: How An Email Support Agent Boosted Downloads in 1 Week](/blog/videostream-how-growth-starts-with-great-customer-support/)
+- [My Favourite Books Since June](/blog/books-part-2)
+- [Hired: Your Resume Needs SEO, Here's How](/blog/hired-part-2)
+- [Hired: Your Resume Shouldn't Read like a Restaurant Menu](/blog/hired-part-3)
+- [Up 32%: How An Email Support Agent Boosted Downloads in 1 Week](/blog/videostream-how-growth-starts-with-great-customer-support)

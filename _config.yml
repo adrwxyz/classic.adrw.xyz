@@ -25,14 +25,14 @@ name: 'Andrew Paradi'
 author: 'Andrew Paradi'
 author_image: "/assets/images/andrew2015.jpg"
 bio: "I study computer science at University of Waterloo, develop software at Atomic, code hacks like this, produce vids, and play piano."
-bio_page: "/about/"
+bio_page: "/about"
 bio_work: "http://atomic.vc"
-bio_hack: "http://www.andrewparadi.com/torduckgo/"
-bio_project: "/progress-pebble/"
-bio_post: "/blog/videostream-how-growth-starts-with-great-customer-support/"
+bio_hack: "http://www.andrewparadi.com/torduckgo"
+bio_project: "/progress-pebble"
+bio_post: "/blog/videostream-how-growth-starts-with-great-customer-support"
 bio_video: "https://youtu.be/hfbE7sVbz8k?list=PLmu6fQR8i26VzMOSuUikzqRLT4diEE_AA"
 bio_piano: "https://youtu.be/VuBCs_t54DY"
-bio_insta: "https://www.instagram.com/andrewnotes/"
+bio_insta: "https://www.instagram.com/andrewnotes"
 work_title: "software developer"
 work_term: "early 2018"
 resume: "/assets/files/AndrewParadiResume.pdf"
@@ -70,7 +70,7 @@ paginate:
 url: "//www.andrewparadi.com" # the base hostname & protocol for your site
 baseurl: ""
 enforce_ssl:
-permalink: /:categories/:title/
+permalink: /:categories/:title
 #used to display twitter cards
 twitter_handle: '@andrew_paradi'
 

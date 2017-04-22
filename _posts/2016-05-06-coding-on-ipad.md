@@ -15,9 +15,9 @@ seo-title: "I code on my iPad, the world will soon | Andrew Paradi"
 
 Looking for a job or co-op? Check out *andrewnotes*::**Hired**.
 
-- [6 Questions to Focus your Resume on Impact](/blog/hired-part-1/)
-- [Why Your Resume Needs SEO, and How](/blog/hired-part-2/)
-- [Get More Interviews with This Resume Structure](/blog/hired-part-3/)
+- [6 Questions to Focus your Resume on Impact](/blog/hired-part-1)
+- [Why Your Resume Needs SEO, and How](/blog/hired-part-2)
+- [Get More Interviews with This Resume Structure](/blog/hired-part-3)
 
 Q: Woah, you're coding on an iPad?!
 -----
@@ -48,14 +48,14 @@ After years trying different keyboards, I found the [Brydge Air](http://www.bryd
 
 ![Brydge Air is an awesome keyboard](/assets/article_images/2016-05-06-coding-on-ipad/IMG_1421.jpg)
 
-For math and economics classes, I've come to rely on the Pencil from [Paperby53](http://www.fiftythree.com/pencil) or the [Adonit Jot Pro](http://www.adonit.net/jot/) to write notes in OneNote that has ever improving drawing support.
+For math and economics classes, I've come to rely on the Pencil from [Paperby53](http://www.fiftythree.com/pencil) or the [Adonit Jot Pro](http://www.adonit.net/jot)to write notes in OneNote that has ever improving drawing support.
 
 This past year, iOS9's keyboard support and split view multitasking has made doing real work on the iPad possible. I've found the two app limit often liberating as it lets me focus on a single task with no visual clutter.
 
 ![iPad can handle CS246](/assets/article_images/2016-05-06-coding-on-ipad/coda-documents-ipadc.png)
 
 - Take notes from my textbook in iBooks with [OneNote](https://itunes.apple.com/us/app/microsoft-onenote-lists-photos/id410395246?mt=8) open side by side.
-- Code a CS assignment with the spec open in [Documents](https://itunes.apple.com/us/app/documents-5-fast-pdf-reader/id364901807?mt=8) and a terminal in [Coda 2](https://www.panic.com/coda-ios/) to work on the school linux server.
+- Code a CS assignment with the spec open in [Documents](https://itunes.apple.com/us/app/documents-5-fast-pdf-reader/id364901807?mt=8) and a terminal in [Coda 2](https://www.panic.com/coda-ios)to work on the school linux server.
 - Use [Outlook](https://itunes.apple.com/us/app/microsoft-outlook-email-calendar/id951937596?mt=8) full screen to process my inbox.
 
 For most regular tasks, I was equally or more productive on my iPad, than my laptop.
@@ -101,7 +101,7 @@ Just this year Google announced that *more searches are now done on phones/table
 
 > Gary's got a point.
 
-[People ignore ads](http://techcrunch.com/2010/12/03/survey-says-63-of-you-ignore-the-ads-on-this-very-page/). [Mobile browsers cripple websites](http://www.theverge.com/2015/7/20/9002721/the-mobile-web-sucks). [Few smartphone owners are installing new apps anymore](http://thenextweb.com/apps/2014/08/26/android-users-average-95-apps-installed-phones-according-yahoo-aviate-data/).  Facebook and Twitter in-app browsers reduce how many pages a person goes to per website.
+[People ignore ads](http://techcrunch.com/2010/12/03/survey-says-63-of-you-ignore-the-ads-on-this-very-page). [Mobile browsers cripple websites](http://www.theverge.com/2015/7/20/9002721/the-mobile-web-sucks). [Few smartphone owners are installing new apps anymore](http://thenextweb.com/apps/2014/08/26/android-users-average-95-apps-installed-phones-according-yahoo-aviate-data).  Facebook and Twitter in-app browsers reduce how many pages a person goes to per website.
 
 > The internet was built around a browser.
 
@@ -162,6 +162,6 @@ Read Eduardo Archanco's piece [here](http://www.applesfera.com/ipad/programar-co
 
 **Top Posts**
 
-- [3 Ways Hack the North Improved our Startup](/blog/3-ways-hack-the-north-improved-our-startup/)
-- [Teknically: Google Analytics for Non-Techies](/project/teknically-webplio/)
-- [How An Email Support Agent Improved Downloads by 32%](/blog/videostream-how-growth-starts-with-great-customer-support/)
+- [3 Ways Hack the North Improved our Startup](/blog/3-ways-hack-the-north-improved-our-startup)
+- [Teknically: Google Analytics for Non-Techies](/project/teknically-webplio)
+- [How An Email Support Agent Improved Downloads by 32%](/blog/videostream-how-growth-starts-with-great-customer-support)

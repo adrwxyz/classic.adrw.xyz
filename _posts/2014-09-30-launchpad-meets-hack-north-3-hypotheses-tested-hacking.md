@@ -15,7 +15,7 @@ As part of the Laurier Launchpad since October 2013, we quickly learned the "Lea
 
 Throughout our development of Webplio, we have been successful at practically applying this methodology to our business (we have won over $27,000 at national and international competitions for our use of the lean startup process and business model canvas: <a href="https://youtu.be/OB7m2iMaiA0" target="_blank">IBMC</a>, <a href="https://youtu.be/EhbbMZyOLsc" target="_blank">CBMC</a>). As Hack the North approached we saw the opportunity to test three new assumptions we had for our product, market, and customers:
 
-1. <strong>Product</strong>: we could more easily build a fluid, efficient web app by leveraging the <a href="http://youtu.be/VFqbGbU8f8o" target="_blank">synergy</a> of the <a href="http://mean.io/#!/" target="_blank">MEAN</a> stack
+1. <strong>Product</strong>: we could more easily build a fluid, efficient web app by leveraging the <a href="http://youtu.be/VFqbGbU8f8o" target="_blank">synergy</a> of the <a href="http://mean.io/#!" target="_blank">MEAN</a> stack
 2. <strong>Market</strong>: Our Webplio "Scores" are not limited to just website analytics but could be applied to a financial data and provide significant value
 3. <strong>Customers</strong>: people respond better to a simple straight forward demo video (a la <a href="http://youtu.be/7QmCUDHpNzE" target="_blank">Dropbox</a>)
 
@@ -87,7 +87,7 @@ With Stock Slate we focused on the basics. Identify the problem. Demo how somebo
 <iframe width="960" height="540" src="//www.youtube-nocookie.com/embed/juY4bwJXMVE?rel=0" frameborder="0" allowfullscreen></iframe>
 <figcaption>When we initially posted the Stock Slate video to YouTube, the view count quickly hit 301+. Google does this when it needs more time to verify views for highly viewed videos.</figcaption>
 
-The Stock Slate demo video was our first video to hit the magic 301+ on YouTube. Within 60 minutes of posting it on <a href="http://www.reddit.com/r/investing/comments/2h8ha7/created_this_in_36_hours_looking_for_feedback/" target="_blank">/r/investing</a> we already had 9 people comment asking where they can sign up and start using it.
+The Stock Slate demo video was our first video to hit the magic 301+ on YouTube. Within 60 minutes of posting it on <a href="http://www.reddit.com/r/investing/comments/2h8ha7/created_this_in_36_hours_looking_for_feedback" target="_blank">/r/investing</a> we already had 9 people comment asking where they can sign up and start using it.
 
 **This was a video that resonated with people. This was a video that inspired action. This was a video that would drive sales.** Thanks to this powerful confirmation of our final hypothesis, we will be releasing a new Webplio demo video next week that gets back to the basics.
 
@@ -101,4 +101,4 @@ tl;dr
 <strong>Footnotes</strong>
 - *1 - Stock Slate does not provide financial advice in any form but is simply a data analysis tool for providing real time fundamental analysis. All investment decisions should be considered independently and approved by a professional advisor.
 
-- *2 - Drew Houston quote via <a href="http://techcrunch.com/2011/10/19/dropbox-minimal-viable-product/" target="_blank">Tech Crunch</a>
+- *2 - Drew Houston quote via <a href="http://techcrunch.com/2011/10/19/dropbox-minimal-viable-product" target="_blank">Tech Crunch</a>

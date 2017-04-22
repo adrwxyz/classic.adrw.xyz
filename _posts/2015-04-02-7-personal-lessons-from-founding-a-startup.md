@@ -19,10 +19,10 @@ I covered these 7 tips in a talk I did at <a href="https://www.facebook.com/star
 
 - <a href="http://www.paulgraham.com/articles.html" target="_blank">"The Essays"</a> - Paul Graham
 - <a href="http://www.amazon.com/exec/obidos/ASIN/0470929820/domofa-20" target="_blank">Venture Deals</a> - Brad Feld
-- <a href="http://zerotoonebook.com/" target="_blank">Zero to One</a> - Peter Thiel
-- <a href="http://www.amazon.ca/The-Startup-Owners-Manual-Step-By-Step/dp/0984999302" target="_blank">The Startup Owner's Manual</a> - Steve Blank & Bob Dorf (Methodology taught at <a href="http://laurierentrepreneur.ca/" target="_blank">Laurier Launchpad</a>)
-- <a href="http://www.codecademy.com/" target="_blank">Codecademy</a> - Good beginner programming lessons
-- <a href="https://www.codeschool.com/" target="_blank">Code School</a> - Very robust beginner to advanced lessons in almost any language/framework
+- <a href="http://zerotoonebook.com" target="_blank">Zero to One</a> - Peter Thiel
+- <a href="http://www.amazon.ca/The-Startup-Owners-Manual-Step-By-Step/dp/0984999302" target="_blank">The Startup Owner's Manual</a> - Steve Blank & Bob Dorf (Methodology taught at <a href="http://laurierentrepreneur.ca" target="_blank">Laurier Launchpad</a>)
+- <a href="http://www.codecademy.com" target="_blank">Codecademy</a> - Good beginner programming lessons
+- <a href="https://www.codeschool.com" target="_blank">Code School</a> - Very robust beginner to advanced lessons in almost any language/framework
 
 <h2>1: Two Things About People</h2>
 In parts <a href="/blog/the-389-day-laurier-bba/">1</a> and <a href="/blog/the-dream-fades/">2</a> I give more details about our journey. In short, over 13 months we met hundreds of mentors, student entrepreneurs, experienced founders, and investors. I'm thankful to so many for their support and wisdom that helped us avoid many of the most common mistakes made as founders.
@@ -107,9 +107,9 @@ My faith in Jesus Christ has been the rock on which I can stand through the stor
 <h2>Yet a Better Way</h2>
 Spending first year at Laurier I've seen first hand what so many people do with their free time at this age. I don't think it's a stretch to say most of us don't have kids, full time jobs, or mortgages. At this unique time in our lives don't you think we might have a greater purpose than just partying?
 
-As university students in the West, we already are among the top <a href="http://www.globalrichlist.com/" target="_blank">0.5-4%</a> of the world. We are equipped with resources and time that very few people in the world have. I don't have any perfect answers on what we should be doing, but I feel we must do something.
+As university students in the West, we already are among the top <a href="http://www.globalrichlist.com" target="_blank">0.5-4%</a> of the world. We are equipped with resources and time that very few people in the world have. I don't have any perfect answers on what we should be doing, but I feel we must do something.
 
 It's easy to ignore the facts, to just stay busy with clubs, class, and parties. <strong>Most people don't get the opportunity to live an easy life. The few of us that do, have the responsibility to not settle for it.</strong>
 
 <h2>Upcoming</h2>
-Thanks for reading! Please comment, subscribe below, or <a href="https://twitter.com/andrew_paradi" target="_blank">follow</a> if you're feeling good vibes. Always looking for feedback! [Next post](/blog/innovation-in-the-6/) I go through 6 ways you can BBQ a squirrel...
+Thanks for reading! Please comment, subscribe below, or <a href="https://twitter.com/andrew_paradi" target="_blank">follow</a> if you're feeling good vibes. Always looking for feedback! [Next post](/blog/innovation-in-the-6)I go through 6 ways you can BBQ a squirrel...
