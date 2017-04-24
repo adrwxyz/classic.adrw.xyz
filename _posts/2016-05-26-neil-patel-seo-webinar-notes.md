@@ -1,7 +1,8 @@
 ---
 title:  "Neil Patel SEO Webinar Notes"
 date:   2016-05-26 15:00:00
-permalink: /raw/2016-05-26-neil-patel-notes/
+permalink: /raw/2016-05-26-neil-patel-notes
+redirect_from: /raw/2016-05-26-neil-patel-notes/
 tags:
 categories:
 image: /assets/article_images/2016-05-26-neil-patel-seo-webinar-notes/neil-patel-seo-webinar-notes.png

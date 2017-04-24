@@ -2,6 +2,7 @@
 title:  "5 Tough Lessons for When Your Startup Fails"
 date:   2015-03-19 16:09:25
 permalink: /blog/lessons-from-behind-the-curtain
+redirect_from: /blog/lessons-from-behind-the-curtain/
 tags: startups
 categories:
 - blog

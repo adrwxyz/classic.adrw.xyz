@@ -3,6 +3,7 @@ title:  "Meet the Link"
 date:   2014-4-27 16:09:25
 startdate:  2013-08-25 14:24:48
 permalink: /project/meet-the-link
+redirect_from: /project/meet-the-link/
 categories:
 - experience
 - volunteer

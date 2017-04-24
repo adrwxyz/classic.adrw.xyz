@@ -7,6 +7,7 @@ gems:
   - jemoji
 #  - pygments
   - jekyll-paginate
+  - jekyll-redirect-from
 
 # Site settings
 title: "Andrew Paradi"
@@ -55,7 +56,7 @@ header_menu:
     icon: sticky-note
   - title: Resume
     slug: resume
-    url: "{{ resume }}"
+    url: "/assets/files/AndrewParadiResume.pdf"
     icon: graduation-cap
   - title: About
     slug: about

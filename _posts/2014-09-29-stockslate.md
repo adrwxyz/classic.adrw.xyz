@@ -3,6 +3,7 @@ title:  "StockSlate"
 date:   2014-09-21 02:14:25
 startdate:  2014-09-19 17:22:03
 permalink: /project/stockslate
+redirect_from: /project/stockslate/
 categories:
 - project
 - hackathon

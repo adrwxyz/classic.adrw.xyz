@@ -2,6 +2,7 @@
 title:  "OCE Discovery 2015: Innovation in the #6ix?"
 date:   2015-04-29 23:47:45
 permalink: /blog/innovation-in-the-6
+redirect_from: /blog/innovation-in-the-6/
 tags: startups
 categories: blog
 image: /assets/article_images/2015-04-29-innovation-in-the-6/discovery2015.jpg

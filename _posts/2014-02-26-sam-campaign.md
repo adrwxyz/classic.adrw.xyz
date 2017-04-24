@@ -3,6 +3,7 @@ title:  "Sam Lambert for President"
 date:   2014-02-26 02:24:25
 startdate:  2013-12-12 18:34:23
 permalink: /project/sam-campaign
+redirect_from: /project/sam-campaign/
 categories:
 - experience
 - volunteer

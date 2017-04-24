@@ -2,6 +2,7 @@
 title:  "Tinder for Blogs"
 date:   2016-05-01 18:00:00
 permalink: /blog/tinder-for-blogs
+redirect_from: /blog/tinder-for-blogs/
 tags:
 - summer2016
 - tinder

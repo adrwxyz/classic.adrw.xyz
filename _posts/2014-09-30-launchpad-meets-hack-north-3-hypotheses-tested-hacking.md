@@ -2,6 +2,7 @@
 title:  "Launchpad Meets Hack the North: 3 Hypotheses We Tested While Hacking"
 date:   2014-09-30 12:34:25
 permalink: /blog/launchpad-meets-hack-north-3-hypotheses-tested-hacking
+redirect_from: /blog/launchpad-meets-hack-north-3-hypotheses-tested-hacking/
 tags: startups
 categories: blog
 image: /assets/article_images/2014-09-30-launchpad-meets-hack-north-3-hypotheses-tested-hacking/stock-slate-demo-retail-c.jpg
