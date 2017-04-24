@@ -2,6 +2,7 @@
 title:  "Teknically Part 2: The Dream Fades"
 date:   2014-12-24 13:00:00
 permalink: /blog/the-dream-fades
+redirect_from: /blog/the-dream-fades/
 tags: startups
 categories:
 - blog

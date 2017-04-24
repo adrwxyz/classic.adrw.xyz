@@ -2,6 +2,7 @@
 title:  "7 Personal Lessons from Founding a Startup"
 date:   2015-04-02 18:04:25
 permalink: /blog/7-personal-lessons-from-founding-a-startup
+redirect_from: /blog/7-personal-lessons-from-founding-a-startup/
 tags: startups
 categories: blog
 image: /assets/article_images/2015-04-02-7-personal-lessons-from-founding-a-startup/field-truck-c.jpg

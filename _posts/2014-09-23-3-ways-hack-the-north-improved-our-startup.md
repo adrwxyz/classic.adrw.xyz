@@ -2,6 +2,7 @@
 title:  "3 Ways Hack the North Improved our Startup"
 date:   2014-09-23 14:34:25
 permalink: /blog/3-ways-hack-the-north-improved-our-startup
+redirect_from: /blog/3-ways-hack-the-north-improved-our-startup/
 tags: startups
 categories: blog
 image: /assets/article_images/2014-09-23-3-ways-hack-the-north-improved-our-startup/HTN-Photo-c.jpg

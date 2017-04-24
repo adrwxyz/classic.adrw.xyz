@@ -2,6 +2,7 @@
 title:  "Teknically Part 1: The 389 Day Laurier BBA"
 date:   2014-10-03 23:58:45
 permalink: /blog/the-389-day-laurier-bba
+redirect_from: /blog/the-389-day-laurier-bba/
 tags: startups
 categories:
 - blog

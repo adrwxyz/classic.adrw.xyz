@@ -3,6 +3,7 @@ title:  "Frank's Jewellers"
 date:   2015-08-09 16:04:25
 startdate:  2015-01-29 09:32:05
 permalink: /project/franks-jewellers
+redirect_from: /project/franks-jewellers/
 categories:
 - project
 - consulting

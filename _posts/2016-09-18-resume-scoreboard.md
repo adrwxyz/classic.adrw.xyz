@@ -3,6 +3,7 @@ title:  "Resume Scoreboard"
 date:   2016-09-18 18:00:00
 startdate:  2016-09-16 9:05:00
 permalink: /project/resume-scoreboard
+redirect_from: /project/resume-scoreboard/
 categories:
 - project
 - hackathon
