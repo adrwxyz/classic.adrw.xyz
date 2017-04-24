@@ -5,19 +5,19 @@
   <a href="{{site.url}}{{site.baseurl}}" class="logo-readium"><span class="logo" style="background-image: url({{ site.logo | prepend: site.baseurl }})"></span></a>
 </div>
 <div class="menu-readium">
-  <span class="menu-icon"><i class="fa fa-bars" aria-hidden="true"></i></span>
-  <ul class="menu">
-  {% for link in site.header_menu reversed %}
-    {% assign current = nil %}
-    {% if page.url == link.url or page.layout == link.layout %}
-      {% assign current = 'current' %}
-    {% endif %}
-    <li class="menu-item {{ current }}">
-      <a class="menu-item {{ current }}" href="{{ link.url }}">{% if link.icon %}<i class="fa fa-{{ link.icon }}" aria-hidden="true"></i>{% else %}{% endif %} {{ link.title }}</a>
-    </li>
-  {% endfor %}
-  {% endif %}
-  </ul>
+  <span class="menu-icon"><i class="menu-fa fa fa-bars" aria-hidden="true"></i></span>
 </div>
+<ul class="menu">
+{% for link in site.header_menu reversed %}
+  {% assign current = nil %}
+  {% if page.url == link.url or page.layout == link.layout %}
+    {% assign current = 'current' %}
+  {% endif %}
+  <li class="menu-item {{ current }}">
+    <a class="{{ current }}" href="{{ link.url }}">{% if link.icon %}<i class="fa fa-{{ link.icon }}" aria-hidden="true"></i>{% else %}{% endif %} {{ link.title }}</a>
+  </li>
+{% endfor %}
+{% endif %}
+</ul>
 
 <!-- header end -->

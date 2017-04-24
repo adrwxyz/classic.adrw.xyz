@@ -43,10 +43,10 @@ body
   position: fixed
   left: 10px
   top: 10px
-  width: $rs*3
-  height: $rs*3
+  width: $rs*3.5
+  height: $rs*3.5
   overflow: hidden
-  z-index: 152
+  z-index: 1001
   .logo
     display: block
     position: absolute
@@ -62,12 +62,12 @@ body
     border-radius: 50%
 .menu-readium
   position: fixed
-  right: 10px
+  right: 2px
   top: 10px
-  width: $rs*3
-  height: $rs*3
+  width: $rs*3.5
+  height: $rs*3.5
   overflow: hidden
-  z-index: 151
+  z-index: 1001
   .menu-icon
     display: block
     position: absolute
@@ -75,7 +75,7 @@ body
     left: $rs/2
     width: $rs*2
     height: $rs*2
-    z-index: 151
+    z-index: 1001
     background-size: 90%
     background-repeat: repeat
     background-position: center
@@ -86,47 +86,76 @@ body
       margin: 5px 6px
   &:hover
     cursor: pointer
-  ul.menu
-    display: none
-  ul.show
-    display: block
-    position: fixed
-    top: 3px
-    left: 18px
-    right: 18px
-    // width: $rs*3
-    // height: $rs*3
-    overflow: hidden
-    z-index: 150
-    font-size: 15px
-    font-weight: 500
-    text-align: right
+.menu
+  display: none
+  position: fixed
+  top: 18px
+  left: 18px
+  right: 18px
+  margin: 0
+  overflow: hidden
+  z-index: 1000
+  font-size: 15px
+  font-weight: 500
+  text-align: right
+  text-decoration: none
+  background: #fff
+  border: #333 solid 3px
+  border-radius: 16px
+  list-style-type: none
+  .menu-item
+    float: right
     text-decoration: none
-    padding: 3px 30px 3px 30px
-    background: #fff
-    border: #333 solid 3px
-    border-radius: 16px
-    // height: 28px
-    // width: 500px
-    list-style-type: none
-    li.menu-item
-      float: right
+    a
+      color: #333
       text-decoration: none
+      // border-radius: 50px
+        // a.menu-item
+        //   text-decoration: none
+.show
+  display: block
+@media(min-width: 651px)
+  .menu
+    padding: 0px 25px
+    .menu-item
+      margin-left: 8px
+      padding: 3px 0px
       a
-        color: #333
-        text-decoration: none
-        padding: 5px 10px
+        color: #212121
+        padding: 3px 5px
       &:hover
+        background-color: #333
         a
           color: #f2f2f2
-          text-decoration: none
+      &:first-child
+        margin-right: -10px
+        padding-right: 20px
+  li.current
+    background-color: #E0E0E0
+    &:hover
+      background-color: #333
+
+@media(max-width: 650px)
+  .menu
+    padding: 3px 25px
+    .menu-item
+      padding: 10px 0px
+      margin-right: 8px
+      a
+        padding: 5px 10px
+        // border: #333 solid 3px
+        border-radius: 50px
+        color: #f2f2f2
+        background-color: #616161
+        &:hover
           background-color: #333
-          // a.menu-item
-          //   text-decoration: none
-          //   .current
-          //     text-decoration: underline
+      a.current
+        // border: #444 solid 3px !important
+        background-color: #424242
 
-
+        &:hover
+          // border: #333 solid 3px !important
+          background-color: #333
 
 
 
@@ -307,7 +336,7 @@ body
   font-weight: 400
   font-style: normal
   font-family: $font-sans
-  z-index: 149
+  z-index: 999
 .tag-articleimage .post-reading
   color: rgba(255,255,255,0.9)
   text-shadow: 0px 1px 4px rgba(0,0,0,0.25), 0px 0px 1px rgba(0,0,0,0.5)
@@ -715,7 +744,7 @@ body
       margin: 0px 10px
       // border: #1976D2 4px solid
       &:hover
-        font-weight: 500 !important
+        // font-weight: 500 !important
         background: #1565C0 !important
         // border: #0D47A1 4px solid !important
 
