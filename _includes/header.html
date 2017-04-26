@@ -5,15 +5,17 @@
     <a href="{{site.url}}{{site.baseurl}}" class="logo-readium"><span class="logo" style="background-image: url({{ site.logo | prepend: site.baseurl }})"></span></a>
   </div>
   <div class="menu-readium">
-    {% if page.layout and page.layout == 'default' %}
-      {% assign show = 'show' %}
-      {% assign icon = 'fa-times' %}
+    {% if page.layout and (page.layout == 'default' or page.layout == 'page') %}
+      {% assign desktop-show = 'desktop-show' %}
+      {% assign desktop-icon = 'desktop-times-icon' %}
+      {% assign mobile-icon = 'mobile-bars-icon' %}
     {% else %}
-      {% assign icon = 'fa-bars' %}
+      {% assign desktop-icon = 'desktop-bars-icon' %}
+      {% assign mobile-icon = 'mobile-bars-icon' %}
     {% endif %}
-    <span class="menu-icon"><i class="menu-fa fa {{ icon }}" aria-hidden="true"></i></span>
+    <span class="menu-icon"><i class="menu-fa {{ desktop-icon }} {{ mobile-icon }}" aria-hidden="true"></i></span>
   </div>
-  <ul class="menu {{ show }}">
+  <ul class="menu {{ desktop-show }}">
   {% for link in site.header_menu reversed %}
     {% assign current = nil %}
     {% if page.url == link.url or page.layout == link.layout %}

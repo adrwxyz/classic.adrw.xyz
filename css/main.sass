@@ -112,9 +112,25 @@ body
       // border-radius: 50px
         // a.menu-item
         //   text-decoration: none
-.show
-  display: block
 @media(min-width: 651px)
+  .desktop-show
+    display: block
+  .desktop-bars-icon
+    position: relative
+    top: 2px
+    &:before
+      font-family: FontAwesome
+      margin: 0px 6px
+      content: "\f0c9"
+      font-style: normal
+  .desktop-times-icon
+    position: relative
+    top: 2px
+    &:before
+      font-family: FontAwesome
+      margin: 0px 6px
+      content: "\f00d"
+      font-style: normal
   .menu
     padding: 0px 25px
     .menu-item
@@ -136,6 +152,24 @@ body
       background-color: #333
 
 @media(max-width: 650px)
+  .mobile-show
+    display: block
+  .mobile-bars-icon
+    position: relative
+    top: 2px
+    &:before
+      font-family: FontAwesome
+      margin: 0px 6px
+      content: "\f0c9"
+      font-style: normal
+  .mobile-times-icon
+    position: relative
+    top: 2px
+    &:before
+      font-family: FontAwesome
+      margin: 0px 6px
+      content: "\f00d"
+      font-style: normal
   .menu
     padding: 3px 25px
     .menu-item
