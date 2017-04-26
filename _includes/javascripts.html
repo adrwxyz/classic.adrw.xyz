@@ -37,9 +37,12 @@
       });
 
       $('.menu-readium').click(function() {
-        $('.menu').toggleClass('show')
-        $('.menu-fa').toggleClass('fa-bars')
-        $('.menu-fa').toggleClass('fa-times')
+        $('.menu').toggleClass('desktop-show')
+        $('.menu').toggleClass('mobile-show')
+        $('.menu-fa').toggleClass('desktop-bars-icon')
+        $('.menu-fa').toggleClass('desktop-times-icon')
+        $('.menu-fa').toggleClass('mobile-bars-icon')
+        $('.menu-fa').toggleClass('mobile-times-icon')
       });
 
   });
