@@ -12,6 +12,7 @@ tags:
 - Javascript
 - Firebase
 - PebbleJS
+- HTML/CSS
 image: /assets/article_images/2016-02-02-progress-pebble/progress-pebble-app-store-2000c.png
 image2: /assets/article_images/2016-02-02-progress-pebble/progress-pebble-app-store-1000c.png
 excerpt: Log workouts from dumb fitness trackers to the cloud!
