@@ -2,7 +2,7 @@
   <div class="isLeft">
     <h5 class="index-headline featured"><span>About</span></h5>
     <section class="author">
-      <div class="author-image" style="background-image: url({{ site.author_image | prepend: site.baseurl }})">{{ site.author }}</div>
+      <div class="author-image" style="background-image: url({% if site.author_image_s %}{{ site.author_image_s | prepend: site.baseurl }}{% else %}{{ site.author_image | prepend: site.baseurl }}{% endif %})">{{ site.author }}</div>
       <h4>{{ site.author }}</h4>
       <p class="bio">I study computer science at University of Waterloo, develop software at <a href='{{site.bio_work}}'>Atomic</a>, <a href='{{site.bio_hack}}'>code hacks like this</a>, <a href='{{site.bio_video}}'>produce vids</a>, and <a href='{{site.bio_piano}}'>play piano</a>.</p>
       <hr>

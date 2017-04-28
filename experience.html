@@ -13,7 +13,7 @@ excerpt: projects and blog posts from my work experience
 
 <header class="blog-header">
     {% if site.logo %}
-      <a class="blog-logo" href="{{site.url}}" style="background-image: url('{{ site.author_image }}')">{{ site.title }}</a>
+      <a class="blog-logo" href="{{site.url}}" style="background-image: url('{% if site.author_image_m %}{{ site.author_image_m | prepend: site.baseurl }}{% else %}{{ site.author_image | prepend: site.baseurl }}{% endif %}')">{{ site.title }}</a>
     {% endif %}
     <h1 class="blog-title">{{ site.title }}</h1>
     <h2 class="blog-description">{{ site.description }}</h2>
