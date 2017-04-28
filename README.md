@@ -25,12 +25,12 @@ Annotations for Embedded Media
 ---
 By default, including alt text to your Markdown image tag [alt text](/image/link.jpg) shows a caption below the image. Now this functionality is extended using `<figcaption>this is my caption</figcaption>` tags so captions can be added to embedded media and HTML5 videos.
 
-Mobile Optimized, Fast Load Speed
+Super Fast, Mobile Optimized, Async CSS and Font Loading
 ---
-Transitioning from Wordpress was a huge undertaking but well worth it. According to [Google Developer PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/), website performance has increased by more than 2x:
+Transitioning from Wordpress was a huge undertaking but well worth it. According to [Google Developer PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/), website performance has increased by more than 2.3x thanks to optimized images and asynchronous static loading of CSS and fonts.
 
-- **75/100** on mobile, previously **34/100**
-- **88/100** on desktop, previously **39/100**
+- **86/100** on mobile, previously **34/100**
+- **93/100** on desktop, previously **39/100**
 
 Combined with a lightning fast Github Pages CDN, images are heavily optimized and resized for delivery. I've cut site size by over 80% using [JPEGmini](http://www.jpegmini.com/), [ImageAlpha](https://pngmini.com/) for pngs, [Pixelmator](http://www.pixelmator.com/mac/), &amp; [Affinity Photo](https://affinity.serif.com/en-gb/photo/).
 
