@@ -1,13 +1,10 @@
 # Based on https://github.com/dirkfabisch/mediator/ as of Apr 17, 2017
 
-# Build settings
-#markdown: redcarpet
-#highlighter: pygments
 gems:
   - jemoji
-#  - pygments
   - jekyll-paginate
   - jekyll-redirect-from
+#  - pygments
 
 # Site settings
 title: "Andrew Paradi"
