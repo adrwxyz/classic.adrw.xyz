@@ -22,26 +22,32 @@ cover: /assets/images/covers/videostream-codec.png
       {% include social.html %}
     </section>
 </header>
-
-<main class="content" role="main">
-
-    <div class="container featured">
-      {% for post in site.categories.project %}
-        <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
-          <div class="article-item">
-            <header class="post-header">
-              <h2 class="post-title" itemprop="name"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
-            </header>
-            <section class="post-excerpt" itemprop="description">
-              <p>{% if post.excerpt %}{{ post.excerpt }}{% else %}{{ post.content | strip_html | truncatewords: 50 }}{% endif %}</p>
-            </section>
-            <div class="post-meta">
-              <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date: site.date_format }}</time>
-              <span class="post-tags-set">&nbsp;|&nbsp; {% for tag in post.tags %}<span class="post-tag-{{slug}}">{{ tag }}&nbsp;&nbsp;</span>{% endfor %}</span>
+<main role="main">
+  <div class="cards-wrapper">
+    {% for post in site.categories.project %}
+    <a href="{{ post.url | prepend: site.baseurl }}">
+      <div class="card" data-id="{{ post.id }}">
+        <div class="card__container card__container--closed">
+          <svg class="card__image" preserveaspectratio="xMidYMid slice" viewbox="0 0 640 400" xmlns="http://www.w3.org/2000/svg">
+            {% if post.image2 %}
+            <image clip-path="url(#{{ post.id }}-clip-path)" height="480" width="640" xlink:href="{{ post.image2 | prepend: site.baseurl }}"></image>
+            {% elsif post.image %}
+            <image clip-path="url(#{{ post.id }}-clip-path)" height="480" width="640" xlink:href="{{ post.image | prepend: site.baseurl }}"></image>
+            {% else %}
+            <image clip-path="url(#{{ post.id }}-clip-path)" height="480" width="640" xlink:href="{{ post.image | prepend: site.baseurl }}"></image>
+            {% endif %}
+          </svg>
+          <div class="card__content">
+            <i class="card__btn-close fa fa-times"></i>
+            <div class="card__caption">
+              <h2 class="card__title">{{ post.title }}</h2>
+              <p class="card__subtitle">{{ post.date | date: "%b %-m, %Y" }} {% for tag in post.tags limit:4 %}<span class="post-tag-{{slug}}" style="float: right;">{{ tag }}&nbsp;&nbsp;</span>{% endfor %}</p>
             </div>
           </div>
-        </article>
-      {% endfor %}
-    </div>
-
+        </div>
+      </div>
+    </a>
+    {% endfor %}
+  </div><!-- /cards -->
+  <br>
 </main>

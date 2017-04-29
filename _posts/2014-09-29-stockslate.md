@@ -21,7 +21,7 @@ seo-title: "StockSlate - How we brought Warren Buffet to Hack the North | Andrew
 position: StockSlate
 company: HackTheNorth
 summary: |
-  - Pitched, won Bloomberg API Prize. Wrote algorithms to analyze stock portfolios.
+  - Pitched, won Bloomberg API Prize. Wrote algorithms to analyze stock portfolios
 ---
 
 Built at Hack the North 2014, StockSlate let you analyze stock picks in real time with algorithms of the world's most successful investors. Using the Bloomberg API for stock data, you could choose a portfolio of stocks and then instantly see how these would stand up to the wisdom of Warren Buffet, Benjamin Graham, or Peter Lynch.

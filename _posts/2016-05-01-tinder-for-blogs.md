@@ -4,7 +4,6 @@ date:   2016-05-01 18:00:00
 permalink: /blog/tinder-for-blogs
 redirect_from: /blog/tinder-for-blogs/
 tags:
-- summer2016
 - tinder
 categories: blog
 image: /assets/article_images/2016-05-01-tinder-for-blogs/DSC_1702.jpg
