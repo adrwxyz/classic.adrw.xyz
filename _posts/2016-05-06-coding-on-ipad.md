@@ -4,7 +4,6 @@ date:   2016-05-06 6:00:00
 permalink: /blog/coding-on-ipad
 redirect_from: /blog/coding-on-ipad/
 tags:
-- summer2016
 - tinder
 - life
 - tech
