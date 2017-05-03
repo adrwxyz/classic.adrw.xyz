@@ -7,6 +7,7 @@ redirect_from: /project/camp-mini-yo-we/
 categories:
 - experience
 - volunteer
+- hidden
 layout: "project"
 tags:
 - Volunteer
@@ -20,5 +21,4 @@ excerpt: Boys Camp Cabin Leader for 8-18 years old boys at overnight Muskoka cam
 seo-title: "Camp Mini-Yo-We - Boys Camp Cabin Leader | Andrew Paradi"
 position: Volunteer Cabin Leader
 company: Camp Mini-Yo-We
-no_link: true
 ---

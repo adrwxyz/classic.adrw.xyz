@@ -5,6 +5,7 @@ permalink: /raw/2016-05-26-neil-patel-notes
 redirect_from: /raw/2016-05-26-neil-patel-notes/
 tags:
 categories:
+- hidden
 image: /assets/article_images/2016-05-26-neil-patel-seo-webinar-notes/neil-patel-seo-webinar-notes.png
 excerpt: Raw notes from Neil Patel's May 26 Webinar
 seo-title: "Neil Patel SEO Webinar Notes"

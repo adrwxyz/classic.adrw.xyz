@@ -34,7 +34,7 @@ excerpt: projects and blog posts from my work experience
           {% capture exp_year_prev %}{{ post.date | date: "%Y" }}{% endcapture %}
           <article class="experience-item" itemscope itemtype="http://schema.org/BlogPosting" role="article">
             <header>
-              {% if post.no_link %}
+              {% if post.categories contains "hidden" %}
                 {% if post.position and post.company %}
                   <span class="experience-company" itemprop="name">{{ post.company }} ::</span> <span class="experience-position">{{ post.position }}</span>
                 {% else %}<span class="experience-company" itemprop="name">{{post.title}}</span>
