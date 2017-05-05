@@ -516,7 +516,7 @@ body
       margin-bottom: 4px
     h2, h1
       letter-spacing: -0.02em
-      font-weight: 700
+      font-weight: 600
       font-style: normal
       font-size: 32px
       line-height: 1.2
@@ -776,6 +776,15 @@ pre
     padding-right: 0
     padding-left: 0
 
+.social
+  .social-item
+    text-decoration: none !important
+    white-space: nowrap
+    padding-right: 7%
+    line-height: 2
+    .social-caption
+      font-family: $font-sans
+
 .experience
   .experience-section
     color: #333
@@ -848,6 +857,7 @@ pre
   width: 99.8%
   max-width: 1366px
   margin: 0% 0.1%
+  padding-bottom: 2px
 
 @media only screen and (min-width: 1366px)
   .cards-wrapper
@@ -949,12 +959,9 @@ pre
     padding-bottom: 27%
 
 @media only screen and (max-width: 580px)
-  .cards-wrapper
-    width: 100%
   .card
     width: 99%
-    padding-bottom: 41.2%
-    margin-left: 0%
+    padding-bottom: 45%
     margin: 0.25% 0.5%
   .card__caption
     .card__title

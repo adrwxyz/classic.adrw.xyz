@@ -7,6 +7,8 @@ redirect_from: /project/christian-embassy/
 categories:
 - volunteer
 - experience
+- freelance
+- featured-freelance
 layout: "project"
 tags:
 - Volunteer

@@ -26,18 +26,17 @@ layout: default
       </div>
     </div>
     {% else %}
-    <!-- <div class="noarticleimage">
+    <div class="noarticleimage">
       <div class="post-meta">
         <h1 class="post-title">{{ page.title }}</h1>
+        {% if page.show_meta %}
         <div class="cf post-meta-text">
           <div class="author-image" style="background-image: url({% if site.author_image_s %}{{ site.author_image_s | prepend: site.baseurl }}{% else %}{{ site.author_image | prepend: site.baseurl }}{% endif %})">Blog Logo</div>
           <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ page.author }}</h4>
         </div>
+        {% endif %}
       </div>
     </div>
-    <br>
-    <br>
-    <br> -->
     {% endif %}
     <section class="post-content" itemprop="articleBody">
       <a name="topofpage"></a>

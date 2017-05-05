@@ -49,7 +49,7 @@ header_menu:
   - title: Projects
     slug: project
     url: /projects
-    icon: code
+    icon: file-code-o
   - title: Blog
     slug: blog
     url: /blog
@@ -95,49 +95,56 @@ social:
     share_url:
     share_title:
     share_link:
-    caption:
+    caption: Email
   - icon:	linkedin-square
     url:	https://www.linkedin.com/in/andrewparadi
     desc:	Connect with me on LinkedIn
     share_url:
     share_title:
     share_link:
-    caption:
+    caption: LinkedIn
   - icon:	github
     url:	https://github.com/andrewparadi
     desc:	Fork me on github
     share_url:
     share_title:
     share_link:
-    caption:
+    caption: GitHub
+  - icon:	code
+    url: https://devpost.com/andrewparadi
+    desc:	Fork me on github
+    share_url:
+    share_title:
+    share_link:
+    caption: Devpost
   - icon:	angellist
     url:	https://angel.co/andrew-paradi
     desc:	Add me on Angel List
     share_url:
     share_title:
     share_link:
-    caption:
+    caption: AngelList
   - icon:	twitter
     url:	https://twitter.com/andrewparadi
     desc: Follow me on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
-    caption:
+    caption: Twitter
   - icon:	instagram
     url:	https://instagram.com/andrewnotes
     desc:	Follow on instagram
     share_url:
     share_title:
     share_link:
-    caption:
+    caption: Instagram
   - icon:	youtube
     url:	https://youtube.com/c/andrewparadi
     desc:	Watch my videos on Youtube
     share_url:
     share_title:
     share_link:
-    caption:
+    caption: YouTube
   - icon:	lock
     url:	https://keybase.io/andrewparadi
     desc:	Keybase.io PGP Fingerprint &amp; Public Key
@@ -152,25 +159,6 @@ social:
     share_title:
     share_link:
     caption: Resume
-  - icon:	id-card
-    url:	/about
-    desc:	About Page
-    share_url:
-    share_title:
-    share_link:
-    caption: About
-#  - icon:	facebook
-#    url:	https://facebook.com/???
-#    desc: Connect with me facebook
-#    share_url: https://www.facebook.com/sharer.php
-#    share_title: ?t=
-#    share_link: "&amp;u="
-#  - icon:	google-plus
-#    url:	https://google.com/???
-#    desc:	Add me on google+
-#    share_url:
-#    share_title:
-#    share_link:
 
 # Defaults for layouts
 defaults:

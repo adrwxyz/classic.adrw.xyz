@@ -1,10 +1,9 @@
-<span>
+<span class="social">
   {% for social in site.social %}
     {% if social.url %}
-        <a class="icon-{{ social.icon }}" href="{{ social.url | prepend: site.baseurl }}" {% if social.desc %} title="{{ social.desc }}"{% endif %}">
-          <i class="fa fa-{{ social.icon }}"></i> {{ social.caption }}
+        <a class="icon-{{ social.icon }} social-item" href="{{ social.url | prepend: site.baseurl }}" {% if social.desc %} title="{{ social.desc }}"{% endif %}">
+          <i class="fa fa-{{ social.icon }}"></i> <span class="social-caption">{{ social.caption }}</span>
         </a>
-        &nbsp;&nbsp;
     {% endif %}
   {% endfor %}
 </span>

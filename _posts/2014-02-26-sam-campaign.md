@@ -7,6 +7,8 @@ redirect_from: /project/sam-campaign/
 categories:
 - experience
 - volunteer
+- freelance
+- featured-freelance
 layout: "project"
 tags:
 - Volunteer

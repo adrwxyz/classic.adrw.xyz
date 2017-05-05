@@ -8,6 +8,7 @@ categories:
 - project
 - hackathon
 - experience
+- featured-experience
 layout: "project"
 tags:
 - Hackathon

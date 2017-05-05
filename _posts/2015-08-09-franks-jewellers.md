@@ -8,6 +8,8 @@ categories:
 - project
 - consulting
 - experience
+- freelance
+- featured-freelance
 layout: "project"
 tags:
 - HTML/CSS

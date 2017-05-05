@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Hi, I'm Andrew!
 permalink: /about
 redirect_from: /about/
 categories:
@@ -8,9 +8,6 @@ categories:
 - blog
 - work
 ---
-
-Hi, I'm Andrew!
------
 
 ![](/assets/images/about-header.jpg)
 

@@ -1,0 +1,48 @@
+---
+layout: page
+title: Want to get in touch?
+permalink: /contact
+redirect_from: /contact/
+categories:
+- blog
+- project
+- experience
+---
+
+{% capture mdcontent %}
+Awesome! Send an email to [me @ andrewparadi.com](mailto:me@andrewparadi.com?subject=Hey%20Andrew!)
+
+![](/assets/images/about-header.jpg)
+
+Want to connect somewhere else?
+---
+{% endcapture %}
+{{ mdcontent | markdownify }}
+
+{% include social.html %}
+
+{% capture mdcontent %}
+Looking for a fullstack dev for your team?
+---
+I'm graduating Computer Science at University of Waterloo April 2018 and can't wait to get back to building great software with an ambitious team.
+
+I have 4 years of experience solving problems with great code at [Atomic.vc](http://atomic.vc), startups [[1](/project/blitzen)][[2](/project/videostream)][[3](/project/teknically-webplio)], for [clients](/project/franks-jewellers), [side projects](/projects), & hackathons [[4](/project/resume-scoreboard)][[5](/project/losocco)][[6](/project/stockslate)].
+
+If you're looking for a full stack dev who learns quickly, please email me!
+
+P.S. Here are three recent projects & my [GitHub](https://github.com/andrewparadi) + [Devpost](https://devpost.com/andrewparadi)
+{% for post in site.categories.featured-experience %}
+  - [**{{ post.title }}**]({{ post.permalink }}) {{ post.excerpt }}
+{% endfor %}
+{% endcapture %}
+{{ mdcontent | markdownify }}
+
+{% capture mdcontent %}
+Need a new website? Are you a startup founder?
+---
+Interested in freelance work or pitch coaching? [Email me](mailto:me@andrewparadi.com?subject=I%20need%20a%20new%20website!) or [learn more here](/freelance).
+{% for post in site.categories.featured-freelance %}
+  - [**{{ post.title }}**]({{ post.permalink }}) {{ post.excerpt }}
+{% endfor %}
+{% endcapture %}
+{{ mdcontent | markdownify }}
