@@ -26,7 +26,7 @@ excerpt: projects and blog posts from my work experience
     <div class="container experience">
       {% assign sections = "work|project|volunteer" | split: "|" %}
       {% for category in site.experience_sections %}
-        <header class="experience-section">{{ category.title }}</header>
+        <header class="experience-section" id={{ category.title | slugify }}>{{ category.title }}</header>
         {% for post in site.posts %}
         {% if post.categories contains category.slug %}
           {% capture exp_year %}{{ post.date | date: "%Y" }}{% endcapture %}

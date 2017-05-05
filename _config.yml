@@ -9,7 +9,7 @@ gems:
 # Site settings
 title: "Andrew Paradi"
 description: > # this means to ignore newlines until "email:"
-   Growth Focused Developer
+   Full Stack Engineer
 
 email: me@andrewparadi.com
 #blog logo
@@ -27,8 +27,8 @@ author_image_l: "/assets/images/andrew2015-600c.png"
 author_image: "/assets/images/andrew2015.jpg"
 bio: "I study computer science at University of Waterloo, develop software at Atomic, code hacks like this, produce vids, and play piano."
 bio_page: "/about"
-bio_work: "http://atomic.vc"
-bio_hack: "http://www.andrewparadi.com/torduckgo"
+bio_work: "/project/atomic"
+bio_hack: "/experience#hackathons-side-projects"
 bio_project: "/progress-pebble"
 bio_post: "/blog/videostream-how-growth-starts-with-great-customer-support"
 bio_video: "https://youtu.be/hfbE7sVbz8k?list=PLmu6fQR8i26VzMOSuUikzqRLT4diEE_AA"

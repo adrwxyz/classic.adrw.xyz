@@ -13,7 +13,7 @@ excerpt: Good to Great is the &#35;1 book I would recommend if you want to impro
 seo-title: "Why startup founders should read Good to Great | Andrew Paradi"
 ---
 
-**I read [Good to Great](/blog/books-part-3)last semester and it is now the #1 book I would recommend to startup founders and leaders. [The Hard Thing About Hard Things](/blog/books-part-1/#hardthing) is still a very close #2, but this post examines the newest title champion of my bookshelf.**
+**I read [Good to Great](/blog/books-part-3)last semester and it is now the #1 book I would recommend to startup founders and leaders. [The Hard Thing About Hard Things](/blog/books-part-1#hardthing) is still a very close #2, but this post examines the newest title champion of my bookshelf.**
 
 Too many founders stop (or never start) investing in their own personal growth. Yet they are surprised when their own ideas stagnate or their team continues to fall into the same patterns of failure.
 
@@ -82,7 +82,7 @@ After interviewing management teams and employees, Collins distilled **8 key cha
 
 		Better technology is simply a more effective medium to provide new products, prices, and support to customers fed up with the bureaucracy, fees, and self-interest of big banks.
 
-	- Or consider **Research in Motion / Blackberry** that believed technology like data-efficient networks and physical keyboards could be a primary, lasting competitive advantage. [Paralyzed by their arrogance and internal chaos](/blog/books-part-1/#losingthesignal), they failed to see why the iPhone mattered until it was too late.
+	- Or consider **Research in Motion / Blackberry** that believed technology like data-efficient networks and physical keyboards could be a primary, lasting competitive advantage. [Paralyzed by their arrogance and internal chaos](/blog/books-part-1#losingthesignal), they failed to see why the iPhone mattered until it was too late.
 
 		The iPhone soared because they delivered an email, internet, media, and app experience that anyone from 5 to 95 years old could use. People wanted the better experience and did not care if that cost them a keyboard, battery life, and higher cellular costs.
 

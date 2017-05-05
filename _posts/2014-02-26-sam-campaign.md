@@ -19,7 +19,7 @@ tags:
 - Video-Production
 - Laurier
 image: /assets/article_images/2014-02-26-sam-campaign/SamDisplayPicture.png
-excerpt: The race was tight but a clever marketing strategy pushed Sam Lambert over the top to win in 2014. Learn about the winning strategy Andrew helped develop.
+excerpt: Sam Lambert won a tight race for President. Andrew helped develop the winning strategy, web, and video marketing.
 seo-title: "Bowtie - How We Won a Presidential Campaign | Andrew Paradi"
 position: Marketing Co-Lead
 company: Sam Lambert Presidential Campaign

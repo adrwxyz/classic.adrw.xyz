@@ -19,7 +19,7 @@ tags:
 - Training
 - Systems-Administration
 image: /assets/article_images/2015-08-09-franks-jewellers/franks.png
-excerpt: Frank's Jewellers has been a trusted store in Uptown Waterloo since 1919. When they needed a new website, Andrew delivered with responsive, modern design.
+excerpt: Frank's Jewellers has been a trusted store in Uptown Waterloo since 1919. When they needed a new website, Andrew delivered with a responsive, modern Wordpress website.
 seo-title: "New website boosts historic Frank's Jewellers | Andrew Paradi"
 position: Freelance Website Dev
 company: Frank's Jewellers

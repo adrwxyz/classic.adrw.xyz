@@ -19,7 +19,8 @@ As seemed to be the pattern with our startup journey so far, life without classe
 
 ![Andrew at the Kairos Global Summit, Ritz-Carlton Laguna Beach October 2014.](/assets/article_images/2014-12-24-the-dream-fades/AndrewRitz.jpg)
 
-<h2>Writing with a Dying Pen</h2>
+Writing with a Dying Pen
+---
 Writing a Y Combinator (YC) application is like trying to write with a dying pen, each letter has a price. As Brandon continued Webplio development at a frantic pace, I began writing our application for the Winter 2015 YC batch.
 
 My first draft was good by my standards, even my usual family and friend "editors" had little to change. My perspective shifted when we talked to our first YC alumni. In Skype calls and Google Hangouts our application was picked apart. In the most helpful way, alumni had specific insights and, of course, the single most important piece of YC advice: be concise.
@@ -30,7 +31,8 @@ With each major rewrite I managed to cut text by another 25-40%. By our final re
 
 Everybody talks about the value of being concise. Applying to YC forces that realization. The experience has shaped how I write and evaluate the clarity of a message.
 
-<h2>Ritz On the Rocks, Hold the Crackers</h2>
+Ritz On the Rocks, Hold the Crackers
+---
 The Kairos Global Summit was an annual invite only gathering of 300 of the brightest student entrepreneurs in the world. From over 50 countries and 100 top universities, Kairos entrepreneurs were tackling tough problems in health care, clean energy, education, and other fields. Two weeks before the summit, my friend and President of Kairos Canada, Desmond Choi messaged me asking if I wanted to attend the conference.
 
 I was very surprised and honoured to be invited to the summit. Not only was this a very cool personal opportunity but with such a broad representation of entrepreneurs, VCs, and mentors, it was a great networking opportunity for Teknically. I quickly purchased plane tickets and 2 days after we submitted our YC application, I was on a flight to Los Angeles!
@@ -49,7 +51,8 @@ At dinners and social events I met fellow young entrepreneurs from around the wo
 
 There wasn't any inherent "super power" they possessed. They weren't radically more intelligent or innovative. They had kept working hard and managed to take advantage of the opportunities that were presented to them. Successful entrepreneurs, whether the ones I met or Bill Gates, aren't "gods". We can all achieve greatness because even theirs is still only that which is possible for man.
 
-<h2>From A to YC</h2>
+From A to YC
+---
 I returned from Kairos emboldened to work harder towards our goals. Over the next two weeks we made great progress and continued to grow our waitlist as we patiently awaited the result of our YC application.
 
 October 28th came and it was difficult not to keep constantly checking our email. We recognized intellectually that our chances were very slim. Over 5,500 startups apply each batch, less than 7% even get an interview, and under 2% are accepted.
@@ -60,7 +63,8 @@ Finally at 6:22pm the email arrived in my inbox. "Thank you for applying to Y Co
 
 There were just over two weeks until the interview. With our new relationships, we set up mock interviews with YC alumni. The Velocity YC Interview prep session gave us broad perspective. With just days before our flight, we revamped our entire value proposition to make it easier to understand. Hours of practice, countless rewrites, plane tickets bought: we were ready.
 
-<h2>Through the (Silicon) Valley of the Shadow of Death</h2>
+Through the (Silicon) Valley of the Shadow of Death
+---
 To San Francisco we flew and each minute got more exciting. From the airport we took the BART subway. From the BART we took the CalTrain. Classic train stations for all of the Silicon Valley towns from Redwood City to Menlo Park, Palo Alto to Mountain View.
 
 >It was my childhood dreams coming true...I really like(d) trains.
@@ -103,14 +107,16 @@ It just took us another three weeks to come to this realization ourselves.
 
 We then headed to the meetup. There were free drinks to dull the emotions, a panel discussion, and I got to meet some of the YC alumni with whom I had only Skyped. All were very encouraging and supportive knowing themselves that few startups ever get the phone call for their first YC application. We headed back to Mike's for the night and got a couple hours of sleep before our 4am wake up to fly home.
 
-<h2>The Dream Fades</h2>
+The Dream Fades
+---
 Each of us took some time to try and figure out what we would do next given our limited financial runway. We could start coding ourselves and reduce outsourcing costs. We could start working on another idea. We could shut Teknically down.
 
 We settled on cutting costs and each coding, but with a new idea that we could get to market in three weeks and hopefully revenue by Christmas. In mere days I had picked up Angular.js and Brandon Node.js, Express, and MongoDB. Two weeks in we had made remarkable progress.
 
 Unfortunately, both of us were starting to realize that the dream was fading. Over a hearty Mel's Diner lunch on December 2nd, we came to the conclusion that it was the beginning of the end. After 13 months of running on fumes, we needed time to breath. It was too late for another Hail Mary pivot. We would close up shop and go back to university.
 
-<h2>Next Chapter</h2>
+Next Chapter
+---
 Our dreams for Teknically may not have been realized in the fullest, but the legacy will live on in memories, refined skills, and lessons learned. We may have fallen behind in our degrees, but we got a massive head start on life experience. That is priceless. And that is why I have <a href="http://youtu.be/_DnKNClu2XM?t=1m45s" target="_blank">no ragrets</a>.
 
 I'm thankful to many. Family and friends for your support. Dad for your guidance and steady perspective. Laurier Launchpad, Steve Farlow, Sandeep De, Dave Inglis, Anne Forler for taking a chance on a pair of first years who thought they could make Google Analytics better. Communitech. Google for Entrepreneurs.

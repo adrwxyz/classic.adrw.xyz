@@ -15,7 +15,7 @@ tags:
 - HTML/CSS
 image: /assets/article_images/2017-02-25-torduckgo/torduckgo-2000c.png
 image2: /assets/article_images/2017-02-25-torduckgo/torduckgo-1000c.png
-excerpt: Search .onion version of DuckDuckGo by default in Tor browser
+excerpt: Search .onion version of DuckDuckGo by default in Tor browser.
 seo-title: "TorDuckGo - Tor version of DuckDuckGo | Andrew Paradi"
 position: TorDuckGo
 company:

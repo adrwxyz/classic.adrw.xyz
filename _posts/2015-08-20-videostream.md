@@ -7,6 +7,7 @@ redirect_from: /project/videostream/
 categories:
 - work
 - experience
+- startup
 layout: "project"
 tags:
 - Javascript

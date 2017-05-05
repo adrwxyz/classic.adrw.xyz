@@ -11,108 +11,90 @@ categories:
 
 ![](/assets/images/about-header.jpg)
 
-I'm graduating from **computer science at University of Waterloo** in 2018.
+I'm graduating from Computer Science at University of Waterloo in April 2018.
 
-I have 3+ years of experience solving problems with great code at [Atomic.vc](http://atomic.vc), startups [[1](/project/blitzen)][[2](/project/videostream)][[3](/project/teknically-webplio)], for [clients](/project/franks-jewellers), [side projects](/projects), & Hack the North [[4](/project/resume-scoreboard)][[5](/project/losocco)][[6](/project/stockslate)].
+I have 4 years of experience solving problems with great code at [Atomic.vc](http://atomic.vc), startups [[1](/project/blitzen)][[2](/project/videostream)][[3](/project/teknically-webplio)], for [clients](/contact#need-a-new-website), [side projects](/projects), & hackathons [[4](/project/resume-scoreboard)][[5](/project/losocco)][[6](/project/stockslate)].
 
-**I want to work on tough problems with other user-focused devs.**
+I can't wait to get back to building great software with an ambitious team.
 
-I'm ready to join a dev team starting May 2018. Want to chat about how I could bring value to your dev team? **Email [*me at andrewparadi.com*](mailto:me@andrewparadi.com)**.
+If you're looking for a full stack dev who learns quickly, please [email me](mailto:me@andrewparadi.com?subject=Job%20Opportunity)!
 
-P.S. If you [need a new website](#freelance-website--software-development) or some [help with your startup pitch](#copywriting--pitch-coaching)...
+Want to learn more?
+---
+  - [**Experience**](/experience) jobs, side projects, hackathons, freelance, & volunteer
+  - [**Projects**](/projects) personal, hackathon, & freelance
+  - [**Blog**](/blog) notes on startups, interesting books, optimizing user growth...
+  - [**Resume**](/resume) up to date Curriculum Vitae
+  - [**Looking for a fullstack dev?**](/contact#looking-for-a-fullstack-dev-for-your-team) Let's talk!
+  - [**Need a new website?**](/contact#need-a-new-website) Wordpress, Squarespace, or custom
+  - [**Are you a startup founder?**](/contact#are-you-a-startup-founder) I can help pitch coaching or sales copy
 
-What am I about?
------
-
-I love reading, playing trumpet in the UW Jazz Band, starting businesses, and working on side projects (like [DuckDuckGo search for the Tor browser](http://www.andrewparadi.com/torduckgo)).
-
-I thrive working on user-focused teams. MVP & user experience >`l33t code`. User A/B split test data > personal design preferences & startup lingo.
-
-I'm passionate about volunteering weekly & using my talents to help people.
-
-So why should you hire me?
------
-**I learn quickly**. Whether at Hack the North ([2016](/project/resume-scoreboard), [2015](/project/losocco), [2014](/project/stockslate)), or [Atomic.vc](http://atomic.vc), I pick up new tools quickly to solve problems with code.
-
-I have a **strong attention to detail**. With user experiences, interfaces, sales copy, and writing code, I spot issues and fix them before code review.
-
-I'm **focused on solving problems**. Unnecessary dev work misses deadlines. I write what is minimally necessary to solve the problem at hand.
-
+My Stack
+---
 **I have strong experience building with:**
-- ReactJS with Redux, NodeJS, Git, Docker, Docker Compose
+- ReactJS with Redux, NodeJS, KoaJS, Git, Docker, Docker Compose
 - Javascript ES5 & ES6 & ES7, HTML5, CSS3, SASS
 - C, C++, Bash
 - Wordpress, Squarespace, Jekyll
 
 **I am familiar with:**
 - EmberJS, AngularJS 1.4 & 2
-- Ruby on Rails, Django, Python3
+- Django, Python3, Ruby on Rails
 - PostgreSQL, Neo4j
 
-**My code, pitches, and sales copy have successfully:**
+Awards
+---
+- [Final round interview at **Y Combinator**](/blog/the-dream-fades#from-a-to-yc)
+- [**Google for Entrepeneurs Alumnus**](/project/teknically-webplio#google-for-entrepreneurs-cohort-2-alumnus)
+- [**Bloomberg API Prize Winner**](/project/stockslate)
+  <br/>Hack the North 2014
+- [**1st Place Canadian Business Model Competition 2014**](/project/teknically-webplio#canada-business-model-25000-winning-pitch)
+  <br/>Dalhousie University, Nova Scotia
+- [**Semi-Finalist International Business Model Competition**](/project/teknically-webplio#international-business-model-semi-finalist-pitch)
+  <br/>Brigham Young University, Utah USA
+- School of Business **Rising Star Award**
+  <br/>Wilfrid Laurier University
+- **3rd Place Laurier Entrepreneurship Competition**
+  <br/>Wilfrid Laurier University
+- **Semi-Finalist, PepsiCo Pitch Competition**
+  <br/>Wilfrid Laurier University
+- **97th Percentile** Score on Bloomberg Aptitude Test
+- **Honour Activity Award** for most involved male graduate
+  <br/>Gordon Graydon MSS High School
+- **Club Activity Award** for 850+ hours of extra curricular activity
+  <br/>Gordon Graydon MSS High School
 
-- Boosted **inbound signups by 74%** with new site design & copy [[7](/project/blitzen)]
-- Increased **active users by 12%** for a 1.2 million user app [[8](/blog/videostream-how-growth-starts-with-great-customer-support)]
-- Won over **$65,000** in competition prizes &amp; grants [[9](/project/teknically-webplio)][[10](/blog/the-389-day-laurier-bba)][[11](/blog/the-dream-fades)]
-- Been part of **Google for Entrepreneurs** Cohort 2 [[12](/blog/the-389-day-laurier-bba)]
-- Wrote application and interviewed at **Y Combinator** [[13](/blog/the-dream-fades)]
-- ...& even **elected a President** [[14](/project/sam-campaign)]
-
-Resume?
------
-
-You bet! Check it out: [AndrewParadiResume.pdf](/assets/files/AndrewParadiResume.pdf)
-
-
-Ready to talk?
------
-
-I keep it simple, just email [*me at andrewparadi.com*](mailto:me@andrewparadi.com).
-
-...or be really cool and use PGP encryption! [keybase.io](https://keybase.io/andrewparadi), [PGP key](/assets/files/AndrewParadiPGP.asc)
-
-836C B350 4409 4A9E 0A13 F12C EED3 03A3 B5B5 4E6E
-
-
-Freelance Website & Software Development
------
-
-***Are you a startup founder?***
-
-If you need an MVP or new feature built, [let's talk](mailto:me@andrewparadi.com?subject=Software%20consulting%3F). I can help get it done.
-
-***Do you need a new website?***
-
-![](/assets/article_images/2015-08-09-franks-jewellers/comparison.png)
-
-If your website needs work but you don't know where to start, [let's talk](mailto:me@andrewparadi.com?subject=I%20need%20a%20new%20website).
-
-I'll work to understand your current frustrations, & goals for your website.
-
-We then can work on a plan forward usually including these priorities:
-- **Easy to edit** (even if you don't know HTML!)
-- **Mobile first design** (especially important depending on your business)
-- **Search engine optimized** (becoming less important but still vital)
-- **Low cost monthly hosting** (don't spend more than you have to)
-
-> "The new website just looks fantastic and it even kept with our look and feel that we use in other marketing. After the training from Andrew, we’ve been uploading new diamonds when they come in and even been getting some new customers as a result. Couldn’t recommend him enough!”
-- Bob Frank, owner of [Frank's Jewellers](/project/franks-jewellers), client in 2015
-
-You can read more about Bob's experience with his new website [here](/project/franks-jewellers).
-
-If this sounds like a better approach to improving your website, [email me](mailto:me@andrewparadi.com?subject=I%20need%20a%20new%20website)!
-
-Copywriting & Pitch Coaching
------
-
-Discovering how to communicate the unique value proposition for your startup can be tough.
-
-***When you tell people about your startup, do they seem to have the same basic questions that you can't seem to answer in an initial pitch?***
-
-***Do you feel your pitch is always a bit short of impressing the judges?***
-
-With four years of experience writing A/B test beating sales copy [[15](/project/blitzen)][[16](/project/videostream)] and designing pitches that win competitions [[17](/project/teknically-webplio)], I might be able to help.
-
-If you'd like a fresh perspective on your messaging, [send me an email](mailto:me@andrewparadi.com).
-
-P.S. If you want to learn more for yourself, start reading [Copyhackers](https://copyhackers.com)!
+Press
+---
+- [Programming code on an iPad every day is possible](http://www.applesfera.com/ipad/programar-codigo-en-un-ipad-todos-los-dias-es-posible)
+  <br/>**Applesfera** - May 6, 2016
+- [Featured Company Profile](http://www.oce-ontario.org/our-companies)
+  <br/>**Ontario Centres of Excellence** - March 17, 2016
+- [Great Study on Optimizing Growth](https://twitter.com/copyhackers/status/657363804162949121?ref_src=twsrc%5Etfw&ref_url=http%3A%2F%2F0.0.0.0%3A4000%2Fblog%2Fvideostream-how-growth-starts-with-great-customer-support)
+  <br/>**CopyHackers, Joanna Wiebe** - October 22, 2015
+- [Laurier Business School Highlights to Alumni for 2014-2015](/assets/article_images/2014-12-24-teknically-webplio/lazaridis-sbe-highlights.pdf)
+  <br/>**Wilfrid Laurier University** - April 23, 2015
+- [Five Canadian startups turn to Google for their big push](http://business.financialpost.com/2014/10/05/five-canadian-startups-turn-to-google-for-their-big-push)
+  <br/>**Financial Post** - Oct 5, 2014
+- [Student entrepreneurs catch Google's eye](http://www.theglobeandmail.com/report-on-business/careers/business-education/master-of-management-degree-gains-traction/article20671189)
+  <br/>**The Globe and Mail** - Sept 19, 2014
+- [Google for Entrepreneurs Cohort 2 set to launch in Communitech Hub](http://news.communitech.ca/news/google-for-entrepreneurs-cohort-2-set-to-launch-in-communitech-hub)
+  <br/>**Communitech News** - Sept 9, 2014
+- [570 News #TechHour: The Inside Scoop on Google 4 Entrepreneurs at Communitech](/assets/article_images/2014-12-24-teknically-webplio/TechHour570News-Sept9-2014.mp3)
+  <br/>**570 News** - Sept 9, 2014
+- [Five New Startups Awarded Residency at the Google Innovation Space at Communitech](http://www.betakit.com/five-new-startups-awarded-residency-in-the-google-innovation-space-at-communitech-hub)
+  <br/>**BetaKit** - Sept 2, 2014
+- [Student entrepreneurs make semi-finals at international competition](http://www.theglobeandmail.com/report-on-business/careers/business-education/canadian-b-schools-ranked-among-worlds-best-in-programs-for-executives/article18689520)
+  <br/>**The Globe and Mail** - May 16, 2014
+- [Web analytics startup enjoys early success](http://www.therecord.com/news-story/4425791-web-analytics-startup-enjoys-early-success)
+  <br/>**The Waterloo Region Record** - March 22, 2014
+- [Young entrepreneurs recognized](http://www.theglobeandmail.com/report-on-business/careers/business-education/saskatchewan-schools-reduce-roadblocks-for-aboriginal-business-students/article17597347)
+  <br/>**The Globe and Mail** - March 20, 2014
+- [Laurier LaunchPad’s Teknically Wins 25K at Canadian Business Model Competition](http://laurierentrepreneur.ca/entrepreneurship/laurier-launchpads-teknically-wins-25k-at-canadian-business-model-competition)
+  <br/>**Laurier Entrepreneur** - March 19, 2014
+- [Wilfrid Laurier University Startup Teknically Wins Canada’s Business Model Competition](http://www.techvibes.com/blog/canadas-business-model-competition-2014-03-17)
+  <br/>**TechVibes** - March 17, 2014
+- [Student Entrepreneurs Compete for Seat at Brigham Young](http://www.bmccanada.ca/2014/03/student-entrepreneurs)
+  <br/>**BMC Canada** - March 16, 2014
+- [Six commerce students with big business ventures](http://www.theglobeandmail.com/report-on-business/careers/business-education/lighting-the-small-business-burner/article17410311)
+  <br/>**The Globe and Mail** - March 12, 2014
