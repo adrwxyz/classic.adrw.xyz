@@ -6,7 +6,8 @@ redirect_from: /blog/the-dream-fades/
 tags: startups
 categories:
 - blog
-image: /assets/article_images/2014-12-24-the-dream-fades/ChristmasAndrewBridge.jpg
+image: /assets/article_images/2014-12-24-the-dream-fades/ChristmasAndrewBridge-2000c.jpg
+image2: /assets/article_images/2014-12-24-the-dream-fades/ChristmasAndrewBridge-1000c.jpg
 excerpt: To Y Combinator and back again, our biggest lessons at Teknically Inc. building Webplio&#58; a Google Analytics dashboard that anybody could use.
 seo-title: "Teknically Part 2: The Dream Fades | Andrew Paradi"
 ---

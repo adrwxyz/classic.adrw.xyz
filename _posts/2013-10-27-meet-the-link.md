@@ -17,6 +17,7 @@ tags:
 - Member-Of-The-Year-Award
 - Laurier
 image: /assets/article_images/2013-10-27-meet-the-link/thelink.jpg
+image2: /assets/article_images/2013-10-27-meet-the-link/thelink-c.png
 excerpt: As marketing specialist for Laurier's The Link business club, I got diverse experience in digital marketing and was awarded Executive of the Year.
 seo-title: "The Link - 2014 Executive of the Year | Andrew Paradi"
 position: Marketing Specialist

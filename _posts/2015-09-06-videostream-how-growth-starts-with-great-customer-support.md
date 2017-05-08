@@ -6,7 +6,8 @@ redirect_from: /blog/videostream-how-growth-starts-with-great-customer-support/
 tags: startups
 categories:
 - blog
-image: /assets/article_images/2015-09-06-videostream-how-growth-starts-with-great-customer-support/vs-home-c.png
+image: /assets/article_images/2015-09-06-videostream/vs-features-c.jpg
+image2: /assets/article_images/2015-09-06-videostream/vs-features-1000c.png
 excerpt: Downloads and Videostream Premium signups were up over 30%. Here's how we did it.
 seo-title: "Up 32%: Videostream's Growth Started with Great Support"
 ---
@@ -24,7 +25,7 @@ At times it was overwhelming, occasionally humbling, and on a lucky day, I'd rec
 
 <blockquote>Over 4 months, I ended up resolving 2,148 tickets for our customers and with my canned responses, I resolved them faster than ever.</blockquote>
 
-![Videostream Support Email #781: One of the better emails I found waiting for me in Freshdesk one morning.](/assets/article_images/2015-09-06-videostream-how-growth-starts-with-great-customer-support/nice-message.jpg)
+![Videostream Support Email #781: One of the better emails I found waiting for me in Freshdesk one morning.](/assets/article_images/2015-09-06-videostream/nice-message.jpg)
 
 
 Through reading positive feedback I started to understand why customers loved Videostream so much. As I wrote sales copy, I could reference customer testimonials and highlight the features that they were most excited about. Many loved the funny tips screens that had jokes and referenced that our team was just 6 guys in Canada. This confirmed that the Videostream personality that resonated with users should be part of all future sales copy.
@@ -34,7 +35,7 @@ I couldn't have written as effective sales copy if I hadn't spent the time to un
 <h2>Building a Split Test Winning Website</h2>
 The Videostream team had reached a consensus: the website was long due for a makeover and I would lead development on a full redesign.
 
-![Original Videostream Website](/assets/article_images/2015-09-06-videostream-how-growth-starts-with-great-customer-support/vs-old-c.jpg)
+![Original Videostream Website](/assets/article_images/2015-09-06-videostream/vs-old-c.jpg)
 
 I started brainstorming what I the ideal new website would be like.
 
@@ -48,11 +49,11 @@ To stay consistent with the app's existing design style, I found a great Materia
 
 Leveraging my knowledge from leading sites like <a href="https://copyhackers.com" target="_blank">Copyhackers</a>, <a href="https://moz.com/blog" target="_blank">Moz</a>, &amp; <a href="https://blog.kissmetrics.com" target="_blank">Kissmetrics</a>, I focused all visitors towards a single Call to Action (CTA) above the fold: the "Get Streaming" download button.
 
-![New Site Hero: The view above the fold any visitor to GetVideostream.com will see. Notice the singular focus on quickly describing what is Videostream, and pushing visitors to download.](/assets/article_images/2015-09-06-videostream-how-growth-starts-with-great-customer-support/vs-home-c.png)
+![New Site Hero: The view above the fold any visitor to GetVideostream.com will see. Notice the singular focus on quickly describing what is Videostream, and pushing visitors to download.](/assets/article_images/2015-09-06-videostream/vs-home-c.png)
 
 As I continued writing sales copy, I focused on consistency with the Videostream personality customers already loved. For Features and FAQs, I leveraged all I had read in customer emails what they loved most about Videostream, and questions that kept coming up. I also maintained consistency repeating certain phrases in headings and text to better target certain keywords we wanted to take in Google rankings.
 
-![New Features Section: Using customer testimonials, I could accurately prioritize which features people loved the most and which benefit resonated best.](/assets/article_images/2015-09-06-videostream-how-growth-starts-with-great-customer-support/vs-features-c.jpg)
+![New Features Section: Using customer testimonials, I could accurately prioritize which features people loved the most and which benefit resonated best.](/assets/article_images/2015-09-06-videostream/vs-features-c.jpg)
 
 After a few quick weeks of development, my new website was ready to go head to head with the old site. With consistently high web traffic, we could make a statistically significant call on which site was the winner in under a week. <strong>Pretty soon we could see a trend. The new website was seriously rocking the numbers.</strong>
 
@@ -62,7 +63,7 @@ On the new website, I put CTA download buttons after every section. Now we would
 
 After beating the old site in spilt tests, the new site was pushed to 100% of traffic. We were excited for the spike in downloads that would come for a higher conversion rate but were surprised what we saw when we logged into Google Analytics the following week.
 
-![Videostream App Usage Data: Weekly active users with the old website, and the 12% jump from the new website.](/assets/article_images/2015-09-06-videostream-how-growth-starts-with-great-customer-support/weekly-active-users2.jpg)
+![Videostream App Usage Data: Weekly active users with the old website, and the 12% jump from the new website.](/assets/article_images/2015-09-06-videostream/weekly-active-users2.jpg)
 
 >We were shocked when weekly active users shot up 12%
 
@@ -77,8 +78,8 @@ My vision for a conversion focused website had worked! Download conversions were
 <h2>A Premium Flow Focused on Revenue</h2>
 My internship was almost done. I had answered a lot of email and developed a new split test beating website. The team now was curious to see what I could do with their primary revenue funnel: the Premium flow.
 
-![Old Premium Flow: Features & Plans.](/assets/article_images/2015-09-06-videostream-how-growth-starts-with-great-customer-support/premo1-c.jpg)
-![Old Premium Flow: Payment Confirmation.](/assets/article_images/2015-09-06-videostream-how-growth-starts-with-great-customer-support/premo2-c.jpg)
+![Old Premium Flow: Features & Plans.](/assets/article_images/2015-09-06-videostream/premo1-c.jpg)
+![Old Premium Flow: Payment Confirmation.](/assets/article_images/2015-09-06-videostream/premo2-c.jpg)
 
 The current upgrade process was a bit convoluted. Most interactions such as changing a plan or choosing a payment required a separate page and a number of clicks. From customer emails, I knew that even with the features descriptions front and centre, most still had no idea what they would be getting with Premium.
 
@@ -91,8 +92,8 @@ My priorities with the new Premium flow ended up being very similar to what I se
 
 I did a lot of research from e-commerce checkout white papers to successful upgrade flows in other apps. I built the premium flow from scratch with HTML/CSS/Sass, Stripe API, PayPal integration, and Javascript. I'm so thankful to the team for all they taught me about coding for a Chrome App.
 
-![New Premium Flow: Plans, Payment Selection, & Features.](/assets/article_images/2015-09-06-videostream-how-growth-starts-with-great-customer-support/premflow1-c.jpg)
-![New Premium Flow: Payment Confirmation.](/assets/article_images/2015-09-06-videostream-how-growth-starts-with-great-customer-support/premflow2-c.jpg)
+![New Premium Flow: Plans, Payment Selection, & Features.](/assets/article_images/2015-09-06-videostream/premflow1-c.jpg)
+![New Premium Flow: Payment Confirmation.](/assets/article_images/2015-09-06-videostream/premflow2-c.jpg)
 
 The Premium flow was almost in production as I finished my internship at Videostream. The benefits of Videostream were now easy to understand. Upgrading was fast and seamless and could be done in fewer clicks.
 

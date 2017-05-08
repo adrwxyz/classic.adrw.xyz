@@ -8,7 +8,8 @@ tags:
 - life
 - tech
 categories: blog
-image: /assets/article_images/2016-05-06-coding-on-ipad/IMG_1418.jpg
+image: /assets/article_images/2016-05-06-coding-on-ipad/IMG_1418-2000c.jpg
+image2: /assets/article_images/2016-05-06-coding-on-ipad/IMG_1418-1000c.jpg
 excerpt: How a year working on iPad convinced me the Post-PC era is almost here.
 seo-title: "I code on my iPad, the world will soon | Andrew Paradi"
 ---
@@ -46,7 +47,7 @@ Productivity on an iPad is a function of how well you can manage with a bluetoot
 
 After years trying different keyboards, I found the [Brydge Air](http://www.brydgekeyboards.com/collections/ipad-air-air-2-pro-9-7-inch). It has a pesky `Siri` key where the `fn` key should be but is otherwise flawless.
 
-![Brydge Air is an awesome keyboard](/assets/article_images/2016-05-06-coding-on-ipad/IMG_1421.jpg)
+![Brydge Air is an awesome keyboard](/assets/article_images/2016-05-06-coding-on-ipad/IMG_1421-1000c.png)
 
 For math and economics classes, I've come to rely on the Pencil from [Paperby53](http://www.fiftythree.com/pencil) or the [Adonit Jot Pro](http://www.adonit.net/jot)to write notes in OneNote that has ever improving drawing support.
 

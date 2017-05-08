@@ -15,7 +15,7 @@ tags:
 - Portfolio-Analysis
 - Pitch
 - Video-Production
-image: /assets/article_images/2014-09-30-launchpad-meets-hack-north-3-hypotheses-tested-hacking/stock-slate-demo-retail-c.jpg
+image: /assets/article_images/2014-09-30-stockslate-hack-the-north/stock-slate-demo-retail-c.png
 excerpt: StockSlate let investors choose stocks from Bloomberg data and then see how their portfolios would be judged by successful investors like Warren Buffet.
 seo-title: "StockSlate - How we brought Warren Buffet to Hack the North | Andrew Paradi"
 position: StockSlate

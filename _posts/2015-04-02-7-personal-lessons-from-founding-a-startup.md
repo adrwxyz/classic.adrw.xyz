@@ -6,6 +6,7 @@ redirect_from: /blog/7-personal-lessons-from-founding-a-startup/
 tags: startups
 categories: blog
 image: /assets/article_images/2015-04-02-7-personal-lessons-from-founding-a-startup/field-truck-c.jpg
+image2: /assets/article_images/2015-04-02-7-personal-lessons-from-founding-a-startup/field-truck-1000c.png
 excerpt: 7 personal lessons I learned from founding a startup at 18, developing into a young adult, interviewing at Y Combinator, and why I decided to exit.
 seo-title: "7 Personal Lessons from Founding a Startup | Andrew Paradi"
 ---

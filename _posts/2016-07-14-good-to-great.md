@@ -8,7 +8,8 @@ tags:
 - tech
 - life
 categories: blog
-image: /assets/article_images/2016-07-14-good-to-great/DSC_0726c.jpg
+image: /assets/article_images/2016-07-14-good-to-great/DSC_0726c-2000c.jpg
+image2: /assets/article_images/2016-07-14-good-to-great/DSC_0726c-1000c.jpg
 excerpt: Good to Great is the &#35;1 book I would recommend if you want to improve your startup, identify winning businesses, and stick it to the Hooli mantra.
 seo-title: "Why startup founders should read Good to Great | Andrew Paradi"
 ---

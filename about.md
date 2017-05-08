@@ -9,7 +9,7 @@ categories:
 - work
 ---
 
-![](/assets/images/about-header.jpg)
+![](/assets/article_images/about/about-header-1000c.png)
 
 I'm graduating from Computer Science at University of Waterloo in April 2018.
 

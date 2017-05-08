@@ -5,7 +5,8 @@ permalink: /blog/launchpad-meets-hack-north-3-hypotheses-tested-hacking
 redirect_from: /blog/launchpad-meets-hack-north-3-hypotheses-tested-hacking/
 tags: startups
 categories: blog
-image: /assets/article_images/2014-09-30-launchpad-meets-hack-north-3-hypotheses-tested-hacking/stock-slate-demo-retail-c.jpg
+image: /assets/article_images/2014-09-30-stockslate-hack-the-north/Webplio-Dashboard-v3-Referrals.png
+image2: /assets/article_images/2014-09-30-stockslate-hack-the-north/Webplio-Dashboard-v3-Referrals-crop.png
 excerpt: Ever wondered how to apply the Lean Startup methodology to a hackathon? The Webplio team used Hack the North to test their top three hypotheses.
 seo-title: "Launchpad Meets Hack the North: Our 3 Startup Hypotheses | Andrew Paradi"
 ---
@@ -24,11 +25,11 @@ Product
 -----
 <a href="http://webplio.com" target="_blank">Webplio</a> presents business owners with easy to understand website performance information and insights. It's currently coded in PHP using the Symfony2 framework but we haven't had time yet to build in any asynchronous technologies like AJAX. These types of web technologies allow for no page reloads, all data would change fluidly and dynamically. Within any browser and on any device, Webplio would be as fluid, fun, and approachable as an iPad app. The only question we still had was how we should implement this powerful functionality (there are a lot of options!).
 
-![Webplio's vivid graphs, summary scores, and algorithmically determined insights work together to help owners make sense of their website analytics data.](/assets/article_images/2014-09-30-launchpad-meets-hack-north-3-hypotheses-tested-hacking/bob-webplio-hero.jpg)
+![Webplio's vivid graphs, summary scores, and algorithmically determined insights work together to help owners make sense of their website analytics data.](/assets/article_images/2014-09-30-stockslate-hack-the-north/bob-webplio-hero-c.jpg)
 
 With many different ways to implement this fluid user experience, we wanted to test our top pick within a real project. Instead of just reading spec sheets, we could see how it interacts with our existing development styles and team. Based on Brandon's extensive research, we decided we would test the entire MEAN stack with our Hack the North team to get a better feel for the stack synergy.
 
-![Stock Slate: a fluid, real-time stocks web application built on the powerful MEAN stack.](/assets/article_images/2014-09-30-launchpad-meets-hack-north-3-hypotheses-tested-hacking/stock-slate-demo-retail-c.jpg)
+![Stock Slate: a fluid, real-time stocks web application built on the powerful MEAN stack.](/assets/article_images/2014-09-30-stockslate-hack-the-north/stock-slate-demo-retail-c.jpg)
 
 Stock Slate confirmed our hypothesis. Using the MEAN stack as the backbone for our real-time stocks application, we could easily test the most important capabilities of the framework.
 
@@ -47,11 +48,11 @@ Market
 -----
 One of the primary value propositions for Webplio are Webplio Scores. For example, instead of using 5 different metrics to evaluate effectiveness, Webplio users only need their Webplio Score which summarizes overall performance into a single number. Webplio Scores have been used to evaluate effectiveness of referral traffic, landing pages, and even server performance but had never been used outside of website analytics<strong>...until Hack the North.</strong>
 
-![In this table from the Webplio Dashboard, Webplio Scores simplify analysis of referral traffic. Instead of looking at up to 5 different metrics, users only need to look at a single Webplio Score to quickly understand where their best referral traffic is coming from.](/assets/article_images/2014-09-30-launchpad-meets-hack-north-3-hypotheses-tested-hacking/Webplio-Dashboard-v3-Referrals.png)
+![In this table from the Webplio Dashboard, Webplio Scores simplify analysis of referral traffic. Instead of looking at up to 5 different metrics, users only need to look at a single Webplio Score to quickly understand where their best referral traffic is coming from.](/assets/article_images/2014-09-30-stockslate-hack-the-north/Webplio-Dashboard-v3-Referrals.png)
 
 Our primary test with Stock Slate was to see if our approach with scores would be applicable to different industries and data sets. We had to address both the technical feasibility of a score addressing close to 10 metrics and additionally ensure that it was a valuable tool for user, not just another number in a table. We worked late into the final hours of Hack the North refining both of these aspects.
 
-![In Stock Slate, Investor Scores simplify stock analysis to a single score of a stock's value. This example show's Peter Lynch's algorithm being applied to some top retail stocks. It's easily clear that investing in Family Dollar Inc. would be a better choice than Sears Holdings Corp.*1](/assets/article_images/2014-09-30-launchpad-meets-hack-north-3-hypotheses-tested-hacking/stock-slate-demo-retail-c.jpg)
+![In Stock Slate, Investor Scores simplify stock analysis to a single score of a stock's value. This example show's Peter Lynch's algorithm being applied to some top retail stocks. It's easily clear that investing in Family Dollar Inc. would be a better choice than Sears Holdings Corp.*1](/assets/article_images/2014-09-30-stockslate-hack-the-north/stock-slate-demo-retail-c.jpg)
 
 When we showed peers, judges, and sponsors they all had the same reaction: **disbelief**.
 

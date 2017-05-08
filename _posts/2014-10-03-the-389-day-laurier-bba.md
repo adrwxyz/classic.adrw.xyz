@@ -6,7 +6,8 @@ redirect_from: /blog/the-389-day-laurier-bba/
 tags: startups
 categories:
 - blog
-image: /assets/article_images/2014-10-03-the-389-day-laurier-bba/cofounders-launchpad-desk.jpg
+image: /assets/article_images/2014-10-03-the-389-day-laurier-bba/cofounders-launchpad-desk-2000c.jpg
+image2: /assets/article_images/2014-10-03-the-389-day-laurier-bba/cofounders-launchpad-desk-1000c.jpg
 excerpt: My first year as a BBA student at Wilfrid Laurier University was unlike anything imaginable. I started a business, travelled the world, and now I'm free.
 seo-title: "The Most Exciting First Year at Laurier | Andrew Paradi"
 ---
@@ -85,7 +86,7 @@ Too many family, friends, and mentors to name have unknowingly fostered these sk
 The Path Ahead
 ---
 
-![](/assets/article_images/2014-09-30-launchpad-meets-hack-north-3-hypotheses-tested-hacking/Webplio-Dashboard-v3-Referrals.png)
+![](/assets/article_images/2014-09-30-stockslate-hack-the-north/Webplio-Dashboard-v3-Referrals.png)
 
 Now that we are working full time, we can push Teknically to Mach 2. Next week, <a href="http://webplio.com" target="_blank">Webplio</a> launches exclusively to our initial 30 customers. In the coming weeks, we'll begin to open access to select people signed up on the <a href="http://webplio.com" target="_blank">Webplio</a> Wait List. We've begun hiring 2-3 additional full time developers to help us bring some truly unbelievable features and functionality to <a href="http://webplio.com" target="_blank">Webplio</a> in the coming months. We're also very excited for the continued opportunities that will come from our tenancy in Google for Entrepreneurs.
 

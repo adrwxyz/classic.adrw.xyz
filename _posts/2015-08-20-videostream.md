@@ -16,7 +16,8 @@ tags:
 - Optimizely
 - Sales-Copy
 - Customer-Support
-image: /assets/article_images/2015-09-06-videostream-how-growth-starts-with-great-customer-support/vs-home-c.png
+image: /assets/article_images/2015-09-06-videostream/vs-home-c.png
+image2: /assets/article_images/2015-09-06-videostream/vs-home-1000c.png
 excerpt: In 4 months, Andrew resolved 2,148 support tickets, boosted downloads 32% with a new website, and optimized checkout flow for revenue.
 seo-title: "Videostream - Downloads Up 32% in Weeks | Andrew Paradi"
 position: Growth Intern
@@ -34,7 +35,7 @@ With in depth customer knowledge and feedback, I could confidently redesign the 
 
 The new website also got more users to come back to Videostream leading to a 12% increase in weekly active users that has remained since (not a one time boost)!
 
-![New Premium Flow: Plans, Payment Selection, & Features.](/assets/article_images/2015-09-06-videostream-how-growth-starts-with-great-customer-support/premflow1-c.jpg)
+![New Premium Flow: Plans, Payment Selection, & Features.](/assets/article_images/2015-09-06-videostream/premflow1-c.jpg)
 
 I worked on a new Premium flow in the app which makes upgrading to new features significantly easier for customers. I built the flow from scratch using HTML/Sass, Javascript, and integrations with Stripe, Paypal, and Google OAuth APIs. It's beating the original Premium flow in initial revenue split tests.
 
