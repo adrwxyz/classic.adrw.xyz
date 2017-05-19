@@ -5,15 +5,23 @@
   <div class="inner">
     <h1 class="blog-title">{{ site.title }}</h1>
     <h2 class="blog-description">{{ site.description }}</h2>
-    <a href="mailto:{{ site.email }}" class="btn">Contact Andrew</a>
+    {% for item in site.header_menu %}
+      {% if item.url %}
+          <a class="btn" href="{{ item.url | prepend: site.baseurl }}" {% if item.desc %} title="{{ item.title }}"{% endif %}">
+            <i class="fa fa-{{ item.icon }}"></i> <span class="item-caption">{% if item.desc %}{{ item.desc }}{% else %}{{ item.title }}{% endif %}</span>
+          </a>
+      {% endif %}
+    {% endfor %}
+    <!-- {% if page.categories contains "experience" %}
+    <a href="/experience" class="btn">Experience</a>
+    {% endif %}
     {% if page.categories contains "project" %}
     <a href="/projects" class="btn">Projects</a>
     {% endif %}
     {% if page.categories contains "blog" %}
-    <a href="/blog" class="btn">andrewnotes</a>
+    <a href="/blog" class="btn">Blog</a>
     {% endif %}
-    {% if page.categories contains "work" %}
-    <a href="/work" class="btn">Work</a>
-    {% endif %}
+    <a href="/about" class="btn">About</a>
+    <a href="/contact" class="btn">Contact Andrew</a> -->
   </div>
 </div>

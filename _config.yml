@@ -63,6 +63,7 @@ header_menu:
     url: /about
     icon: id-card
   - title: Contact
+    desc: Contact Andrew
     slug: contact
     url: /contact
     icon: envelope
