@@ -7,6 +7,7 @@ redirect_from: /project/meet-the-link/
 categories:
 - experience
 - volunteer
+- project
 layout: "project"
 tags:
 - Volunteer

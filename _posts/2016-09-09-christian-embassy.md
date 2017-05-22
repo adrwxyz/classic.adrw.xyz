@@ -9,6 +9,7 @@ categories:
 - experience
 - freelance
 - featured-freelance
+- project
 layout: "project"
 tags:
 - Volunteer

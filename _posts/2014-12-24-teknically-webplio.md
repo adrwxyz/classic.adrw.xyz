@@ -8,6 +8,7 @@ categories:
 - work
 - experience
 - startup
+- project
 layout: "project"
 tags:
 - Google-Analytics

@@ -9,6 +9,7 @@ categories:
 - volunteer
 - freelance
 - featured-freelance
+- project
 layout: "project"
 tags:
 - Volunteer
