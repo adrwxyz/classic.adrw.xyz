@@ -54,10 +54,6 @@ header_menu:
     slug: blog
     url: /blog
     icon: sticky-note
-  - title: Resume
-    slug: resume
-    url: "/assets/files/AndrewParadiResume.pdf"
-    icon: graduation-cap
   - title: About
     slug: about
     url: /about
@@ -67,6 +63,10 @@ header_menu:
     slug: contact
     url: /contact
     icon: envelope
+  - title: Resume
+    slug: resume
+    url: "/assets/files/AndrewParadiResume.pdf"
+    icon: graduation-cap
 
 experience_sections:
   - title: Work Experience
@@ -90,76 +90,76 @@ twitter_handle: '@andrew_paradi'
 
 # social icons and sharing options
 social:
-  - icon:	envelope
-    url:	mailto:me@andrewparadi.com
-    desc:	Email me@andrewparadi.com
-    share_url:
-    share_title:
-    share_link:
-    caption: Email
-  - icon:	linkedin-square
+  - title: LinkedIn
+    icon:	linkedin-square
     url:	https://www.linkedin.com/in/andrewparadi
     desc:	Connect with me on LinkedIn
     share_url:
     share_title:
     share_link:
-    caption: LinkedIn
-  - icon:	github
+  - title: GitHub
+    icon:	github
     url:	https://github.com/andrewparadi
     desc:	Fork me on github
     share_url:
     share_title:
     share_link:
-    caption: GitHub
-  - icon:	code
+  - title: Email
+    icon:	envelope
+    url:	mailto:me@andrewparadi.com
+    desc:	Email me@andrewparadi.com
+    share_url:
+    share_title:
+    share_link:
+  - title: Devpost
+    icon:	code
     url: https://devpost.com/andrewparadi
     desc:	Fork me on github
     share_url:
     share_title:
     share_link:
-    caption: Devpost
-  - icon:	angellist
+  - title: AngelList
+    icon:	angellist
     url:	https://angel.co/andrew-paradi
     desc:	Add me on Angel List
     share_url:
     share_title:
     share_link:
-    caption: AngelList
-  - icon:	twitter
+  - title: Twitter
+    icon:	twitter
     url:	https://twitter.com/andrewparadi
     desc: Follow me on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
-    caption: Twitter
-  - icon:	instagram
+  - title: Instagram
+    icon:	instagram
     url:	https://instagram.com/andrewnotes
     desc:	Follow on instagram
     share_url:
     share_title:
     share_link:
-    caption: Instagram
-  - icon:	youtube
+  - title: YouTube
+    icon:	youtube
     url:	https://youtube.com/c/andrewparadi
     desc:	Watch my videos on Youtube
     share_url:
     share_title:
     share_link:
-    caption: YouTube
-  - icon:	lock
+  - title: PGP
+    icon:	lock
     url:	https://keybase.io/andrewparadi
     desc:	Keybase.io PGP Fingerprint &amp; Public Key
     share_url:
     share_title:
     share_link:
-    caption: PGP
-  - icon:	graduation-cap
+  - title: Resume
+    icon:	graduation-cap
     url:	/assets/files/AndrewParadiResume.pdf
     desc:	Resume as of Jan 2015
     share_url:
     share_title:
     share_link:
-    caption: Resume
 
 # Defaults for layouts
 defaults:

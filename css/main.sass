@@ -109,7 +109,9 @@ body
     a
       color: #333
       text-decoration: none
-@media(min-width: 651px)
+.menu-item-mobile
+  display: none
+@media(min-width: 721px)
   .desktop-show
     display: block
   .desktop-bars-icon
@@ -132,6 +134,7 @@ body
     padding: 0px 25px
     .menu-item
       padding: 4px 0px
+      float: right
       a
         color: #212121
         padding: 5px 10px
@@ -144,10 +147,14 @@ body
     background-color: #EEE
     &:hover
       background-color: #E0E0E0
+  .menu-item-mobile
+    display: none
 
-@media(max-width: 650px)
+@media(max-width: 720px)
   .mobile-show
     display: block
+  .menu-item-mobile
+    float: left
   .mobile-bars-icon
     position: relative
     top: 3px
@@ -165,10 +172,11 @@ body
       content: "\f00d"
       font-style: normal
   .menu
-    padding: 3px 25px
+    padding: 3px 20px 3px 32px
     .menu-item
       padding: 10px 0px
       margin-right: 8px
+      float: left
       a
         padding: 5px 10px
         border-radius: 50px
@@ -178,9 +186,10 @@ body
           background-color: #EEEEEE
       a.current
         background-color: #E0E0E0
-
         &:hover
           background-color: #BDBDBD
+  .menu-item-desktop
+    display: none
 
 .teaserimage
   height: 350px
@@ -243,6 +252,17 @@ body
     color: #666
     text-align: center
     font-weight: 400
+  .blog-subdescription
+    line-height: 1.5
+    color: #666
+    text-align: center
+    a
+      text-decoration: none
+      color: #999
+      &:hover
+        color: #333
+    .blog-page
+      font-weight: 600
   .custom-links
     margin: 0 0 10px
     text-align: center
@@ -758,7 +778,6 @@ body
   display: none
 
 .copyright
-  padding-top: 20px
 
 pre,
 code
@@ -782,9 +801,9 @@ pre
   .social-item
     text-decoration: none !important
     white-space: nowrap
-    padding-right: 7%
-    line-height: 2
-    .social-caption
+    padding-right: 4.5%
+    line-height: 1.4
+    .social-title
       font-family: $font-sans
 
 .experience

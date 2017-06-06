@@ -5,7 +5,7 @@
     <a href="{{site.url}}{{site.baseurl}}" class="logo-readium"><span class="logo" style="background-image: url({{ site.logo | prepend: site.baseurl }})"></span></a>
   </div>
   <div class="menu-readium">
-    {% if page.layout and (page.layout == 'default' or page.layout == 'page') %}
+    {% if page.layout and (page.layout == 'default' or page.layout == 'page' or page.layout == 'cards') %}
       {% assign desktop-show = 'desktop-show' %}
       {% assign desktop-icon = 'desktop-times-icon' %}
       {% assign mobile-icon = 'mobile-bars-icon' %}
@@ -16,14 +16,37 @@
     <span class="menu-icon"><i class="menu-fa {{ desktop-icon }} {{ mobile-icon }}" aria-hidden="true"></i></span>
   </div>
   <ul class="menu {{ desktop-show }}">
+  {% for social in site.social limit: 2 %}
+    {% if social.url %}
+        <li class="menu-item menu-item-desktop">
+          <a href="{{ social.url }}" title="{{ social.title }}">{% if social.icon %} <i class="fa fa-{{ social.icon }}" aria-hidden="true"></i> {% else %}{% endif %}</a>
+        </li>
+    {% endif %}
+  {% endfor %}
   {% for link in site.header_menu reversed %}
     {% assign current = nil %}
     {% if page.url == link.url or page.layout == link.layout %}
       {% assign current = 'current' %}
     {% endif %}
-    <li class="menu-item {{ current }}">
-      <a class="{{ current }}" href="{{ link.url }}">{% if link.icon %}<i class="fa fa-{{ link.icon }}" aria-hidden="true"></i>{% else %}{% endif %} {{ link.title }}</a>
+    <li class="menu-item {{ current }} menu-item-desktop">
+      <a class="{{ current }}" href="{{ link.url }}" title="{{ link.title }}">{% if link.icon %}<i class="fa fa-{{ link.icon }}" aria-hidden="true"></i>{% else %}{% endif %} {{ link.title }}</a>
     </li>
+  {% endfor %}
+  {% for link in site.header_menu %}
+    {% assign current = nil %}
+    {% if page.url == link.url or page.layout == link.layout %}
+      {% assign current = 'current' %}
+    {% endif %}
+    <li class="menu-item {{ current }} menu-item-mobile">
+      <a class="{{ current }}" href="{{ link.url }}" title="{{ link.title }}">{% if link.icon %}<i class="fa fa-{{ link.icon }}" aria-hidden="true"></i>{% else %}{% endif %} {{ link.title }}</a>
+    </li>
+  {% endfor %}
+  {% for social in site.social %}
+    {% if social.url %}
+        <li class="menu-item menu-item-mobile">
+          <a href="{{ social.url }}" title="{{ social.title }}">{% if social.icon %} <i class="fa fa-{{ social.icon }}" aria-hidden="true"></i> {% else %}{% endif %}</a>
+        </li>
+    {% endif %}
   {% endfor %}
   </ul>
 {% endif %}
