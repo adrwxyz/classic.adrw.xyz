@@ -9,13 +9,14 @@ categories:
 - work
 ---
 
+{% capture mdcontent %}
 ![](/assets/article_images/about/about-header-1000c.png)
 
 I'm graduating from Computer Science at University of Waterloo in April 2018.
 
 I have 4 years of experience solving problems with great code at [Atomic.vc](http://atomic.vc), startups [[1](/project/blitzen)][[2](/project/videostream)][[3](/project/teknically-webplio)], for [clients](/contact#need-a-new-website), [side projects](/projects), & hackathons [[4](/project/resume-scoreboard)][[5](/project/losocco)][[6](/project/stockslate)].
 
-I can't wait to get back to building great software with an ambitious team.
+I can't wait to get back to building great software with an ambitious team. I enjoy bringing my hustle and attention to detail to new problems and products.
 
 If you're looking for a full stack dev who learns quickly, please [email me](mailto:me@andrewparadi.com?subject=Job%20Opportunity)!
 
@@ -28,41 +29,54 @@ Want to learn more?
   - [**Looking for a fullstack dev?**](/contact#looking-for-a-fullstack-dev-for-your-team) Let's talk!
   - [**Need a new website?**](/contact#need-a-new-website) Wordpress, Squarespace, or custom
   - [**Are you a startup founder?**](/contact#are-you-a-startup-founder) I can help pitch coaching or sales copy
+  - [**Any other questions?**](/contact) Email me at andrewparadi.com and we can talk!
+  - Check out my profile on any of the dev or social platforms below
+
+{% endcapture %}
+{{ mdcontent | markdownify }}
+
+<div style="margin-left: 30px;">{% include social.html %}</div>
+
+{% capture mdcontent %}
 
 My Stack
 ---
 **I have strong experience building with:**
-- ReactJS with Redux, NodeJS, KoaJS, Git, Docker, Docker Compose
+- ReactJS with Redux, NodeJS, KoaJS
+- Docker, Docker Compose
 - Javascript ES5 & ES6 & ES7, HTML5, CSS3, SASS
-- C, C++, Bash
+- C, C++, Bash, Git
 - Wordpress, Squarespace, Jekyll
 
 **I am familiar with:**
-- EmberJS, AngularJS 1.4 & 2
+- SQL, PostgreSQL, Neo4j
 - Django, Python3, Ruby on Rails
-- PostgreSQL, Neo4j
+- EmberJS, AngularJS 1.4 & 2
 
 Awards
 ---
-- [Final round interview at **Y Combinator**](/blog/the-dream-fades#from-a-to-yc)
-- [**Google for Entrepeneurs Alumnus**](/project/teknically-webplio#google-for-entrepreneurs-cohort-2-alumnus)
+- [Final round interview at **Y Combinator W15**](/blog/the-dream-fades#from-a-to-yc)
+  <br/>Mountain View, California - Nov 2014
+- [**Google for Entrepeneurs Cohort 2 Alumnus**](/project/teknically-webplio#google-for-entrepreneurs-cohort-2-alumnus)
+  <br/> Communitech, Kitchener - Sept 2014
 - [**Bloomberg API Prize Winner**](/project/stockslate)
-  <br/>Hack the North 2014
+  <br/>Hack the North - Sept 2014
 - [**1st Place Canadian Business Model Competition 2014**](/project/teknically-webplio#canada-business-model-25000-winning-pitch)
-  <br/>Dalhousie University, Nova Scotia
+  <br/>Dalhousie University, Nova Scotia - March 2014
 - [**Semi-Finalist International Business Model Competition**](/project/teknically-webplio#international-business-model-semi-finalist-pitch)
-  <br/>Brigham Young University, Utah USA
-- School of Business **Rising Star Award**
-  <br/>Wilfrid Laurier University
+  <br/>Brigham Young University, Utah USA - May 2014
+- School of Business &amp; Economics **Rising Star Award**
+  <br/>Wilfrid Laurier University - April 2014
 - **3rd Place Laurier Entrepreneurship Competition**
-  <br/>Wilfrid Laurier University
+  <br/>Wilfrid Laurier University - Feb 2014
 - **Semi-Finalist, PepsiCo Pitch Competition**
-  <br/>Wilfrid Laurier University
+  <br/>Wilfrid Laurier University - Feb 2014
 - **97th Percentile** Score on Bloomberg Aptitude Test
+  <br/>Wilfrid Laurier University - Sept 2013
 - **Honour Activity Award** for most involved male graduate
-  <br/>Gordon Graydon MSS High School
+  <br/>Gordon Graydon MSS High School - June 2013
 - **Club Activity Award** for 850+ hours of extra curricular activity
-  <br/>Gordon Graydon MSS High School
+  <br/>Gordon Graydon MSS High School - June 2013
 
 Press
 ---
@@ -98,3 +112,6 @@ Press
   <br/>**BMC Canada** - March 16, 2014
 - [Six commerce students with big business ventures](http://www.theglobeandmail.com/report-on-business/careers/business-education/lighting-the-small-business-burner/article17410311)
   <br/>**The Globe and Mail** - March 12, 2014
+
+{% endcapture %}
+{{ mdcontent | markdownify }}

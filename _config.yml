@@ -17,7 +17,7 @@ logo: "/assets/images/ap_logov4.0t-100c.png"
 float_logo: true
 # blog cover
 cover: "/assets/images/covers/launchpad-c.jpg"
-date_format: "%B %e, %Y"
+date_format: "%B %e, %Y" # Jun 8, 2017
 
 name: 'Andrew Paradi'
 author: 'Andrew Paradi'
@@ -125,20 +125,20 @@ social:
     share_url:
     share_title:
     share_link:
-  - title: Twitter
-    icon:	twitter
-    url:	https://twitter.com/andrewparadi
-    desc: Follow me on twitter
-    share_url: http://twitter.com/share
-    share_title: ?text=
-    share_link: "&amp;url="
-  - title: Instagram
-    icon:	instagram
-    url:	https://instagram.com/andrewnotes
-    desc:	Follow on instagram
-    share_url:
-    share_title:
-    share_link:
+  # - title: Twitter
+  #   icon:	twitter
+  #   url:	https://twitter.com/andrewparadi
+  #   desc: Follow me on twitter
+  #   share_url: http://twitter.com/share
+  #   share_title: ?text=
+  #   share_link: "&amp;url="
+  # - title: Instagram
+  #   icon:	instagram
+  #   url:	https://instagram.com/andrewnotes
+  #   desc:	Follow on instagram
+  #   share_url:
+  #   share_title:
+  #   share_link:
   - title: YouTube
     icon:	youtube
     url:	https://youtube.com/c/andrewparadi

@@ -18,7 +18,7 @@ excerpt: projects and blog posts from my work experience
   <article class="post">
     <meta itemprop="keywords" content="{{ page.tags | join: ',' }}" />
   <meta itemprop="description" content="{{ content | strip_html | truncatewords: 40 }}" />
-  <time class="published" itemprop="datePublished" datetime="{{ page.date | date: '%Y-%m-%d' }}"> {{ page.date | date: "%B %e, %Y" }} </time>
+  <time class="published" itemprop="datePublished" datetime="{{ page.date | date: '%Y-%m-%d' }}"> {{ page.date | date: site.date_format }} </time>
     <section class="post-content" itemprop="articleBody">
       <div class="container experience">
         {% assign sections = "work|project|volunteer" | split: "|" %}
