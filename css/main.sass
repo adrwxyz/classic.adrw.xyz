@@ -10,8 +10,8 @@
 
 $rs: 16px
 
-$font-serif: Linux Libertine
-$font-sans: Avenir Next, Open Sans, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif
+$font-serif: Georgia, Linux Libertine, serif
+$font-sans: Avenir Next, Open Sans, MundoSans, Helvetica Neue, Arial, Helvetica, sans-serif
 
 
 @mixin respond-to($breakpoint)
@@ -214,6 +214,7 @@ body
   margin: 0 auto
   position: relative
   padding: 0
+  display: block !important
   @include box-sizing(border-box)
   @include respond-to(800)
     padding: 0 $rs
@@ -257,6 +258,7 @@ body
     color: #666
     text-align: center
     a
+      cursor: pointer
       text-decoration: none
       color: #999
       &:hover
@@ -544,8 +546,9 @@ body
     p
       font-weight: 400
       font-style: normal
-      font-size: 19px
+      font-size: 17px
       line-height: 24px
+      letter-spacing: 0.01em
       margin: 0
       padding-bottom: 20px
       color: #333
@@ -609,8 +612,9 @@ body
       padding: 0
       font-weight: 400
       font-style: normal
-      font-size: 19px
+      font-size: 17px
       line-height: 24px
+      letter-spacing: 0.01em
       margin-left: 30px
       margin-bottom: 5px
       padding-top: 2px
@@ -1021,8 +1025,11 @@ pre
   top: 0
   left: 0
   width: 100%
-  height: 100%
+  height: 110%
   background: no-repeat center center / cover
+  background-color: #C5CAE9
+  opacity: 0.5
+  display: block !important
 
 .pattern--hidden
   visibility: hidden
@@ -1032,7 +1039,13 @@ pre
 
 .pattern svg
   width: 100%
-  height: 100%
+  height: 110%
+
+.pattern-header
+  position: absolute !important
+  height: 55px !important
+  color: #4f4c4c
+  opacity: 0.5
 
 .polygon
   transition: -webkit-transform 300ms ease-in-out, opacity 300ms ease-in-out
