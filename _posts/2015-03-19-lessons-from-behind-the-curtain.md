@@ -48,7 +48,7 @@ No business plans, wait lists, A/B testing of marketing, rockstar teams, competi
 
 We fell into this trap by thinking the Webplio Snapshot Report had validated our MVP requirement. We thought that since we had sold some of our MVP we were okay to move on with other important areas. Retrospectively, I think this was our biggest mistake.
 
-Competitions ate up months of time early on that would have been better invested coding code and launching an MVP. If both of us had been coding, we would have reached this goal much faster.
+Competitions ate up months of time early on that would have been better invested writing code and launching an MVP. If both of us had been coding, we would have reached this goal much faster.
 
 ![We were 1st place winners at CBMC in Halifax but lost focus of our main priority: releasing Webplio as an online MVP.](/assets/article_images/2014-10-03-the-389-day-laurier-bba/bmc-winner-cheque.jpg)
 
@@ -61,14 +61,14 @@ Execution is worth more than ideas. Learn to code so you can make your product v
 <strong>If you're really serious about your idea, build it. If not, you're still a wantrepreneur.</strong>
 
 <h2>3. Do things that don't scale.</h2>
-After the Webplio Snapshot Report we went straight into building the full Webplio Dashboard. We tried to jump from paper to perfectly scaled web app. What were we thinking?
+After the Webplio Snapshot Report we went straight into building the full Webplio Dashboard. We tried to jump from paper to perfectly scaled web app. What were we thinking?!
 
 ><a href="http://paulgraham.com/ds.html" target="_blank">"Do things that don't scale"</a> is a classic piece of PG advice.
 >We know now how profound it is.
 
 We should have focused on putting together a hack online MVP and launching as soon as possible. Instead of just entering data manually, we spent months perfecting the Google Analytics integration. Instead of launching with our first front end mockups, we went through numerous internal revisions until we were happy with it. Instead of launching with a basic signup page, we split test wait lists, copy, videos, and marketing techniques.
 
-At the end of the day, we had a product too big it was riddled with bugs, too long separated from actual users it wasn't what they wanted, and a wait list of small businesses and organizations who never got to experience Webplio.
+At the end of the day, we had a product too big it was riddled with bugs, too long separated from actual users that it now wasn't what they wanted, and a wait list of small businesses and organizations who never got to experience Webplio.
 
 <strong>Launch your MVP ASAP. Work with users to fix bugs, rework designs, and prioritize features. Scalability should be part of your product vision, but top priority is on getting an MVP to users.</strong>
 
