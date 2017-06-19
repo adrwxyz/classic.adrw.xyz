@@ -7,7 +7,7 @@ redirect_from: /project/progress-pebble/
 categories:
 - project
 - experience
-layout: "project"
+layout: project
 tags:
 - Javascript
 - Firebase
@@ -16,7 +16,7 @@ tags:
 image: /assets/article_images/2016-02-02-progress-pebble/progress-pebble-app-store-2000c.png
 image2: /assets/article_images/2016-02-02-progress-pebble/progress-pebble-app-store-1000c.png
 excerpt: Log workouts from dumb fitness trackers to the cloud!
-seo-title: "Progress Pebble - Log workouts from dumb fitness trackers | Andrew Paradi"
+seo_title: "Progress Pebble - Log workouts from dumb fitness trackers | Andrew Paradi"
 position: Progress Pebble
 company:
 summary: |

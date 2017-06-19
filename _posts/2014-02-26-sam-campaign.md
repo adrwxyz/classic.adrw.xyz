@@ -10,7 +10,7 @@ categories:
 - freelance
 - featured-freelance
 - project
-layout: "project"
+layout: project
 tags:
 - Volunteer
 - Marketing-Strategy
@@ -21,7 +21,7 @@ tags:
 - Laurier
 image: /assets/article_images/2014-02-26-sam-campaign/SamDisplayPicture.png
 excerpt: Sam Lambert won a tight race for President. Andrew helped develop the winning strategy, web, and video marketing.
-seo-title: "Bowtie - How We Won a Presidential Campaign | Andrew Paradi"
+seo_title: "Bowtie - How We Won a Presidential Campaign | Andrew Paradi"
 position: Marketing Co-Lead
 company: Sam Lambert Presidential Campaign
 ---

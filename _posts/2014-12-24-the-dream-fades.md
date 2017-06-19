@@ -9,7 +9,7 @@ categories:
 image: /assets/article_images/2014-12-24-the-dream-fades/ChristmasAndrewBridge-2000c.jpg
 image2: /assets/article_images/2014-12-24-the-dream-fades/ChristmasAndrewBridge-1000c.jpg
 excerpt: To Y Combinator and back again, our biggest lessons at Teknically Inc. building Webplio&#58; a Google Analytics dashboard that anybody could use.
-seo-title: "Teknically Part 2: The Dream Fades | Andrew Paradi"
+seo_title: "Teknically Part 2: The Dream Fades | Andrew Paradi"
 ---
 
 **Two eggs over easy, hash browns, double bacon, ham, sausage, french toast. It's hard to tell which was the final straw but by the end of lunch on December 2nd, Teknically was finished. We were going back to university. Our startup journey had reached the end.**

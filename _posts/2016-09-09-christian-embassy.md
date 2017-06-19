@@ -10,7 +10,7 @@ categories:
 - freelance
 - featured-freelance
 - project
-layout: "project"
+layout: project
 tags:
 - Volunteer
 - HTML/CSS
@@ -21,7 +21,7 @@ tags:
 image: /assets/article_images/2016-09-09-christian-embassy/christianembassy-new.png
 image2: /assets/article_images/2016-09-09-christian-embassy/christianembassy-new-1000c.png
 excerpt: The Christian Embassy needed a new site to better engage with Diplomats and Members of Parliament. Their new Wordpress site is mobile friendly and easy to edit.
-seo-title: "New online reputation with Diplomats and MPs | Andrew Paradi"
+seo_title: "New online reputation with Diplomats and MPs | Andrew Paradi"
 position: Volunteer Website Dev
 company: Christian Embassy
 ---

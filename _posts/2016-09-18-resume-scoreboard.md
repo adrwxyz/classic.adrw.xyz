@@ -9,7 +9,7 @@ categories:
 - hackathon
 - experience
 - featured-experience
-layout: "project"
+layout: project
 tags:
 - Hackathon
 - AngularJS
@@ -21,7 +21,7 @@ tags:
 image: /assets/article_images/2016-09-19-resume-scoreboard/htn-2c.png
 image2: /assets/article_images/2016-09-19-resume-scoreboard/htn-2-1000c.png
 excerpt: A resume comparison tool built at Hack the North 2016 in AngularJS.
-seo-title: "Resume Scoreboard - AngularJS, Firebase, Material Design | Andrew Paradi"
+seo_title: "Resume Scoreboard - AngularJS, Firebase, Material Design | Andrew Paradi"
 position: Resume Scoreboard
 company: HackTheNorth
 summary: |

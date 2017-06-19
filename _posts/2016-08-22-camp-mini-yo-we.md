@@ -8,7 +8,7 @@ categories:
 - experience
 - volunteer
 - hidden
-layout: "project"
+layout: project
 tags:
 - Volunteer
 - Cabin-Leader
@@ -18,7 +18,7 @@ tags:
 - Lifeguard
 image: /assets/article_images/2013-09-22-baseway/baseway-c.png
 excerpt: Boys Camp Cabin Leader for 8-18 years old boys at overnight Muskoka camp.
-seo-title: "Camp Mini-Yo-We - Boys Camp Cabin Leader | Andrew Paradi"
+seo_title: "Camp Mini-Yo-We - Boys Camp Cabin Leader | Andrew Paradi"
 position: Volunteer Cabin Leader
 company: Camp Mini-Yo-We
 ---

@@ -8,7 +8,7 @@ categories: blog
 image: /assets/article_images/2015-04-29-innovation-in-the-6/oce-founder-forum.jpg
 image2: /assets/article_images/2015-04-29-innovation-in-the-6/oce-founder-forum-c.png
 excerpt: OCE Discover 2015&#58; Thousands of entrepreneurs, researchers, policy makers, & community organizations together to celebrate and foster innovation in Ontario.
-seo-title: "OCE Discovery 2015: Innovation in the #6ix? | Andrew Paradi"
+seo_title: "OCE Discovery 2015: Innovation in the #6ix? | Andrew Paradi"
 ---
 
 **Thousands of entrepreneurs, researchers, policy makers, and community organizations coming together to celebrate and foster innovation in Ontario. On April 27th, I went to OCE Discovery 2015 in Toronto.**

@@ -8,7 +8,7 @@ categories:
 - project
 - hackathon
 - experience
-layout: "project"
+layout: project
 tags:
 - Hackathon
 - Bloomberg-API
@@ -17,7 +17,7 @@ tags:
 - Video-Production
 image: /assets/article_images/2014-09-30-stockslate-hack-the-north/stock-slate-demo-retail-c.png
 excerpt: StockSlate let investors choose stocks from Bloomberg data and then see how their portfolios would be judged by successful investors like Warren Buffet.
-seo-title: "StockSlate - How we brought Warren Buffet to Hack the North | Andrew Paradi"
+seo_title: "StockSlate - How we brought Warren Buffet to Hack the North | Andrew Paradi"
 position: StockSlate
 company: HackTheNorth
 summary: |

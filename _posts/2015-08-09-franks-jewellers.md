@@ -10,7 +10,7 @@ categories:
 - experience
 - freelance
 - featured-freelance
-layout: "project"
+layout: project
 tags:
 - HTML/CSS
 - PHP
@@ -21,7 +21,7 @@ tags:
 image: /assets/article_images/2015-08-09-franks-jewellers/franks.png
 image2: /assets/article_images/2015-08-09-franks-jewellers/franks-1000c.png
 excerpt: Frank's Jewellers has been a trusted store in Uptown Waterloo since 1919. When they needed a new website, Andrew delivered with a responsive, modern Wordpress website.
-seo-title: "New website boosts historic Frank's Jewellers | Andrew Paradi"
+seo_title: "New website boosts historic Frank's Jewellers | Andrew Paradi"
 position: Freelance Website Dev
 company: Frank's Jewellers
 summary: |

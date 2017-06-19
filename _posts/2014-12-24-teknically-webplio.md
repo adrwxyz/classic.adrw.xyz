@@ -9,7 +9,7 @@ categories:
 - experience
 - startup
 - project
-layout: "project"
+layout: project
 tags:
 - Google-Analytics
 - HTML/CSS
@@ -20,7 +20,7 @@ tags:
 - Y-Combinator
 image: /assets/article_images/2014-12-24-teknically-webplio/webplio-c.png
 excerpt: Brandon Chow &amp; Andrew Paradi interviewed at Y Combinator, were part of Google for Entrepreneurs, developed Webplio&#58; machine learning for Google Analytics.
-seo-title: "Teknically &amp; Webplio - the future of Google Analytics | Andrew Paradi"
+seo_title: "Teknically &amp; Webplio - the future of Google Analytics | Andrew Paradi"
 position: CEO & Founder
 company: Teknically
 summary: |

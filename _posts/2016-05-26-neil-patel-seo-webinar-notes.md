@@ -8,7 +8,7 @@ categories:
 - hidden
 image: /assets/article_images/2016-05-26-neil-patel-seo-webinar-notes/neil-patel-seo-webinar-notes.png
 excerpt: Raw notes from Neil Patel's May 26 Webinar.
-seo-title: "Neil Patel SEO Webinar Notes"
+seo_title: "Neil Patel SEO Webinar Notes"
 ---
 
 **Here's my raw, unedited, 3,004 word notes with actionable insights, case studies, and Q&A from Neil Patel's SEO Webinar on May 26. Please go check him out at NeilPatel.com, it was a great webinar!**
