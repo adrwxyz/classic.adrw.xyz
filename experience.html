@@ -37,7 +37,7 @@ excerpt: projects and blog posts from my work experience
                   {% endif %}
                 {% else %}
                   {% if post.position and post.company %}
-                    <span class="experience-company" itemprop="name"><a href="{{ post.url | prepend: site.baseurl }}" itemprop="url">{{ post.company }} ::</a></span> <span class="experience-position"><a href="{{ post.url | prepend: site.baseurl }}" itemprop="url">{{ post.position }} <i class="fa fa-chevron-right experience-meta" aria-hidden="true"></i></a></span>
+                    <a href="{{ post.url | prepend: site.baseurl }}" itemprop="url"><span class="experience-company" itemprop="name">{{ post.company }} ::&nbsp;</span><span class="experience-position">{{ post.position }} <i class="fa fa-chevron-right experience-meta" aria-hidden="true"></i></span></a>
                   {% else %}<span class="experience-company" itemprop="name"><a href="{{ post.url | prepend: site.baseurl }}" itemprop="url">{{post.title}} <i class="fa fa-chevron-right experience-meta" aria-hidden="true"></i></a></span>
                   {% endif %}
                 {% endif %}
