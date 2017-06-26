@@ -112,7 +112,7 @@ Press
   <br/>**The Globe and Mail** - Sept 19, 2014
 - [Google for Entrepreneurs Cohort 2 set to launch in Communitech Hub](http://news.communitech.ca/news/google-for-entrepreneurs-cohort-2-set-to-launch-in-communitech-hub)
   <br/>**Communitech News** - Sept 9, 2014
-- [570 News #TechHour: The Inside Scoop on Google 4 Entrepreneurs at Communitech](/assets/article_images/2014-12-24-teknically-webplio/TechHour570News-Sept9-2014.mp3)
+- [#TechHour: The Inside Scoop on Google 4 Entrepreneurs at Communitech](/assets/article_images/2014-12-24-teknically-webplio/TechHour570News-Sept9-2014.mp3)
   <br/>**570 News** - Sept 9, 2014
 - [Five New Startups Awarded Residency at the Google Innovation Space at Communitech](http://www.betakit.com/five-new-startups-awarded-residency-in-the-google-innovation-space-at-communitech-hub)
   <br/>**BetaKit** - Sept 2, 2014
