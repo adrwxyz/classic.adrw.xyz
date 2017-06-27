@@ -18,7 +18,7 @@ image2: /assets/article_images/2016-02-02-progress-pebble/progress-pebble-app-st
 excerpt: Log workouts from dumb fitness trackers to the cloud!
 seo_title: "Progress Pebble - Log workouts from dumb fitness trackers | Andrew Paradi"
 position: Progress Pebble
-company:
+company: GitHub
 summary: |
   - Pebble app for logging workout data (distance, time) and calculating avg speed
 ---

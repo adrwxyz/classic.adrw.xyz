@@ -25,7 +25,7 @@ position: CEO & Founder
 company: Teknically
 summary: |
   - Developed scoring insight algorithms for Google Analytics data
-  - Pitched, won $65,000. Cohort 2 at Google for Entrepreneurs.
+  - Pitched, won $65,000. Cohort 2 at Google for Entrepreneurs
 ---
 
 **[Brandon Chow](http://www.branchow.com) and I founded Teknically in October 2013 and over the next 13 months had a remarkable journey.**
