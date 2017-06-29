@@ -24,7 +24,7 @@ layout: pattern_header
       {{content}}
       <div style="text-align:center">
         <a href="#topform" class="topform"><p>Continue to form <i class="fa fa-angle-down"></i></p></a>
-        <a href="{{ page.form_url }}"><p>Form not working below? Mobile issues? Try this...!</p></a>
+        <a href="{{ page.form_url }}"><p><strong>Are you on mobile?</strong> Form not working below? Click here ></p></a>
       </div>
     </section>
   </article>
@@ -32,7 +32,7 @@ layout: pattern_header
 <iframe id="topform" src="{{ page.form_url }}" width=100% height="{{ page.form_height }}" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 <div style="text-align:center">
   <br/>
-  <a href="{{ page.form_url }}" style="color: black;"><p>Form not working above? Mobile issues? Try this...!</p></a>
+  <a href="{{ page.form_url }}" style="color: black;"><p><strong>Are you on mobile?</strong> Form not working above? Click here ></p></a>
   <a href="#topform" class="topform" style="color: black;"><p>Back to top of form <i class="fa fa-angle-up"></i></p></a>
   <br/>
 </div>

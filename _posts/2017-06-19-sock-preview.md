@@ -19,7 +19,7 @@ seo_title: "New Socks Brand - The best 10 patterns you'll find online, new every
 form_url: https://docs.google.com/forms/d/e/1FAIpQLScRplIyPS-iNEJE7eN-ctm-UlG_A2wEhIaLxiVZJDZPRr_4CQ/viewform?embedded=true
 form_height: 2700
 ---
-Suzie and I (that's us up there!) have been working the past few months on a new brand that **solves problems in the socks and formal wear space!**
+Suzie and I (that's us up there!) have been working the past few months on a new brand that **solves problems we have when buying socks!**
 
 ***...but we need your help!***
 
