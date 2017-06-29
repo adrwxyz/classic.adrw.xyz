@@ -1,3 +1,5 @@
+# By Andrew Paradi | Source at https://github.com/andrewparadi/get-started-with-jekyll
+
 DOCKER_COMPOSE=$(shell which docker-compose)
 DOCKER_COMPOSE_TARGETS=-f docker-compose.yml
 
@@ -28,7 +30,7 @@ commit: add
 	@read -p "Enter commit message: " message; \
 	git commit -am "$$message"
 
-deploy: add commit
+save: add commit
 	git push
 
 run: init
@@ -38,4 +40,7 @@ run: init
 .PHONY: build
 .PHONY: rebuild
 .PHONY: compile
+.PHONY: add
+.PHONY: commit
+.PHONY: save
 .PHONY: run
