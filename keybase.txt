@@ -4,71 +4,52 @@ https://keybase.io/andrewparadi
 
 I hereby claim:
 
-  * I am an admin of http://andrewparadi.com
-    * I am andrewparadi (https://keybase.io/andrewparadi) on keybase.
-      * I have a public key with fingerprint 836C B350 4409 4A9E 0A13  F12C EED3 03A3 B5B5 4E6E
+  * I am an admin of https://andrewparadi.com
+  * I am andrewparadi (https://keybase.io/andrewparadi) on keybase.
+  * I have a public key ASCVURdxw-VKma8yQ0g9EiEZSZlNKiVZtEByX82hllIWcgo
 
-      To do so, I am signing this object:
+To do so, I am signing this object:
 
-      {
-            "body": {
-                      "key": {
-                                    "eldest_kid": "010115a0705296790e9b4b7b123b5eec1cccaac13b4a3f9cd540538a47dbdddec9f60a",
-                                                "fingerprint": "836cb35044094a9e0a13f12ceed303a3b5b54e6e",
-                                                            "host": "keybase.io",
-                                                                        "key_id": "eed303a3b5b54e6e",
-                                                                                    "kid": "010115a0705296790e9b4b7b123b5eec1cccaac13b4a3f9cd540538a47dbdddec9f60a",
-                                                                                                "uid": "261fc382da8b9a450d948618f31b8319",
-                                                                                                            "username": "andrewparadi"
-                                                                                                                    },
-                                                                                                                            "service": {
-                                                                                                                                          "hostname": "andrewparadi.com",
-                                                                                                                                                      "protocol": "http:"
-                                                                                                                                                              },
-                                                                                                                                                                      "type": "web_service_binding",
-                                                                                                                                                                              "version": 1
-                                                                                                                                                                                  },
-                                                                                                                                                                                      "ctime": 1466002048,
-                                                                                                                                                                                          "expire_in": 157680000,
-                                                                                                                                                                                              "prev": "42a0574d7259d14a7abc8fe95c44fb986993a07054e6f1c46d8b3a90056e569a",
-                                                                                                                                                                                                  "seqno": 4,
-                                                                                                                                                                                                      "tag": "signature"
-      }
+{
+    &quot;body&quot;: {
+        &quot;key&quot;: {
+            &quot;eldest_kid&quot;: &quot;010115a0705296790e9b4b7b123b5eec1cccaac13b4a3f9cd540538a47dbdddec9f60a&quot;,
+            &quot;host&quot;: &quot;keybase.io&quot;,
+            &quot;kid&quot;: &quot;012095511771c3e54a99af3243483d12211949994d2a2559b440725fcda1965216720a&quot;,
+            &quot;uid&quot;: &quot;261fc382da8b9a450d948618f31b8319&quot;,
+            &quot;username&quot;: &quot;andrewparadi&quot;
+        },
+        &quot;merkle_root&quot;: {
+            &quot;ctime&quot;: 1500063946,
+            &quot;hash&quot;: &quot;d49d59ac0b6c96c66e9a6a434c5af82b9872d7837818198db50e3f74e6fb0a1e982d6e4e00a7b9ed5e2fb40bce815b9d6a4071be85656ee209934542b32acb2f&quot;,
+            &quot;hash_meta&quot;: &quot;aa557e4c7e253e64a572a6aa2a2f3213b74fe52c2928920e121e7247c7ff8e76&quot;,
+            &quot;seqno&quot;: 1233401
+        },
+        &quot;service&quot;: {
+            &quot;hostname&quot;: &quot;andrewparadi.com&quot;,
+            &quot;protocol&quot;: &quot;https:&quot;
+        },
+        &quot;type&quot;: &quot;web_service_binding&quot;,
+        &quot;version&quot;: 1
+    },
+    &quot;client&quot;: {
+        &quot;name&quot;: &quot;keybase.io go client&quot;,
+        &quot;version&quot;: &quot;1.0.24&quot;
+    },
+    &quot;ctime&quot;: 1500063976,
+    &quot;expire_in&quot;: 504576000,
+    &quot;prev&quot;: &quot;082763cb6d8ce4d27f48892098bf1eed9cd069dcc0e6b5f38980db90b8e54544&quot;,
+    &quot;seqno&quot;: 19,
+    &quot;tag&quot;: &quot;signature&quot;
+}
 
-      which yields the signature:
+which yields the signature:
 
-      -----BEGIN PGP MESSAGE-----
-      Comment: GPGTools - https://gpgtools.org
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEglVEXccPlSpmvMkNIPRIhGUmZTSolWbRAcl/NoZZSFnIKp3BheWxvYWTFA017ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxMTVhMDcwNTI5Njc5MGU5YjRiN2IxMjNiNWVlYzFjY2NhYWMxM2I0YTNmOWNkNTQwNTM4YTQ3ZGJkZGRlYzlmNjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwOTU1MTE3NzFjM2U1NGE5OWFmMzI0MzQ4M2QxMjIxMTk0OTk5NGQyYTI1NTliNDQwNzI1ZmNkYTE5NjUyMTY3MjBhIiwidWlkIjoiMjYxZmMzODJkYThiOWE0NTBkOTQ4NjE4ZjMxYjgzMTkiLCJ1c2VybmFtZSI6ImFuZHJld3BhcmFkaSJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUwMDA2Mzk0NiwiaGFzaCI6ImQ0OWQ1OWFjMGI2Yzk2YzY2ZTlhNmE0MzRjNWFmODJiOTg3MmQ3ODM3ODE4MTk4ZGI1MGUzZjc0ZTZmYjBhMWU5ODJkNmU0ZTAwYTdiOWVkNWUyZmI0MGJjZTgxNWI5ZDZhNDA3MWJlODU2NTZlZTIwOTkzNDU0MmIzMmFjYjJmIiwiaGFzaF9tZXRhIjoiYWE1NTdlNGM3ZTI1M2U2NGE1NzJhNmFhMmEyZjMyMTNiNzRmZTUyYzI5Mjg5MjBlMTIxZTcyNDdjN2ZmOGU3NiIsInNlcW5vIjoxMjMzNDAxfSwic2VydmljZSI6eyJob3N0bmFtZSI6ImFuZHJld3BhcmFkaS5jb20iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yNCJ9LCJjdGltZSI6MTUwMDA2Mzk3NiwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiIwODI3NjNjYjZkOGNlNGQyN2Y0ODg5MjA5OGJmMWVlZDljZDA2OWRjYzBlNmI1ZjM4OTgwZGI5MGI4ZTU0NTQ0Iiwic2Vxbm8iOjE5LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQFWYj2TamYQkF+SgAV95iGMDFgT8tt+2hwldi7b96wejRkVUzz+dOkOhMmulyzjIRhbXHiuLtTT88wmMpTSwKwGoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCAjsPXHmp6HrC2irnhVbGFrB9s3/cUIK5xOKj2+/3EVGaN0YWfNAgKndmVyc2lvbgE=
 
-      owGtkm1MHEUYx+84oOHKmwJpKUjLgloNhdnb2b3dU1sKEqmS1oCVaALH7M4cbDlu
-      j7vjrYjURqSmlZe02lparoA1Jk0jIogtWFqFxAIx5NBQKr6VgMU2WIFqioW4S4yf
-      +tH5Mpl5/s9v/vPP0xRi0Bn18+OGjp6e3Q79yJyoy0X73qqmRAVXUZZqqpisbcSO
-      idtjLZYxZaEADWiaRcAMWJPAmQVABBGKZpE2MSJLiERLkoSQRDMiRIxNkDALAcvw
-      CJqxiDEmkmDjAKKSKJvsKCQup0t2eFQsz3CSyLAAQiBAJBCAaMZGmyRCMAMYpLJF
-      FhKOqI1FilvrUM2JyE2SZUW9Uw/WNXsP0P/PvsvWcCaOtkkMb8KIFwUEWYAFyHM0
-      b2NokWdoQRO6icuBSoiqRg7sIhVO5EJYpmqSKLVSLktEC1f7zQNUyZJSojKcLsWj
-      SIpdrRZ5PE6L1uypcmrqCiJa/+VYRdmB1TjVhnLicsuKg7LQqlLyyBqYhhwHgAlA
-      PokilU7ZRayypmDNHA/UpT1DylWkFZoQYM0Qm02sgGmIzEiUeBsRWAlCmyjwnCAw
-      axGq0dpoCXKYFxkkAMByhOUELR43KXUolAWqPlGhynTLhQ7kKXMRqsb4tl+sv05v
-      1AUG+GmDpjMGhf83faNhq9u+ToiczTtx/9LgaMnwXF6N/NXZ3dHM1YaBzXc+uRF8
-      viCh76bX8DnMNJwZVUZ+JG0ZXCPD9LfHXt6YQuORZ9791Xgk+Tfk9U9bKSiI2HUh
-      cDBVsE8nOjJaE47MfAD2xA+eZn4ZvjTnfL5hpbuiY/NfD1cduBm5ISv9sanSL/YG
-      bZo5fOx2AHs4ZbKks3Yp5kpSTFzcdlL6evZCzJ3M4UCp78/0o52BT/K3g0taBsq+
-      fDr+ui84YDC1buJUsDe9qKsvsf90eF3zUurdbWH4h6y2gy/g1Pb9Lfd+b4XK1dzl
-      iRcXAjveS/xo173o5khlfH5s/U++5s4usTatVz+ScTL2VpS78bXCGbdgjdxh/T76
-      /cvmHXkDq6t0c+Xkhzvjt4swqx++7A3btzzbePelKPzp+qKLx2PQeH5EBGeo850x
-      +Xw1Y4UgbP6dY2m1t0IbyvaYQlvsVNRD4177tBME17/xs2/8ILuc3e137bs/1j0V
-      3rvybJz50IHQrr3dbU31Xfvp+dzozqpHg1Jmx45Gbew995xtMST8UEh6+bWJofMx
-      W7bWRca1WZqWa/VbfG3RrQtln+30KGmDN/JDK/MzNvT0LiZd2XouxfK4V4ry1etO
-      fnOqbhK1f5t6n54eAjnZhr/917mGpjKvX6yemH01M614ae4RGjyRM3VBRGc/rn5z
-      8ZVue3zOpn8A
-      =XAfF
-      -----END PGP MESSAGE-----
+And finally, I am proving ownership of this host by posting or
+appending to this document.
 
-      And finally, I am proving ownership of this host by posting or
-      appending to this document.
+View my publicly-auditable identity here: https://keybase.io/andrewparadi
 
-      View my publicly-auditable identity here: https://keybase.io/andrewparadi
-
-      ==================================================================
-
+==================================================================
