@@ -917,9 +917,12 @@ pre
   transition: transform .3s
   transition: transform .3s,-webkit-transform .3s
   &:hover
-    -webkit-transform: scale(1.04)
-    transform: scale(1.04)
-    z-index: 1
+    @media only screen and (min-width: 981px)
+      -webkit-transform: scale(1.04)
+      transform: scale(1.04)
+      z-index: 1
+    @media only screen and (max-width: 980px)
+      opacity: 0.9
 
 .card__container
   position: fixed

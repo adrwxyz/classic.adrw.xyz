@@ -33,24 +33,24 @@ excerpt: projects and blog posts from my work experience
                 {% if post.categories contains "hidden" %}
                   {% if post.position and post.company %}
                     <span class="experience-company" itemprop="name">{{ post.company }} ::</span> <span class="experience-position">{{ post.position }}</span>
-                  {% else %}<span class="experience-company" itemprop="name">{{post.title}}</span>
+                  {% else %}<span class="experience-company" itemprop="name">{{ post.title }}</span>
                   {% endif %}
                 {% else %}
                   {% if post.position and post.company %}
                     <a href="{{ post.url | prepend: site.baseurl }}" itemprop="url"><span class="experience-company" itemprop="name">{{ post.company }} ::&nbsp;</span><span class="experience-position">{{ post.position }} <i class="fa fa-chevron-right experience-meta" aria-hidden="true"></i></span></a>
-                  {% else %}<span class="experience-company" itemprop="name"><a href="{{ post.url | prepend: site.baseurl }}" itemprop="url">{{post.title}} <i class="fa fa-chevron-right experience-meta" aria-hidden="true"></i></a></span>
+                  {% else %}<span class="experience-company" itemprop="name"><a href="{{ post.url | prepend: site.baseurl }}" itemprop="url">{{ post.title }} <i class="fa fa-chevron-right experience-meta" aria-hidden="true"></i></a></span>
                   {% endif %}
                 {% endif %}
 
                 {% if post.startdate %}
-                  {% capture start_year %}{{ post.startdate | date: "%y"}}{% endcapture %}
-                  {% capture end_year %}{{ post.date | date: "%y"}}{% endcapture %}
-                  {% capture start_month %}{{ post.startdate | date: "%b"}}{% endcapture %}
-                  {% capture end_month %}{{ post.date | date: "%b"}}{% endcapture %}
+                  {% capture start_year %}{{ post.startdate | date: "%y" }}{% endcapture %}
+                  {% capture end_year %}{{ post.date | date: "%y" }}{% endcapture %}
+                  {% capture start_month %}{{ post.startdate | date: "%b" }}{% endcapture %}
+                  {% capture end_month %}{{ post.date | date: "%b" }}{% endcapture %}
 
                   {% if start_month == end_month and start_year == end_year %}<span class="experience-meta experience-month">{{ post.date | date: "%b '%y" }}</span>
-                  {% elsif start_year == end_year %}<span class="experience-meta experience-month">{{ post.startdate | date: "%b"}} - {{ post.date | date: "%b '%y" }}</span>
-                  {% else %}<span class="experience-meta experience-month">{{ post.startdate | date: "%b '%y"}} - {{ post.date | date: "%b '%y" }}</span>
+                  {% elsif start_year == end_year %}<span class="experience-meta experience-month">{{ post.startdate | date: "%b" }} - {{ post.date | date: "%b '%y" }}</span>
+                  {% else %}<span class="experience-meta experience-month">{{ post.startdate | date: "%b '%y" }} - {{ post.date | date: "%b '%y" }}</span>
                   {% endif %}
 
                 {% else %}<span class="experience-meta experience-month">{{ post.date | date: "%b '%y" }}</span>

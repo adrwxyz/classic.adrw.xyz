@@ -8,7 +8,7 @@ tags:
 - life
 - tech
 categories: blog
-image: /assets/article_images/2016-05-06-coding-on-ipad/IMG_1418-2000c.jpg
+image: /assets/article_images/2016-05-06-coding-on-ipad/IMG_1418.jpg
 image2: /assets/article_images/2016-05-06-coding-on-ipad/IMG_1418-1000c.jpg
 excerpt: How a year working on iPad convinced me the Post-PC era is almost here.
 seo_title: "I code on my iPad, the world will soon | Andrew Paradi"
