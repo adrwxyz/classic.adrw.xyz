@@ -9,7 +9,7 @@ excerpt: projects and blog posts from my work experience
 <header class="blog-header">
   <h1 class="blog-title">{{ site.title }}</h1>
   <h2 class="blog-description">{{ site.description }}</h2>
-  <p class="blog-subdescription">{% if page.page_title %}<span class="blog-page">{{ page.page_title }} :: </span>{% endif %}{{ page.description }}</p>
+  <p class="blog-subdescription">{% if page.page_title %}<span class="blog-page">{{ page.page_title }} :: </span>{% endif %}<span>{% if page.description %}{{ page.description }}{% else %}{{ site.meta_description }}{% endif %}</span></p>
 </header>
 
 

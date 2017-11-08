@@ -8,11 +8,12 @@ gems:
 
 # Site settings
 title: "Andrew Paradi"
-description: > # this means to ignore newlines until "email:"
-   Full Stack Engineer
+plain_description: Full Stack Engineer Who Loves Data
+description: # this means to ignore newlines until "email:"
+   Full Stack Engineer Who <i class="fa fa-heart"></i> Data
 
 meta_description:
-  Full Stack Engineer with a founder's hustle & a designer's attention to detail. Computer Science Student @ University of Waterloo.
+  I code to solve problems with a founder's <strong>hustle</strong> &amp; a designer's <strong>attention to detail</strong>. Computer Science Student @ University of Waterloo.
 
 email: me@andrewparadi.com
 #blog logo
@@ -28,7 +29,6 @@ author_image_s: "/assets/images/andrew2015-150c.png"
 author_image_m: "/assets/images/andrew2015-300c.png"
 author_image_l: "/assets/images/andrew2015-600c.png"
 author_image: "/assets/images/andrew2015.jpg"
-bio: "I study computer science at University of Waterloo, develop software at Atomic, code hacks like this, produce vids, and play piano."
 bio_page: "/about"
 bio_work: "/project/atomic"
 bio_hack: "/experience#hackathons-side-projects"
@@ -37,8 +37,8 @@ bio_post: "/blog/videostream-how-growth-starts-with-great-customer-support"
 bio_video: "https://youtu.be/hfbE7sVbz8k?list=PLmu6fQR8i26VzMOSuUikzqRLT4diEE_AA"
 bio_piano: "https://youtu.be/VuBCs_t54DY"
 bio_insta: "https://www.instagram.com/andrewnotes"
-work_title: "software developer"
-work_term: "early 2018"
+work_title: "full stack dev"
+work_term: "May 2018"
 resume: "/assets/files/AndrewParadiResume.pdf"
 
 google_analytics: UA-15052723-11

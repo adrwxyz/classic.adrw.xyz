@@ -18,7 +18,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
   <title>{% if page.seo_title %}{{ page.seo_title }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 200 }}{% else %}{{ site.description }}{% endif %}" />
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 200 }}{% else %}{{ site.plain_description }}{% endif %}" />
 
   <meta name="HandheldFriendly" content="True" />
   <meta name="MobileOptimized" content="320" />
@@ -31,8 +31,8 @@
     <meta name="twitter:image" content="{{ site.logo | prepend: site.baseurl | prepend: site.url }}" />
     {% if page.excerpt %}
     <meta name="twitter:description"  content="{{ page.excerpt | strip_html | strip_newlines | truncate: 200 }}" />
-    {% elsif site.description %}
-    <meta name="twitter:description" content="{{ site.description | strip_html | strip_newlines | truncate: 200 }}" />
+    {% elsif site.plain_description %}
+    <meta name="twitter:description" content="{{ site.plain_description | strip_html | strip_newlines | truncate: 200 }}" />
     {% endif %}
   {% endif %}
 
@@ -40,8 +40,8 @@
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}"/>
   {% if page.excerpt %}
   <meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 200 }}" />
-  {% elsif site.description %}
-  <meta property="og:description" content="{{ site.description | strip_html | strip_newlines | truncate: 200 }}" />
+  {% elsif site.plain_description %}
+  <meta property="og:description" content="{{ site.plain_description | strip_html | strip_newlines | truncate: 200 }}" />
   {% endif %}
   <meta property="og:image" content="{% if page.image %}{{ page.image | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.logo | prepend: site.baseurl | prepend: site.url }}{% endif %}" />
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" >
