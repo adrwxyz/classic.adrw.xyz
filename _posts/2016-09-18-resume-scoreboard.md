@@ -5,18 +5,18 @@ startdate:  2016-09-16 9:05:00
 permalink: /project/resume-scoreboard
 redirect_from: /project/resume-scoreboard/
 categories:
-- project
-- hackathon
-- experience
-- featured-experience
+- Hackathon
+- Experience
+- Featured
 layout: project
 tags:
 - Hackathon
 - AngularJS
 - Firebase
 - Material-Design
-- Typescript
-- HTML/Sass
+- Javascript ES5/ES6/ES7
+- HTML
+- Sass
 - Pitch
 image: /assets/article_images/2016-09-19-resume-scoreboard/htn-2c.png
 image2: /assets/article_images/2016-09-19-resume-scoreboard/htn-2-1000c.png

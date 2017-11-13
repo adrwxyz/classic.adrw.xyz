@@ -11,7 +11,7 @@ layout: pattern
 <main role="main">
   <div class="cards-wrapper">
     {% for post in site.posts %}
-    {% if post.categories contains "hidden" %}
+    {% if post.categories contains "Hidden" %}
     {% elsif page.category %}
       {% if post.categories contains page.category %}
       <a href="{{ post.url | prepend: site.baseurl }}">

@@ -3,9 +3,12 @@ title:  "5 Tough Lessons for When Your Startup Fails"
 date:   2015-03-19 16:09:25
 permalink: /blog/lessons-from-behind-the-curtain
 redirect_from: /blog/lessons-from-behind-the-curtain/
-tags: startups
+tags:
+- Startups
+- Wilfrid-Laurier-University
+- Teknically
 categories:
-- blog
+- Blog
 image: /assets/article_images/2015-03-19-lessons-from-behind-the-curtain/chicago.jpg
 image2: /assets/article_images/2015-03-19-lessons-from-behind-the-curtain/chicago-1000c.png
 excerpt: At our final Laurier Launchpad update presentation we summarized the five biggest lessons we had learned founding our startup, Teknically.

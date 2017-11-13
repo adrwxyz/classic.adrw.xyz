@@ -1,0 +1,91 @@
+---
+layout: pattern
+---
+
+<header class="blog-header">
+  <h1 class="blog-title">{{ site.title }}</h1>
+  <h2 class="blog-description">{{ site.description }}</h2>
+  <p class="blog-subdescription">{% if page.page_title %}<span class="blog-page">{{ page.page_title }} :: </span>{% endif %}<span>{% if page.description %}{{ page.description }}{% else %}{{ site.meta_description }}{% endif %}</span></p>
+  <div class="blog-subdescription">{{ content }}</div>
+</header>
+<main role="main">
+
+  {% for item in page.sections %}
+    {% if item.slug == "Hidden" %}
+    {% else %}
+      {% if page.id %}
+      <div class="id" id="{{ item.slug | slugify }}"></div>
+      {% endif %}
+      <div class="cards-wrapper">
+      {% if item.header %}
+      <h2 class="cards-header">{{ item.header }}</h2>
+      {% endif %}
+
+      {% for post in site.posts %}
+        {% if item.all or post.categories contains "Featured" %}
+          {% if post.categories contains "Hidden" %}
+          {% elsif item.type == "category" and post.categories contains item.slug %}
+            <a href="{{ post.url | prepend: site.baseurl }}">
+              <div class="card" data-id="{{ post.id }}">
+                <div class="card__container card__container--closed">
+                  <svg class="card__image" preserveaspectratio="xMidYMid slice" viewbox="0 50 640 200" xmlns="http://www.w3.org/2000/svg">
+                    {% if post.image2 %}
+                    <image clip-path="url(#{{ post.id }}-clip-path)" height="480" width="640" xlink:href="{{ post.image2 | prepend: site.baseurl }}"></image>
+                    {% elsif post.image %}
+                    <image clip-path="url(#{{ post.id }}-clip-path)" height="480" width="640" xlink:href="{{ post.image | prepend: site.baseurl }}"></image>
+                    {% else %}
+                    <image clip-path="url(#{{ post.id }}-clip-path)" height="480" width="640" xlink:href="{{ post.image | prepend: site.baseurl }}"></image>
+                    {% endif %}
+                  </svg>
+                  <div class="card__caption">
+                    <p class="card__meta">{{ post.date | date: site.date_format }} {% for tag in post.tags limit:2 %}<span class="post-tag-{{slug}}" style="float: right;">{{ tag }}&nbsp;&nbsp;</span>{% endfor %}</p>
+                    <h2 class="card__title">{{ post.title }}</h2>
+                    <p class="card__subtitle">{{ post.excerpt | truncate: 70 }}</p>
+                  </div>
+                </div>
+              </div>
+            </a>
+          {% elsif item.type == "tag" and post.tags contains item.slug %}
+            <a href="{{ post.url | prepend: site.baseurl }}">
+              <div class="card" data-id="{{ post.id }}">
+                <div class="card__container card__container--closed">
+                  <svg class="card__image" preserveaspectratio="xMidYMid slice" viewbox="0 50 640 200" xmlns="http://www.w3.org/2000/svg">
+                    {% if post.image2 %}
+                    <image clip-path="url(#{{ post.id }}-clip-path)" height="480" width="640" xlink:href="{{ post.image2 | prepend: site.baseurl }}"></image>
+                    {% elsif post.image %}
+                    <image clip-path="url(#{{ post.id }}-clip-path)" height="480" width="640" xlink:href="{{ post.image | prepend: site.baseurl }}"></image>
+                    {% else %}
+                    <image clip-path="url(#{{ post.id }}-clip-path)" height="480" width="640" xlink:href="{{ post.image | prepend: site.baseurl }}"></image>
+                    {% endif %}
+                  </svg>
+                  <div class="card__caption">
+                    <p class="card__meta">{{ post.date | date: site.date_format }} {% for tag in post.tags limit:2 %}<span class="post-tag-{{slug}}" style="float: right;">{{ tag }}&nbsp;&nbsp;</span>{% endfor %}</p>
+                    <h2 class="card__title">{{ post.title }}</h2>
+                    <p class="card__subtitle">{{ post.excerpt | truncate: 70 }}</p>
+                  </div>
+                </div>
+              </div>
+            </a>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+      </div><!-- /cards -->
+      {% if item.title != "None" and item.url %}
+      <div class="cards-wrapper cards-read-more" id="{{ item.title }}">
+        <a href="{{ item.url | prepend: site.baseurl }}">
+          {% if item.pre %}
+          {{ item.pre }}
+          {% else %}
+          See more
+          {% endif %}
+          <span class="btn" title="{{ item.title }}">
+            <span class="item-caption">{{ item.title }}</span>
+          </span>
+          <i class="fa fa-chevron-right"></i>
+        </a>
+      </div>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+
+</main>

@@ -3,8 +3,11 @@ title:  "3 Ways Hack the North Improved our Startup"
 date:   2014-09-23 14:34:25
 permalink: /blog/3-ways-hack-the-north-improved-our-startup
 redirect_from: /blog/3-ways-hack-the-north-improved-our-startup/
-tags: startups
-categories: blog
+tags:
+- Hackathon
+- Startups
+categories:
+- Blog
 image: /assets/article_images/2014-09-23-3-ways-hack-the-north-improved-our-startup/HTN-Photo-c.jpg
 image2: /assets/article_images/2014-09-23-3-ways-hack-the-north-improved-our-startup/HTN-Photo-1000c.png
 excerpt: From September 19th to the 21st, University of Waterloo's Engineering 5 building was over run by a native species of the region&#58; hackers...

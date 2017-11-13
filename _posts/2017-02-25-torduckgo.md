@@ -5,14 +5,14 @@ startdate:  2017-02-17 9:05:00
 permalink: /project/torduckgo
 redirect_from: /project/torduckgo/
 categories:
-- project
-- experience
+- Project
+- Experience
+- Featured
 layout: project
 tags:
-- Tor
-- DuckDuckGo
 - XML
-- HTML/CSS
+- HTML
+- CSS
 image: /assets/article_images/2017-02-25-torduckgo/torduckgo-2000c.png
 image2: /assets/article_images/2017-02-25-torduckgo/torduckgo-1000c.png
 excerpt: Search .onion version of DuckDuckGo by default in Tor browser.

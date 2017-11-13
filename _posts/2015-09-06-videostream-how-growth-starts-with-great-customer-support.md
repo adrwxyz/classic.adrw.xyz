@@ -3,9 +3,11 @@ title:  "Up 32%: Videostream Growth Started with Great Support"
 date:   2015-09-06 22:50:25
 permalink: /blog/videostream-how-growth-starts-with-great-customer-support
 redirect_from: /blog/videostream-how-growth-starts-with-great-customer-support/
-tags: startups
+tags:
+- Startups
 categories:
-- blog
+- Blog
+- Featured
 image: /assets/article_images/2015-09-06-videostream/vs-features-c.jpg
 image2: /assets/article_images/2015-09-06-videostream/vs-features-1000c.png
 excerpt: Downloads and Videostream Premium signups were up over 30%. Here's how we did it.
@@ -106,4 +108,4 @@ Personally, I grew a lot. The experience of owning a project, working closely wi
 
 I'm thankful to Matt, Jason, Graham, Joe, Phillip, Sean, & Rahul for all of the support, guidance, and unique opportunities I received this summer. It's certainly one I won't soon forget.
 
-<strong>P.S. I'm looking to do an internship next summer too! If you think I'd be a good fit on your team, check out my <a href="/assets/files/AndrewParadiResume.pdf" target="_blank">resume</a> and send me an email at <a href="mailto:me@andrewparadi.com">me@andrewparadi.com</a>.</strong>
+<strong>P.S. I'm looking to do an internship next summer too! If you think I'd be a good fit on your team, check out my <a href="{{ site.resume }}" target="_blank">resume</a> and send me an email at <a href="mailto:me@andrewparadi.com">me@andrewparadi.com</a>.</strong>

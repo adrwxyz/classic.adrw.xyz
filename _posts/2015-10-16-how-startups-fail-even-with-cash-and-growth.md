@@ -3,8 +3,10 @@ title:  "How Startups Fail Even with Cash and Growth"
 date:   2015-10-16 16:34:25
 permalink: /blog/how-startups-fail-even-with-cash-and-growth
 redirect_from: /blog/how-startups-fail-even-with-cash-and-growth/
-tags: startups
-categories: blog
+tags:
+- Startups
+categories:
+- Blog
 image: /assets/article_images/2015-10-16-how-startups-fail-even-with-cash-and-growth/DSC_8213.jpg
 image2: /assets/article_images/2015-10-16-how-startups-fail-even-with-cash-and-growth/DSC_8213-1000c.jpg
 excerpt: Are you Default Alive or Default Dead? You need to read Paul Graham's latest post and honestly figure out your startup's answer.

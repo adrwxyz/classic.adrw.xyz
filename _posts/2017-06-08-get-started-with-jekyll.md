@@ -6,15 +6,13 @@ permalink: /project/get-started-with-jekyll
 redirect_from:
 - /project/get-started-with-jekyll/
 categories:
-- experience
-- project
+- Experience
+- Project
 layout: project
 tags:
 - Jekyll
-- Guide
-- Docs
 - GitHub-Pages
-- Shell
+- Bash/zsh
 - Ansible
 image: /assets/article_images/2017-06-08-get-started-with-jekyll/get-started-2000c.png
 image2: /assets/article_images/2017-06-08-get-started-with-jekyll/get-started-1000c.png

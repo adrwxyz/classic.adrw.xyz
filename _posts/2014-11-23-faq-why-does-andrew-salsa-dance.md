@@ -3,10 +3,12 @@ title:  "FAQ: Why Does Andrew Salsa Dance?"
 date:   2014-11-23 20:42:25
 permalink: /blog/faq-why-does-andrew-salsa-dance
 redirect_from: /blog/faq-why-does-andrew-salsa-dance/
-tags: life
+tags:
+- Life
+- Student
 categories:
-- blog
-- hidden
+- Blog
+- Hidden
 excerpt: In November 2013 I had never danced before. One year later I'm dancing in a choreographed performance for the club's end of term party. Crack a Coca-Cola and I'll tell you the story of how I became a "Salsero".
 seo_title: "FAQ: Why Does Andrew Salsa Dance? | Andrew Paradi"
 ---

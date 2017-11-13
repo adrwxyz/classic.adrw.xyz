@@ -4,9 +4,9 @@ title: Want to get in touch?
 permalink: /contact
 redirect_from: /contact/
 categories:
-- blog
-- project
-- experience
+- Blog
+- Project
+- Experience
 ---
 
 {% capture mdcontent %}
@@ -31,8 +31,10 @@ I have 4 years of experience solving problems with great code at [Atomic.vc](htt
 If you're looking for a {{ site.work_title }} to start {{ site.work_term }}, please [email me](mailto:{{ site.email }}?subject=Job%20Opportunity)!
 
 P.S. Here are three recent projects & my [GitHub](https://github.com/andrewparadi) + [Devpost](https://devpost.com/andrewparadi)
-{% for post in site.categories.featured-experience %}
+{% for post in site.posts %}
+{% if post.categories contains "headline" %}
   - [**{{ post.title }}**]({{ post.permalink }}) {{ post.excerpt }}
+{% endif %}
 {% endfor %}
 {% endcapture %}
 {{ mdcontent | markdownify }}
@@ -40,7 +42,7 @@ P.S. Here are three recent projects & my [GitHub](https://github.com/andrewparad
 {% capture mdcontent %}
 Need a new website?
 ---
-Interested in a better website or custom dev work? [Email me](mailto:{{ site.email }}?subject=I%20need%20a%20new%20website)!
+Need a better website or custom dev work? [Email me](mailto:{{ site.email }}?subject=I%20need%20a%20new%20website)!
 
 I’ll work to understand your current frustrations, & goals for your website.<br/>My priorities for a client website are:
 1. **Easy to edit** even if you don’t know HTML
@@ -49,8 +51,10 @@ I’ll work to understand your current frustrations, & goals for your website.<b
 1. **Search engine optimized** stay on Google's good side
 
 **Past Clients**
-{% for post in site.categories.featured-freelance %}
+{% for post in site.posts %}
+{% if post.categories contains "featured" and post.categories contains "freelance" %}
   - [**{{ post.title }}**]({{ post.permalink }}) {{ post.excerpt }}
+{% endif %}
 {% endfor %}
 
 Are you a startup founder?
@@ -58,8 +62,10 @@ Are you a startup founder?
 I have experience developing successful competition & customer pitches, and in writing applications for government grants such as OCE SmartStart and SR&ED Credits. If you've got any questions or would like some coaching on an upcoming pitch, [send me an email](mailto:{{ site.email }}?subject=Pitch%20Coaching)!
 
 If you're considering a Business Model Canvas Competition or applying to Y Combinator, my past [Teknically pitches](/project/teknically-webplio) or other startup experience may be helpful.
-{% for post in site.categories.startup %}
+{% for post in site.posts %}
+{% if post.categories contains "startup" %}
   - [**{{ post.title }}**]({{ post.permalink }}) {{ post.startdate | date: site.date_format }} - {{ post.date | date: site.date_format }}
+{% endif %}
 {% endfor %}
 {% endcapture %}
 {{ mdcontent | markdownify }}

@@ -3,8 +3,10 @@ title:  "OCE Discovery 2015: Innovation in the #6ix?"
 date:   2015-04-29 23:47:45
 permalink: /blog/innovation-in-the-6
 redirect_from: /blog/innovation-in-the-6/
-tags: startups
-categories: blog
+tags:
+- Startups
+categories:
+- Blog
 image: /assets/article_images/2015-04-29-innovation-in-the-6/oce-founder-forum.jpg
 image2: /assets/article_images/2015-04-29-innovation-in-the-6/oce-founder-forum-c.png
 excerpt: OCE Discover 2015&#58; Thousands of entrepreneurs, researchers, policy makers, & community organizations together to celebrate and foster innovation in Ontario.

@@ -5,7 +5,7 @@
     <a href="{{site.url}}{{site.baseurl}}" class="logo-readium"><span class="logo" style="background-image: url({{ site.logo | prepend: site.baseurl }})"></span></a>
   </div>
   <div class="menu-readium">
-    {% if page.layout and (page.layout == 'default' or page.layout == 'page' or page.layout == 'pattern_header' or page.layout == 'cards') %}
+    {% if page.layout and site.show_menu_layouts contains page.layout %}
       {% assign desktop-show = 'desktop-show' %}
       {% assign desktop-icon = 'desktop-times-icon' %}
       {% assign mobile-icon = 'mobile-bars-icon' %}

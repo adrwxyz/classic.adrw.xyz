@@ -1,16 +1,17 @@
 ---
-title:  "To Achieve Greatness, Don't Settle for Goodness"
+title:  "Books: Good to Great Review"
 date:   2016-07-14 18:00:00
 permalink: /blog/good-to-great
 redirect_from: /blog/good-to-great/
 tags:
-- startups
-- tech
-- life
-categories: blog
+- Startups
+- Technology
+- Books
+categories:
+- Blog
 image: /assets/article_images/2016-07-14-good-to-great/DSC_0726c.jpg
 image2: /assets/article_images/2016-07-14-good-to-great/DSC_0726c-1000c.jpg
-excerpt: Good to Great is the &#35;1 book I would recommend if you want to improve your startup, identify winning businesses, and stick it to the Hooli mantra.
+excerpt: Good to Great is the &#35;1 book I would recommend if you want to improve your startup &amp; identify winning businesses.
 seo_title: "Why startup founders should read Good to Great | Andrew Paradi"
 ---
 
@@ -142,9 +143,9 @@ Looking for other great books?
 
 Good to Great was only one of the books I flipped through this winter and spring.
 
-Check out other books I would recommend in parts [1](/blog/books-part-1), [2](/blog/books-part-2), and [3](/blog/books-part-3)of my leisure reading series.
+Check out other books I would recommend in parts [1](/blog/books-part-1), [2](/blog/books-part-2), and [3](/blog/books-part-3) of my leisure reading series.
 
-Finally, special thanks to [Hooli](http://hooli.xyz) for their [title](https://youtu.be/bQO5oqrP1KE) support of **andrewnotes**.
+# Finally, special thanks to [Hooli](http://hooli.xyz) for their [title](https://youtu.be/bQO5oqrP1KE) support of **andrewnotes**.
 
 **Top Posts**
 

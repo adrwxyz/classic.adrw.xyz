@@ -3,8 +3,10 @@ title:  "Canadian Fintech Startups Have Only 3 Options"
 date:   2015-07-27 14:59:25
 permalink: /blog/canadian-fintech-startups-have-only-3-options
 redirect_from: /blog/canadian-fintech-startups-have-only-3-options/
-tags: startups
-categories: blog
+tags:
+- Startups
+categories:
+- Blog
 image: /assets/article_images/2015-07-27-canadian-fintech-startups-have-only-3-options/old-new-building.jpg
 image2: /assets/article_images/2015-07-27-canadian-fintech-startups-have-only-3-options/old-new-building-1000c.png
 excerpt: Canadian banks can't innovate and are hunting for startups that can. Insights from Communitech panel with bank CDOs on the future of Canadian fintech.

@@ -5,13 +5,13 @@ startdate:  2017-05-29 09:32:05
 permalink: /project/corkscrewnet
 redirect_from: /project/corkscrewnet/
 categories:
-- project
-- consulting
-- experience
-- freelance
+- Experience
+- Freelance
+- Featured
 layout: project
 tags:
-- HTML/CSS
+- HTML
+- CSS
 - PHP
 - Wordpress
 - Training

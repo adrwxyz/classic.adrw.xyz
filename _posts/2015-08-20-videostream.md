@@ -5,13 +5,15 @@ startdate:  2015-05-04 10:05:00
 permalink: /project/videostream
 redirect_from: /project/videostream/
 categories:
-- work
-- experience
-- startup
+- Work
+- Experience
+- Startup
+- Featured
 layout: project
 tags:
-- Javascript
-- HTML/Sass
+- Javascript ES5/ES6/ES7
+- HTML
+- Sass
 - Material-Design
 - Optimizely
 - Sales-Copy
@@ -23,8 +25,8 @@ seo_title: "Videostream - Downloads Up 32% in Weeks | Andrew Paradi"
 position: Growth Intern
 company: Videostream
 summary: |
-  - Built new website with 32% more downloads, 12% weekly active users boost
-  - Customer support for 1.2 million customers, wrote 90 new canned responses
+  - Built new website: downloads up 32%, weekly active users up 12%
+  - Customer support for 1.2 million users, wrote 90 new canned responses
 ---
 
 **As Summer '15 Growth Intern, I got to work on three awesome projects on one of the most popular video streaming apps for Chromecast.**

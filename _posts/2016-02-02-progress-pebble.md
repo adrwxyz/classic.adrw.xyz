@@ -5,14 +5,14 @@ startdate:  2016-01-30 9:05:00
 permalink: /project/progress-pebble
 redirect_from: /project/progress-pebble/
 categories:
-- project
-- experience
+- Project
+- Experience
 layout: project
 tags:
-- Javascript
+- Javascript ES5/ES6/ES7
 - Firebase
-- PebbleJS
-- HTML/CSS
+- HTML
+- CSS
 image: /assets/article_images/2016-02-02-progress-pebble/progress-pebble-app-store-2000c.png
 image2: /assets/article_images/2016-02-02-progress-pebble/progress-pebble-app-store-1000c.png
 excerpt: Log workouts from dumb fitness trackers to the cloud!
@@ -20,7 +20,7 @@ seo_title: "Progress Pebble - Log workouts from dumb fitness trackers | Andrew P
 position: Progress Pebble
 company: GitHub
 summary: |
-  - Pebble app for logging workout data (distance, time) and calculating avg speed
+  - Pebble app for logging workout data (distance, time) &amp; average speed
 ---
 
 I got my refurbished Pebble Original Black for $60 at the first Hack the North.

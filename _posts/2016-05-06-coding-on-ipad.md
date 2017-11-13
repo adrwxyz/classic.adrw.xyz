@@ -4,10 +4,11 @@ date:   2016-05-06 6:00:00
 permalink: /blog/coding-on-ipad
 redirect_from: /blog/coding-on-ipad/
 tags:
-- tinder
-- life
-- tech
-categories: blog
+- Life
+- Student
+- Technology
+categories:
+- Blog
 image: /assets/article_images/2016-05-06-coding-on-ipad/IMG_1418.jpg
 image2: /assets/article_images/2016-05-06-coding-on-ipad/IMG_1418-1000c.jpg
 excerpt: How a year working on iPad convinced me the Post-PC era is almost here.

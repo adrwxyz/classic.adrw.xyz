@@ -3,8 +3,12 @@ title:  "7 Personal Lessons from Founding a Startup"
 date:   2015-04-02 18:04:25
 permalink: /blog/7-personal-lessons-from-founding-a-startup
 redirect_from: /blog/7-personal-lessons-from-founding-a-startup/
-tags: startups
-categories: blog
+tags:
+- Startups
+- Wilfrid-Laurier-University
+- Teknically
+categories:
+- Blog
 image: /assets/article_images/2015-04-02-7-personal-lessons-from-founding-a-startup/field-truck.jpg
 image2: /assets/article_images/2015-04-02-7-personal-lessons-from-founding-a-startup/field-truck-1000c.png
 excerpt: 7 personal lessons I learned from founding a startup at 18, developing into a young adult, interviewing at Y Combinator, and why I decided to exit.

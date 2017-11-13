@@ -5,14 +5,13 @@ startdate:  2014-09-19 17:22:03
 permalink: /project/stockslate
 redirect_from: /project/stockslate/
 categories:
-- project
-- hackathon
-- experience
+- Hackathon
+- Experience
+- Featured
 layout: project
 tags:
 - Hackathon
 - Bloomberg-API
-- Portfolio-Analysis
 - Pitch
 - Video-Production
 image: /assets/article_images/2014-09-30-stockslate-hack-the-north/stock-slate-demo-retail-c.png
@@ -21,7 +20,7 @@ seo_title: "StockSlate - How we brought Warren Buffet to Hack the North | Andrew
 position: StockSlate
 company: HackTheNorth
 summary: |
-  - Pitched, won Bloomberg API Prize. Wrote algorithms to analyze stock portfolios
+  - Won Bloomberg API Prize, wrote algorithms to analyze stock portfolios
 ---
 
 **Won Bloomberg API Prize at Hack the North 2014, see it on [Devpost](https://devpost.com/software/stock-slate).**

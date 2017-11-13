@@ -5,18 +5,20 @@ startdate:  2014-01-23 17:26:13
 permalink: /project/grace-orphan-home-india
 redirect_from: /project/grace-orphan-home-india/
 categories:
-- experience
-- volunteer
-- hidden
+- Experience
+- Volunteer
+- Hidden
 layout: project
 tags:
-- Volunteer
-- HTML/CSS
+- HTML
+- CSS
 - PHP
 - Wordpress
 - Google-Analytics
-# excerpt: Boys Camp Cabin Leader for 8-18 years old boys at overnight Muskoka camp.
+excerpt: Set up servers &amp; website to help home raise $25,000 in 3 months.
 seo_title: "Grace Orphan Home - Webmaster | Andrew Paradi"
 position: Webmaster
 company: Grace Orphan Home, India
+summary: |
+  - Set up servers &amp; website to help raise funds for new roof
 ---

@@ -5,14 +5,13 @@ startdate:  2015-01-29 09:32:05
 permalink: /project/franks-jewellers
 redirect_from: /project/franks-jewellers/
 categories:
-- project
-- consulting
-- experience
-- freelance
-- featured-freelance
+- Experience
+- Freelance
+- Featured
 layout: project
 tags:
-- HTML/CSS
+- HTML
+- CSS
 - PHP
 - Wordpress
 - Sales-Copy
