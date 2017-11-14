@@ -10,7 +10,15 @@ categories:
 ---
 
 {% capture mdcontent %}
-Awesome! Send an email to me at andrewparadi.com
+<div class="cards-wrapper cards-read-more">
+  <a href="mailto:{{ site.email }}?subject=I%20need%20a%20new%20website">
+    Awesome! Send an email to
+    <span class="btn">
+      <span class="item-caption">me at andrewparadi.com</span>
+    </span>
+    <i class="fa fa-chevron-right"></i>
+  </a>
+</div>
 
 ![](/assets/article_images/about/about-header-1000c.png)
 
@@ -22,24 +30,47 @@ Want to connect somewhere else?
 {% include social.html %}
 
 {% capture mdcontent %}
+<div class="id" id="Work"></div>
+
 Looking for a fullstack dev for your team?
 ---
 I'm graduating from Computer Science at University of Waterloo in April 2018. I can't wait to get back to building great software with an ambitious team.
 
-I have 4 years of experience solving problems with great code at [Atomic.vc](http://atomic.vc), startups [[1](/project/blitzen)][[2](/project/videostream)][[3](/project/teknically-webplio)], for [clients](#need-a-new-website), [side projects](/projects), & hackathons [[4](/project/resume-scoreboard)][[5](/project/losocco)][[6](/project/stockslate)].
+I have 4 years of experience solving problems with great code at [Atomic.vc](http://atomic.vc), startups [[1](/project/blitzen)][[2](/project/videostream)][[3](/project/teknically-webplio)], for [clients](#Freelance), [side projects](/projects), & hackathons [[4](/project/resume-scoreboard)][[5](/project/losocco)][[6](/project/stockslate)].
 
 If you're looking for a {{ site.work_title }} to start {{ site.work_term }}, please [email me](mailto:{{ site.email }}?subject=Job%20Opportunity)!
 
-P.S. Here are three recent projects & my [GitHub](https://github.com/andrewparadi) + [Devpost](https://devpost.com/andrewparadi)
+P.S. Here are three recent projects below & my [GitHub](https://github.com/andrewparadi) + [Devpost](https://devpost.com/andrewparadi)
 {% for post in site.posts %}
-{% if post.categories contains "headline" %}
+{% if post.categories contains "Headline" %}
   - [**{{ post.title }}**]({{ post.permalink }}) {{ post.excerpt }}
 {% endif %}
 {% endfor %}
-{% endcapture %}
-{{ mdcontent | markdownify }}
 
-{% capture mdcontent %}
+<div class="cards-wrapper cards-read-more">
+  <a href="mailto:{{ site.email }}?subject=Job%20Opportunity">
+    How can I bring value to your team?
+    <span class="btn">
+      <span class="item-caption">Email me &amp; find out</span>
+    </span>
+    <i class="fa fa-chevron-right"></i>
+  </a>
+</div>
+
+{% include tech_stack.md %}
+
+<div class="cards-wrapper cards-read-more">
+  <a href="mailto:{{ site.email }}?subject=Job%20Opportunity">
+    Your tech not on my list? I learn quickly!
+    <span class="btn">
+      <span class="item-caption">Email me</span>
+    </span>
+    <i class="fa fa-chevron-right"></i>
+  </a>
+</div>
+
+<div class="id" id="Freelance"></div>
+
 Need a new website?
 ---
 Need a better website or custom dev work? [Email me](mailto:{{ site.email }}?subject=I%20need%20a%20new%20website)!
@@ -50,22 +81,46 @@ I’ll work to understand your current frustrations, & goals for your website.<b
 1. **Low cost monthly hosting** don’t spend more than you have to
 1. **Search engine optimized** stay on Google's good side
 
-**Past Clients**
+If you'd like to see some case studies of past clients, I've included some below. When you're ready, [email me](mailto:{{ site.email }}?subject=I%20need%20a%20new%20website) &amp; we can start discussing the best approach for you.
+
 {% for post in site.posts %}
-{% if post.categories contains "featured" and post.categories contains "freelance" %}
+{% if post.categories contains "Featured" and post.categories contains "Freelance" %}
   - [**{{ post.title }}**]({{ post.permalink }}) {{ post.excerpt }}
 {% endif %}
 {% endfor %}
+
+<div class="cards-wrapper cards-read-more">
+  <a href="mailto:{{ site.email }}?subject=I%20need%20a%20new%20website">
+    Ready for less frustration managing your website?
+    <span class="btn">
+      <span class="item-caption">Email me</span>
+    </span>
+    <i class="fa fa-chevron-right"></i>
+  </a>
+</div>
+
+<div class="id" id="Startup"></div>
 
 Are you a startup founder?
 ---
 I have experience developing successful competition & customer pitches, and in writing applications for government grants such as OCE SmartStart and SR&ED Credits. If you've got any questions or would like some coaching on an upcoming pitch, [send me an email](mailto:{{ site.email }}?subject=Pitch%20Coaching)!
 
-If you're considering a Business Model Canvas Competition or applying to Y Combinator, my past [Teknically pitches](/project/teknically-webplio) or other startup experience may be helpful.
+If you're considering a Business Model Canvas Competition or applying to Y Combinator, my past [Teknically pitches](/project/teknically-webplio#canada-business-model-25000-winning-pitch) or other startup experience may be helpful.
 {% for post in site.posts %}
-{% if post.categories contains "startup" %}
+{% if post.categories contains "Startup" %}
   - [**{{ post.title }}**]({{ post.permalink }}) {{ post.startdate | date: site.date_format }} - {{ post.date | date: site.date_format }}
 {% endif %}
 {% endfor %}
+
+<div class="cards-wrapper cards-read-more">
+  <a href="mailto:{{ site.email }}?subject=I%20need%20a%20new%20website">
+    Want to grab a coffee? Talk shop &amp; life?
+    <span class="btn">
+      <span class="item-caption">Email me</span>
+    </span>
+    <i class="fa fa-chevron-right"></i>
+  </a>
+</div>
 {% endcapture %}
+
 {{ mdcontent | markdownify }}

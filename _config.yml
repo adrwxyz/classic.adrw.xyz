@@ -43,6 +43,7 @@ resume: "/assets/files/AndrewParadiResume.pdf"
 google_analytics: UA-15052723-11
 google_webmaster_tools: O_pv2dcb2u8RFakuUQcH-TwV5lPeBs6aNXZJY5xYiDs
 
+menu_icon: False
 header_menu:
   - title: Experience
     slug: Experience
@@ -61,7 +62,7 @@ header_menu:
     url: /about
     icon: id-card
   - title: Contact
-    desc: Contact Andrew
+    desc: Contact
     slug: contact
     url: /contact
     icon: envelope
@@ -78,6 +79,15 @@ show_menu_layouts:
   - card_sections
   - resume
   - archive
+
+footer_menu:
+  - title: All Posts
+    url: /404
+  - title: Categories
+    url: /c
+  - title: Tags
+    url: /t
+
 
 url: "//www.andrewparadi.com" # the base hostname & protocol for your site
 baseurl: ""

@@ -1,9 +1,37 @@
-AndrewParadi.com Portfolio &amp; Blog
-========
+---
+title:  "andrewparadi.github.io"
+date:   2017-11-09 18:00:00
+startdate:  2015-12-22 9:05:00
+permalink: /project/andrewparadi-github-io
+redirect_from: /project/andrewparadi-github-io/
+categories:
+- Project
+- Experience
+layout: project
+tags:
+- Bash/zsh
+- Docker
+- Jekyll
+- HTML
+- Sass
+- Javascript ES5/ES6/ES7
+image: /assets/article_images/andrewparadi.github.io/index-1-1500c.png
+image2: /assets/article_images/andrewparadi.github.io/index-1-1000c.png
+excerpt: Personal portfolio and blog website, Jekyll on GitHub Pages
+seo_title: "Building AndrewParadi.com Portfolio &amp; Blog | Andrew Paradi"
+position: andrewparadi.github.io
+company: GitHub
+summary: |
+  - Portfolio &amp; Blog with custom cards, menu, and tag cloud components
+---
 
-Proudly built in Waterloo with Jekyll, Ruby, Sass, and is hosted on Github Pages.
+**Since 2009, I have built websites with Windows Live Sites, static HTML, and Wordpress. Then I discovered Jekyll on GitHub Pages.**
 
-Some of the features I've built out with this theme:
+In 2015, I was excited to keep building my developer skills and loved the opportunity that Jekyll provided to build my own site.
+
+Using other themes as inspiration, I've built many new features as outlined below to help make the site easier to navigate and more effective at displaying content.
+
+If you find any bugs or have any questions, please [email me](mailto:me@andrewparadi.com?subject=Website%20Bug)!
 
 Mobile Friendly Menu
 ---
@@ -23,7 +51,7 @@ Card Sections
 ---
 Extension of cards to allow for sections of posts by category with buttons to more related posts. See on [`/index`](https://www.andrewparadi.com/), [`/projects`](https://www.andrewparadi.com/projects), and [`/blog`](https://www.andrewparadi.com/blog) pages.
 
-![Card Sections](/assets/article_images/andrewparadi.github.io/card_sections-1c.png)
+![Card Sections](/assets/article_images/andrewparadi.github.io/card_sections-2-1500c.png)
 
 Resume Layout
 ---
@@ -70,12 +98,9 @@ Transitioning from Wordpress was a huge undertaking but well worth it. According
 
 Combined with a lightning fast Github Pages CDN, images are heavily optimized and resized for delivery. I've cut site size by over 80% using [JPEGmini](http://www.jpegmini.com/), [ImageAlpha](https://pngmini.com/) for pngs, [Pixelmator](http://www.pixelmator.com/mac/), &amp; [Affinity Photo](https://affinity.serif.com/en-gb/photo/).
 
-Feedback
----
-Let me know what you think, email [me@andrewparadi.com](me@andrewparadi.com).
-
 Resources
 ---
+- [Source code on GitHub](https://github.com/andrewparadi/andrewparadi.github.io)
 - [*Mediator Jekyll* theme](https://github.com/dirkfabisch/mediator) by [@dirkfabisch](https://twitter.com/dirkfabisch)
 - [*Jekyll Modern Blog* theme](https://github.com/inded/Jekyll_modern-blog) by [@inded](https://github.com/inded)
 - [Trianglify](https://github.com/qrohlf/trianglify) by [@qrholf](http://qrohlf.com/)

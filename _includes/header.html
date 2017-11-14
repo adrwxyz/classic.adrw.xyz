@@ -29,7 +29,7 @@
       {% assign current = 'current' %}
     {% endif %}
     <li class="menu-item {{ current }} menu-item-desktop">
-      <a class="{{ current }}" href="{{ link.url }}" title="{{ link.title }}">{% if link.icon %}<i class="fa fa-{{ link.icon }}" aria-hidden="true"></i>{% else %}{% endif %} {{ link.title }}</a>
+      <a class="{{ current }}" href="{{ link.url }}" title="{{ link.title }}">{% if link.icon and site.menu_icon %}<i class="fa fa-{{ link.icon }}" aria-hidden="true"></i>{% else %}{% endif %} {{ link.title }}</a>
     </li>
   {% endfor %}
   {% for link in site.header_menu %}
@@ -38,13 +38,24 @@
       {% assign current = 'current' %}
     {% endif %}
     <li class="menu-item {{ current }} menu-item-mobile">
-      <a class="{{ current }}" href="{{ link.url }}" title="{{ link.title }}">{% if link.icon %}<i class="fa fa-{{ link.icon }}" aria-hidden="true"></i>{% else %}{% endif %} {{ link.title }}</a>
+      <a class="{{ current }}" href="{{ link.url }}" title="{{ link.title }}">{% if link.icon and site.menu_icon %}<i class="fa fa-{{ link.icon }}" aria-hidden="true"></i>{% else %}{% endif %} {{ link.title }}</a>
     </li>
   {% endfor %}
   {% for social in site.social %}
     {% if social.url %}
         <li class="menu-item menu-item-mobile">
           <a href="{{ social.url }}" title="{{ social.title }}">{% if social.icon %} <i class="fa fa-{{ social.icon }}" aria-hidden="true"></i> {% else %}{% endif %}</a>
+        </li>
+    {% endif %}
+  {% endfor %}
+  {% for link in site.footer_menu %}
+    {% if link.url %}
+    {% assign current = nil %}
+    {% if page.url == link.url or page.layout == link.layout %}
+      {% assign current = 'current' %}
+    {% endif %}
+        <li class="menu-item menu-item-mobile">
+          <a class="{{ current }}" href="{{ link.url }}" title="{{ link.title }}">{% if link.icon and site.menu_icon %} <i class="fa fa-{{ link.icon }}" aria-hidden="true"></i> {% else %}{% endif %} {{ link.title }}</a>
         </li>
     {% endif %}
   {% endfor %}

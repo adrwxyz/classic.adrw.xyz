@@ -9,7 +9,7 @@
     {% for item in site.header_menu %}
       {% if item.url %}
           <a class="btn" href="{{ item.url | prepend: site.baseurl }}" {% if item.desc %} title="{{ item.title }}"{% endif %}">
-            <i class="fa fa-{{ item.icon }}"></i> <span class="item-caption">{% if item.desc %}{{ item.desc }}{% else %}{{ item.title }}{% endif %}</span>
+            {% if site.menu_icon %}<i class="fa fa-{{ item.icon }}"></i> {% endif %}<span class="item-caption">{% if item.desc %}{{ item.desc }}{% else %}{{ item.title }}{% endif %}</span>
           </a>
       {% endif %}
     {% endfor %}

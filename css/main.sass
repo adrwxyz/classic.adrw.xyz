@@ -56,7 +56,7 @@ body
   border-radius: 999em
   line-height: 38px
   padding: 0 15px
-  margin: 7px 8px
+  margin: 7px 5px
   &:hover
     background: #1565C0 !important
 
@@ -755,6 +755,8 @@ body
     padding: 120px 0 90px
     text-align: center
     margin: 0 auto
+    .btn
+      margin: 7px 10px
     .blog-title
       margin: 0
       padding: 0 0 10px
@@ -918,17 +920,23 @@ pre
 .cards-header
   font-weight: 400
   color: #666
+  padding-left: 2%
 
 .cards-read-more
   padding-left: 8%
+  font-family: $font-sans
+  text-decoration: none
   i
     color: #666
   .btn
     i
       color: #fff
   a
-    text-decoration: none
+    text-decoration: none !important
     color: #666
+    text-align: right
+    float: right
+    padding-right: 2%
     &:hover
       .btn
         background: #1565C0 !important

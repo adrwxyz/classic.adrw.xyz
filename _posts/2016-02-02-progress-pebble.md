@@ -7,6 +7,7 @@ redirect_from: /project/progress-pebble/
 categories:
 - Project
 - Experience
+- Featured
 layout: project
 tags:
 - Javascript ES5/ES6/ES7

@@ -15,5 +15,5 @@ seo_title: "Camp Mini-Yo-We - Boys Camp Cabin Leader | Andrew Paradi"
 position: Volunteer Cabin Leader
 company: Camp Mini-Yo-We
 summary: |
-  - Cabin leader, &amp; archery, kayaking, swimming instructor for 8-18 yr old boys
+  - Cabin leader, archery, kayaking, swimming instructor for 8-18 yr old boys
 ---

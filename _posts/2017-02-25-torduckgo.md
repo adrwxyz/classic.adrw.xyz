@@ -7,7 +7,6 @@ redirect_from: /project/torduckgo/
 categories:
 - Project
 - Experience
-- Featured
 layout: project
 tags:
 - XML

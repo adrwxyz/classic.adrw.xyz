@@ -11,7 +11,7 @@ categories:
 layout: project
 tags:
 - Hackathon
-- Bloomberg-API
+- Bloomberg API
 - Pitch
 - Video-Production
 image: /assets/article_images/2014-09-30-stockslate-hack-the-north/stock-slate-demo-retail-c.png
