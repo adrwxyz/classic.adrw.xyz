@@ -14,7 +14,7 @@ layout: pattern
     {% if item.slug == "Hidden" %}
     {% else %}
       {% if page.id %}
-      <div class="id" id="{{ item.slug | slugify }}"></div>
+      <div class="id" id="{{ item.slug }}"></div>
       {% endif %}
       <div class="cards-wrapper">
       {% if item.header %}
@@ -81,7 +81,7 @@ layout: pattern
           <span class="btn" title="{{ item.title }}">
             <span class="item-caption">{{ item.title }}</span>
           </span>
-          <i class="fa fa-chevron-right"></i>
+          <i class="fas fa-chevron-right"></i>
         </a>
       </div>
       {% endif %}

@@ -145,8 +145,6 @@ Good to Great was only one of the books I flipped through this winter and spring
 
 Check out other books I would recommend in parts [1](/blog/books-part-1), [2](/blog/books-part-2), and [3](/blog/books-part-3) of my leisure reading series.
 
-# Finally, special thanks to [Hooli](http://hooli.xyz) for their [title](https://youtu.be/bQO5oqrP1KE) support of **andrewnotes**.
-
 **Top Posts**
 
 - [My Favourite Books Since June](/blog/books-part-2)

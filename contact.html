@@ -16,7 +16,7 @@ categories:
     <span class="btn">
       <span class="item-caption">me at andrewparadi.com</span>
     </span>
-    <i class="fa fa-chevron-right"></i>
+    <i class="fas fa-chevron-right"></i>
   </a>
 </div>
 
@@ -30,6 +30,8 @@ Want to connect somewhere else?
 {% include social.html %}
 
 {% capture mdcontent %}
+
+{% if site.work_cta %}
 <div class="id" id="Work"></div>
 
 Looking for a fullstack dev for your team?
@@ -53,7 +55,7 @@ P.S. Here are three recent projects below & my [GitHub](https://github.com/andre
     <span class="btn">
       <span class="item-caption">Email me &amp; find out</span>
     </span>
-    <i class="fa fa-chevron-right"></i>
+    <i class="fas fa-chevron-right"></i>
   </a>
 </div>
 
@@ -65,9 +67,10 @@ P.S. Here are three recent projects below & my [GitHub](https://github.com/andre
     <span class="btn">
       <span class="item-caption">Email me</span>
     </span>
-    <i class="fa fa-chevron-right"></i>
+    <i class="fas fa-chevron-right"></i>
   </a>
 </div>
+{% endif %}
 
 <div class="id" id="Freelance"></div>
 
@@ -95,7 +98,7 @@ If you'd like to see some case studies of past clients, I've included some below
     <span class="btn">
       <span class="item-caption">Email me</span>
     </span>
-    <i class="fa fa-chevron-right"></i>
+    <i class="fas fa-chevron-right"></i>
   </a>
 </div>
 
@@ -118,7 +121,7 @@ If you're considering a Business Model Canvas Competition or applying to Y Combi
     <span class="btn">
       <span class="item-caption">Email me</span>
     </span>
-    <i class="fa fa-chevron-right"></i>
+    <i class="fas fa-chevron-right"></i>
   </a>
 </div>
 {% endcapture %}

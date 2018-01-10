@@ -24,7 +24,7 @@ layout: default
           <time datetime="{{ page.date | date: "%F %R" }}" >{{ page.date | date: site.date_format }}</time>
         </div>
         <div style="text-align:center">
-          <a href="#topofpage" class="topofpage"><i class="fa fa-angle-down"></i></a>
+          <a href="#topofpage" class="topofpage"><i class="fas fa-angle-down"></i></a>
         </div>
       </div>
     </div>
@@ -51,7 +51,9 @@ layout: default
       <a name="topofpage"></a>
       {{content}}
       <br/>
+      {% if site.work_cta %}
       <p><strong>If this is the type of impact you want a {{ site.work_title }} to have starting {{ site.work_term }}, let's chat. Email <a href="mailto:{{ site.email }}">me at andrewparadi.com</a> or check <a href="{{ site.resume }}">my resume</a>.</strong></p>
+      {% endif %}
     </section>
     <footer class="post-footer">
       <section class="share">
@@ -59,7 +61,7 @@ layout: default
           {% if social.share_url != null %}
             <a class="icon-{{ social.icon }}" href="{{ social.share_url }}{{ social.share_title }}{{page.title | cgi_escape}}{{ social.share_link }}{{site.url}}{{page.id}}"
               onclick="window.open(this.href, '{{ social.icon }}-share', 'width=550,height=255');return false;">
-            <i class="fa fa-{{ social.icon }}"></i><span class="hidden">{{ social.icon }}</span>
+            <i class="{{ social.icon }}"></i><span class="hidden">{{ social.icon }}</span>
             </a>
           {% endif %}
         {% endfor %}

@@ -20,8 +20,17 @@ I can't wait to get back to building great software with an ambitious team.
 
 Whether diving into user analytics or turning data models into production code, I love working with data when I have the chance.
 
-If you're looking for a {{ site.work_title }} to start {{ site.work_term }}, please [email me](mailto:me@andrewparadi.com?subject=Job%20Opportunity)!
+{% endcapture %}
+{{ mdcontent | markdownify }}
 
+{% if site.work_cta%}
+{% capture mdcontent %}
+If you're looking for a {{ site.work_title }} to start {{ site.work_term }}, please [email me](mailto:me@andrewparadi.com?subject=Job%20Opportunity)!
+{% endcapture %}
+{{ mdcontent | markdownify }}
+{% endif %}
+
+{% capture mdcontent %}
 Want to learn more?
 ---
   - [**Experience**](/experience) jobs, side projects, hackathons, freelance, & volunteer

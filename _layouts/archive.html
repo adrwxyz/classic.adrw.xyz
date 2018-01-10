@@ -36,7 +36,7 @@ layout: pattern
   {% else %}
   <div class="id" id="{{ item[0] | slugify }}"></div>
   <div class="cards-wrapper">
-    <h2 class="cards-header"><a class="btn" href="#top" title="all-categories"><span class="item-caption">Top <i class="fa fa-chevron-up"></i></span></a> {{ item[0] }}</h2>
+    <h2 class="cards-header"><a class="btn" href="#top" title="all-categories"><span class="item-caption">Top <i class="fas fa-chevron-up"></i></span></a> {{ item[0] }}</h2>
     {% for post in item[1] %}
       {% if post.categories contains "Hidden" %}
       {% else %}

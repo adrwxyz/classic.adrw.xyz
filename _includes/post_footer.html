@@ -12,9 +12,15 @@
   <div class="isRight">
     <h5 class="index-headline featured"><span>Connect</span></h5>
     <footer class="site-footer">
+      {% if site.work_cta %}
       <section class="poweredby"><strong>Looking for a kick-ass {{ site.work_title }} to start {{ site.work_term }}?</strong> Check <a href='{{site.resume}}' target="_blank" id="resume"><strong>my resume</strong></a>... then <a href="mailto:{{site.email}}" target="_blank" id="email"><strong>email!</strong></a></section>
+      {% else %}
+      <section class="poweredby">Like what you read? See more <strong><a href="{{ '/blog' | prepend: site.baseurl }}" id="blog">blog</a></strong> & <strong><a href="{{ '/projects' | prepend: site.baseurl }}" id="projects">projects</a></strong>.<br/>Want to chat? <a href="{{ '/contact' | prepend: site.baseurl }}" id="contact"><strong>Send me an email.</strong></a></section>
+      {% endif %}
+      {% if False %}
 <!--       <section class="poweredby">Built with <a href="http://jekyllrb.com" target="_blank"> Jekyll</a> &amp; <a href="https://pages.github.com/" target="_blank">Github Pages</a></section> -->
-<!--       <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i> You should subscribe to my feed.</span></a> -->
+<!--       <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fas fa-rss"></i> You should subscribe to my feed.</span></a> -->
+      {% endif %}
       <div class="inner">
         <hr>
           {% include social_no_caption.html %}

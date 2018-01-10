@@ -1,6 +1,6 @@
 # Based on https://github.com/dirkfabisch/mediator/ as of Apr 17, 2017
 
-gems:
+plugins:
   - jemoji
   - jekyll-paginate
   - jekyll-redirect-from
@@ -10,7 +10,7 @@ gems:
 title: "Andrew Paradi"
 plain_description: Full Stack Engineer
 description: # this means to ignore newlines until "email:"
-   # Full Stack Engineer Who <i class="fa fa-heart"></i> Data
+   # Full Stack Engineer Who <i class="fas fa-heart"></i> Data
    Full Stack Engineer
 
 meta_description:
@@ -30,12 +30,13 @@ author_image_l: "/assets/images/andrew2015-600c.png"
 author_image: "/assets/images/andrew2015.jpg"
 bio_page: "/about"
 bio_work: "/project/atomic"
-bio_hack: "/experience#hackathons-side-projects"
+bio_hack: "/experience#Hackathon"
 bio_project: "/progress-pebble"
 bio_post: "/blog/videostream-how-growth-starts-with-great-customer-support"
 bio_video: "https://youtu.be/hfbE7sVbz8k?list=PLmu6fQR8i26VzMOSuUikzqRLT4diEE_AA"
 bio_piano: "https://youtu.be/VuBCs_t54DY"
 bio_insta: "https://www.instagram.com/andrewnotes"
+work_cta: False
 work_title: "full stack dev"
 work_term: "May 2018"
 resume: "/assets/files/AndrewParadiResume.pdf"
@@ -48,28 +49,28 @@ header_menu:
   - title: Experience
     slug: Experience
     url: /experience
-    icon: road
+    icon: fab fa-road
   - title: Projects
     slug: Project
     url: /projects
-    icon: file-code-o
+    icon: far fa-file-code
   - title: Blog
     slug: Blog
     url: /blog
-    icon: sticky-note
+    icon: fas fa-sticky-note
   - title: About
     slug: about
     url: /about
-    icon: id-card
+    icon: fas fa-id-card
   - title: Contact
     desc: Contact
     slug: contact
     url: /contact
-    icon: envelope
+    icon: fas fa-envelope
   - title: Resume
     slug: resume
     url: "/assets/files/AndrewParadiResume.pdf"
-    icon: graduation-cap
+    icon: fas fa-graduation-cap
 
 show_menu_layouts:
   - default
@@ -102,72 +103,72 @@ twitter_handle: '@andrew_paradi'
 # social icons and sharing options
 social:
   - title: LinkedIn
-    icon:	linkedin-square
+    icon:	fab fa-linkedin
     url:	https://www.linkedin.com/in/andrewparadi
     desc:	Connect with me on LinkedIn
     share_url:
     share_title:
     share_link:
   - title: GitHub
-    icon:	github
+    icon:	fab fa-github
     url:	https://github.com/andrewparadi
-    desc:	Fork me on github
+    desc:	Fork me on GitHub
     share_url:
     share_title:
     share_link:
   - title: Email
-    icon:	envelope
+    icon:	fas fa-envelope
     url:	mailto:me@andrewparadi.com
     desc:	Email me@andrewparadi.com
     share_url:
     share_title:
     share_link:
   - title: Devpost
-    icon:	code
+    icon:	fas fa-code
     url: https://devpost.com/andrewparadi
-    desc:	Fork me on github
+    desc:	Check out my hacks on Devpost
     share_url:
     share_title:
     share_link:
   - title: AngelList
-    icon:	angellist
+    icon:	fab fa-angellist
     url:	https://angel.co/andrewparadi
     desc:	Add me on Angel List
     share_url:
     share_title:
     share_link:
   # - title: Twitter
-  #   icon:	twitter
+  #   icon:	fab fa-twitter
   #   url:	https://twitter.com/andrewparadi
   #   desc: Follow me on twitter
   #   share_url: http://twitter.com/share
   #   share_title: ?text=
   #   share_link: "&amp;url="
   # - title: Instagram
-  #   icon:	instagram
+  #   icon:	fab fa-instagram
   #   url:	https://instagram.com/andrewnotes
   #   desc:	Follow on instagram
   #   share_url:
   #   share_title:
   #   share_link:
   - title: YouTube
-    icon:	youtube
+    icon:	fab fa-youtube
     url:	https://youtube.com/c/andrewparadi
     desc:	Watch my videos on Youtube
     share_url:
     share_title:
     share_link:
   - title: PGP
-    icon:	lock
+    icon:	fas fa-lock
     url:	https://keybase.io/andrewparadi
     desc:	Keybase.io PGP Fingerprint &amp; Public Key
     share_url:
     share_title:
     share_link:
   - title: Resume
-    icon:	graduation-cap
+    icon:	fas fa-graduation-cap
     url:	/assets/files/AndrewParadiResume.pdf
-    desc:	Resume as of Jan 2015
+    desc:	Resume as of Jan 2018
     share_url:
     share_title:
     share_link:
