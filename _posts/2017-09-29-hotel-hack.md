@@ -14,7 +14,7 @@ excerpt: A 2012 vulnerability still can let anyone break in to millions of hotel
 seo_title: "10 Million Hotel Rooms Still Vulnerable | Andrew Paradi"
 ---
 
-**In 2012, Cody Brocious presented at Black Hat in Las Vegas that over 10 million hotel room locks were vulnerable to being unlocked in seconds with $50 of consumer grade hardware from Radio Shack [[1](https://www.wired.com/2017/08/the-hotel-hacker/)].**
+**In 2012, Cody Brocious presented at Black Hat in Las Vegas that over 10 million hotel room locks were vulnerable to being unlocked in seconds with $50 of consumer grade hardware [[1](https://www.wired.com/2017/08/the-hotel-hacker/)]. In 2017, most still are.**
 
 In his research paper, Brocious outlines numerous vulnerabilities for Onity hotel locks including weak custom written encryption algorithms and full access to memory through the DC port on the bottom the locks [[2](https://www.forbes.com/sites/andygreenberg/2012/07/23/hacker-will-expose-potential-security-flaw-in-more-than-four-million-hotel-room-keycard-locks/#7d283a68eb85)]. He describes countless easily possible attacks including opening any locked door, creating guest keys or master keys for all locks in the hotel, and even framing hotel staff for murder by manipulating the audit logs [[3](http://demoseen.com/bhpaper.html)].
 

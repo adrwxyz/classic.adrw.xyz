@@ -36,6 +36,10 @@ save: add commit
 run: init
 	bash -c "$$DOCKER_NICE up"
 
+runclean: init
+	rm -rf _site
+	bash -c "$$DOCKER_NICE up"
+
 .PHONY: init
 .PHONY: build
 .PHONY: rebuild

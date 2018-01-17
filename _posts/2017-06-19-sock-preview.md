@@ -9,7 +9,6 @@ redirect_from:
 - /socks/
 categories:
 - Blog
-- Featured
 layout: form
 tags:
 - Shopify
