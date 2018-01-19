@@ -17,10 +17,14 @@ layout: pattern_header
           <div class="cf post-meta-text">
             <div class="author-image" style="background-image: url({% if site.author_image_s %}{{ site.author_image_s | prepend: site.baseurl }}{% else %}{{ site.author_image | prepend: site.baseurl }}{% endif %})">Blog Logo</div>
             <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ page.author }}</h4>
+            {% include single_line_tags.html %}
           </div>
           {% endif %}
         </div>
       </div>
+      {% if page.show_meta %}
+      {% include tags.html %}
+      {% endif %}
       {{content}}
       <div style="text-align:center">
         <a href="#topform" class="topform"><p>Continue to form <i class="fas fa-angle-down"></i></p></a>

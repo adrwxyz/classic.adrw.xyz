@@ -1,7 +1,7 @@
 My Stack
 ---
 **I have strong experience building with**
-- Web(HTML5, CSS3, SASS)
+- Web (HTML5, CSS3, SASS)
 - Javascript (ES5 & ES6 & ES7)
 - Node.js, Koa.js
 - ReactJS with Redux

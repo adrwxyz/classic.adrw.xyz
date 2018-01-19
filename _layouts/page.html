@@ -19,6 +19,7 @@ layout: pattern_header
         <div class="cf post-meta-text">
           <div class="author-image" style="background-image: url({% if site.author_image_s %}{{ site.author_image_s | prepend: site.baseurl }}{% else %}{{ site.author_image | prepend: site.baseurl }}{% endif %})">Author Image</div>
           <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ site.author }}</h4>
+          {% include single_line_tags.html %}
         </div>
         <div style="text-align:center">
           <a href="#topofpage" class="topofpage"><i class="fas fa-angle-down"></i></a>
@@ -33,6 +34,7 @@ layout: pattern_header
         <div class="cf post-meta-text">
           <div class="author-image" style="background-image: url({% if site.author_image_s %}{{ site.author_image_s | prepend: site.baseurl }}{% else %}{{ site.author_image | prepend: site.baseurl }}{% endif %})">Blog Logo</div>
           <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ page.author }}</h4>
+          {% include single_line_tags.html %}
         </div>
         {% endif %}
       </div>
@@ -40,6 +42,9 @@ layout: pattern_header
     {% endif %}
     <section class="post-content" itemprop="articleBody">
       <a name="topofpage"></a>
+      {% if page.show_meta %}
+      {% include tags.html %}
+      {% endif %}
       {{content}}
     </section>
   </article>

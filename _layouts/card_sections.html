@@ -14,7 +14,8 @@ layout: pattern
     {% if item.slug == "Hidden" %}
     {% else %}
       {% if page.id %}
-      <div class="id" id="{{ item.slug }}"></div>
+      <span class="id" id="{{ item.slug }}"></span>
+      <span class="id" id="{{ item.slug | slugify }}"></span>
       {% endif %}
       <div class="cards-wrapper">
       {% if item.header %}
@@ -71,7 +72,7 @@ layout: pattern
       {% endfor %}
       </div><!-- /cards -->
       {% if item.title != "None" and item.url %}
-      <div class="cards-wrapper cards-read-more" id="{{ item.title }}">
+      <div class="cards-wrapper btn-read-more" id="{{ item.title }}">
         <a href="{{ item.url | prepend: site.baseurl }}">
           {% if item.pre %}
           {{ item.pre }}

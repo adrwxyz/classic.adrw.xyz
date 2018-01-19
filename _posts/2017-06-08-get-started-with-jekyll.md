@@ -12,7 +12,7 @@ layout: project
 tags:
 - Jekyll
 - GitHub-Pages
-- Bash/zsh
+- Bash ZSH Shell
 - Ansible
 image: /assets/article_images/2017-06-08-get-started-with-jekyll/get-started-2000c.png
 image2: /assets/article_images/2017-06-08-get-started-with-jekyll/get-started-1000c.png

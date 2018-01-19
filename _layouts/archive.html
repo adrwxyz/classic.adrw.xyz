@@ -24,17 +24,19 @@ layout: pattern
     <h2 class="cards-header">{{ page.title }}</h2>
     <div class="cards-cloud">
       {% for item in sorted_items %}
+      {% if item[0] != "Hidden" %}
         <a class="btn" href="#{{ item[0] | slugify }}">
           <span class="item-caption">{{ item[1] | size }} {{ item[0] }}</span>
         </a>
+      {% endif %}
       {% endfor %}
     </div>
   </div>
 
   {% for item in sorted_items %}
-  {% if item[0] == "Hidden "%}
-  {% else %}
-  <div class="id" id="{{ item[0] | slugify }}"></div>
+  {% if item[0] != "Hidden" %}
+  <span class="id" id="{{ item[0] }}">&nbsp;</span>
+  <span class="id" id="{{ item[0] | slugify }}">&nbsp;</span>
   <div class="cards-wrapper">
     <h2 class="cards-header"><a class="btn" href="#top" title="all-categories"><span class="item-caption">Top <i class="fas fa-chevron-up"></i></span></a> {{ item[0] }}</h2>
     {% for post in item[1] %}

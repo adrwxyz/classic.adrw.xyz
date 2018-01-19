@@ -1,0 +1,8 @@
+{% for tag in page.tags limit:2 %}
+  {% if forloop.first %}<br/>in{% endif %}
+  &nbsp;<a href="/t#{{ tag }}" class="post-tag">{{ tag }}</a>
+  {% if forloop.index < 2 and page.tags.size > 1 %},{% endif %}
+  {% if forloop.last and page.tags.size > 2 %}
+  <a href="#post-tags">... {{ page.tags | size | minus: 2 }}+</a>
+  {% endif %}
+{% endfor %}

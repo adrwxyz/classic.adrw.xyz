@@ -79,7 +79,6 @@ show_menu_layouts:
   - cards
   - card_sections
   - resume
-  - archive
 
 footer_menu:
   - title: All Posts

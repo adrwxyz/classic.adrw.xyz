@@ -20,8 +20,8 @@ layout: default
         <div class="cf post-meta-text">
           <div class="author-image" style="background-image: url({% if site.author_image_s %}{{ site.author_image_s | prepend: site.baseurl }}{% else %}{{ site.author_image | prepend: site.baseurl }}{% endif %})">Author Image</div>
           <a href="{{ site.bio_page }}"><h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ site.author }}</h4></a>
-          on
-          <time datetime="{{ page.date | date: "%F %R" }}" >{{ page.date | date: site.date_format }}</time>
+          on <time datetime="{{ page.date | date: "%F %R" }}" >{{ page.date | date: site.date_format }}</time>
+          {% include single_line_tags.html %}
         </div>
         <div style="text-align:center">
           <a href="#topofpage" class="topofpage"><i class="fas fa-angle-down"></i></a>
@@ -34,36 +34,22 @@ layout: default
         <h1 class="post-title">{{ page.title }}</h1>
         <div class="cf post-meta-text">
           <div class="author-image" style="background-image: url({% if site.author_image_s %}{{ site.author_image_s | prepend: site.baseurl }}{% else %}{{ site.author_image | prepend: site.baseurl }}{% endif %})">Author Image</div>
-          <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ page.author }}</h4>
-          on
-          <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: site.date_format }}</time>
+          <a href="{{ site.bio_page }}"><h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ page.author }}</h4></a>
+          on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: site.date_format }}</time>
+          {% include single_line_tags.html %}
         </div>
       </div>
     </div>
-    <br>
-    <br>
-    <br>
     {% endif %}
     <section class="post-content" itemprop="articleBody">
       <div class="post-reading">
         <span class="post-reading-time"></span> read
       </div>
-      <a name="topofpage"></a>
+      {% include tags.html %}
+      <span id="topofpage">&nbsp;</span>
       {{content}}
     </section>
-    <!-- <footer class="post-footer">
-      <section class="share">
-        {% for social in site.social %}
-          {% if social.share_url != null %}
-            <a class="icon-{{ social.icon }}" href="{{ social.share_url }}{% if social.share_title %}{{ social.share_title }}{{page.title | cgi_escape}}{% endif %}{{ social.share_link }}{{site.url}}{{site.baseurl}}{{page.id}}"
-              onclick="window.open(this.href, '{{ social.icon }}-share', 'width=550,height=255');return false;">
-            <i class="{{ social.icon }}"></i><span class="hidden">{{ social.icon }}</span>
-            </a>
-          {% endif %}
-        {% endfor %}
-      </section>
-    </footer> -->
-    {% include post_footer.html %}
+    {% include bottom_teaser.html %}
     {%if site.disqus %}
     <div id="disqus_thread"></div>
     <script type="text/javascript">

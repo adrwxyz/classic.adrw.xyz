@@ -307,7 +307,7 @@ body
     padding: 0 $rs*2
   article
     padding: 30px 0
-    border-bottom: 1px solid #f2f2f0
+    border-bottom: 1px solid #f2f2f2
     &:last-child
       border-bottom: 0px
     .post-title
@@ -320,7 +320,7 @@ body
       margin: 0 0
       a
         text-decoration: none
-        color: #333332
+        color: #333
         &:hover
           text-decoration: none
     .post-excerpt
@@ -329,21 +329,21 @@ body
       font-style: normal
       font-size: 16px
       line-height: 1.3
-      color: #666665
+      color: #666
       p
         margin: 10px 0px
     .post-meta
       font-size: 14px
-      color: #b3b3b1
-      a
-        color: #b3b3b1
-        text-decoration: none
-        &:hover
-          text-decoration: underline
-    .post-tags-set
-      display: flex
-      flex-flow: row wrap
-      margin: 5px 0px
+      color: rgba(255,255,255,0.75)
+      // a
+      //   color: rgba(255,255,255,0.75)
+      //   text-decoration: none
+      //   padding-bottom: 1px !important
+      //   &:hover
+      //     color: rgba(255,255,255,1)
+      //     padding-bottom: 0px !important
+      //     border-bottom: 1px solid #b3b3b1
+
 .container.featured
   padding-bottom: 40px
 
@@ -371,8 +371,11 @@ body
   a
     color: #999
     text-decoration: none
+    padding-bottom: 1px
     &:hover
       color: #333
+      padding-bottom: 0px !important
+      border-bottom: 1px solid #999
 
 .post-reading
   position: absolute
@@ -397,16 +400,38 @@ body
   margin: 0 auto
   padding: $rs*3 0
   width: 100%
-  max-width: 640px
+  // max-width: 640px
   font-size: $rs/4*3
   text-align: center
-  color: #999
+  color: #fff
   line-height: $rs*1.1
+  background-color: #000
+  opacity: 0.6
+  .subscribe
+    opacity: 1 !important
   a
-    color: #666
-    text-decoration: none
+    color: #fff !important
+    text-decoration: none !important
+    padding-bottom: 1px
     &:hover
-      color: #333
+      padding-bottom: 0px !important
+      border-bottom: 2px solid #666 !important
+
+.social
+  line-height: 1.4
+  .social-item
+    border-bottom: none !important
+    text-decoration: none !important
+    white-space: nowrap
+    &:hover
+      border-bottom: 2px solid #666 !important
+    .social-title
+      font-family: $font-sans
+
+.links
+  line-height: 2.8
+  opacity: 1 !important
+
 .post
   .article-image
     position: absolute
@@ -498,9 +523,12 @@ body
       white-space: nowrap
       text-overflow: ellipsis
       a
-        color: rgba(255,255,255,0.75)
+        color: #b3b3b1
+        padding-bottom: 1px
+        text-decoration: none
         &:hover
-          color: rgba(255,255,255,1)
+          padding-bottom: 0px !important
+          border-bottom: 1px solid #b3b3b1
     .fa-angle-down
       font-size: 32px
       margin: 64px auto 0
@@ -508,7 +536,7 @@ body
       &:hover
         color: #fff
     .topofpage
-      text-decoration: underline
+      text-decoration: none
   .noarticleimage
     .post-meta
       font-family: $font-sans
@@ -519,7 +547,7 @@ body
       letter-spacing: -0.04em
       font-size: 50px
       line-height: 1.1
-      color: #333332
+      color: #333
       margin-bottom: 16px
     .author-image
       display: inline-block
@@ -543,6 +571,13 @@ body
       font-family: $font-sans
       white-space: nowrap
       text-overflow: ellipsis
+      a
+        color: #b3b3b1
+        padding-bottom: 1px
+        text-decoration: none
+        &:hover
+          padding-bottom: 0px !important
+          border-bottom: 1px solid #b3b3b1
   .post-content
     width: 100%
     font-family: $font-serif
@@ -580,7 +615,12 @@ body
       hyphens: auto
     a
       color: #333
-      text-decoration: underline
+      padding-bottom: 1px
+      border-bottom: 1px solid #666
+      text-decoration: none
+      &:hover
+        border-bottom: 2px solid #333
+        text-decoration: none
       figure
         figcaption
           text-decoration: none
@@ -645,9 +685,25 @@ body
         padding: 0 0 golden-ratio(1rem,  1)
     ol li
       list-style-type: decimal
+  .post-tags
+    margin-top: -40px !important
+    margin-bottom: 40px
+    font-size: 14px
+    font-style: normal
+    line-height: 20px
+    color: #999 !important
+    .post-tag
+      color: #999 !important
+      padding-bottom: 1px
+      border-bottom: 1px solid #999
+      text-decoration: none
+      &:hover
+        border-bottom: 2px solid #666
+        text-decoration: none
   .bottom-teaser
     padding: 50px 0
     font-family: $font-sans
+    color: #333
     hr
       border: 0
       padding: 0
@@ -665,12 +721,6 @@ body
         padding-bottom: $rs*2
       .index-headline
         padding-bottom: 16px
-      a
-        color: #000
-        text-decoration: none
-        &:hover
-          color: #333
-          text-decoration: underline
       .author-image
         display: block
         width: 80px
@@ -695,6 +745,14 @@ body
         padding-left: 100px
         &.published
           color: #999
+      a
+        color: #333
+        text-decoration: none
+        padding-bottom: 0px
+        border-bottom: 1px solid #666
+        &:hover
+          padding-bottom: 0px !important
+          border-bottom: 2px solid #333
     .isRight
       float: right
       width: 47%
@@ -703,35 +761,21 @@ body
         width: 100%
       .index-headline
         padding-bottom: 16px
-      .site-footer
+      .connect
         margin: 0
         padding: 0
-        color: #333
         text-align: left
         font-size: 14px
         line-height: 1.3
-        color: #999
-        a
-          color: #333
-          text-decoration: none
-          &:hover
-            text-decoration: underline
         .poweredby
           display: block
           padding-bottom: 3px
           font-weight: 400
-          color: #333
-.share
-  text-align: right
-  padding: 20px 0 0
-  a
-    text-decoration: none
-    color: #bbb
-    padding-left: 12px
-    .hidden
-      display: none
-    &:hover
-      color: #333
+      a
+        color: #333
+        text-decoration: none
+        &:hover
+          border-bottom: 2px solid #333
 
 .bottom-closer
   width: 100%
@@ -787,6 +831,15 @@ body
   display: none
 
 .copyright
+  color: #999
+  opacity: 1 !important
+  a
+    color: #999 !important
+    text-decoration: none !important
+    padding-bottom: 1px
+    &:hover
+      padding-bottom: 0px !important
+      border-bottom: 1px solid #666
 
 pre,
 code
@@ -806,26 +859,11 @@ pre
     padding-right: 0
     padding-left: 0
 
-.social
-  .social-item
-    text-decoration: none !important
-    white-space: nowrap
-    padding-right: 4.5%
-    line-height: 1.4
-    .social-title
-      font-family: $font-sans
-
 .id
-  margin-bottom: 40px !important
+  margin-bottom: 80px !important
 
-.experience
-  a
-    text-decoration: none
-    color: #333
-    &:hover
-      text-decoration: none
-      opacity: 0.7
-  .experience-section
+.resume
+  .resume-section
     color: #333
     font-weight: 700
     font-style: normal
@@ -836,7 +874,7 @@ pre
     border-bottom: 1px solid #f2f2f0
     &:first-child
       border-top: 1px solid #f2f2f0
-  .experience-year
+  .resume-year
     font-size: 24px
     font-weight: 700
     font-family: $font-serif
@@ -846,16 +884,17 @@ pre
     float: left
     color: #b3b3b1
     background-color: #fff
-  .experience-item
-    padding: 30px 0
-    .experience-position
+  .resume-item
+    padding: 22px 0
+    a
       font-weight: 400
-      font-style: italic
-    .experience-company
-      font-weight: 600
-      font-style: normal
-    .experience-position,
-    .experience-company
+      padding-bottom: 2px
+      border-bottom: none
+      &:hover
+        padding-bottom: 0px !important
+        border-bottom: 2px solid #666 !important
+    .resume-company,
+    .resume-position
       letter-spacing: -0.02em
       font-size: 20px
       font-family: $font-sans
@@ -863,14 +902,12 @@ pre
       display: inline-block
       margin: 0px
       color: #333
-      a
-        text-decoration: none
-        color: #333
-        &:hover
-          text-decoration: none
-          opacity: 0.8
-
-    .experience-summary
+    .resume-company
+      font-weight: 600
+      font-style: normal
+    .resume-position
+      font-style: italic
+    .resume-summary
       letter-spacing: -0.02em
       font-weight: 400
       font-style: normal
@@ -882,23 +919,23 @@ pre
         li
           font-size: 18px
           line-height: 1.0
-
-    .experience-meta
+    .resume-meta
       font-size: 14px
-      color: #b3b3b1
+      color: #b3b3b1 !important
       padding-bottom: 0
-      line-height: 1.0
-      a
-        color: #b3b3b1
-        text-decoration: none
+      line-height: 1.4
+    .resume-tags
+      display: flex
+      flex-flow: row wrap
+      a.resume-tag
+        color: #b3b3b1 !important
         &:hover
-          text-decoration: underline
-    .experience-month
+          border-bottom: 1px solid #999 !important
+    .resume-month
       margin: 5px 0
       font-size: 14px
       font-family: $font-serif
       float: right
-
 
 /*CARD
 
@@ -922,17 +959,20 @@ pre
   color: #666
   padding-left: 2%
 
-.cards-read-more
+.btn-read-more
+  font-size: 17px
   padding-left: 8%
-  font-family: $font-sans
   text-decoration: none
   i
     color: #666
   .btn
     i
       color: #fff
+    .item-caption
+      font-family: $font-sans
   a
     text-decoration: none !important
+    border-bottom: none !important
     color: #666
     text-align: right
     float: right

@@ -65,7 +65,7 @@ Super Fast, Mobile Optimized, Async CSS, &amp; Font Loading
 ---
 Transitioning from Wordpress was a huge undertaking but well worth it. According to [Google Developer PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/), website performance has increased by more than 2.3x thanks to optimized images and asynchronous static loading of CSS and fonts.
 
-- **72/100** on mobile, previously **34/100**
+- **92/100** on mobile, previously **34/100**
 - **78/100** on desktop, previously **39/100**
 
 Combined with a lightning fast Github Pages CDN, images are heavily optimized and resized for delivery. I've cut site size by over 80% using [JPEGmini](http://www.jpegmini.com/), [ImageAlpha](https://pngmini.com/) for pngs, [Pixelmator](http://www.pixelmator.com/mac/), &amp; [Affinity Photo](https://affinity.serif.com/en-gb/photo/).

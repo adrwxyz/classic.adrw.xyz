@@ -1,0 +1,19 @@
+{% assign categories = page.categories | sort %}
+{% assign tags = page.tags | sort %}
+<div id="post-tags" class="post-tags">
+{% for tag in categories %}
+  {% if forloop.first %}
+  <span><strong>Categories&nbsp;::&nbsp;</strong></span>
+  {% endif %}
+  {% if tag != "Hidden "%}
+  <span><a href="/c#{{ tag }}" id="post-tag" class="post-tag">{{ tag }}</a>&nbsp;&nbsp;</span>
+  {% endif %}
+{% endfor %}
+<br/>
+{% for tag in tags %}
+  {% if forloop.first %}
+  <span><strong>Tags&nbsp;::&nbsp;</strong></span>
+  {% endif %}
+  <span><a href="/t#{{ tag }}" id="post-tag" class="post-tag">{{ tag }}</a>&nbsp;&nbsp;</span>
+{% endfor %}
+</div>
