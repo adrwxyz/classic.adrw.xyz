@@ -7,11 +7,11 @@
   <div class="menu-readium">
     {% if page.layout and site.show_menu_layouts contains page.layout %}
       {% assign desktop-show = 'desktop-show' %}
-      {% assign desktop-icon = 'desktop-times-icon' %}
-      {% assign mobile-icon = 'mobile-bars-icon' %}
+      {% assign desktop-icon = 'desktop-times-icon fas fa-times' %}
+      {% assign mobile-icon = 'mobile-bars-icon fas fa-bars' %}
     {% else %}
-      {% assign desktop-icon = 'desktop-bars-icon' %}
-      {% assign mobile-icon = 'mobile-bars-icon' %}
+      {% assign desktop-icon = 'desktop-bars-icon fas fa-bars' %}
+      {% assign mobile-icon = 'mobile-bars-icon fas fa-bars' %}
     {% endif %}
     <span class="menu-icon"><i class="menu-fa {{ desktop-icon }} {{ mobile-icon }}" aria-hidden="true"></i></span>
   </div>

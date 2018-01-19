@@ -1,7 +1,7 @@
 <span class="social">
   {% for social in site.social %}
     {% if social.url %}
-        <a class="icon-{{ social.icon }} social-item" href="{{ social.url | prepend: site.baseurl }}" {% if social.desc %} title="{{ social.desc }}"{% endif %}">
+        <a class="social-item" href="{{ social.url | prepend: site.baseurl }}" {% if social.desc %} title="{{ social.desc }}"{% endif %}">
           <i class="{{ social.icon }}"></i> <span class="social-title">{{ social.title }}</span>
         </a>&nbsp;&nbsp;&nbsp;&nbsp;
     {% endif %}
