@@ -11,7 +11,6 @@ tags:
 - Teknically
 categories:
 - Blog
-- Featured
 image: /assets/article_images/2014-10-03-the-389-day-laurier-bba/cofounders-launchpad-desk.jpg
 image2: /assets/article_images/2014-10-03-the-389-day-laurier-bba/cofounders-launchpad-desk-1000c.jpg
 excerpt: My first year as a BBA student at Wilfrid Laurier University was unlike anything imaginable. I started a business, travelled the world, and now I'm free.
