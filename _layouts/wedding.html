@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+    {% include header.html %}
+
+    <!-- content start -->
+    <div class="page-content">
+      <div class="wrapper">
+        <main class="content" role="main">
+          <article class="post">
+            <meta itemprop="keywords" content="{{ page.tags | join: ',' }}" />
+          <meta itemprop="description" content="{{ content | strip_html | truncatewords: 40 }}" />
+            <section class="post-content" itemprop="articleBody">
+              <img src="/assets/article_images/wedding/14096-NPOOW3-1500-topc.png" style="max-width: 100%;"/>
+              <!-- <img src="/assets/article_images/wedding/14096-NPOOW3-1500-topc.png" style="margin-top:-30px; margin-bottom: -47px; max-width: 100%;"/> -->
+              <div class="noarticleimage">
+                <div class="post-meta">
+                  <h1 class="post-title">{{ page.title }}</h1>
+                  {% if page.image %}
+                  <img src="{{ page.image }}">
+                  {% endif %}
+                  {% if page.show_meta %}
+                  <div class="cf post-meta-text">
+                    <div class="author-image" style="background-image: url({% if site.author_image_s %}{{ site.author_image_s | prepend: site.baseurl }}{% else %}{{ site.author_image | prepend: site.baseurl }}{% endif %})">Blog Logo</div>
+                    <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ page.author }}</h4>
+                    {% include single_line_tags.html %}
+                  </div>
+                  {% endif %}
+                </div>
+              </div>
+              {% if page.show_meta %}
+              {% include tags.html %}
+              {% endif %}
+              {{content}}
+              {% if page.form_warn_mobile == true %}
+                <div style="text-align:center">
+                  <a href="#topform" class="topform"><p>Continue to form <i class="fas fa-angle-down"></i></p></a>
+                  <a href="{{ page.form_url }}"><p><strong>Are you on mobile?</strong> Form not working below? Click here ></p></a>
+                </div>
+              {% endif %}
+            </section>
+          </article>
+        </main>
+        {% if page.form_url %}
+        <iframe id="topform" src="{{ page.form_url }}" width=100% height="{{ page.form_height }}" frameborder="0" marginheight="0" marginwidth="0" scrolling="no">Loading...</iframe>
+        {% endif %}
+        <main class="content" role="main">
+          <section class="post-content" itemprop="articleBody">
+            <div class="noarticleimage">
+              {% if page.form_warn_mobile == true %}
+              <div style="text-align:center">
+                <br/>
+                <a href="{{ page.form_url }}" style="color: black;"><p><strong>Are you on mobile?</strong> Form not working above? Click here ></p></a>
+                <a href="#topform" class="topform" style="color: black;"><p>Back to top of form <i class="fas fa-angle-up"></i></p></a>
+                <br/>
+              </div>
+              {% endif %}
+              <br/>
+              <div class="cards-wrapper btn-read-more">
+              {% for item in page.links %}
+                <a href="{{ item.link }}" rel="{{ item.rel }}">
+                  {{ item.subtext }}
+                  <span class="btn">
+                    <span class="item-caption">{{ item.title }} <i class="{{ item.icon }}"></i></span>
+                  </span>
+                  {% if page.links_arrow != false %}
+                  <i class="fas fa-chevron-right"></i>
+                  {% endif %}
+                </a>
+              {% endfor %}
+              </div>
+              <br/>
+            </div>
+            <img src="/assets/article_images/wedding/14096-NPOOW3-1500-bottomc.png" style="margin-bottom: -7px; max-width: 100%;"/>
+          </section>
+        </main> 
+      </div>
+    </div>
+    <!-- content end -->
+
+    <!-- footer start -->
+    <footer class="site-footer">
+      <div class="inner">
+        <section class="copyright">
+           Flower Illustrations by <a href="https://www.freepik.com/free-photos-vectors/wedding">Freepik</a>.
+        </section>
+        <section class="copyright">
+          &copy; 2009-{{ site.time | date: '%Y' }} <a href="{{site.url}}">{{ site.name }} &amp; Suzie Alexander</a>. All Rights Reserved.
+        </section>
+
+      </div>
+    </footer>
+    <!-- footer end -->
+
+    {% if page.categories contains "Hidden" %}
+    <!--googleon: all-->
+    <!-- <div class="robots-nocontent"> --></div>
+    <!-- <noindex> --></noindex>
+    <!--/noindex-->
+    {% endif %}
+    {% include javascripts.html %}
+    {% include head_async.html %}
+  </body>
+
+</html>

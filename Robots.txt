@@ -1,0 +1,14 @@
+Disallow: /wedding
+Disallow: /wedding/
+Disallow: /wedding/invite
+Disallow: /wedding/invite/
+Disallow: /wedding/yes
+Disallow: /wedding/yes/
+Disallow: /wedding/no
+Disallow: /wedding/no/
+Disallow: /wedding/rehearsal
+Disallow: /wedding/rehearsal/
+Disallow: /wedding/shower
+Disallow: /wedding/shower/
+Disallow: /wedding/admin
+Disallow: /wedding/admin/

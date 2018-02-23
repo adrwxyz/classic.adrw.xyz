@@ -26,17 +26,82 @@ layout: pattern_header
       {% include tags.html %}
       {% endif %}
       {{content}}
-      <div style="text-align:center">
-        <a href="#topform" class="topform"><p>Continue to form <i class="fas fa-angle-down"></i></p></a>
-        <a href="{{ page.form_url }}"><p><strong>Are you on mobile?</strong> Form not working below? Click here ></p></a>
-      </div>
+      {% if page.form_warn_mobile == true %}
+        <div style="text-align:center">
+          <a href="#topform" class="topform"><p>Continue to form <i class="fas fa-angle-down"></i></p></a>
+          <a href="{{ page.form_url }}"><p><strong>Are you on mobile?</strong> Form not working below? Click here ></p></a>
+        </div>
+      {% endif %}
     </section>
   </article>
 </main>
-<iframe id="topform" src="{{ page.form_url }}" width=100% height="{{ page.form_height }}" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-<div style="text-align:center">
-  <br/>
-  <a href="{{ page.form_url }}" style="color: black;"><p><strong>Are you on mobile?</strong> Form not working above? Click here ></p></a>
-  <a href="#topform" class="topform" style="color: black;"><p>Back to top of form <i class="fas fa-angle-up"></i></p></a>
-  <br/>
-</div>
+{% if page.form_url %}
+<iframe id="topform" src="{{ page.form_url }}" width=100% height="{{ page.form_height }}" frameborder="0" marginheight="0" marginwidth="0" scrolling="no">Loading...</iframe>
+{% endif %}
+<main class="content" role="main">
+  <section class="post-content" itemprop="articleBody">
+    <div class="noarticleimage">
+      {% if page.form_warn_mobile == true %}
+      <div style="text-align:center">
+        <br/>
+        <a href="{{ page.form_url }}" style="color: black;"><p><strong>Are you on mobile?</strong> Form not working above? Click here ></p></a>
+        <a href="#topform" class="topform" style="color: black;"><p>Back to top of form <i class="fas fa-angle-up"></i></p></a>
+        <br/>
+      </div>
+      {% endif %}
+      <br/>
+      <div class="cards-wrapper btn-read-more">
+      {% for item in page.links %}
+        <a href="{{ item.link }}" rel="{{ item.rel }}">
+          {{ item.subtext }}
+          <span class="btn">
+            <span class="item-caption">{{ item.title }} <i class="{{ item.icon }}"></i></span>
+          </span>
+          {% if page.links_arrow != false %}
+          <i class="fas fa-chevron-right"></i>
+          {% endif %}
+        </a>
+      {% endfor %}
+      </div>
+      <br/>
+    </div>
+  </section>
+</main> 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>

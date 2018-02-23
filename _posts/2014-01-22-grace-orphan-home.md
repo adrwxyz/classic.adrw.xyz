@@ -8,6 +8,8 @@ categories:
 - Experience
 - Volunteer
 - Hidden
+sitemap:
+  exclude: "yes"
 layout: project
 tags:
 - HTML

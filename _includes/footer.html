@@ -1,11 +1,18 @@
 <!-- footer start -->
 <footer class="site-footer">
   <div class="inner">
-     <section class="subscribe">
-       {% include social.html %}
-       {% include footer_links.html %}
-     </section>
-     {% include copyright.html %}
+    <section class="subscribe">
+      {% include social.html %}
+      {% include footer_links.html %}
+    </section>
+    {% include copyright.html %}
   </div>
 </footer>
 <!-- footer end -->
+
+{% if page.categories contains "Hidden" %}
+<!--googleon: all-->
+<!-- <div class="robots-nocontent"> --></div>
+<!-- <noindex> --></noindex>
+<!--/noindex-->
+{% endif %}

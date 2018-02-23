@@ -1,17 +1,22 @@
 <!-- header start -->
 
-{% if site.logo and site.float_logo %}
+{% if page.categories contains "Hidden" %}
+<!--googleoff: all-->
+<div class="robots-nocontent">
+<noindex>
+<!--noindex-->
+{% endif %}
+
+{% if site.logo and site.float_logo and page.show_header != false %}
   <div class="logo-readium">
     <a href="{{site.url}}{{site.baseurl}}" class="logo-readium"><span class="logo" style="background-image: url({{ site.logo | prepend: site.baseurl }})"></span></a>
   </div>
   <div class="menu-readium">
-    {% if page.layout and site.show_menu_layouts contains page.layout %}
+    {% assign desktop-icon = 'desktop-bars-icon fas fa-bars' %}
+    {% assign mobile-icon = 'mobile-bars-icon fas fa-bars' %}
+    <!-- {% if page.layout and site.show_menu_layouts contains page.layout %}{% endif %} -->
+    {% if page.layout and site.show_menu_layouts contains page.layout and page.show_menu != false %}
       {% assign desktop-show = 'desktop-show' %}
-      {% assign desktop-icon = 'desktop-times-icon fas fa-times' %}
-      {% assign mobile-icon = 'mobile-bars-icon fas fa-bars' %}
-    {% else %}
-      {% assign desktop-icon = 'desktop-bars-icon fas fa-bars' %}
-      {% assign mobile-icon = 'mobile-bars-icon fas fa-bars' %}
     {% endif %}
     <span class="menu-icon"><i class="menu-fa {{ desktop-icon }} {{ mobile-icon }}" aria-hidden="true"></i></span>
   </div>

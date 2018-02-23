@@ -10,6 +10,11 @@
       window.location = window.location.toString().replace(/^http:/, "https:");
   </script>
   {% endif %}
+  
+  {% if page.categories contains "Hidden" %}
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="googlebot" content="noindex">
+  {% endif %}
 
   <meta charset="utf-8">
   <!-- (1) Optimize for mobile versions: http://goo.gl/EOpFl -->

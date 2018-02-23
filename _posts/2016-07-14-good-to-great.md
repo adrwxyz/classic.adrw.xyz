@@ -113,7 +113,7 @@ A core failing of most founders is that they do not take the time to invest in t
 
 > Fail to invest in yourself, and your investments tend to fail.
 
-When founders can not make the time to invest in themselves, it is not too surprising when they *"don't have time"* to adequately focus on their startup's strategy, roadmaps, employees, or customers.
+When founders cannot make the time to invest in themselves, it is not too surprising when they *"don't have time"* to adequately focus on their startup's strategy, roadmaps, employees, or customers.
 
 Most founders simply end up "putting out fires", convinced that their *"busyness"* is a sign of their proficiency as a leader, blindly ignorant of the real causes for their floundering startup.
 

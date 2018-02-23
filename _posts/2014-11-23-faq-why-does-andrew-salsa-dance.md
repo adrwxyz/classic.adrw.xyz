@@ -9,6 +9,8 @@ tags:
 categories:
 - Blog
 - Hidden
+sitemap:
+  exclude: "yes"
 excerpt: In November 2013 I had never danced before. One year later I'm dancing in a choreographed performance for the club's end of term party. Crack a Coca-Cola and I'll tell you the story of how I became a "Salsero".
 seo_title: "FAQ: Why Does Andrew Salsa Dance? | Andrew Paradi"
 ---

@@ -8,6 +8,8 @@ categories:
 - Experience
 - Volunteer
 - Hidden
+sitemap:
+  exclude: "yes"
 layout: project
 tags:
 excerpt: Boys Camp Cabin Leader for 8-18 years old boys at overnight Muskoka camp.

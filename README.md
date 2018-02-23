@@ -78,4 +78,5 @@ Resources
 ---
 - [*Mediator Jekyll* theme](https://github.com/dirkfabisch/mediator) by [@dirkfabisch](https://twitter.com/dirkfabisch)
 - [*Jekyll Modern Blog* theme](https://github.com/inded/Jekyll_modern-blog) by [@inded](https://github.com/inded)
-- [Trianglify](https://github.com/qrohlf/trianglify) by [@qrholf](http://qrohlf.com/)
+- [Trianglify](https://github.com/qrohlf/trianglify) by [@qrholf](http://qrohlf.com)
+- [Stylish Portfolio Jekyll](https://github.com/volny/stylish-portfolio-jekyll) by [@volny](https://github.com/volny)

@@ -68,7 +68,7 @@ layout: pattern_header
               {% if post.summary %}
               <div class="resume-summary" itemprop="description">{{ post.summary | markdownify }}</div>
               {% endif %}
-              <p class="resume-meta resume-tags">{% for tag in post.tags %}<a href="/t#{{ tag }}" class="resume-tag"><span class="resume-tag">{{ tag }}</span></a>&nbsp;&nbsp;{% endfor %}</p>
+              <p class="resume-meta resume-tags">{% for tag in post.tags %}<a href="{{ '/t#' | prepend: site.baseurl }}{{ tag }}" class="resume-tag"><span class="resume-tag">{{ tag }}</span></a>&nbsp;&nbsp;{% endfor %}</p>
             </article>
           {% endif %}
           {% endfor %}

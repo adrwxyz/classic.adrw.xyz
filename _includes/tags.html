@@ -2,10 +2,10 @@
 {% assign tags = page.tags | sort %}
 <div id="post-tags" class="post-tags">
 {% for tag in categories %}
-  {% if forloop.first %}
+  {% if forloop.first and tag != "Hidden" %}
   <span><strong>Categories&nbsp;::&nbsp;</strong></span>
   {% endif %}
-  {% if tag != "Hidden "%}
+  {% if tag != "Hidden" %}
   <span><a href="/c#{{ tag }}" id="post-tag" class="post-tag">{{ tag }}</a>&nbsp;&nbsp;</span>
   {% endif %}
 {% endfor %}

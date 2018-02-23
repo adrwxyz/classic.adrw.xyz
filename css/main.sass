@@ -59,6 +59,34 @@ body
   margin: 7px 5px
   &:hover
     background: #1565C0 !important
+.btn-selected
+  border: #000 4px solid
+  line-height: 30px
+
+.btn-read-more
+  font-size: 17px
+  padding-left: 8%
+  text-decoration: none
+  i
+    color: #666
+  .btn
+    i
+      color: #fff
+    .item-caption
+      font-family: $font-sans
+  a
+    text-decoration: none !important
+    border-bottom: none !important
+    color: #666
+    text-align: right
+    float: right
+    padding-right: 2%
+    &:hover
+      .btn
+        background: #1565C0 !important
+@media only screen and (min-width: 451px)
+  .btn-header
+    margin-top: -65px !important
 
 .logo-readium
   position: fixed
@@ -431,6 +459,9 @@ body
 .links
   line-height: 2.8
   opacity: 1 !important
+
+.map
+  height: 350px
 
 .post
   .article-image
@@ -958,28 +989,6 @@ pre
   font-weight: 400
   color: #666
   padding-left: 2%
-
-.btn-read-more
-  font-size: 17px
-  padding-left: 8%
-  text-decoration: none
-  i
-    color: #666
-  .btn
-    i
-      color: #fff
-    .item-caption
-      font-family: $font-sans
-  a
-    text-decoration: none !important
-    border-bottom: none !important
-    color: #666
-    text-align: right
-    float: right
-    padding-right: 2%
-    &:hover
-      .btn
-        background: #1565C0 !important
 
 .card
   position: relative
