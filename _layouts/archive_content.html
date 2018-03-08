@@ -1,0 +1,83 @@
+---
+layout: pattern
+---
+
+<header class="blog-header">
+  <h1 class="blog-title">{{ site.title }}</h1>
+  <h2 class="blog-description">{{ site.description }}</h2>
+  <div class="archive-header blog-subdescription">{{ content }}</div>
+</header>
+<main role="main">
+
+  {% case page.type %}
+    {% when "category" %}
+      {% assign sorted_items = site.categories | sort %}
+    {% when "tag" %}
+      {% assign sorted_items = site.tags | sort %}
+    {% when "lyrics" %}
+      {% assign sorted_items = site.songs | sort %}
+    {% when "guitar" %}
+      {% assign sorted_items = site.songs | sort %}
+    {% when "ukulele" %}
+      {% assign sorted_items = site.songs | sort %}
+  {% endcase %}
+
+  {% if page.links %}
+  <div class="cards-wrapper" style="padding-top: 100px;">
+    <h2 class="cards-header">Files</h2>
+    {% for link in page.links %}
+      <a class="btn" href="{{ link.url | prepend: basename }}">
+        <span class="item-caption">{{ link.title }}</span>
+      </a>
+    {% endfor %}
+  </div>
+  {% endif %}
+  <div class="id" id="top"></div>
+  <div class="cards-wrapper">
+    <h2 class="cards-header">{{ page.title }}</h2>
+    <div class="cards-cloud">
+      {% for item in sorted_items %}
+        <a class="btn" href="#{{ item.title | slugify }}">
+          <span class="item-caption">{{ item.title }}</span>
+        </a>
+      {% endfor %}
+    </div>
+  </div>
+
+  {% for item in sorted_items %}
+  <span class="id" id="{{ item.title }}">&nbsp;</span>
+  <span class="id" id="{{ item.title | slugify }}">&nbsp;</span>
+  <div class="cards-wrapper">
+    {% case page.type %}
+      {% when "lyrics" %}
+    <h2 class="cards-header"><a class="btn" href="#top" title="all-categories"><span class="item-caption">Top <i class="fas fa-chevron-up"></i></span></a> {{ item.title }} <a class="text" href="/g#{{ item.title | slugify }}" title="all-categories">&nbsp;&nbsp;<i class="fas fa-chevron-right"></i>&nbsp;Chords</a></h2>
+    <div class="archive-content">
+      <div class="archive-text">
+        <div id="post-tags" class="post-tags" style="margin-top: 0px !important;">
+          <span><strong>Artist&nbsp;::&nbsp;</strong>{{ item.artist }}</span><br/>
+          <span><strong>Source&nbsp;::&nbsp;</strong><a href="{{ item.source }}">{{ item.source | truncate: 40, '...' }}</a></span>
+        </div>
+        {{ item.lyrics | newline_to_br }}
+      </div>
+      {% when "guitar" %}
+    <h2 class="cards-header"><a class="btn" href="#top" title="all-categories"><span class="item-caption">Top <i class="fas fa-chevron-up"></i></span></a> {{ item.title }} <a class="text" href="/l#{{ item.title | slugify }}" title="all-categories">&nbsp;&nbsp;<i class="fas fa-chevron-right"></i>&nbsp;Lyrics</a></h2>
+    <div class="archive-content">
+      <div class="archive-text">
+        <div id="post-tags" class="post-tags" style="margin-top: 0px !important;">
+          <span><strong>Artist&nbsp;::&nbsp;</strong>{{ item.artist }}</span><br/>
+          <span><strong>Source&nbsp;::&nbsp;</strong><a href="{{ item.source }}">{{ item.source | truncate: 40, '...' }}</a></span>
+        </div>
+      </div>
+      {{ item.content | markdownify }}
+      {% else %}
+    <h2 class="cards-header"><a class="btn" href="#top" title="all-categories"><span class="item-caption">Top <i class="fas fa-chevron-up"></i></span></a> {{ item.title }}</h2>
+    <div class="archive-content">
+      <div class="archive-text">
+        {{ item.content | markdownify }}
+      </div>
+    {% endcase %}
+    </div>
+  </div>
+  {% endfor %}
+
+</main>

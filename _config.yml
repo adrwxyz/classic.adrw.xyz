@@ -173,6 +173,11 @@ social:
     share_title:
     share_link:
 
+# Collections
+collections:
+  songs:
+    output: False
+
 # Defaults for layouts
 defaults:
   -

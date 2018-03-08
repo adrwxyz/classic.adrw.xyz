@@ -1,0 +1,22 @@
+---
+layout: pattern_header
+---
+<main class="content" role="main">
+  <article class="post">
+    <meta itemprop="keywords" content="{{ page.tags | join: ',' }}" />
+  <meta itemprop="description" content="{{ content | strip_html | truncatewords: 40 }}" />
+    <div class="noarticleimage">
+      <div class="post-meta">
+        <h1 class="post-title">{{ page.title }}</h1>
+        <div id="post-tags" class="post-tags" style="margin-top: 0px !important;">
+          <span><strong>Artist&nbsp;::&nbsp;</strong>{{ page.artist }}</span><br/>
+          <span><strong>Source&nbsp;::&nbsp;</strong><a href="{{ page.source }}">{{ page.source | truncate: 40, '...' }}</a></span>
+        </div>
+      </div>
+    </div>
+    <section>
+      {{ page.lyrics | newline_to_br }}
+      {{ content }}
+    </section>
+  </article>
+</main>

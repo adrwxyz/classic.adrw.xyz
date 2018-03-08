@@ -10,6 +10,7 @@ services:
       - ./:/src
     working_dir: /src
     command: bash -c 'jekyll serve -s /src --watch --incremental --safe --profile'
+    # command: bash -c 'jekyll build --trace -s /src'
     ports:
       - "4000:4000"
       - "80:4000"

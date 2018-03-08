@@ -5,8 +5,7 @@ layout: pattern
 <header class="blog-header">
   <h1 class="blog-title">{{ site.title }}</h1>
   <h2 class="blog-description">{{ site.description }}</h2>
-  <p class="blog-subdescription">{% if page.page_title %}<span class="blog-page">{{ page.page_title }} :: </span>{% endif %}<span>{% if page.description %}{{ page.description }}{% else %}{{ site.meta_description }}{% endif %}</span></p>
-  <div class="blog-subdescription">{{ content }}</div>
+  <div class="archive-header blog-subdescription">{{ content }}</div>
 </header>
 <main role="main">
 
@@ -15,57 +14,51 @@ layout: pattern
       {% assign sorted_items = site.categories | sort %}
     {% when "tag" %}
       {% assign sorted_items = site.tags | sort %}
+    {% when "lyrics" %}
+      {% assign sorted_items = site.songs | sort %}
+    {% when "song" %}
+      {% assign sorted_items = site.songs | sort %}
   {% endcase %}
-
-  <!-- @TODO: add no-hidden filter so no empty tags are linked to -->
 
   <div class="id" id="top"></div>
   <div class="cards-wrapper">
     <h2 class="cards-header">{{ page.title }}</h2>
     <div class="cards-cloud">
       {% for item in sorted_items %}
-      {% if item[0] != "Hidden" %}
-        <a class="btn" href="#{{ item[0] | slugify }}">
-          <span class="item-caption">{{ item[1] | size }} {{ item[0] }}</span>
+        <a class="btn" href="#{{ item.title | slugify }}">
+          <span class="item-caption">{{ item.title }}</span>
         </a>
-      {% endif %}
       {% endfor %}
     </div>
   </div>
 
+  <div class="archive-content">
   {% for item in sorted_items %}
-  {% if item[0] != "Hidden" %}
-  <span class="id" id="{{ item[0] }}">&nbsp;</span>
-  <span class="id" id="{{ item[0] | slugify }}">&nbsp;</span>
+
+
+  {% endfor %}
+  </div>
+
+
+
+  <span class="id" id="{{ item.title }}">&nbsp;</span>
+  <span class="id" id="{{ item.title | slugify }}">&nbsp;</span>
   <div class="cards-wrapper">
-    <h2 class="cards-header"><a class="btn" href="#top" title="all-categories"><span class="item-caption">Top <i class="fas fa-chevron-up"></i></span></a> {{ item[0] }}</h2>
-    {% for post in item[1] %}
-      {% if post.categories contains "Hidden" %}
-      {% else %}
-      <a href="{{ post.url | prepend: site.baseurl }}">
-        <div class="card" data-id="{{ post.id }}">
-          <div class="card__container card__container--closed">
-            <svg class="card__image" preserveaspectratio="xMidYMid slice" viewbox="0 50 640 200" xmlns="http://www.w3.org/2000/svg">
-              {% if post.image2 %}
-              <image clip-path="url(#{{ post.id }}-clip-path)" height="480" width="640" xlink:href="{{ post.image2 | prepend: site.baseurl }}"></image>
-              {% elsif post.image %}
-              <image clip-path="url(#{{ post.id }}-clip-path)" height="480" width="640" xlink:href="{{ post.image | prepend: site.baseurl }}"></image>
-              {% else %}
-              <image clip-path="url(#{{ post.id }}-clip-path)" height="480" width="640" xlink:href="{{ post.image | prepend: site.baseurl }}"></image>
-              {% endif %}
-            </svg>
-            <div class="card__caption">
-              <p class="card__meta">{{ post.date | date: site.date_format }} {% for tag in post.tags limit:2 %}<span class="post-tag-{{slug}}" style="float: right;">{{ tag }}&nbsp;&nbsp;</span>{% endfor %}</p>
-              <h2 class="card__title">{{ post.title }}</h2>
-              <p class="card__subtitle">{{ post.excerpt | truncate: 70 }}</p>
-            </div>
+    <h2 class="cards-header"><a class="btn" href="#top" title="all-categories"><span class="item-caption">Top <i class="fas fa-chevron-up"></i></span></a> {{ item.title }}</h2>
+      {% case page.type %}
+        {% when "lyrics" %}
+          <div class="archive-text">
+            {{ item.lyrics | newline_to_br }}
           </div>
-        </div>
-      </a>
-      {% endif %}
-    {% endfor %}
-  </div><!-- /cards -->
-  {% endif %}
+        {% when "song" %}
+          {{ item.content | markdownify }}
+        {% else %}
+          <div class="archive-text">
+            {{ item.content | markdownify }}
+          </div>
+      {% endcase %}
+    </div>
+  </div>
   {% endfor %}
 
 </main>
