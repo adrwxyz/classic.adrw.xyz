@@ -17,6 +17,7 @@ layout: pattern
     {% when "lyrics" %}
       {% assign sorted_items = site.songs | sort %}
     {% when "guitar" %}
+  <hr style="width: 2500px; opacity: 0"></hr>
       {% assign sorted_items = site.songs | sort %}
     {% when "ukulele" %}
       {% assign sorted_items = site.songs | sort %}
@@ -26,9 +27,9 @@ layout: pattern
   <div class="cards-wrapper" style="padding-top: 100px;">
     <h2 class="cards-header">Files</h2>
     {% for link in page.links %}
-      <a class="btn" href="{{ link.url | prepend: basename }}">
-        <span class="item-caption">{{ link.title }}</span>
-      </a>
+    <a class="btn" href="{{ link.url | prepend: basename }}">
+      <span class="item-caption">{{ link.title }}</span>
+    </a>
     {% endfor %}
   </div>
   {% endif %}
@@ -37,9 +38,9 @@ layout: pattern
     <h2 class="cards-header">{{ page.title }}</h2>
     <div class="cards-cloud">
       {% for item in sorted_items %}
-        <a class="btn" href="#{{ item.title | slugify }}">
-          <span class="item-caption">{{ item.title }}</span>
-        </a>
+      <a class="btn" href="#{{ item.title | slugify }}">
+        <span class="item-caption">{{ item.title }}</span>
+      </a>
       {% endfor %}
     </div>
   </div>
@@ -68,12 +69,14 @@ layout: pattern
           <span><strong>Source&nbsp;::&nbsp;</strong><a href="{{ item.source }}">{{ item.source | truncate: 40, '...' }}</a></span>
         </div>
       </div>
-      {{ item.content | markdownify }}
+      <div class="chords">
+        {{ item.content }}
+      </div>
       {% else %}
     <h2 class="cards-header"><a class="btn" href="#top" title="all-categories"><span class="item-caption">Top <i class="fas fa-chevron-up"></i></span></a> {{ item.title }}</h2>
     <div class="archive-content">
       <div class="archive-text">
-        {{ item.content | markdownify }}
+        {{ item.content }}
       </div>
     {% endcase %}
     </div>
