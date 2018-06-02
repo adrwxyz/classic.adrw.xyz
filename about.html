@@ -14,19 +14,21 @@ seo_title: "About | Andrew Paradi"
 {% capture mdcontent %}
 ![](/assets/article_images/about/about-header-1000c.png)
 
-I'm graduating from Computer Science at University of Waterloo in April 2018.
+I'm a Software Engineer on the Scalability Team for [Square Cash](https://cash.app/).
 
-I have 4 years of experience solving problems with great code at [Atomic.vc](http://atomic.vc), startups [[1](/project/blitzen)][[2](/project/videostream)][[3](/project/teknically-webplio)], for [clients](/contact#Freelance), [side projects](/projects), & hackathons [[4](/project/resume-scoreboard)][[5](/project/losocco)][[6](/project/stockslate)].
+I graduated from University of Waterloo in April 2018 with a Bachelor in Computer Science.
 
-I can't wait to get back to building great software with an ambitious team.
-
-Whether diving into user analytics or turning data models into production code, I love working with data when I have the chance.
+I have 5+ years of experience solving problems with great code &amp; copy at [Atomic.vc](http://atomic.vc), startups [[1](/project/blitzen)][[2](/project/videostream)][[3](/project/teknically-webplio)], for [clients](/contact#Freelance), [side projects](/projects), &amp; hackathons [[4](/project/resume-scoreboard)][[5](/project/losocco)][[6](/project/stockslate)].
 
 {% endcapture %}
 {{ mdcontent | markdownify }}
 
 {% if site.work_cta%}
 {% capture mdcontent %}
+I can't wait to get back to building great software with an ambitious team.
+
+Whether diving into user analytics or turning data models into production code, I love working with data when I have the chance.
+
 If you're looking for a {{ site.work_title }} to start {{ site.work_term }}, please [email me](mailto:me@andrewparadi.com?subject=Job%20Opportunity)!
 {% endcapture %}
 {{ mdcontent | markdownify }}
@@ -39,7 +41,12 @@ Want to learn more?
   - [**Projects**](/projects) personal, hackathon, & freelance
   - [**Blog**](/blog) notes on startups, interesting books, optimizing user growth...
   - [**Resume**]({{ site.resume }}) up to date Curriculum Vitae
+{% if site.work_cta%}  
+{% capture mdcontent %}
   - [**Looking for a fullstack dev?**](/contact#Work) Let's talk!
+{% endcapture %}
+{{ mdcontent | markdownify }}
+{% endif %}
   - [**Need a new website?**](/contact#Freelance) Wordpress, Squarespace, or custom
   - [**Are you a startup founder?**](/contact#Startup) I can help pitch coaching or sales copy
   - [**Any other questions?**](/contact) Email me at andrewparadi.com and we can talk!

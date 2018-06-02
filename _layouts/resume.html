@@ -2,8 +2,7 @@
 layout: pattern_header
 ---
 <header class="blog-header">
-  <h1 class="blog-title">{{ site.title }}</h1>
-  <h2 class="blog-description">{{ site.description }}</h2>
+  {% include logo_header.html %}
   <p class="blog-subdescription">{% if page.page_title %}<span class="blog-page">{{ page.page_title }} :: </span>{% endif %}<span>{% if page.description %}{{ page.description }}{% else %}{{ site.meta_description }}{% endif %}</span></p>
 </header>
 
@@ -36,7 +35,7 @@ layout: pattern_header
                 </div>
                 {% else %}
                 <a href="{{ post.url | prepend: site.baseurl }}" class="resume-position" itemprop="url">
-                  <span class="resume-company">
+                  <span class="resume-comdpany">
                 {% if post.position and post.company %}
                   {{ post.company }} ::</span>&nbsp;{{ post.position }}
                 {% else %}
@@ -48,6 +47,7 @@ layout: pattern_header
 
                 {% capture now %}{{ 'now' | date: "%s" }}{% endcapture %}
                 {% capture start %}{{ post.startdate | date: "%s" }}{% endcapture %}
+                {% capture end %}{{ post.date | date: "%s" }}{% endcapture %}
                 {% capture start_year %}{{ post.startdate | date: "%y" }}{% endcapture %}
                 {% capture end_year %}{{ post.date | date: "%y" }}{% endcapture %}
                 {% capture start_month %}{{ post.startdate | date: "%b" }}{% endcapture %}
@@ -55,6 +55,7 @@ layout: pattern_header
                 <span class="resume-meta resume-month">
                 {% if post.startdate %}
                   {% if now < start %}Starting {{ post.startdate | date: "%b '%y" }}
+                  {% elsif end < start %}{{ post.date | date: "%b '%y" }} – Current
                   {% elsif start_month == end_month and start_year == end_year %}{{ post.date | date: "%b '%y" }}
                   {% elsif start_year == end_year %}{{ post.startdate | date: "%b" }} – {{ post.date | date: "%b '%y" }}
                   {% else %}{{ post.startdate | date: "%b '%y" }} – {{ post.date | date: "%b '%y" }}

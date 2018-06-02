@@ -3,7 +3,7 @@
 plugins:
   - jemoji
   - jekyll-paginate
-  - jekyll-redirect-from
+  # - jekyll-redirect-from
 #  - pygments
 
 # Site settings
@@ -14,7 +14,7 @@ description: # this means to ignore newlines until "email:"
    Full Stack Engineer
 
 meta_description:
-  I code to solve problems with a founder's <strong>hustle</strong> &amp; a designer's <strong>attention to detail</strong>. Computer Science Student @ University of Waterloo.
+  I code to solve problems with a founder's <strong>hustle</strong> &amp; a designer's <strong>attention to detail</strong>. Software Engineer @ Square Cash, Scalability.
 
 email: me@andrewparadi.com
 logo: "/assets/images/ap_logov4.0t-100c.png"

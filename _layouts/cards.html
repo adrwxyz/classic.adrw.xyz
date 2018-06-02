@@ -3,8 +3,7 @@ layout: pattern
 ---
 
 <header class="blog-header">
-  <h1 class="blog-title">{{ site.title }}</h1>
-  <h2 class="blog-description">{{ site.description }}</h2>
+  {% include logo_header.html %}
   <p class="blog-subdescription">{% if page.page_title %}<span class="blog-page">{{ page.page_title }} :: </span>{% endif %}<span>{% if page.description %}{{ page.description }}{% else %}{{ site.meta_description }}{% endif %}</span></p>
   <div class="blog-subdescription">{{ content }}</div>
 </header>

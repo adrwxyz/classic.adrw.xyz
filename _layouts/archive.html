@@ -3,8 +3,7 @@ layout: pattern
 ---
 
 <header class="blog-header">
-  <h1 class="blog-title">{{ site.title }}</h1>
-  <h2 class="blog-description">{{ site.description }}</h2>
+  {% include logo_header.html %}
   <div class="archive-header blog-subdescription">{{ content }}</div>
 </header>
 <main role="main">

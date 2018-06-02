@@ -4,7 +4,7 @@
     <section class="author">
       <div class="author-image" style="background-image: url({% if site.author_image_s %}{{ site.author_image_s | prepend: site.baseurl }}{% else %}{{ site.author_image | prepend: site.baseurl }}{% endif %})">{{ site.author }}</div>
       <h4>{{ site.author }}</h4>
-      <p class="bio">I study computer science at University of Waterloo, <a href='{{site.bio_work}}'>built 7 apps in 16 weeks at Atomic</a>, and <a href='{{site.bio_hack}}'>don't sleep at hackathons</a>.</p>
+      <p class="bio">I build software platforms to support Square Cash developers, graduated from University of Waterloo, and <a href='{{site.bio_hack}}'>don't sleep at hackathons</a>.</p>
       <hr>
       <p class="published">Published <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date: site.date_format }}</time></p>
     </section>
