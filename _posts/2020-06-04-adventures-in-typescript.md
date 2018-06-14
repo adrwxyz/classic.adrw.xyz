@@ -8,6 +8,7 @@ tags:
 categories:
 - Blog
 - Featured
+- Hidden
 image: /assets/article_images/2018-01-25-internet-gatekeepers/DSC_1784-2500c.png
 image2: /assets/article_images/2018-01-25-internet-gatekeepers/DSC_1784-500c.png
 excerpt: The elimination of Internet's gatekeepers has upended the world, here's how it happened.
