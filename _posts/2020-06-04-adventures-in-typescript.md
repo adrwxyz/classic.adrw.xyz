@@ -1,8 +1,8 @@
 ---
 title:  "Adventures in Typescript"
 date:   2020-01-25 12:34:25
-permalink: /blog/internet-gatekeepers
-redirect_from: /blog/internet-gatekeepers/
+permalink: /blog/typescript
+redirect_from: /blog/typescript/
 tags:
 - Security
 categories:
