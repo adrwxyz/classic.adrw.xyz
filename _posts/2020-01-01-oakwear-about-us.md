@@ -1,8 +1,8 @@
 ---
 title:  "Books: Hackers, Portfolios, & Camp David"
-date:   2016-08-07 6:00:00
-permalink: /blog/books-part-3
-redirect_from: /blog/books-part-3/
+date:   2020-01-01 6:00:00
+permalink: /blog/oakwear-about-us
+redirect_from: /blog/oakwear-about-us/
 tags:
 - Books
 categories:
