@@ -1,9 +1,9 @@
 ---
-title:  "andrewparadi.github.io"
+title:  "ADRW Jekyll Theme"
 date:   2017-11-09 18:00:00
 startdate:  2015-12-22 9:05:00
-permalink: /project/andrewparadi-github-io
-redirect_from: /project/andrewparadi-github-io/
+permalink: /project/adrw-jekyll
+redirect_from: /project/adrw-jekyll/
 categories:
 - Project
 - Experience
@@ -15,11 +15,11 @@ tags:
 - HTML
 - Sass
 - Javascript ES5/ES6/ES7
-image: /assets/article_images/andrewparadi.github.io/index-1-1500c.png
-image2: /assets/article_images/andrewparadi.github.io/index-1-1000c.png
+image: /assets/article_images/adrw-jekyll/index-1-1500c.png
+image2: /assets/article_images/adrw-jekyll/index-1-1000c.png
 excerpt: Personal portfolio and blog website, Jekyll on GitHub Pages
-seo_title: "Building AndrewParadi.com Portfolio &amp; Blog | Andrew Paradi"
-position: andrewparadi.github.io
+seo_title: "Building ADRW Jekyll Theme | Andrew Paradi"
+position: ADRW Jekyll Theme 
 company: GitHub
 summary: |
   - Portfolio &amp; Blog with custom cards, menu, and tag cloud components
@@ -31,47 +31,47 @@ In 2015, I was excited to keep building my developer skills and loved the opport
 
 Using other themes as inspiration, I've built many new features as outlined below to help make the site easier to navigate and more effective at displaying content.
 
-If you find any bugs or have any questions, please [email me](mailto:me@andrewparadi.com?subject=Website%20Bug)!
+If you find any bugs or have any questions, please [email me](mailto:account+github@adrw.ch?subject=ADRW%20Jekyll%20Bug)!
 
 Mobile Friendly Menu
 ---
 Menu that dynamically scales to all screen sizes and auto-hides on mobile.
 
-![Desktop Menu Closed](/assets/article_images/andrewparadi.github.io/menu-closed-1c.png)
-![Desktop Menu](/assets/article_images/andrewparadi.github.io/desktop-menu-1c.png)
-![Mobile Menu](/assets/article_images/andrewparadi.github.io/mobile-menu-1c.png)
+![Desktop Menu Closed](/assets/article_images/adrw-jekyll/menu-closed-1c.png)
+![Desktop Menu](/assets/article_images/adrw-jekyll/desktop-menu-1c.png)
+![Mobile Menu](/assets/article_images/adrw-jekyll/mobile-menu-1c.png)
 
 Cards
 ---
 Built image grid to feature images from posts and projects for use on homepage, project, and blog pages. Displays all posts in a given category.
 
-![Cards](/assets/article_images/andrewparadi.github.io/cards-1c.png)
+![Cards](/assets/article_images/adrw-jekyll/cards-1c.png)
 
 Card Sections
 ---
-Extension of cards to allow for sections of posts by category with buttons to more related posts. See on [`/index`](https://www.andrewparadi.com/), [`/projects`](https://www.andrewparadi.com/projects), and [`/blog`](https://www.andrewparadi.com/blog) pages.
+Extension of cards to allow for sections of posts by category with buttons to more related posts. See on [`/index`](https://www.andrew.fm/), [`/projects`](https://www.andrew.fm/projects), and [`/blog`](https://www.andrew.fm/blog) pages.
 
-![Card Sections](/assets/article_images/andrewparadi.github.io/card_sections-2-1500c.png)
+![Card Sections](/assets/article_images/adrw-jekyll/card_sections-2-1500c.png)
 
 Resume Layout
 ---
-Resume layout that pulls from `work`, `hackathon`, `project`, `freelance`, and `volunteer` categories and formats following meta data into well formated resume. Seen on [`/experience`](https://www.andrewparadi.com/experience) page.
+Resume layout that pulls from `work`, `hackathon`, `project`, `freelance`, and `volunteer` categories and formats following meta data into well formated resume. Seen on [`/experience`](https://www.andrew.fm/experience) page.
 - `date` : end date of position
 - `startdate` : start date of position
 - `position` : job title/role , team
 - `company` : firm or organization
 - `summary` : markdown description of experience
 
-![Resume Layout](/assets/article_images/andrewparadi.github.io/resume-1.png)
+![Resume Layout](/assets/article_images/adrw-jekyll/resume-1.png)
 
 Tag and Category Clouds
 ---
 Tags on category, page, project, &amp; post layouts. Used `{ % for % }` loops and conditional `{ % if % }` statements in [liquid markup](https://github.com/shopify/liquid/wiki/Liquid-for-Designers) to only show tags on categories when enabled in `_config.yml`.
 
 
-Archive layout that pulls from categories and tags to create easy navigation of all categories and tags with their respective totals of posts. See on [`/c`](https://www.andrewparadi.com/c) and [`/t`](https://www.andrewparadi.com/t) pages.
+Archive layout that pulls from categories and tags to create easy navigation of all categories and tags with their respective totals of posts. See on [`/c`](https://www.andrew.fm/c) and [`/t`](https://www.andrew.fm/t) pages.
 
-![Category Cloud](/assets/article_images/andrewparadi.github.io/archive-cloud-1c.png)
+![Category Cloud](/assets/article_images/adrw-jekyll/archive-cloud-1c.png)
 
 Modularized Footer and Social Bar
 ---
@@ -87,7 +87,7 @@ Extra wide columns of text are difficult to read! Text columns are sized to make
 
 Annotations for Embedded Media
 ---
-By default, including alt text to your Markdown image tag [alt text](/image/link.jpg) shows a caption below the image. Now this functionality is extended using `<figcaption>this is my caption</figcaption>` tags so captions can be added to embedded media and HTML5 videos.
+By default, including alt text to your Markdown image tag `[alt text](/path/to/image.jpg)` shows a caption below the image. Now this functionality is extended using `<figcaption>this is my caption</figcaption>` tags so captions can be added to embedded media and HTML5 videos.
 
 Super Fast, Mobile Optimized, Async CSS, &amp; Font Loading
 ---
@@ -100,7 +100,7 @@ Combined with a lightning fast Github Pages CDN, images are heavily optimized an
 
 Resources
 ---
-- [Source code on GitHub](https://github.com/andrewparadi/andrewparadi.github.io)
+- [Source code on GitHub](https://github.com/adrw/adrw.github.io)
 - [*Mediator Jekyll* theme](https://github.com/dirkfabisch/mediator) by [@dirkfabisch](https://twitter.com/dirkfabisch)
 - [*Jekyll Modern Blog* theme](https://github.com/inded/Jekyll_modern-blog) by [@inded](https://github.com/inded)
 - [Trianglify](https://github.com/qrohlf/trianglify) by [@qrholf](http://qrohlf.com/)

@@ -45,6 +45,6 @@ With a basic app called Progress, I could use my Pebble to track my progress as 
 
 ![Screenshots from my Pebble.](/assets/article_images/2016-02-02-progress-pebble/pebble-screenshots.png)
 
-Though I've stopped working on it, you can still install it from the [Pebble store](https://apps.getpebble.com/en_US/application/56ad85eed3cf022d44000001) and check out the [source code on Github](https://github.com/andrewparadi/progress-pebble).
+Though I've stopped working on it, you can still install it from the [Pebble store](https://apps.getpebble.com/en_US/application/56ad85eed3cf022d44000001) and check out the [source code on Github](https://github.com/adrw/progress-pebble).
 
 **Update Dec 7, 2016...I was really looking forward to my Kickstarter Time 2. Alas, it was not meant to be. Pebble is dead, Long live Pebble.**

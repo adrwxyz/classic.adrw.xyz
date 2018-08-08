@@ -1,4 +1,4 @@
-# By Andrew Paradi | Source at https://github.com/andrewparadi/get-started-with-jekyll
+# By Andrew Paradi | Source at https://github.com/adrw/get-started-with-jekyll
 
 DOCKER_COMPOSE=$(shell which docker-compose)
 DOCKER_COMPOSE_TARGETS=-f docker-compose.yml

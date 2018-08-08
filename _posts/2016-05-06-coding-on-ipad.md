@@ -15,7 +15,7 @@ excerpt: How a year working on iPad convinced me the Post-PC era is almost here.
 seo_title: "I code on my iPad, the world will soon | Andrew Paradi"
 ---
 
-Looking for a job or co-op? Check out *andrewnotes*::**Hired**.
+Looking for a job or co-op? Check out **Hired**.
 
 - [6 Questions to Focus your Resume on Impact](/blog/hired-part-1)
 - [Why Your Resume Needs SEO, and How](/blog/hired-part-2)

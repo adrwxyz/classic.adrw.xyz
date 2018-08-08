@@ -435,4 +435,4 @@ Thanks for Reading!
 
 I also write about B2B marketing for SaaS startups, writing focused copy, and winning case studies from my work.
 
-P.S. [Here's one of the case studies](http://andrewparadi.com/blog/videostream-how-growth-starts-with-great-customer-support)I've made public from my work with a B2C app that boosted conversions by over 30% on an app that already had 1.2 millions users. [Read it here!](http://andrewparadi.com/blog/videostream-how-growth-starts-with-great-customer-support)
+P.S. [Here's one of the case studies](/blog/videostream-how-growth-starts-with-great-customer-support)I've made public from my work with a B2C app that boosted conversions by over 30% on an app that already had 1.2 millions users. [Read it here!](/blog/videostream-how-growth-starts-with-great-customer-support)

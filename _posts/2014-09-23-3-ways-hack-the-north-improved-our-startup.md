@@ -79,4 +79,4 @@ We had no idea when we arrived at Hack the North that the weekend would improve 
 3. Chamath and the UW + YCom Alumni panel inspired us to dream bigger of who we could become in just a few short years.
 4. Our team won the Bloomberg API Prize!
 
-This article is the first in our Hack the North series. Continue your reading with Part 2: <a href="http://andrewparadi.com/blog/launchpad-meets-hack-north-3-hypotheses-tested-hacking">Launchpad Meets Hack the North: 3 Hypotheses We Tested While Hacking</a>.
+This article is the first in our Hack the North series. Continue your reading with Part 2: <a href="/blog/launchpad-meets-hack-north-3-hypotheses-tested-hacking">Launchpad Meets Hack the North: 3 Hypotheses We Tested While Hacking</a>.

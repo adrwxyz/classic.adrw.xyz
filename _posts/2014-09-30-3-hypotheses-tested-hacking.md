@@ -13,7 +13,7 @@ excerpt: Ever wondered how to apply the Lean Startup methodology to a hackathon?
 seo_title: "Launchpad Meets Hack the North: Our 3 Startup Hypotheses | Andrew Paradi"
 ---
 
->Looking for Hack the North Part 1? Check out <a href="http://andrewparadi.com/2014/09/3-ways-hack-the-north-improved-our-startup/">3 Ways Hack the North Improved our Startup</a>!
+>Looking for Hack the North Part 1? Check out <a href="/2014/09/3-ways-hack-the-north-improved-our-startup/">3 Ways Hack the North Improved our Startup</a>!
 
 As part of the Laurier Launchpad since October 2013, we quickly learned the "Lean Startup" methodology developed by Steve Blank, a legendary Silicon Valley serial entrepreneur and Stanford professor.  Distilled to one sentence, it is making decisions in your startup, not based on your intuition, but based on what your real results are with your product, market, and customers. Customer interviews, minimum viable products (MVP), and split testing marketing material are just a few of the many techniques used to test initial assumptions about your market, customers, or product.
 

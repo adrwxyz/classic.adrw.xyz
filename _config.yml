@@ -16,7 +16,7 @@ description: # this means to ignore newlines until "email:"
 meta_description:
   I code to solve problems with a founder's <strong>hustle</strong> &amp; a designer's <strong>attention to detail</strong>. Software Engineer @ Square Cash, Scalability.
 
-email: me@andrewparadi.com
+email: me@andrew.fm
 logo: "/assets/images/ap_logov4.0t-100c.png"
 float_logo: true
 cover: "/assets/images/covers/launchpad-c.jpg"
@@ -35,7 +35,7 @@ bio_project: "/progress-pebble"
 bio_post: "/blog/videostream-how-growth-starts-with-great-customer-support"
 bio_video: "https://youtu.be/hfbE7sVbz8k?list=PLmu6fQR8i26VzMOSuUikzqRLT4diEE_AA"
 bio_piano: "https://youtu.be/VuBCs_t54DY"
-bio_insta: "https://www.instagram.com/andrewnotes"
+bio_insta: "https://www.instagram.com/"
 work_cta: False
 work_title: "full stack dev"
 work_term: "May 2018"
@@ -90,7 +90,7 @@ footer_menu:
     url: /t
 
 
-url: "//www.andrewparadi.com" # the base hostname & protocol for your site
+url: "//www.andrew.fm" # the base hostname & protocol for your site
 baseurl: ""
 enforce_ssl:
 permalink: /:categories/:title
@@ -118,8 +118,8 @@ social:
     share_link:
   - title: Email
     icon:	fas fa-envelope
-    url:	mailto:me@andrewparadi.com
-    desc:	Email me@andrewparadi.com
+    url:	mailto:contact@adrw.ch
+    desc:	Email contact@adrw.ch
     share_url:
     share_title:
     share_link:
@@ -139,14 +139,14 @@ social:
     share_link:
   # - title: Twitter
   #   icon:	fab fa-twitter
-  #   url:	https://twitter.com/andrewparadi
+  #   url:	https://twitter.com/
   #   desc: Follow me on twitter
   #   share_url: http://twitter.com/share
   #   share_title: ?text=
   #   share_link: "&amp;url="
   # - title: Instagram
   #   icon:	fab fa-instagram
-  #   url:	https://instagram.com/andrewnotes
+  #   url:	https://instagram.com/
   #   desc:	Follow on instagram
   #   share_url:
   #   share_title:

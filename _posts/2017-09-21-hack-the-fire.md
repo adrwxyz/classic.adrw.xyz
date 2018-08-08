@@ -53,5 +53,5 @@ Tech Stack
 - NumPy
 - Jupyter
 
-Check out the [submission on Devpost](https://devpost.com/software/hack-the-fire) and [repo on GitHub](https://github.com/andrewparadi/hack-the-fire).
+Check out the [submission on Devpost](https://devpost.com/software/hack-the-fire) and [repo on GitHub](https://github.com/adrw/hack-the-fire).
 ---

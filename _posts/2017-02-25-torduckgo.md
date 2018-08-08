@@ -32,7 +32,7 @@ I did the research to create and embed the XML so you can go to a single website
 
 Try it for yourself
 ---
-1. Go to [andrewparadi.com/torduckgo](/torduckgo/) in [Tor Browser](https://www.torproject.org/projects/torbrowser.html)
+1. Go to [andrew.fm/torduckgo](/torduckgo/) in [Tor Browser](https://www.torproject.org/projects/torbrowser.html)
 2. Click the green + in the search box
 ![](/assets/article_images/2017-02-25-torduckgo/green-search.png)
 3. Add TorDuckGo to your search options
@@ -42,5 +42,5 @@ Try it for yourself
 
 Resources
 ---
-- [Source Code on Github](https://github.com/andrewparadi/torduckgo)
+- [Source Code on Github](https://github.com/adrw/torduckgo)
 - [Tor Browser](https://www.torproject.org/projects/torbrowser.html)

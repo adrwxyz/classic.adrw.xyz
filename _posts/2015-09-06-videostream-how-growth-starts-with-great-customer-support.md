@@ -108,4 +108,4 @@ Personally, I grew a lot. The experience of owning a project, working closely wi
 
 I'm thankful to Matt, Jason, Graham, Joe, Phillip, Sean, & Rahul for all of the support, guidance, and unique opportunities I received this summer. It's certainly one I won't soon forget.
 
-<strong>P.S. I'm looking to do an internship next summer too! If you think I'd be a good fit on your team, check out my <a href="{{ site.resume }}" target="_blank">resume</a> and send me an email at <a href="mailto:me@andrewparadi.com">me@andrewparadi.com</a>.</strong>
+<strong>P.S. I'm looking to do an internship next summer too! If you think I'd be a good fit on your team, check out my <a href="{{ site.resume }}" target="_blank">resume</a> and send me an email at <a href="mailto:{{ site.email }}">{{ site.email }}</a>.</strong>

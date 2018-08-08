@@ -29,10 +29,10 @@ Built at Hack the North 2014, StockSlate let you analyze stock picks in real tim
 
 Our team of four built StockSlate with Angular.JS, Node.JS, and the Bloomberg API. I developed and tested the machine learning score algorithms for each investor profile that were used in the application. My algorithms leveraged standard deviations and logarithmic weightings similar to the Black-Scholes options pricing formula that won the Nobel Prize for Economics in 1997. I also produced the demo video and delivered the winning pitch to judging panels and sponsors.
 
-We won the Bloomberg API Prize for most innovative use of their data at the competition. I wrote extensively about our experience at Hack the North 2014 building StockSlate on <a href="https://www.andrewparadi.com/blog">my blog</a>:
+We won the Bloomberg API Prize for most innovative use of their data at the competition. I wrote extensively about our experience at Hack the North 2014 building StockSlate on <a href="/blog">my blog</a>:
 
-- <a href="http://andrewparadi.com/blog/3-ways-hack-the-north-improved-our-startup/">3 Ways Hack the North Improved our Startup</a> - Sept 23, 2014
-- <a href="http://andrewparadi.com/blog/launchpad-meets-hack-north-3-hypotheses-tested-hacking/">Launchpad meets Hack the North: 3 Hypotheses We Tested While Hacking</a> - Sept 30, 2014
+- <a href="/blog/3-ways-hack-the-north-improved-our-startup/">3 Ways Hack the North Improved our Startup</a> - Sept 23, 2014
+- <a href="/blog/launchpad-meets-hack-north-3-hypotheses-tested-hacking/">Launchpad meets Hack the North: 3 Hypotheses We Tested While Hacking</a> - Sept 30, 2014
 
 <iframe width="960" height="720" src="https://www.youtube-nocookie.com/embed/juY4bwJXMVE?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
