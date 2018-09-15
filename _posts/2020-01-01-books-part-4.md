@@ -7,6 +7,7 @@ tags:
 - Books
 categories:
 - Blog
+- Hidden
 image: /assets/article_images/2016-08-07-books-part-3/DSC_0409c.jpg
 image2: /assets/article_images/2016-08-07-books-part-3/DSC_0409c-1000c.jpg
 excerpt: In 6 months, I've read books on tense diplomatic negotiations, 1960s American segregation, and the perfect investing portfolio.
