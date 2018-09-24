@@ -7,8 +7,7 @@ tags:
 - Hackathon
 categories:
 - Blog
-image: /assets/article_images/2018-01-25-internet-gatekeepers/DSC_1784-2500c.png
-image2: /assets/article_images/2018-01-25-internet-gatekeepers/DSC_1784-500c.png
+image: https://raw.githubusercontent.com/adrw/high-resolution-compressed-images/master/img/00012c.png
 excerpt: Follow these tips to help show how awesome your hack is in the short demo time you have.
 seo_title: "7 Tips for Doing a Kickass Demo | Andrew Paradi"
 ---

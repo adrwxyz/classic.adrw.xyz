@@ -7,8 +7,7 @@ tags:
 - Hackathon
 categories:
 - Blog
-image: /assets/article_images/2018-01-25-internet-gatekeepers/DSC_1784-2500c.png
-image2: /assets/article_images/2018-01-25-internet-gatekeepers/DSC_1784-500c.png
+image: https://raw.githubusercontent.com/adrw/high-resolution-compressed-images/master/img/00011c.png
 excerpt: Follow this framework to help show how awesome your hack is in the short time you have.
 seo_title: "The Hacker's ABC Framework for Doing a Kickass Demo | Andrew Paradi"
 ---
