@@ -13,6 +13,7 @@ seo_title: "The Hacker's ABC Framework for Doing a Kickass Demo | Andrew Paradi"
 ---
 
 **This post was written as part of the [How to Demo Workshop](https://github.com/hackthenorth/hackthenorth2018-workshops/blob/master/HowToDemo.md) Andrew & Brandon presented at Hack the North 2018.**
+- Also check out [7 Tips for Doing an Kickass Demo](/blog/how-to-demo-7tips)
 
 Doing a demo can be a daunting task, especially if you’re a first-time hacker. Follow this framework to help show how awesome your hack is in the short time you have. 
 
