@@ -14,9 +14,11 @@ seo_title: "The Hacker's ABC Framework for Doing a Kickass Demo | Andrew Paradi"
 
 **This post was written as part of the [How to Demo Workshop](https://github.com/hackthenorth/hackthenorth2018-workshops/blob/master/HowToDemo.md) Andrew & Brandon presented at Hack the North 2018.**
 
-Doing a demo can be a daunting task, especially if you’re a first-time hacker. Follow this framework to help show how awesome your hack is in the short time you have. Note, this framework works best with a "story driven" hack demo.
+Doing a demo can be a daunting task, especially if you’re a first-time hacker. Follow this framework to help show how awesome your hack is in the short time you have. 
 
-This Hacker's ABC Framework was featured in the [HowToDemo](./HowToDemo.md) workshop. Example text in *italics* is from the example demo for [Stockslate](https://youtu.be/juY4bwJXMVE).
+*Notes*
+- This framework works best with a "story driven" hack demo.
+- Example text below in *italics* is from the example demo for [Stockslate](https://youtu.be/juY4bwJXMVE).
 
 # 1. Your Hack in 1 Sentence
 Start your demo with a single sentence summary of what your hack achieves. This will give your audience immediate context for what you'll now be talking about.
