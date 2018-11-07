@@ -6,8 +6,8 @@ redirect_from: /song/castle-on-the-hill/
 layout: song
 artist: Ed Sheeran
 source: https://tabs.ultimate-guitar.com/tab/ed_sheeran/castle_on_the_hill_chords_1928433
-seo_title: "Castle On The Hill | Songs | Andrew Paradi"
-excerpt: "Castle On The Hill | Songs | Andrew Paradi"
+seo_title: "Castle On The Hill | Songs | Andrew Paradi Alexander"
+excerpt: "Castle On The Hill | Songs | Andrew Paradi Alexander"
 lyrics: |
   [Verse 1]
   When I was six years old I broke my leg

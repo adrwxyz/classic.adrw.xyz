@@ -10,7 +10,7 @@ categories:
 image: /assets/article_images/2016-05-01-tinder-for-blogs/DSC_1702.jpg
 image2: /assets/article_images/2016-05-01-tinder-for-blogs/DSC_1702-1000c.jpg
 excerpt: Every week I'm writing a post, and you can swipe right or left to choose what I write next!
-seo_title: "Tinder for Blogs | Andrew Paradi"
+seo_title: "Tinder for Blogs | Andrew Paradi Alexander"
 ---
 
 **This summer I'm writing a post every week.**

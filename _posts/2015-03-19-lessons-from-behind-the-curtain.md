@@ -12,7 +12,7 @@ categories:
 image: /assets/article_images/2015-03-19-lessons-from-behind-the-curtain/chicago.jpg
 image2: /assets/article_images/2015-03-19-lessons-from-behind-the-curtain/chicago-1000c.png
 excerpt: At our final Laurier Launchpad update presentation we summarized the five biggest lessons we had learned founding our startup, Teknically.
-seo_title: "5 Tough Lessons for When Your Startup Fails | Andrew Paradi"
+seo_title: "5 Tough Lessons for When Your Startup Fails | Andrew Paradi Alexander"
 ---
 
 **When your world stops spinning, the lights fade, and the silence surrounds you, you can finally think. These past 13 weeks have been the beginning of my next chapter, the regaining of consciousness, & the recovery from 13 months founding a startup.**

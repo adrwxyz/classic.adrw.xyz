@@ -6,8 +6,8 @@ redirect_from: /song/jamming/
 layout: song
 artist: Bob Marley
 source: https://tabs.ultimate-guitar.com/tab/bob_marley/jammin_chords_75870
-seo_title: "Jamming | Songs | Andrew Paradi"
-excerpt: "Jamming | Songs | Andrew Paradi"
+seo_title: "Jamming | Songs | Andrew Paradi Alexander"
+excerpt: "Jamming | Songs | Andrew Paradi Alexander"
 lyrics: |
   [Chorus]
   We're jamming

@@ -12,7 +12,7 @@ categories:
 image: /assets/article_images/2018-01-25-internet-gatekeepers/DSC_1784-2500c.png
 image2: /assets/article_images/2018-01-25-internet-gatekeepers/DSC_1784-500c.png
 excerpt: The elimination of Internet's gatekeepers has upended the world, here's how it happened.
-seo_title: "No More Gatekeepers | Andrew Paradi"
+seo_title: "No More Gatekeepers | Andrew Paradi Alexander"
 ---
 
 - Part 1: What is Typescript
@@ -42,7 +42,7 @@ seo_title: "No More Gatekeepers | Andrew Paradi"
             - If it is an object you produce and consume file-locally then using `declare type` will suffice
             - For package-local types, types should only be defined in a single location
         - This may lead to a dark place
-    
+
 
 
 
@@ -57,7 +57,7 @@ seo_title: "No More Gatekeepers | Andrew Paradi"
 Mind dump
 
 - What is it
-    - Superset of JS that adds types. Uses new JS compiler to enforce 
+    - Superset of JS that adds types. Uses new JS compiler to enforce
 - Why do we use it
     - Some studies show that 15% of production code errors have been because of type errors. TS prevents these and promotes a more rigorous code writing process
 - What makes it different than JS (basic syntax)
@@ -80,8 +80,8 @@ Mind dump
 - Lots still to learn
     - TS Compiler seems to sometimes need tweaking for which ECMAScript version code is being transpiled down to. For our purposes where cross-browser is not a priority, `es2017` is a possibility, others may need to still compile down to `es5` which is cross-compatible with most browsers including IE11.
     - Writing types in JS takes a bit of practice but becomes natural just as it is when writing Java or C code
-    - Much easier to catch errors in consuming functions when parameters are formerly defined as a certain type. Complex types can be also be defined as interfaaces so that parameters like props into React Components 
-    
+    - Much easier to catch errors in consuming functions when parameters are formerly defined as a certain type. Complex types can be also be defined as interfaaces so that parameters like props into React Components
+
 
 
 

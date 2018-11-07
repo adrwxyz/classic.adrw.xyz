@@ -20,8 +20,8 @@ tags:
 image: /assets/article_images/adrw-jekyll/index-1-1500c.png
 image2: /assets/article_images/adrw-jekyll/index-1-1000c.png
 excerpt: Personal portfolio and blog website, Jekyll on GitHub Pages
-seo_title: "Building ADRW Jekyll Theme | Andrew Paradi"
-position: ADRW Jekyll Theme 
+seo_title: "Building ADRW Jekyll Theme | Andrew Paradi Alexander"
+position: ADRW Jekyll Theme
 company: GitHub
 summary: |
   - Portfolio &amp; Blog with custom cards, menu, and tag cloud components

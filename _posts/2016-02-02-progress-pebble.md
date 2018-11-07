@@ -17,7 +17,7 @@ tags:
 image: /assets/article_images/2016-02-02-progress-pebble/progress-pebble-app-store-2000c.png
 image2: /assets/article_images/2016-02-02-progress-pebble/progress-pebble-app-store-1000c.png
 excerpt: Log workouts from dumb fitness trackers to the cloud!
-seo_title: "Progress Pebble - Log workouts from dumb fitness trackers | Andrew Paradi"
+seo_title: "Progress Pebble - Log workouts from dumb fitness trackers | Andrew Paradi Alexander"
 position: Progress Pebble
 company: GitHub
 summary: |

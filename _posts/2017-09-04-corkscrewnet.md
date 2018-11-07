@@ -19,7 +19,7 @@ tags:
 image: /assets/article_images/2017-09-04-corkscrewnet/corkscrewnet-new-2000c.png
 image2: /assets/article_images/2017-09-04-corkscrewnet/corkscrewnet-new-1000c.png
 excerpt: CorkscrewNet.com has been online since 1999 but needed an easy to edit, new Wordpress website.
-seo_title: "New Wordpress site for CorkscrewNet | Andrew Paradi"
+seo_title: "New Wordpress site for CorkscrewNet | Andrew Paradi Alexander"
 position: Freelance Website Dev
 company: CorkscrewNet
 summary: |

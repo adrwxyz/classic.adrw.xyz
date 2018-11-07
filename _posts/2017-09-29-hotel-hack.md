@@ -11,7 +11,7 @@ categories:
 image: /assets/article_images/2017-09-29-hotel-hack/hotel-lock-c.jpg
 image2: /assets/article_images/2017-09-29-hotel-hack/hotel-lock-500c.jpg
 excerpt: A 2012 vulnerability still can let anyone break in to millions of hotel rooms.
-seo_title: "10 Million Hotel Rooms Still Vulnerable | Andrew Paradi"
+seo_title: "10 Million Hotel Rooms Still Vulnerable | Andrew Paradi Alexander"
 ---
 
 **In 2012, Cody Brocious presented at Black Hat in Las Vegas that over 10 million hotel room locks were vulnerable to being unlocked in seconds with $50 of consumer grade hardware [[1](https://www.wired.com/2017/08/the-hotel-hacker/)]. In 2017, most still are.**

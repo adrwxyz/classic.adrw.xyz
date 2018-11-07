@@ -14,7 +14,7 @@ categories:
 image: /assets/article_images/2014-10-03-the-389-day-laurier-bba/cofounders-launchpad-desk.jpg
 image2: /assets/article_images/2014-10-03-the-389-day-laurier-bba/cofounders-launchpad-desk-1000c.jpg
 excerpt: My first year as a BBA student at Wilfrid Laurier University was unlike anything imaginable. I started a business, travelled the world, and now I'm free.
-seo_title: "The Most Exciting First Year at Laurier | Andrew Paradi"
+seo_title: "The Most Exciting First Year at Laurier | Andrew Paradi Alexander"
 ---
 
 **Today I declined my co-op offer. Last week, I deferred all my classes. My time as a full time BBA student at Wilfrid Laurier University is over after 389 days.**

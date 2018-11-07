@@ -9,7 +9,7 @@ categories:
 - Blog
 image: https://raw.githubusercontent.com/adrw/high-resolution-compressed-images/master/img/00012c.png
 excerpt: Follow these tips to help show how awesome your hack is in the short demo time you have.
-seo_title: "7 Tips for Doing a Kickass Demo | Andrew Paradi"
+seo_title: "7 Tips for Doing a Kickass Demo | Andrew Paradi Alexander"
 ---
 
 **This post was written as part of the [How to Demo Workshop](https://github.com/hackthenorth/hackthenorth2018-workshops/blob/master/HowToDemo.md) Andrew & Brandon presented at Hack the North 2018.**
@@ -22,9 +22,9 @@ Demos are relatively short (2 minutes for Hack The North). This isn't much time,
 How you demo and frame your project can be a significant factor to winning, irrespective of how robust your hack is. It can be a lot of fun and we encourage everyone to demo what they have!
 
 #1. Get to the point, you don’t have much time
-As much as you’d love to talk about all the new npm packages you used, you don’t have the stage for that long. 
+As much as you’d love to talk about all the new npm packages you used, you don’t have the stage for that long.
 
-Focus on the WOW factor of your hack (the features you think the judges will like the most). 
+Focus on the WOW factor of your hack (the features you think the judges will like the most).
 
 And when you do explain it, try and do so in as little words as possible.
 

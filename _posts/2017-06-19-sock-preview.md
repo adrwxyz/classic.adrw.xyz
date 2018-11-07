@@ -16,7 +16,7 @@ tags:
 image: /assets/article_images/2017-06-19-socks-preview/IMG_3824c.png
 image2: /assets/article_images/2017-06-19-socks-preview/IMG_3824-squarec.png
 excerpt: Hey! Hey you!! Get free dress socks if you help us choose our new logo!
-seo_title: "New Socks Brand - The best 10 patterns you'll find online, new every month. | Andrew Paradi"
+seo_title: "New Socks Brand - The best 10 patterns you'll find online, new every month. | Andrew Paradi Alexander"
 form_url: https://docs.google.com/forms/d/e/1FAIpQLScRplIyPS-iNEJE7eN-ctm-UlG_A2wEhIaLxiVZJDZPRr_4CQ/viewform?embedded=true
 form_height: 550
 ---

@@ -17,7 +17,7 @@ tags:
 - Kotlin
 - Java
 excerpt: Helping Cash developers build the simplest way to send payments.
-seo_title: "Square Cash, Scalability Team - Software Engineer | Andrew Paradi"
+seo_title: "Square Cash, Scalability Team - Software Engineer | Andrew Paradi Alexander"
 position: Software Engineer, Scalability Team
 company: Square Cash
 summary: |

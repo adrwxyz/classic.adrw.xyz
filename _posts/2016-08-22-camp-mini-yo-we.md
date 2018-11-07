@@ -13,7 +13,7 @@ sitemap:
 layout: project
 tags:
 excerpt: Boys Camp Cabin Leader for 8-18 years old boys at overnight Muskoka camp.
-seo_title: "Camp Mini-Yo-We - Boys Camp Cabin Leader | Andrew Paradi"
+seo_title: "Camp Mini-Yo-We - Boys Camp Cabin Leader | Andrew Paradi Alexander"
 position: Volunteer Cabin Leader
 company: Camp Mini-Yo-We
 summary: |

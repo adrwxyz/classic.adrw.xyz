@@ -11,7 +11,7 @@ categories:
 image: /assets/article_images/2015-07-27-canadian-fintech-startups-have-only-3-options/old-new-building.jpg
 image2: /assets/article_images/2015-07-27-canadian-fintech-startups-have-only-3-options/old-new-building-1000c.png
 excerpt: Canadian banks can't innovate and are hunting for startups that can. Insights from Communitech panel with bank CDOs on the future of Canadian fintech.
-seo_title: "Canadian Fintech Startups Have Only 3 Options | Andrew Paradi"
+seo_title: "Canadian Fintech Startups Have Only 3 Options | Andrew Paradi Alexander"
 ---
 
 Assembled on July 7th were the Chief Digital Officers of Canada's biggest banks (TD, CIBC, BMO, and Scotiabank) to discuss financial technology startups (fintech) at Communitech. Clearer than ever was the truth that though there's lots of problems in Canadian banking ripe for disruption by startups, the opportunity is very limited. Canadian banks can't innovate and are on the prowl for the startups that can.

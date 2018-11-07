@@ -6,8 +6,8 @@ redirect_from: /song/yesterday-today-and-forever/
 layout: song
 artist: Vicky Beeching
 source: https://tabs.ultimate-guitar.com/tab/vicky_beeching/yesterday_today_and_forever_chords_885818
-seo_title: "Yesterday Today and Forever | Songs | Andrew Paradi"
-excerpt: "Yesterday Today and Forever | Songs | Andrew Paradi"
+seo_title: "Yesterday Today and Forever | Songs | Andrew Paradi Alexander"
+excerpt: "Yesterday Today and Forever | Songs | Andrew Paradi Alexander"
 lyrics: |
   Verse 1:
   Everlasting God

@@ -6,8 +6,8 @@ redirect_from: /song/the-rocky-road-to-dublin/
 layout: song
 artist: The Dubliners
 source: https://tabs.ultimate-guitar.com/tab/paddy_reilly/the_rocky_road_to_dublin_chords_1478708
-seo_title: "The Rocky Road to Dublin | Songs | Andrew Paradi"
-excerpt: "The Rocky Road to Dublin | Songs | Andrew Paradi"
+seo_title: "The Rocky Road to Dublin | Songs | Andrew Paradi Alexander"
+excerpt: "The Rocky Road to Dublin | Songs | Andrew Paradi Alexander"
 lyrics: |
   In the merry month of June,  When first from home I started
   Left the girls of Tuam,  So sad and broken hearted

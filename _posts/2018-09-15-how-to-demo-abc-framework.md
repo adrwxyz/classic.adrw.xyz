@@ -9,13 +9,13 @@ categories:
 - Blog
 image: https://raw.githubusercontent.com/adrw/high-resolution-compressed-images/master/img/00011c.png
 excerpt: Follow this framework to help show how awesome your hack is in the short time you have.
-seo_title: "The Hacker's ABC Framework for Doing a Kickass Demo | Andrew Paradi"
+seo_title: "The Hacker's ABC Framework for Doing a Kickass Demo | Andrew Paradi Alexander"
 ---
 
 **This post was written as part of the [How to Demo Workshop](https://github.com/hackthenorth/hackthenorth2018-workshops/blob/master/HowToDemo.md) Andrew & Brandon presented at Hack the North 2018.**
 - Also check out [7 Tips for Doing an Kickass Demo](/blog/how-to-demo-7tips)
 
-Doing a demo can be a daunting task, especially if you’re a first-time hacker. Follow this framework to help show how awesome your hack is in the short time you have. 
+Doing a demo can be a daunting task, especially if you’re a first-time hacker. Follow this framework to help show how awesome your hack is in the short time you have.
 
 *Notes*
 - This framework works best with a "story driven" hack demo.
@@ -45,12 +45,12 @@ This is your chance to talk about the crazy cool tech you used to build your hac
 *"Stockslate uses the Bloomberg API and is built on the MEAN stack. This means it's a single page app and requires no reloads.”*
 
 ### a. 	What did you use to build it?
-Feel free to rhyme off some of the technologies and APIs you combined to make your hack. 
+Feel free to rhyme off some of the technologies and APIs you combined to make your hack.
 
 Highlight how certain technologies made your hack possible but don't do this for every technology or this section will become too long.
 
 ### b.	What was challenging about it?
-This is where you can briefly share how you overcame different challenges over your 36 hours hacking (we know it won't have been easy)! 
+This is where you can briefly share how you overcame different challenges over your 36 hours hacking (we know it won't have been easy)!
 
 Share also technologies you combined together in ways that may not have been done before. This is a great spot to talk about what makes your Hack special from a technial perspective.
 
@@ -76,11 +76,11 @@ Focus on the end goal, the impact, the core value of your hack. Use situations a
 *“Investor Scores are a way to intuitively test your strategy”*
 
 # 9. Close Strong
-Repeat your core value, why your hack is import and would have a beneficial impact on your users. 
+Repeat your core value, why your hack is import and would have a beneficial impact on your users.
 
 Reiterate what tech you used to build your hack.
 
-Conclude with a reiteration of your single sentence description that you started your demo with. 
+Conclude with a reiteration of your single sentence description that you started your demo with.
 
 # Go give a great demo!
 Voila! 9 steps that should help guide you to giving a great demo for your hack!

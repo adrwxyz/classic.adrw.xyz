@@ -21,7 +21,7 @@ tags:
 image: /assets/article_images/2015-09-06-videostream/vs-home-c.png
 image2: /assets/article_images/2015-09-06-videostream/vs-home-1000c.png
 excerpt: In 4 months, Andrew resolved 2,148 support tickets, boosted downloads 32% with a new website, and optimized checkout flow for revenue.
-seo_title: "Videostream - Downloads Up 32% in Weeks | Andrew Paradi"
+seo_title: "Videostream - Downloads Up 32% in Weeks | Andrew Paradi Alexander"
 position: Growth Intern
 company: Videostream
 summary: |

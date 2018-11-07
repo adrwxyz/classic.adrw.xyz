@@ -6,8 +6,8 @@ redirect_from: /song/redemption-song/
 layout: song
 artist: Bob Marley
 source: https://tabs.ultimate-guitar.com/tab/bob_marley/redemption_song_chords_417640
-seo_title: "Redemption Song | Songs | Andrew Paradi"
-excerpt: "Redemption Song | Songs | Andrew Paradi"
+seo_title: "Redemption Song | Songs | Andrew Paradi Alexander"
+excerpt: "Redemption Song | Songs | Andrew Paradi Alexander"
 lyrics: |
   [Verse]
   Old Pirates, yes, they rob I.

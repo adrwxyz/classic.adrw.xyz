@@ -6,8 +6,8 @@ redirect_from: /song/feel-the-tide/
 layout: song
 artist: Mumford & Sons
 source: https://tabs.ultimate-guitar.com/tab/mumford_sons/feel_the_tide_chords_1024990
-seo_title: "Feel The Tide | Songs | Andrew Paradi"
-excerpt: "Feel The Tide | Songs | Andrew Paradi"
+seo_title: "Feel The Tide | Songs | Andrew Paradi Alexander"
+excerpt: "Feel The Tide | Songs | Andrew Paradi Alexander"
 lyrics: |
   [Intro]
 

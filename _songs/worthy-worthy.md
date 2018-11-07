@@ -6,8 +6,8 @@ redirect_from: /song/worthy-worthy/
 layout: song
 artist: Vertical Church Band
 source: https://tabs.ultimate-guitar.com/tab/vertical_church_band/worthy_worthy_chords_1453643
-seo_title: "Worthy Worthy | Songs | Andrew Paradi"
-excerpt: "Worthy Worthy | Songs | Andrew Paradi"
+seo_title: "Worthy Worthy | Songs | Andrew Paradi Alexander"
+excerpt: "Worthy Worthy | Songs | Andrew Paradi Alexander"
 lyrics: |
   [Intro]
 

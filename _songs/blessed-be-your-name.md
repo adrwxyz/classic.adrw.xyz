@@ -6,8 +6,8 @@ redirect_from: /song/blessed-be-your-name/
 layout: song
 artist: Matt Redman
 source: https://tabs.ultimate-guitar.com/tab/matt_redman/blessed_be_your_name_chords_52780
-seo_title: "Blessed Be Your Name | Songs | Andrew Paradi"
-excerpt: "Blessed Be Your Name | Songs | Andrew Paradi"
+seo_title: "Blessed Be Your Name | Songs | Andrew Paradi Alexander"
+excerpt: "Blessed Be Your Name | Songs | Andrew Paradi Alexander"
 lyrics: |
   [Verse 1]
    Blessed be Your name  in the land that is plentiful
@@ -15,10 +15,10 @@ lyrics: |
    Blessed be Your name  when I'm found in the desert place
   Though I walk through the wilderness  blessed be Your name
 
-   Every blessing You pour out I'll  turn back to praise 
+   Every blessing You pour out I'll  turn back to praise
    When the darkness closes in, Lord  still I will say
 
-  [Chorus]             
+  [Chorus]
   Blessed be the name of the Lord
   Blessed be Your name
   Blessed be the name of the Lord
@@ -28,7 +28,7 @@ lyrics: |
   [Verse 2]
    Blessed be Your name  when the sun's shining down on me
   When the world's, "all as it should be"  blessed be Your name
-   Blessed be Your name  on the road marked with suffering 
+   Blessed be Your name  on the road marked with suffering
   Though there's pain in the offering  blessed be Your name
 
 
@@ -56,13 +56,13 @@ Though I walk through the wilderness  blessed be Your name
 
 
 G                     D               Em             C
- Every blessing You pour out I'll  turn back to praise 
+ Every blessing You pour out I'll  turn back to praise
 G                 D               Em             C
  When the darkness closes in, Lord  still I will say
 
 
-[Chorus]             
-               G           D 
+[Chorus]
+               G           D
 Blessed be the name of the Lord
                 Em       C
 Blessed be Your name
@@ -74,12 +74,12 @@ Blessed be Your glorious name
 
 [Verse 2]
 
-G        D                      Em            C  
+G        D                      Em            C
  Blessed be Your name  when the sun's shining down on me
-         G                D              C 
+         G                D              C
 When the world's, "all as it should be"  blessed be Your name
 G        D                    Em               C
- Blessed be Your name  on the road marked with suffering 
+ Blessed be Your name  on the road marked with suffering
                G           D         C
 Though there's pain in the offering  blessed be Your name
 

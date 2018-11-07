@@ -18,7 +18,7 @@ tags:
 - Wordpress
 - Google-Analytics
 excerpt: Set up servers &amp; website to help home raise $25,000 in 3 months.
-seo_title: "Grace Orphan Home - Webmaster | Andrew Paradi"
+seo_title: "Grace Orphan Home - Webmaster | Andrew Paradi Alexander"
 position: Webmaster
 company: Grace Orphan Home, India
 summary: |

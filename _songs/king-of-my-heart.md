@@ -6,8 +6,8 @@ redirect_from: /song/king-of-my-heart/
 layout: song
 artist: John Mark McMillan
 source: https://tabs.ultimate-guitar.com/tab/john_mark_mcmillan/king_of_my_heart_chords_1748669
-seo_title: "King of my Heart | Songs | Andrew Paradi"
-excerpt: "King of my Heart | Songs | Andrew Paradi"
+seo_title: "King of my Heart | Songs | Andrew Paradi Alexander"
+excerpt: "King of my Heart | Songs | Andrew Paradi Alexander"
 lyrics: |
   [Intro]
 

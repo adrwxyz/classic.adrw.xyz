@@ -6,8 +6,8 @@ redirect_from: /song/raised-on-black-and-tans/
 layout: song
 artist: Gaelic Storm
 source: https://tabs.ultimate-guitar.com/tab/gaelic_storm/raised_on_black_and_tans_chords_1046825
-seo_title: "Raised on Black & Tans | Songs | Andrew Paradi"
-excerpt: "Raised on Black & Tans | Songs | Andrew Paradi"
+seo_title: "Raised on Black & Tans | Songs | Andrew Paradi Alexander"
+excerpt: "Raised on Black & Tans | Songs | Andrew Paradi Alexander"
 lyrics: |
   I was raised   on Black and Tans,
   with Ronnie Drew,   and Van the Man
@@ -51,7 +51,7 @@ lyrics: |
   I've never been to Ireland
   but I know it's in my blood
 
-  [[CHORUS]] 
+  [[CHORUS]]
 ---
 
 ```
@@ -116,7 +116,7 @@ and whiskey on the side
 [[CHORUS]]
 G
 I was raised on Black and Tans
-            D               G  
+            D               G
 with Ronnie Drew and Van the Man
 G
 I go to mass on Sunday
@@ -131,5 +131,5 @@ I've never been to Ireland
       G                D
 but I know it's in my blood
 
-[[CHORUS]] 
+[[CHORUS]]
 ```

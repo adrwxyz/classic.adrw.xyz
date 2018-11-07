@@ -6,8 +6,8 @@ redirect_from: /song/god-of-wonders/
 layout: song
 artist: Third Day
 source: https://tabs.ultimate-guitar.com/tab/third_day/god_of_wonders_chords_96406
-seo_title: "God of Wonders | Songs | Andrew Paradi"
-excerpt: "God of Wonders | Songs | Andrew Paradi"
+seo_title: "God of Wonders | Songs | Andrew Paradi Alexander"
+excerpt: "God of Wonders | Songs | Andrew Paradi Alexander"
 lyrics: |
   [Intro]
 

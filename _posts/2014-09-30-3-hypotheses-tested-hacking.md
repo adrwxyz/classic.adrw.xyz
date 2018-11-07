@@ -10,7 +10,7 @@ categories:
 image: /assets/article_images/2014-09-30-stockslate-hack-the-north/Webplio-Dashboard-v3-Referrals.png
 image2: /assets/article_images/2014-09-30-stockslate-hack-the-north/Webplio-Dashboard-v3-Referrals-crop.png
 excerpt: Ever wondered how to apply the Lean Startup methodology to a hackathon? The Webplio team used Hack the North to test their top three hypotheses.
-seo_title: "Launchpad Meets Hack the North: Our 3 Startup Hypotheses | Andrew Paradi"
+seo_title: "Launchpad Meets Hack the North: Our 3 Startup Hypotheses | Andrew Paradi Alexander"
 ---
 
 >Looking for Hack the North Part 1? Check out <a href="/2014/09/3-ways-hack-the-north-improved-our-startup/">3 Ways Hack the North Improved our Startup</a>!

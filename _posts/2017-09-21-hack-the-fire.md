@@ -17,7 +17,7 @@ tags:
 image: /assets/article_images/2017-09-21-hack-the-fire/hack-the-fire-2000c.png
 image2: /assets/article_images/2017-09-21-hack-the-fire/hack-the-fire-1000c.png
 excerpt: Implemented Machine Learning Perceptron algorithm to predict Calgary Fire Dept response times
-seo_title: "Hack the Fire | Andrew Paradi"
+seo_title: "Hack the Fire | Andrew Paradi Alexander"
 position: Hack the Fire
 company: HackTheNorth
 summary: |

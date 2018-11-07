@@ -14,7 +14,7 @@ tags:
 - CSS
 image: /assets/article_images/oakwearco/lawrence-desktop-1500c.png
 excerpt: Five storied sock styles in a responsive web store experience
-seo_title: "OAKWEAR & CO. – Five storied sock styles in a responsive web store experience | Andrew Paradi"
+seo_title: "OAKWEAR & CO. – Five storied sock styles in a responsive web store experience | Andrew Paradi Alexander"
 position: Founder, Digital Operations
 company: OAKWEAR & CO.
 summary: |

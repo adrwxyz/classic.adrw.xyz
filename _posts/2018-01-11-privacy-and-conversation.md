@@ -11,7 +11,7 @@ categories:
 image: /assets/article_images/2018-01-11-privacy-and-conversation/DSC_1582-2500c.png
 image2: /assets/article_images/2018-01-11-privacy-and-conversation/DSC_1582-500c.png
 excerpt: The end of privacy has societal implications in how we converse and run a democracy.
-seo_title: "The End of Privacy and Conversation | Andrew Paradi"
+seo_title: "The End of Privacy and Conversation | Andrew Paradi Alexander"
 ---
 
 **The process of opinion formation for most people does not happen in an act of stoic silent thought, but instead through conversation with others.**

@@ -6,8 +6,8 @@ redirect_from: /song/cornerstone/
 layout: song
 artist: Hillsong
 source: https://tabs.ultimate-guitar.com/tab/hillsongs/cornerstone_chords_1165926
-seo_title: "Cornerstone | Songs | Andrew Paradi"
-excerpt: "Cornerstone | Songs | Andrew Paradi"
+seo_title: "Cornerstone | Songs | Andrew Paradi Alexander"
+excerpt: "Cornerstone | Songs | Andrew Paradi Alexander"
 lyrics: |
   [Intro]
 

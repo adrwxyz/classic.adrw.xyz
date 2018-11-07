@@ -17,7 +17,7 @@ tags:
 - Wilfrid-Laurier-University
 image: /assets/article_images/2014-02-26-sam-campaign/SamDisplayPicture.png
 excerpt: Sam Lambert won a tight race for President. Andrew helped develop the winning strategy, web, and video marketing.
-seo_title: "Bowtie - How We Won a Presidential Campaign | Andrew Paradi"
+seo_title: "Bowtie - How We Won a Presidential Campaign | Andrew Paradi Alexander"
 position: Marketing Co-Lead
 company: Sam Lambert Presidential Campaign
 summary: |

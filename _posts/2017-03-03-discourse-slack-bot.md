@@ -15,7 +15,7 @@ tags:
 image: /assets/article_images/2017-03-03-discourse-slack-bot/discourse-slack-bot-2-2000c.png
 image2: /assets/article_images/2017-03-03-discourse-slack-bot/discourse-slack-bot-2-1000c.png
 excerpt: Added search feature to Discourse Slack Bot that returns top 5 search results with author links and calculated reading time.
-seo_title: "Discourse Slack Bot | Andrew Paradi"
+seo_title: "Discourse Slack Bot | Andrew Paradi Alexander"
 position: Discourse Slack Bot
 company: GitHub
 summary: |
