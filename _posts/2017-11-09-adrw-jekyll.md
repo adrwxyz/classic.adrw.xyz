@@ -51,13 +51,13 @@ Built image grid to feature images from posts and projects for use on homepage, 
 
 Card Sections
 ---
-Extension of cards to allow for sections of posts by category with buttons to more related posts. See on [`/index`](http://www.andrew.fm/), [`/projects`](http://www.andrew.fm/projects), and [`/blog`](http://www.andrew.fm/blog) pages.
+Extension of cards to allow for sections of posts by category with buttons to more related posts. See on [`/index`](http://www.classic.andrew.fm), [`/projects`](http://www.classic.andrew.fmprojects), and [`/blog`](http://www.classic.andrew.fmblog) pages.
 
 ![Card Sections](/assets/article_images/adrw-jekyll/card_sections-2-1500c.png)
 
 Resume Layout
 ---
-Resume layout that pulls from `work`, `hackathon`, `project`, `freelance`, and `volunteer` categories and formats following meta data into well formated resume. Seen on [`/experience`](http://www.andrew.fm/experience) page.
+Resume layout that pulls from `work`, `hackathon`, `project`, `freelance`, and `volunteer` categories and formats following meta data into well formated resume. Seen on [`/experience`](http://www.classic.andrew.fmexperience) page.
 - `date` : end date of position
 - `startdate` : start date of position
 - `position` : job title/role , team
@@ -71,7 +71,7 @@ Tag and Category Clouds
 Tags on category, page, project, &amp; post layouts. Used `{ % for % }` loops and conditional `{ % if % }` statements in [liquid markup](https://github.com/shopify/liquid/wiki/Liquid-for-Designers) to only show tags on categories when enabled in `_config.yml`.
 
 
-Archive layout that pulls from categories and tags to create easy navigation of all categories and tags with their respective totals of posts. See on [`/c`](http://www.andrew.fm/c) and [`/t`](http://www.andrew.fm/t) pages.
+Archive layout that pulls from categories and tags to create easy navigation of all categories and tags with their respective totals of posts. See on [`/c`](http://www.classic.andrew.fmc) and [`/t`](http://www.classic.andrew.fmt) pages.
 
 ![Category Cloud](/assets/article_images/adrw-jekyll/archive-cloud-1c.png)
 

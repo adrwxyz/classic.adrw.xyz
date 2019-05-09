@@ -88,7 +88,7 @@ footer_menu:
   - title: Tags
     url: /t
 
-url: "//www.andrew.fm" # the base hostname & protocol for your site
+url: "//classic.andrew.fm" # the base hostname & protocol for your site
 baseurl: ""
 enforce_ssl:
 permalink: /:categories/:title
