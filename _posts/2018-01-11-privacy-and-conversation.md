@@ -53,7 +53,7 @@ The Future of Conversation
 
 The future may well be devoid of the grace of constructive conversation, amicable disagreement, and personal integrity of thought. Self-censorship out of fear of mob rule retribution is becoming the reality for Western societies who have long prided themselves in values of personal liberty. We enter an age of sanitization, where only collectively determined, corporately approved, or government dictated opinions can be publicly shared.
 
-If privacy means working out thoughts for yourself without fear, what can anyone do to protect their privacy? Encryption and expiring messages in [Signal](https://www.signal.org/) messenger or [ProtonMail](https://protonmail.com/) email bring both privacy and ephemerality to online communications. Deliberate efforts to have offline conversations outside of publicly crowded and surveilled spaces or away from always listening Siri-enabled smartphones or Alexa speakers is another option to consider.
+If privacy means working out thoughts for yourself without fear, what can anyone do to protect their privacy? Encryption and expiring messages in [Signal](https://www.signal.org/) messenger or [ProtonMail](https://proton.me/) email bring both privacy and ephemerality to online communications. Deliberate efforts to have offline conversations outside of publicly crowded and surveilled spaces or away from always listening Siri-enabled smartphones or Alexa speakers is another option to consider.
 
 Beyond our messages, email, and conversations, social media still serves as the gold mine of personal details on who you are including your friends, your interests, your fears, and your political leanings.
 
